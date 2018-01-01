@@ -1,0 +1,529 @@
+<!doctype html public "-//W3C//DTD HTML 5.0//EN" "http://www.w3.org/TR/html5/strict.dtd">
+
+<!-- 
+
+#  _____ _      _          _                                   _
+# |  ___| | ___(_)___  ___| |__  _ __ ___   __ _ _ __  _ __   | |__  _   _
+# | |_  | |/ _ \ / __|/ __| '_ \| '_ ` _ \ / _` | '_ \| '_ \  | '_ \| | | |
+# |  _| | |  __/ \__ \ (__| | | | | | | | | (_| | | | | | | |_| | | | |_| |
+# |_|   |_|\___|_|___/\___|_| |_|_| |_| |_|\__,_|_| |_|_| |_(_)_| |_|\__,_|
+#
+# -------------------------------------------------------------------------
+
+# Jekyll based web page POC on GitHub
+# 
+# 
+# 
+# 
+# 
+# Rls: 2018.01.01.  
+#
+
+-->
+
+<html lang="hu-HU">
+
+<head>
+
+  <meta charset="utf-8">
+  <title>👨🏻‍🎓 CV - gyorgy.fleischmann.hu</title>
+  <link rel="stylesheet" type="text/css" href="css/style.css" >
+  <link rel="stylesheet" type="text/css" href="css/syntax.css" >
+  <link rel="alternate" type="application/atom+xml" href="/feed.xml" title="News Feed">
+
+  <!-- From: http://fontello.com/ -->
+  <link rel="stylesheet" href="fontello/css/fontello.css">
+  <link rel="stylesheet" href="fontello/css/animation.css">
+
+  <!-- PhotoSwipe part 1. -->
+
+  <!-- Core CSS file -->
+  <link rel="stylesheet" href="PhotoSwipe/photoswipe.css"> 
+
+  <!-- Skin CSS file (styling of UI - buttons, caption, etc.)
+       In the folder of skin CSS file there are also:
+       - .png and .svg icons sprite, 
+       - preloader.gif (for browsers that do not support CSS animations) -->
+  <link rel="stylesheet" href="PhotoSwipe/default-skin/default-skin.css"> 
+
+  <!-- Core JS file -->
+  <script src="PhotoSwipe/photoswipe.min.js"></script> 
+
+  <!-- UI JS file -->
+  <script src="PhotoSwipe/photoswipe-ui-default.min.js"></script> 
+
+</head>
+
+<!-- PhotoSwipe must have part 2. -->
+
+<!-- Root element of PhotoSwipe. Must have class pswp. -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true" style="margin: 0; padding: 0;">
+
+    <!-- Background of PhotoSwipe. 
+         It's a separate element as animating opacity is faster than rgba(). -->
+    <div class="pswp__bg"></div>
+
+    <!-- Slides wrapper with overflow:hidden. -->
+    <div class="pswp__scroll-wrap">
+
+        <!-- Container that holds slides. 
+            PhotoSwipe keeps only 3 of them in the DOM to save memory.
+            Don't modify these 3 pswp__item elements, data is added later on. -->
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar" style="margin: 0; padding: 0;">
+
+                <!--  Controls are self-explanatory. Order can be changed. -->
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+                <!-- element will get class pswp__preloader--active when preloader is running -->
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                      <div class="pswp__preloader__cut">
+                        <div class="pswp__preloader__donut"></div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div> 
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center" style="font-size: 25px; text-align: center;"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<body>
+
+<div class="container">
+
+  <header class="masthead" id="navbar">
+
+     <h2 class="masthead-title">
+       <a href="/"><b>gyorgy.fleischmann.hu</b></a>
+       <small>|<a href="tableofcontents.html"><i class="icon-list-numbered" style="font-size: 0.85em;"></i>tartalom</a></small>
+       <small>|<a href="categories.html"><i class="icon-list" style="font-size: 0.85em;"></i>kategóriák</a></small>
+       <small>|<a href="tags.html"><i class="icon-tags" style="font-size: 0.85em;"></i>#címkék</a></small>
+       <small>|<a href="feed.xml"><i class="icon-rss" style="font-size: 0.85em;"></i>RSS</a></small>
+       <small>|&nbsp;<a href="cv.html">rólam</a></small>
+     </h2>
+
+  </header>
+
+  <hr style="margin-top: -0.25em;">
+
+  <div class="content">
+    <article class='post'>
+
+  	
+
+    <p style="margin-top: 1.5em;"><a href="http://gyorgy.fleischmann.hu/" target="_blank" rel="noopener noreferrer"><b style="font-size: 2em;">FLEISCHMANN György</b></a> • nick names: flex, gyurci, FleXoft</p>
+
+<p><a href="https://twitter.com/flexoft" target="_blank" rel="noopener noreferrer"><i class="icon-twitter" style="margin-left: -5px; margin-right: -4px;"></i>@flexoft</a> •<i class="icon-mobile" style="margin-left: -4px; margin-right: -5px;"></i>+36 30 979 1403 • <a href="mailto:gyorgy@fleischmann.hu" target="_top">gyorgy@fleischmann.hu</a> •<a href="https://www.google.hu/maps/place/Budapest,+Ungv%C3%A1r+u.+33,+1185/@47.4337246,19.2123318,17z/data=!3m1!4b1!4m5!3m4!1s0x4741c18a7203082b:0x62593567a50ce394!8m2!3d47.433721!4d19.2145258?hl=hu"><i class="icon-home" style="margin-right: -2px;"></i>H-1185, Budapest, Ungvár utca 33/1., HUNGARY</a></p>
+
+<h1 id="summary">SUMMARY</h1>
+
+<div class="rightbox" style="width: 35%;"><img class="shadow" src="photos/flex.jpg" alt="Fleischmann György" title="Fleischmann György" align="right" />
+  <p class="phototext">Photo by me, 2016.11.11., Minolta Dynax 7D, 50mm</p>
+</div>
+
+<p>Highly qualified certified systems engineer / architect / consultant with more than 13 years of experience in designing, building and supporting complex <a href="https://www.ibm.com/"><img class="inline" src="http://m.fooyoh.com/files/attach/images/3004/195/251/014/logos4.jpg" alt="IBM Logo" style="width: 55px;" /></a> <a href="https://www.ibm.com/us-en/marketplace/data-protection-and-recovery"><img class="inline" src="https://www-03.ibm.com/systems/uk/resources/storage_spectrum_modernize_placeholder2.png" alt="IBM Spectrum Protect Logo" style="width: 20px;" /></a> <a href="https://www.ibm.com/us-en/marketplace/data-protection-and-recovery">Spectrum Protect</a> (<a href="https://www.ibm.com/"><img class="inline" src="https://s-media-cache-ak0.pinimg.com/originals/f2/c2/e2/f2c2e2b63af6ffe5ddfff5a2557bfee6.jpg" alt="IBM Logo" style="width: 55px;" /></a> <a href="https://en.wikipedia.org/wiki/IBM_Tivoli_Storage_Manager">Tivoli Storage Manager</a>, <a href="https://en.wikipedia.org/wiki/IBM_Tivoli_Storage_Manager">ADSTAR Distributed Storage Manager</a>, <a href="https://en.wikipedia.org/wiki/IBM_Tivoli_Storage_Manager">ADSM</a>) at the biggest Hungarian companies.</p>
+
+<p>One of the well-known IBM TSM / Spectrum Protect experts / evangelists in <a href="https://en.wikipedia.org/wiki/Hungary">Hungary</a>. Enthusiastic member of the <a href="https://www.imwuc.org/hutug">Hungarian Tivoli User Group</a> (<a href="https://www.imwuc.org/hutug">Hu-TUG</a>). Regular speaker at biannual events in IBM TSM / Spectrum Protect related topics.</p>
+
+<p>Team player and problem-solver with very good communication and interpersonal skills.</p>
+
+<!-- break -->
+
+<h1 style="clear: none;">FAMILY</h1>
+
+<div style="margin-left: 1em; padding: 0; float: right; width: 45pt;">
+  <p style="text-align: right; margin-bottom: 0;margin-right: 0.5em; font-size: 10pt;"><a style="color: #bbb;" href="javascript:showhide( 'motherID', 'fatherID', 'vigyorID', 'wifeID', 'annaID', 'gergoID', 'andrasID', 'familypics' );">more/less</a></p>
+</div>
+
+<h2 id="mohács-baranya--hungary"><a href="https://hu.wikipedia.org/wiki/Moh%C3%A1cs">Mohács</a>, <a href="https://hu.wikipedia.org/wiki/Baranya_megye">Baranya</a> • <a href="https://en.wikipedia.org/wiki/Hungary">HUNGARY</a></h2>
+<div id="motherID" style="display:none;"><span title="1937-2014">37-14</span> • <a href="http://anyuka.fleischmann.hu/">mother</a> • <span id="motherBirthDiff"></span></div>
+<div id="fatherID" style="display:none;"><span title="1945-">45-na</span> • <a href="http://apuka.fleischmann.hu/">father</a> • <span id="fatherBirthDiff"></span></div>
+<div id="vigyorID" style="display:none;"><span title="1957-">57-na</span> • stepbrother • <span id="vigyorBirthDiff"></span></div>
+<div id="flexID" style="display:block;"><span title="1970-"><b>70-na</b></span> • <span id="flexBirthDiff"></span></div>
+<div id="wifeID" style="display:none;"><span title="1974-">74-na</span> • <a href="http://hajnalka.fleischmann.hu/">wife</a> • <span id="wifeBirthDiff"></span></div>
+<div id="annaID" style="display:none;"><span title="2001-">01-na</span> • <a href="http://anna.fleischmann.hu/">Anna</a> • <span id="annaBirthDiff"></span></div>
+<div id="gergoID" style="display:none;"><span title="2005-">05-na</span> • <a href="http://gergo.fleischmann.hu/">Gergő</a> • <span id="gergoBirthDiff"></span></div>
+<div id="andrasID" style="display:none;"><span title="2017-">17-na</span> • <a href="http://andras.fleischmann.hu/">András</a> • <span id="andrasBirthDiff"></span></div>
+
+<h1 id="work">WORK</h1>
+
+<div style="margin-left: 1em; padding: 0; float: right; width: 45pt;">
+  <p style="text-align: right; margin-bottom: 0;margin-right: 0.5em; font-size: 10pt;"><a style="color: #bbb;" href="javascript:showhide( 'egID', 'userID', 'schneiderID', 'sgID', 'clID', 'mofaID' );">more/less</a></p>
+</div>
+
+<h2 id="budapest-pest--hungary"><a href="https://hu.wikipedia.org/wiki/Budapest">Budapest</a>, <a href="https://hu.wikipedia.org/wiki/Pest_megye">Pest</a> • <a href="https://en.wikipedia.org/wiki/Hungary">HUNGARY</a></h2>
+
+<p><span title="2015-"><b>15-na</b></span> • System engineer, <a href="http://www.ibm.com/">IBM</a> <a href="http://www-03.ibm.com/software/products/en/spectrum-protect">Spectrum Protect</a> (Tivoli Storage Manager) specialist • <a href="http://www.scss.hu/">SCSS Informatikai, Kereskedelmi és Szolgáltató Kft.</a>, <a href="http://effectivegroup.hu/">Effective Group Informatika Zrt.</a></p>
+
+<div id="egID" style="display:none; margin-left: 1em; margin-bottom: 1em;">
+
+<ul style="list-style-type:disc">
+<li>Supporting a dozen large IBM TSM, SP customers in Hungary</li>
+<li>Supporting IBM GPFS, Spectrum Scale cutomers with TSM / SP HSM</li>
+<li>TSM Symposium 15 (Dresden)</li>
+</ul>
+
+<b>Main projects and references:</b><br />
+
+<ul style="list-style-type:disc">
+<li>7/24 high availability TSM v6, v7, v8 support for:</li>
+
+<ul style="list-style-type:circle">
+<li>MKB Bank (&gt;2Y): 4 TSM servers on a HP-UX cluster environment with library manager configuration and other 2 TSM servers (AIX) for document archiving systems</li>
+<li>Generali Biztosító (&gt;2Y): 2 general TSM servers on Microsoft Windows and other 2 TSM (AIX) servers for document store systems</li>
+<li>MTVA (&gt;2Y): TSM on a Microsoft Windows cluster, node replication, container pool deduplication environments and TSM on Linux with GPFS filesystems</li>
+<li>MVMI, NAK(Nemzeti Agrárgazdasági Kamara), Diákhitel, EOS, FGSZ, FPH</li>
+</ul>
+</ul>
+
+</div>
+
+<p><span title="2004-2014"><b>04-14</b></span> • System engineer, <a href="http://www.ibm.com/">IBM</a> <a href="http://www-03.ibm.com/software/products/en/spectrum-protect">Tivoli Storage Manager</a> specialist • <a href="http://www.user.hu/">USER Tanácsadó Kft.</a>, <a href="http://www.userrendszerhaz.hu/">USER Rendszerház Kft.</a> (IBM AAA-level Tivoli Deployment Accreditation <span title="2013">13</span>, IBM Tivoli Awards <span title="2012">12</span>)</p>
+
+<div id="userID" style="display:none; margin-left: 1em; margin-bottom: 1em;">
+
+<ul style="list-style-type:disc">
+<li>Supporting a dozen large IBM TSM customers in Hungary</li>
+<li>Participation the biggest IBM TSM related events (IBM C&amp;SI EMEA Technical Academy 14 (Madrid), IBM Tivoli Technical Academy 13 (Reading), TSM Symposium 11 (Dresden))</li>
+<li>Architect / integrate big IBM TSM configurations</li>
+<li>Troubleshoot / consult performance, backup, restore issues</li>
+<li>Member of several IBM TSM API based development</li>
+<li>Health check, operate, maintain big IBM TSM environments</li>
+</ul>
+
+<b>Main projects and references:</b><br />
+
+<ul style="list-style-type:disc">
+<li>7/24 high availability TSM v5, v6 support for:</li>
+<ul style="list-style-type:circle">
+<li>MKB Bank (&gt;10Y): 4 TSM servers on a HP-UX cluster environment with library manager configuration and other 2 TSM servers (AIX) for document archiving systems</li>
+<li>Allianz Biztosító (&gt;10Y): TSM on a HA AIX environment with library manager configuration and other 2 TSM servers for document store systems</li>  
+<li>Generali Biztosító (&gt;10Y): 4 general TSM servers on Microsoft Windows for the region and other 2 TSM servers on AIX for document store systems</li>
+<li>FHB Bank (&gt;2Y): TSM on a HA AIX environment</li>
+<li>Budapest Bank (&gt;10Y): 2 TSM servers on a HA AIX environment</li>
+<li>Chello Central Europe (&gt;8Y): biggest TSM based video media archiving environment implementation and support</li>
+<li>HVB/UniCredit Bank (&gt;10Y): the first v5 –&gt; v6 migrated AIX TSM systems on an IBM PureFlex system in the region</li>
+</ul>
+<li>TSM v5 -&gt; v6 migration (TSM DB &gt; 300GB) (OEP, UniCredit Bank, Generali biztosító, MKB Bank)</li>
+<li>v6 TSM based backup solutions for IBM PureFlex based environments and support (iCell, NISZ)</li>
+<li>TSM v5 -&gt; v6 migration consultation at HSBC Turkey (Istanbul)</li>
+<li>Dealt with IBM SoftLayer fundamentals (Infrastructure-as-a-Service (IaaS))</li>
+</ul>
+
+</div>
+
+<p><span title="2001-2003"><b>01-03</b></span> • Network / <a href="http://www.ibm.com/">IBM</a> <a href="http://www-03.ibm.com/software/products/en/ibmdomino">Lotus Notes/Domino</a> administrator • <a href="http://www.schneider-electric.hu/">Schneider Electric Hungária Villamossági Rt.</a></p>
+
+<div id="schneiderID" style="display:none; margin-left: 1em; margin-bottom: 1em; margin-top: 0em;">
+
+<ul style="list-style-type:disc">
+<li class="small">Lotus Notes administrator (450 users; Austria, Slovak Republic, Slovenia, Croatia, Yugoslavia) and developer</li>
+<li class="small">operating the whole network</li>
+<li class="small">work in S.A.P. R3 environment (COMPAQ/Digital, True64 UNIX)</li>
+<li class="small">organised and successfully started the new logistics center of Schneider Electric Hungária Villamossági Rt. in Harbor Park (Frame Relay connection to the center, phone network, computer network, wireless phone (DECT), wireless network (based on Cisco Aironet 340, 350 series), Novell Netware, ...)</li>
+<li class="small">working with the following systems and equipments: CheckPoint firewall, Netscape iPlanet Web server, Netscape CMS server, Netscape Proxy server, Novell Netware 5.x, Intel Shiva + Radius, Nortel network equipments (switches, routers, hubs), ntp, ...</li>
+<li class="small">prepared: SMS gateway (Linux + perl + Nokia 6210), webcamera (Linux + V4L + bttv)</li>
+<li class="small">started the intranet in Hungary (based on Lotus Notes, WIB)</li>
+</ul>
+
+</div>
+
+<p><span title="1998-2001"><b>98-01</b></span> • Office Automation Officer • <a href="http://www.societegenerale.fr/">Société Générale Hungária Bank Inc.</a></p>
+
+<div id="sgID" style="display:none; margin-left: 1em; margin-bottom: 1em; margin-top: 0em;">
+
+<ul style="list-style-type:disc">
+<li class="small">we built up the whole information system of this new bank (with two of my colleagues) from the ground</li>
+<li class="small">Lotus Notes administrator and developer</li>
+<li class="small">working with GIRO, SWIFT and the local accounting system</li>
+<li class="small">installing and supporting SogeCash (MultiCash based) remote bank system</li>
+</ul>
+
+</div>
+
+<p><span title="1997-1998"><b>97-98</b></span> • EDP assistent • <a href="http://www.ca-cib.com/">Crédit Lyonnais Bank Hungary Inc.</a></p>
+
+<div id="clID" style="display:none; margin-left: 1em; margin-bottom: 1em; margin-top: 0em;">
+
+<ul style="list-style-type:disc">
+<li class="smallest">learning to use and operate the new systems (HP-UX, HP PCs, Microsoft WindowsNT network, SQL, TCP/IP)</li>
+<li class="smallest">worked with GIRO, SWIFT, Lotus Notes and the local accounting system</li>
+</ul>
+
+</div>
+
+<h2 id="mohács-baranya--hungary-1"><a href="https://hu.wikipedia.org/wiki/Moh%C3%A1cs">Mohács</a>, <a href="https://hu.wikipedia.org/wiki/Baranya_megye">Baranya</a> • <a href="https://en.wikipedia.org/wiki/Hungary">HUNGARY</a></h2>
+
+<li class="smallest"><span title="1991-1997"><b>91-97</b></span> • System engineer • <a href="http://kronospan-mofa.hu/">Fibreboard Factory (M.O.F.A.) Inc.</a></li>
+
+<div id="mofaID" style="display:none; margin-left: 1em; margin-bottom: 1em;">
+
+<ul style="list-style-type:disc">
+<li class="smallest">learned to use i8048 and i8051 microcontrollers</li>
+<li class="smallest">December 1991 - August 1992 programmer assistant, computer technology collaborator</li>
+<li class="smallest">learned to use the local network, programmed in C language</li>
+<li class="smallest">March 1994 - March 1997 computer technology organizer</li>
+<li class="smallest">extended the network of the company, connected its existing systems, worked independently, maintained and controlled the whole system</li>
+<li class="smallest">formed new concepts in the information technology system of the company, established the e-mail system and the DIAL-IN accessibility of the network, developed ONLINE systems and established these systems on the existing network</li>
+<li class="smallest">software legalization</li>
+<li class="smallest">established and maintained several Novell NetWare based networks in Mohács city</li>
+</ul>
+
+</div>
+
+<h1 id="education">EDUCATION</h1>
+
+<h2 id="kecskemét-bács-kiskun--hungary"><a href="https://hu.wikipedia.org/wiki/Kecskem%C3%A9t">Kecskemét</a>, <a href="https://hu.wikipedia.org/wiki/B%C3%A1cs-Kiskun_megye">Bács-Kiskun</a> • <a href="https://en.wikipedia.org/wiki/Hungary">HUNGARY</a></h2>
+
+<p><span title="1988-1991"><b>88-91</b></span> • <a href="http://gamf.kefo.hu/">Technical College of Machine Industry and Automation (G.A.M.F.)</a> • specialization: computer technology</p>
+
+<h2 id="mohács-baranya--hungary-2"><a href="https://hu.wikipedia.org/wiki/Moh%C3%A1cs">Mohács</a>, <a href="https://hu.wikipedia.org/wiki/Baranya_megye">Baranya</a> • <a href="https://en.wikipedia.org/wiki/Hungary">HUNGARY</a></h2>
+
+<p><span title="1984-1988"><b>84-88</b></span> • <a href="http://mohacsikisfaludy.hu/">Kisfaludy Károly Secondary School</a> • faculties: mathematics, physics</p>
+
+<h1 id="technical-skills">TECHNICAL SKILLS</h1>
+
+<h2 id="operating-systems">Operating systems</h2>
+
+<p>UNIX • Microsoft Windows • Apple macOS (OS X)</p>
+
+<h2 id="programming-languages">Programming languages</h2>
+
+<p>Objective-C (applications with Core Location framework, 13 and BLE, 17) • C (kernel mode device driver on Linux, TSM API) • 80x86 assembly (direct IPX protocol programming) • ATMEL AVR assembly • C (GSM based home automation, 09) • Epson S1C88 assembly (code breaker game, 04) • CA Clipper • DataFlex • perl (tsmadm.pl, 13) • awk • UNIX shell • Psion OPL (PhotoPal, 01) • Lotus Formula • Lotus Script (incident log system) • JavaScript</p>
+
+<h2 id="hardware">Hardware</h2>
+
+<p>IBM tape libraries (LTO, 3592 drives); IBM, HPE, Oracle High-End machines and storage systems</p>
+
+<h2 id="ibm-tsm--spectrum-protect-related">IBM TSM / Spectrum Protect related</h2>
+
+<p>Daily TSM administration and 7/24 support for banks, insurance companies, broadcasting companies and state sector • Co-author of the tsmadmin.com blog • Founder of the <a href="http://tsmadm.pl.fleischmann.hu">tsmadm.pl</a> free IBM TSM administration tool • The person who opens / closes the most tickets (IBM <a href="https://www-01.ibm.com/support/docview.wss?uid=swg21507643">PMR</a>, <a href="https://www-01.ibm.com/support/docview.wss?uid=swg21507643">Problem Management Report</a>) each year in Hungary • Took IBM TSM / Spectrum Protect (implementation, operation, administration, advanced administration) trainings (&gt;30, on behalf of IBM, <a href="http://iqjb.hu/">IQSOFT - John Bryce Oktatóközpont Kft.</a> and <a href="https://www.training360.com/">Training 360 Kft.</a>)</p>
+
+<h1 id="professional-certifications">Professional Certifications</h1>
+
+<ul>
+  <li>Veeam Technical Sales Professional (VMTSP) - Veeam Availability Suite v9.5 • 09/28/2017</li>
+  <li>IBM Certified Deployment Professional - Spectrum Protect V8.1 • 07/28/2017</li>
+  <li>IBM Certified Deployment Professional - Tivoli Storage Manager V7.1 • 05/18/2015</li>
+  <li>IBM Certified Deployment Professional - Tivoli Storage Productivity Center v5.1 •06/04/2013</li>
+  <li>IBM Certified Deployment Professional - Tivoli Storage Manager v6.3 • 02/01/2013</li>
+  <li>IBM Certified Solution Advisor - Tivoli Storage Solutions v3 • 03/22/2012</li>
+  <li>IBM Certified Solution Advisor - Tivoli Storage Solutions v2 • 03/30/2011</li>
+  <li>IBM Certified Deployment Professional - Tivoli Storage Manager v6.1 • 12/01/2009</li>
+</ul>
+
+<h1 id="hobby-projects-worth-to-mention">HOBBY PROJECTS WORTH TO MENTION</h1>
+
+<div class="rightbox" style="width: 12%;">
+<a href="http://old.fleischmann.hu/geocities.com/"><img class="shadow" src="images/html/geominihp20040407.jpg" alt="geocities.com from 2004." title="geocities.com from 2004." /></a>
+<p class="phototext"><a href="http://old.fleischmann.hu/geocities.com/">geocities.com from 2004.</a></p>
+</div>
+
+<div class="rightbox" style="width: 15%;">
+<a href="http://old.fleischmann.hu/photo/contents/index.htm"><img class="shadow" src="images/html/FLEISCHMANN.HU_Tartalom-Contents_(20100518).png" alt="fleischmann.hu from 2010." title="fleischmann.hu from 2010." /></a>
+<p class="phototext"><a href="http://old.fleischmann.hu/photo/contents/index.htm">fleischmann.hu from 2010.</a></p>
+</div>
+
+<div class="rightbox" style="width: 15%;">
+<a href="http://tsmadm.pl.fleischmann.hu"><img class="shadow" src="images/html/tsmadm.pl.jpg" alt="tsmadm.pl" title="tsmadm.pl" /></a>
+<p class="phototext"><a href="http://tsmadm.pl">tsmadm.pl</a></p>
+<br />
+<img class="shadow" src="images/html/SpeedLimit.png" alt="SpeedLimit" title="SpeedLimit" align="right" />
+<p class="phototext">SpeedLimit on iOS</p>
+</div>
+
+<p><span title="2018"><b>18</b></span></p>
+
+<ul>
+  <li>spadmin.pl (perl)</li>
+</ul>
+
+<p><span title="2017"><b>17</b></span></p>
+
+<ul>
+  <li><a href="http://www.fleischmann.hu/">Family pages</a></li>
+  <li><a href="https://github.com/FleXoft/HuTUG">Hu-TUG storage newsletter 1-5 (Google Docs)</a></li>
+  <li>Simple Heart Rate monitoring macOS application based on Polar H7 BLE device with Xcode 9.2 and Swift 4.0.3 <a href="https://github.com/FleXoft/Polar-H7-HRM">project on GitHub</a></li>
+</ul>
+
+<p><span title="2013"><b>13</b></span></p>
+
+<ul>
+  <li><a href="http://tsmadm.pl.fleischmann.hu/">tsmadm.pl</a> (perl) <a href="https://github.com/FleXoft/tsmadm.pl">project on GitHub</a></li>
+  <li>SpeedLimit for iOS (Objective-C)</li>
+</ul>
+
+<p><span title="-2010"><b>-10</b></span></p>
+
+<div class="rightbox" style="width: 17%;">
+<a href="https://www.flickr.com/photos/fleischmann/sets/72157622129419487/"><img class="shadow" src="images/flickr_thumb.png" alt="BKV Photostream" title="BKV Photostream" /></a><p class="phototext"><a href="https://www.flickr.com/photos/fleischmann/sets/72157622129419487/">BKV Photostream</a></p>
+</div>
+
+<ul>
+  <li>Active photoblogger (photoblog site generator perl script)</li>
+</ul>
+
+<p><span title="2009"><b>09</b></span></p>
+
+<ul>
+  <li><a href="https://www.olimex.com/Products/AVR/Development/AVR-GSM/">AVR-GSM</a> based Home Automation Project (AVR C, I²C, LM75, HD44780, SIM300D)</li>
+  <li><a href="https://www.flickr.com/photos/fleischmann/sets/72157622129419487/">BKV Photostream</a></li>
+</ul>
+
+<h1 id="social-part">SOCIAL PART</h1>
+
+<p><a href="https://www.facebook.com/fleischmann.gy"><i class="icon-facebook" style="margin-left: -5px; margin-right: -6px;"></i>facebook</a> •<a href="https://twitter.com/FleXoft"><i class="icon-twitter" style="margin-right: -2px;"></i>twitter</a> •<a href="https://www.flickr.com/photos/fleischmann/sets/72157622129419487/"><i class="icon-flickr" style="margin-right: -1px;"></i>flickr</a> •<a href="https://plus.google.com/111227740573593478868"><i class="icon-gplus" style="margin-right: 0.3em;"></i>Google+</a> •<a href="http://fleischmann.tumblr.com/"><i class="icon-tumblr" style="margin-left: -4px; margin-right: -4px;"></i>tumblr</a> •<a href="skype://Flexoft/"><i class="icon-skype" style="margin-right: -2px;"></i>Skype</a> • <a href="https://www.linkedin.com/in/fleischmanngyorgy/">linked<i class="icon-linkedin-squared"></i></a></p>
+
+<h1 id="others">OTHERS</h1>
+
+<ul>
+  <li>working knowledge of everyday English</li>
+  <li>good knowledge of technical English</li>
+  <li>experienced driver (“B” category driving licence)</li>
+  <li>compulsory military service completed</li>
+  <li>free time activities: football, cinema, reading, music, photography</li>
+  <li>I do not smoke</li>
+  <li>last update: 2018.01.01.</li>
+</ul>
+
+<h1 id="others-ii">OTHERS II.</h1>
+
+<ul>
+  <li>gender: male</li>
+  <li>length, weight: average</li>
+  <li>sexual orientation: straight</li>
+  <li>religion: none (but if I really need to choose: Buddhism or Krishna Consciousness are the closest)</li>
+  <li>political views: undecided</li>
+  <li>intelligence: normal</li>
+  <li>civil status: married, 3 kids and a dog</li>
+  <li>economy: good</li>
+</ul>
+
+<!-- Javascript Helpers -->
+
+<script type="text/javascript">
+    
+    // main()
+    
+	today = new Date();
+    diff  = new Date();
+	
+	var one_day = 1000 * 60 * 60 * 24;
+
+  	function dateDiff ( fromDate, toDate ) {
+    
+    	var returnString = "";
+    	var tmpdiff;
+    
+    	diff.setTime( new Date( fromDate.getFullYear(), fromDate.getMonth(), fromDate.getDate() ) - toDate );
+
+		if ( diff.getFullYear() - 1970 != 0 ) {
+			returnString += diff.getFullYear() - 1970 + " years, ";
+		}
+   	  
+   	    tmpdiff = diff.getMonth();
+   	 	if ( tmpdiff != 0 ) {
+   			returnString += tmpdiff + " " + ( ( tmpdiff != 1 ) ? "months" : "month" );
+   		}
+   	
+   	    tmpdiff = diff.getDate() - 1;
+   	  	if ( tmpdiff != 0 ) {
+   	 		returnString += " and " + tmpdiff + " " +( ( tmpdiff != 1 ) ? "days" : "day" );
+   	  	}
+  
+		return returnString; 
+  
+  	}    
+    
+    function myTimer () {
+     	document.getElementById ( 'motherBirthDiff' ).innerHTML = dateDiff ( new Date( 2014, 03 - 1, 8, 12, 00 ), new Date( 1937, 09 - 1, 07, 12, 00 ) );
+     	document.getElementById ( 'fatherBirthDiff' ).innerHTML = dateDiff ( today, new Date( 1945, 11 - 1, 16 - 1, 12, 00 ) );
+    	document.getElementById ( 'vigyorBirthDiff' ).innerHTML = dateDiff ( today, new Date( 1957, 01 - 1, 23 - 1, 12, 00 ) );
+    	document.getElementById ( 'flexBirthDiff'   ).innerHTML = dateDiff ( today, new Date( 1970, 05 - 1, 05 - 1, 23, 00 ) );
+    	document.getElementById ( 'wifeBirthDiff'   ).innerHTML = dateDiff ( today, new Date( 1974, 11 - 1, 24 - 1, 22, 00 ) );
+    	document.getElementById ( 'annaBirthDiff'   ).innerHTML = dateDiff ( today, new Date( 2001, 11 - 1, 05 - 1, 13, 20 ) );
+    	document.getElementById ( 'gergoBirthDiff'  ).innerHTML = dateDiff ( today, new Date( 2005, 11 - 1, 11 - 1, 10, 45 ) );
+    	document.getElementById ( 'andrasBirthDiff' ).innerHTML = dateDiff ( today, new Date( 2017, 09 - 1, 30 - 1, 22, 20 ) );
+    }
+    setInterval ( myTimer, 1000 );
+    
+    function showhide ( id ) {
+    
+    	var len = arguments.length;
+        if ( len == 0 ) return;
+       
+        for( var i = 0; i < len; i++ ) {
+  
+    		var e = document.getElementById( arguments[i] );
+        	e.style.display = ( e.style.display == 'block' ) ? 'none' : 'block';
+        
+     	}
+     }
+     	
+     function enabledisableMouse ( id ) {
+       
+     	var len = arguments.length;
+        if ( len == 0 ) return;
+          
+        for( var i = 0; i < len; i++ ) {
+     
+       		var e = document.getElementById( arguments[i] );
+           	e.style.pointerEvents = ( e.style.pointerEvents == 'none' ) ? 'auto' : 'none';
+           
+        }	
+     	
+     }
+
+</script>
+
+
+
+  </article>
+
+<!-- Disqus part -->
+
+  </div><!-- .content -->
+
+</div><!-- .container -->
+
+
+
+</body>
+
+</html>

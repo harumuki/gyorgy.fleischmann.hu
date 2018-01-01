@@ -1,0 +1,69 @@
+---
+layout: default
+title:  Welcome to
+---
+
+<div>
+
+<div class="rightbox" style="width: 30%; margin-left: 1%; border-left: 1px solid #ff0000;"><a class="twitter-timeline" href="https://twitter.com/FleXoft?ref_src=twsrc%5Etfw" data-tweet-limit="2" data-dnt="true" data-chrome="noheader nofooter noscrollbar noborders transparent" data-lang="en">Tweets by FleXoft</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<p>&nbsp;Ez az oldal, az én publikus <a href="https://jekyllrb.com/"><img class="inline" src="https://talk.jekyllrb.com/uploads/jekyllrb/original/1X/4f9bd5334246d33651e846aed812280fbff586ba.png" alt="Jekyll Logo" style="width: 60px;"></a><a href="https://jekyllrb.com/">Jekyll</a> "játszóterem", ami igazán jól elszórakoztatott a vele töltött időben. Messze jóval szórakoztatóbb dolognak tartom ezt, mint egy <a href="https://wordpress.com/"><img class="inline" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png" alt="Wordpress Logo" style="width: 24px;"></a> <a href="https://wordpress.com/">Wordpress</a> (ismerem, többször futottam már neki) vagy akár egy <a href="https://www.drupal.org/"><img class="inline" src="https://www.drupal.org/files/drupal%208%20logo%20isolated%20CMYK%2072.png" alt="Drupal Logo" style="width: 24px;"></a> <a href="https://www.drupal.org/">Drupal</a> (nem igazán használtam még) blogmotor / tartalomkezelő rendszerrel való játszadozás. Az eddig megszerzett tapasztalatok alapján meggyőződésem, hogy igazán egyedi megjelenésű, gyors relációsadatbázis-kezelő funkciókat nem igénylő megoldást manapság ebben érdemes készíteni.</p>
+
+<p>&nbsp;Mivel mára már majdnem minden tartalom fenn van, és majdnem mindent megírtak már az Interneteken, ezért én ezeken az oldalakon nagyon sokat fogok idézni majd másoktól, a képeket, videókat és más médiatartalmat is igyexem mindig máshonnan belinkelni, kivéve persze azokon a helyeken, ahol azt gondolom, hogy valamit még én hozzá tudok tenni a már fentlévő tartalomhoz vagy esetleg a tartalom annyira egyedi / személyes, hogy csak nálam van meg.</p>
+
+<hr>
+
+<p>Az utolsó 10 bejegyzés:</p>
+
+</div>
+
+{% for post in site.posts limit: 10 %}
+  {% if post.category == 'teszt' or post.category == 'test' %}
+    {% continue %}
+  {% endif %}
+
+  <article class='post' style="">
+
+    <h1 class='post-title'><a href="{{ site.path }}{{ post.url }}" style="">{{ post.title }}</a></h1>
+
+    <div class="post-date"><i class="icon-calendar"></i> {% assign m = post.date | date: "%-m" %}{{ post.date | date: "%Y., " }}{% case m %}{% when '1' %}január{% when '2' %}február{% when '3' %}március{% when '4' %}április{% when '5' %}május{% when '6' %}június{% when '7' %}július{% when '8' %}augusztus{% when '9' %}szeptember{% when '10' %}október{% when '11' %}november{% when '12' %}december{% endcase %}{{ post.date | date: " %-d." }},
+
+    <!-- Source: https://sacha.me/articles/jekyll-word-counts/ -->
+    {% capture words %}{{ post.content | number_of_words | minus: 250 }}{% endcapture %}{% unless words contains "-" %}{{ words | plus: 250 | append: " szó, elolvasásához kb.: " }}{% endunless %}{% capture words %}{{ post.content | number_of_words | minus: 250 }}{% endcapture %}{% unless words contains "-" %}{{ words | plus: 250 | divided_by: 180 | append: " perc kell" }}{% endunless %}|{% assign author = site.data.authors[post.author] %}
+
+    <i class="icon-user"></i>
+    {% if author.display_name and author.email %}
+      <a href="mailto:{{ author.email }}">{{ author.display_name }}</a>
+    {% else %}
+      {{ author.name }}
+    {% endif %}
+    {% if author.gravatar %}<img src="http://www.gravatar.com/avatar/{{ author.gravatar }}?s=40" style="width: 12px;">{% endif %} | 
+
+    <i class="icon-list"></i>
+    [<a href="categories.html#{{ post.category }}">{{ post.category }}</a>]
+    <i class="icon-tags"></i>
+    {% for tag in post.tags %}
+      <span class=""><a href="tags.html#{{ tag }}">#{{ tag }}</a></span>
+    {% endfor %}
+
+    </div><!-- .post-date -->
+
+    <!-- Read more part 1. -->
+    <!-- https://gist.github.com/mikeygee/2626538 -->
+    <!-- https://stackoverflow.com/questions/16528783/check-for-existence-of-file-using-jekyll -->
+    {% if post.content contains '<!-- break -->' %}{% assign thumbnaillink = post.url | replace: '.html', '_thumbnail.png' %}{% assign thumbnailpercentage = post.thumbnailpercentage | default: '10%' %}{% for static_file in site.static_files %}{% if static_file.path == thumbnaillink %}<div class="rightbox" style="width: {{ thumbnailpercentage }};"><a href="{{ post.url }}"><img class="shadow" src="{{ thumbnaillink }}"></a></div>{% endif %}{% endfor %}{% endif %}
+
+    <!-- Read more part 2. -->
+    {{ post.content | split:'<!-- break -->' | first }}
+    {% if post.content contains '<!-- break -->' %}<p style="float: right; clear: right;"><a href="{{ post.url }}">...a bejegyzés itt folytatódik <i class="icon-right-big"></i></a></p>{% endif %}
+
+    <!-- Disqus counter -->
+    <script id="dsq-count-scr" src="//gyorgy-fleischmann-hu.disqus.com/count.js" async></script>
+
+    {% if post.comments %}
+      <a href="{{ site.path }}{{ post.url }}#disqus_thread">Disqus counter</a>
+    {% endif %}
+
+  </article>
+
+{% endfor %}

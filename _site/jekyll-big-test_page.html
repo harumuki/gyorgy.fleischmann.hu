@@ -1,0 +1,500 @@
+<!doctype html public "-//W3C//DTD HTML 5.0//EN" "http://www.w3.org/TR/html5/strict.dtd">
+
+<!-- 
+
+#  _____ _      _          _                                   _
+# |  ___| | ___(_)___  ___| |__  _ __ ___   __ _ _ __  _ __   | |__  _   _
+# | |_  | |/ _ \ / __|/ __| '_ \| '_ ` _ \ / _` | '_ \| '_ \  | '_ \| | | |
+# |  _| | |  __/ \__ \ (__| | | | | | | | | (_| | | | | | | |_| | | | |_| |
+# |_|   |_|\___|_|___/\___|_| |_|_| |_| |_|\__,_|_| |_|_| |_(_)_| |_|\__,_|
+#
+# -------------------------------------------------------------------------
+
+# Jekyll based web page POC on GitHub
+# 
+# 
+# 
+# 
+# 
+# Rls: 2018.01.01.  
+#
+
+-->
+
+<html lang="hu-HU">
+
+<head>
+
+  <meta charset="utf-8">
+  <title>Jekyll test page 2 - gyorgy.fleischmann.hu</title>
+  <link rel="stylesheet" type="text/css" href="css/style.css" >
+  <link rel="stylesheet" type="text/css" href="css/syntax.css" >
+  <link rel="alternate" type="application/atom+xml" href="/feed.xml" title="News Feed">
+
+  <!-- From: http://fontello.com/ -->
+  <link rel="stylesheet" href="fontello/css/fontello.css">
+  <link rel="stylesheet" href="fontello/css/animation.css">
+
+  <!-- PhotoSwipe part 1. -->
+
+  <!-- Core CSS file -->
+  <link rel="stylesheet" href="PhotoSwipe/photoswipe.css"> 
+
+  <!-- Skin CSS file (styling of UI - buttons, caption, etc.)
+       In the folder of skin CSS file there are also:
+       - .png and .svg icons sprite, 
+       - preloader.gif (for browsers that do not support CSS animations) -->
+  <link rel="stylesheet" href="PhotoSwipe/default-skin/default-skin.css"> 
+
+  <!-- Core JS file -->
+  <script src="PhotoSwipe/photoswipe.min.js"></script> 
+
+  <!-- UI JS file -->
+  <script src="PhotoSwipe/photoswipe-ui-default.min.js"></script> 
+
+</head>
+
+<!-- PhotoSwipe must have part 2. -->
+
+<!-- Root element of PhotoSwipe. Must have class pswp. -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true" style="margin: 0; padding: 0;">
+
+    <!-- Background of PhotoSwipe. 
+         It's a separate element as animating opacity is faster than rgba(). -->
+    <div class="pswp__bg"></div>
+
+    <!-- Slides wrapper with overflow:hidden. -->
+    <div class="pswp__scroll-wrap">
+
+        <!-- Container that holds slides. 
+            PhotoSwipe keeps only 3 of them in the DOM to save memory.
+            Don't modify these 3 pswp__item elements, data is added later on. -->
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar" style="margin: 0; padding: 0;">
+
+                <!--  Controls are self-explanatory. Order can be changed. -->
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+                <!-- element will get class pswp__preloader--active when preloader is running -->
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                      <div class="pswp__preloader__cut">
+                        <div class="pswp__preloader__donut"></div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div> 
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center" style="font-size: 25px; text-align: center;"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<body>
+
+<div class="container">
+
+  <header class="masthead" id="navbar">
+
+     <h2 class="masthead-title">
+       <a href="/"><b>gyorgy.fleischmann.hu</b></a>
+       <small>|<a href="tableofcontents.html"><i class="icon-list-numbered" style="font-size: 0.85em;"></i>tartalom</a></small>
+       <small>|<a href="categories.html"><i class="icon-list" style="font-size: 0.85em;"></i>kategóriák</a></small>
+       <small>|<a href="tags.html"><i class="icon-tags" style="font-size: 0.85em;"></i>#címkék</a></small>
+       <small>|<a href="feed.xml"><i class="icon-rss" style="font-size: 0.85em;"></i>RSS</a></small>
+       <small>|&nbsp;<a href="cv.html">rólam</a></small>
+     </h2>
+
+  </header>
+
+  <hr style="margin-top: -0.25em;">
+
+  <div class="content">
+    <article class='post'>
+
+  	
+  	
+    <h1 class='post-title'>Jekyll test page 2</h1>
+
+    <div class="post-date"><i class="icon-calendar"></i> 0000., január 1.,
+
+	<!-- Source: https://sacha.me/articles/jekyll-word-counts/ -->
+	
+	
+	  841 szó, elolvasásához kb.: 
+	
+
+	
+	
+	  4 perc kell
+	| 
+
+	
+	<i class="icon-user"></i>
+    
+	  
+	
+	 |
+
+	<i class="icon-list"></i>
+    [<a href="categories.html#teszt">teszt</a>]
+    <i class="icon-tags"></i>
+    
+      <span class=""><a href="tags.html#web">#web</a></span>
+    
+      <span class=""><a href="tags.html#development">#development</a></span>
+    
+      <span class=""><a href="tags.html#html">#html</a></span>
+    
+      <span class=""><a href="tags.html#jekyll">#jekyll</a></span>
+    
+
+    </div><!-- .post-date -->
+
+	
+
+    <!-- break -->
+
+<div class="rightbox" style="width: 25%;">
+<p style="margin:0px"></p>
+<p>Ez pedig 1 jobb oldali text 
+<br />
+lesz asasasa asaasas
+
+sddssdsdsds
+</p></div>
+
+<p>ToDo:</p>
+<ul>
+  <li>GitHub teszt</li>
+  <li>lábléc doboz</li>
+  <li>fejléc linkek</li>
+  <li>dokumentum fejléc kategória és tag linkek</li>
+  <li>fótó browser</li>
+  <li>fotó grid</li>
+  <li>hivatkozások</li>
+  <li>mediaplayer (mp3, mp4, youtube, soundcloud)</li>
+  <li>bal/jobb text doboz</li>
+  <li>syntax highlight doboz</li>
+  <li>terminal doboz style</li>
+  <li>css tisztítás</li>
+</ul>
+
+<audio controls="">
+  <source src="mp3/horse.ogg" type="audio/ogg" />
+  <source src="horse.mp3" type="audio/mpeg" />
+Your browser does not support the audio element.
+</audio>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/98992518&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
+
+<iframe class="shadow" width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/98992518&amp;color=%2300cc11&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
+
+<h2 id="mit-tud-a-jelenlegi-css">Mit tud a jelenlegi CSS:</h2>
+
+<ul>
+  <li>Terminal</li>
+</ul>
+
+<pre class="terminal">WWWText <strong>skdslksd</strong>
+iiiiii</pre>
+
+<ul>
+  <li>Fejlécek</li>
+</ul>
+
+<h1 id="h1">H1</h1>
+
+<h2 id="h2">H2</h2>
+
+<h3 id="h3">H3</h3>
+
+<h4 id="h4">H4</h4>
+
+<h5 id="h5">H5</h5>
+
+<ul>
+  <li>Iniciáléval kezdődő bejegyzés</li>
+</ul>
+
+<p>Lásd fentebb.</p>
+
+<ul>
+  <li>YouTube videók beágyazása</li>
+</ul>
+
+<div class="videocontainer"><iframe src="https://www.youtube.com/embed/OLdWTOgIGF8" frameborder="0" allowfullscreen="" class="iframeshadow" width="1024" height="576"></iframe></div>
+
+<ul>
+  <li>syntax highlight lehetőség</li>
+</ul>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">var</span> <span class="nx">s</span> <span class="o">=</span> <span class="s2">"JavaScript syntax highlighting"</span><span class="p">;</span>
+<span class="nx">alert</span><span class="p">(</span><span class="nx">s</span><span class="p">);</span>
+<span class="kd">var</span> <span class="nx">s</span> <span class="o">=</span> <span class="s2">"JavaScript syntax highlighting"</span><span class="p">;</span>
+<span class="nx">alert</span><span class="p">(</span><span class="nx">s</span><span class="p">);</span>
+<span class="kd">var</span> <span class="nx">s</span> <span class="o">=</span> <span class="s2">"JavaScript syntax highlighting"</span><span class="p">;</span>
+<span class="nx">alert</span><span class="p">(</span><span class="nx">s</span><span class="p">);</span>
+<span class="kd">var</span> <span class="nx">s</span> <span class="o">=</span> <span class="s2">"JavaScript syntax highlighting"</span><span class="p">;</span>
+<span class="nx">alert</span><span class="p">(</span><span class="nx">s</span><span class="p">);</span>
+<span class="kd">var</span> <span class="nx">s</span> <span class="o">=</span> <span class="s2">"JavaScript syntax highlighting"</span><span class="p">;</span>
+<span class="nx">alert</span><span class="p">(</span><span class="nx">s</span><span class="p">);</span>
+</code></pre></div></div>
+<hr />
+
+<ul>
+  <li>listák készítése</li>
+  <li>
+    <p>Lists must be preceded by a blank line (or block element)</p>
+  </li>
+  <li>sddsd</li>
+  <li>
+    <p>dsdskdjsk</p>
+  </li>
+  <li>Unordered lists start each item with a <code class="highlighter-rouge">*</code></li>
+  <li><code class="highlighter-rouge">-</code> works too
+    <ul>
+      <li>Indent a level to make a nested list
+        <ol>
+          <li>Ordered lists are supported.</li>
+          <li>Start each item (number-period-space) like <code class="highlighter-rouge">1. </code></li>
+          <li>It doesn’t matter what number you use, I will render them sequentially</li>
+          <li>So you might want to start each line with <code class="highlighter-rouge">1.</code> and let me sort it out</li>
+        </ol>
+      </li>
+    </ul>
+  </li>
+  <li>táblázatok kezelése</li>
+</ul>
+
+<p>This is a table:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>First Header</th>
+      <th>Second Header</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Content Cell</td>
+      <td>Content Cell</td>
+    </tr>
+    <tr>
+      <td>Content Cell</td>
+      <td>Content Cell</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>You can align cell contents with syntax like this:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Left Aligned</th>
+      <th style="text-align: center">Center Aligned</th>
+      <th style="text-align: right">Right Aligned</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">col 3 is</td>
+      <td style="text-align: center">some wordy text</td>
+      <td style="text-align: right">$1600</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">col 2 is</td>
+      <td style="text-align: center">centered</td>
+      <td style="text-align: right">$12</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">zebra stripes</td>
+      <td style="text-align: center">are neat</td>
+      <td style="text-align: right">$1</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>The left- and right-most pipes (<code class="highlighter-rouge">|</code>) are only aesthetic, and can be omitted. The spaces don’t matter, either. Alignment depends solely on <code class="highlighter-rouge">:</code> marks.</p>
+
+<ul>
+  <li>idézetek</li>
+</ul>
+
+<blockquote>
+  <p style="margin:0px"></p>
+  <p>Angle brackets <code class="highlighter-rouge">&gt;</code> are used for block quotes.<br />
+Technically not every line needs to start with a <code class="highlighter-rouge">&gt;</code> as long as
+there are no empty lines between paragraphs.<br />
+Looks kinda ugly though.</p>
+  <blockquote>
+    <p style="margin:0px"></p>
+    <p>Block quotes can be nested.</p>
+    <blockquote>
+      <p style="margin:0px"></p>
+      <p>Multiple Levels</p>
+    </blockquote>
+  </blockquote>
+
+  <p>Most markdown syntaxes work inside block quotes.</p>
+
+  <ul>
+    <li>Lists</li>
+    <li>[Links][arbitrary_id]</li>
+    <li>Etc.</li>
+  </ul>
+
+</blockquote>
+
+<ul>
+  <li>Hivatkozások kezelése</li>
+</ul>
+
+<p>I bet you’d like more information about this sentence <sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>.</p>
+
+<h2 id="inline-formatting">Inline Formatting</h2>
+
+<p>The following is a list of optional inline markups supported:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Option name</th>
+      <th>Markup</th>
+      <th>Result if enabled</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Intra-word emphasis</td>
+      <td>So A*maz*ing</td>
+      <td>So A<em>maz</em>ing</td>
+    </tr>
+    <tr>
+      <td>Strikethrough</td>
+      <td>~~Much wow~~</td>
+      <td><del>Much wow</del></td>
+    </tr>
+    <tr>
+      <td>Underline <sup id="fnref:under"><a href="#fn:under" class="footnote">2</a></sup></td>
+      <td>_So doge_</td>
+      <td><u>So doge</u></td>
+    </tr>
+    <tr>
+      <td>Quote <sup id="fnref:quote"><a href="#fn:quote" class="footnote">3</a></sup></td>
+      <td>"Such editor"</td>
+      <td><q>Such editor</q></td>
+    </tr>
+    <tr>
+      <td>Highlight</td>
+      <td>==So good==</td>
+      <td><mark>So good</mark></td>
+    </tr>
+    <tr>
+      <td>Superscript</td>
+      <td>hoge\^(fuga)</td>
+      <td>hoge<sup>fuga</sup></td>
+    </tr>
+    <tr>
+      <td>Autolink</td>
+      <td>http://t.co</td>
+      <td><a href="http://t.co">http://t.co</a></td>
+    </tr>
+    <tr>
+      <td>Footnotes</td>
+      <td>[\^4] and [\^4]:</td>
+      <td><sup id="fnref:4"><a href="#fn:4" class="footnote">4</a></sup> and footnote 4</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="hack-on">Hack On</h2>
+
+<p>That’s about it. Thanks for listening. I’ll be quiet from now on (unless there’s an update about the app—I’ll remind you for that!).</p>
+
+<p>Happy writing!</p>
+
+<p>egy teszt lista:</p>
+
+<ul>
+  <li>alma</li>
+  <li>körte</li>
+</ul>
+
+<p>asassa</p>
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p style="margin:0px"></p>
+      <p>Well lucky for you, I’ve included more information in footnote form. <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:under">
+      <p style="margin:0px"></p>
+      <p>If <strong>Underline</strong> is disabled <code class="highlighter-rouge">_this_</code> will be rendered as <em>emphasized</em> instead of being underlined. <a href="#fnref:under" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:quote">
+      <p style="margin:0px"></p>
+      <p><strong>Quote</strong> replaces literal <code class="highlighter-rouge">"</code> characters with html <code class="highlighter-rouge">&lt;q&gt;</code> tags. <strong>Quote</strong> and <strong>Smartypants</strong> are syntactically incompatible. If both are enabled, <strong>Quote</strong> takes precedence. Note that <strong>Quote</strong> is different from <em>blockquote</em>, which is part of standard Markdown. <a href="#fnref:quote" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:4">
+      <p style="margin:0px"></p>
+      <p>You don’t have to use a number. Arbitrary things like <code class="highlighter-rouge">[^footy note4]</code> and <code class="highlighter-rouge">[^footy note4]:</code> will also work. But they will <em>render</em> as numbered footnotes. Also, no need to keep your footnotes in order, I will sort out the order for you so they appear in the same order they were referenced in the text body. You can even keep some footnotes near where you referenced them, and collect others at the bottom of the file in the traditional place for footnotes. <a href="#fnref:4" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+
+  </article>
+
+<!-- Disqus part -->
+
+  </div><!-- .content -->
+
+</div><!-- .container -->
+
+
+
+  <hr style="margin-top: 0.5em;" class="gradientstyle">
+
+  <center style="margin-bottom: 0.5em;"><i class="icon-star-empty-1" style="color: red;"></i> Nincs jog fenntartva -= <a href="http://www.fleischmann.hu/">FLEISCHMANN</a> =- No rights reserved <i class="icon-star-empty-1" style="color: red;"></i></center>  
+
+
+
+</body>
+
+</html>
