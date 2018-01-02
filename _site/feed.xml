@@ -3,7 +3,7 @@
   <title>News 'n' Updates | gyorgy.fleischmann.hu</title>
   <link href="http://0.0.0.0:4000/feed.xml" rel="self"/>
   <link href="http://0.0.0.0:4000/"/>
-  <updated>2018-01-02T07:06:09+01:00</updated>
+  <updated>2018-01-02T12:08:38+01:00</updated>
   <id>http://0.0.0.0:4000/</id>
   <author>
     <name></name>
@@ -107,7 +107,7 @@
 
 &lt;h1 id=&quot;summary&quot;&gt;SUMMARY&lt;/h1&gt;
 
-&lt;div class=&quot;rightbox&quot; style=&quot;width: 35%;&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;photos/flex.jpg&quot; alt=&quot;Fleischmann György&quot; title=&quot;Fleischmann György&quot; align=&quot;right&quot; /&gt;
+&lt;div class=&quot;rightbox&quot; style=&quot;width: 35%;&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;photos/flex.jpg&quot; alt=&quot;Fleischmann György&quot; title=&quot;Fleischmann György&quot; /&gt;
   &lt;p class=&quot;phototext&quot;&gt;Photo by me, 2016.11.11., Minolta Dynax 7D, 50mm&lt;/p&gt;
 &lt;/div&gt;
 
@@ -290,6 +290,11 @@
 &lt;p&gt;Daily TSM administration and 7/24 support for banks, insurance companies, broadcasting companies and state sector • Co-author of the tsmadmin.com blog • Founder of the &lt;a href=&quot;http://tsmadm.pl.fleischmann.hu&quot;&gt;tsmadm.pl&lt;/a&gt; free IBM TSM administration tool • The person who opens / closes the most tickets (IBM &lt;a href=&quot;https://www-01.ibm.com/support/docview.wss?uid=swg21507643&quot;&gt;PMR&lt;/a&gt;, &lt;a href=&quot;https://www-01.ibm.com/support/docview.wss?uid=swg21507643&quot;&gt;Problem Management Report&lt;/a&gt;) each year in Hungary • Took IBM TSM / Spectrum Protect (implementation, operation, administration, advanced administration) trainings (&amp;gt;30, on behalf of IBM, &lt;a href=&quot;http://iqjb.hu/&quot;&gt;IQSOFT - John Bryce Oktatóközpont Kft.&lt;/a&gt; and &lt;a href=&quot;https://www.training360.com/&quot;&gt;Training 360 Kft.&lt;/a&gt;)&lt;/p&gt;
 
 &lt;h1 id=&quot;professional-certifications&quot;&gt;Professional Certifications&lt;/h1&gt;
+
+&lt;div class=&quot;rightbox&quot; style=&quot;width: 7%;&quot;&gt;&lt;img class=&quot;&quot; src=&quot;images/cv/IBM_Sectrum_Protect_v8.1.png&quot; alt=&quot;IBM Sectrum Protect v8.1 Deployment Professional&quot; title=&quot;IBM Sectrum Protect v8.1 Deployment Professional&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;rightbox&quot; style=&quot;width: 7%;&quot;&gt;&lt;img class=&quot;&quot; src=&quot;images/cv/Veeam_Availability_Suite_VMTSP_v9.5.png&quot; alt=&quot;Veeam Availability Suite VMTSP v9.5&quot; title=&quot;Veeam Availability Suite VMTSP v9.5&quot; /&gt;
+&lt;/div&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Veeam Technical Sales Professional (VMTSP) - Veeam Availability Suite v9.5 • 09/28/2017&lt;/li&gt;
