@@ -22,6 +22,11 @@ body, p, h1, h2, h3, h4, h5, img, ul, li, div, videocontainer {
 
   line-height: 140%;
 }
+@media print{ 
+  body, p, h1, h2, h3, h4, h5, img, ul, li, div, videocontainer { 
+    font:9pt 'andale mono',courier,sans-serif;
+    font-family: 'Whitney SSm A', 'Whitney SSm B', "Helvetica Neue", Helvetica, Arial, Tahoma, Geneva, sans-serif;}
+}
  
 div { }
 div.container { padding: 0.5em; margin-bottom: 0em; }
