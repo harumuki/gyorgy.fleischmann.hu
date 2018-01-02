@@ -3,7 +3,7 @@
   <title>News 'n' Updates | gyorgy.fleischmann.hu</title>
   <link href="http://0.0.0.0:4000/feed.xml" rel="self"/>
   <link href="http://0.0.0.0:4000/"/>
-  <updated>2018-01-01T15:44:43+01:00</updated>
+  <updated>2018-01-02T05:05:03+01:00</updated>
   <id>http://0.0.0.0:4000/</id>
   <author>
     <name></name>
@@ -33,7 +33,7 @@
 &lt;a href=&quot;http://adobe.com/&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/Adobe_(20120331).png&quot; alt=&quot;adobe.com saved in 2012.&quot; title=&quot;adobe.com saved in 2012.&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://adobe.com/&quot;&gt;adobe.com&lt;/a&gt; saved in 2012.&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;leftbox&quot; style=&quot;width: 21%;&quot;&gt;&lt;a href=&quot;http://nol.hu/&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/Népszabadság_(20120331).png&quot; alt=&quot;nol.hu saved in 2012.&quot; title=&quot;nol.hu saved in 2012.&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://nol.hu/&quot;&gt;nol.hu&lt;/a&gt; saved in 2012.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;leftbox&quot; style=&quot;width: 21%;&quot;&gt;&lt;a href=&quot;http://nol.hu/&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/Nepszabadsag_(20120331).png&quot; alt=&quot;nol.hu saved in 2012.&quot; title=&quot;nol.hu saved in 2012.&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://nol.hu/&quot;&gt;nol.hu&lt;/a&gt; saved in 2012.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;a href=&quot;http://microsoft.com/&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/Microsoft_Corporation-Software,_Smartphones,_Online,_Games,_Cloud_Computing,_IT_Business_Technology,_Downloads_(20120331).png&quot; alt=&quot;microsoft.com saved in 2012.&quot; title=&quot;microsoft.com saved in 2012.&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://microsoft.com/&quot;&gt;microsoft.com&lt;/a&gt; saved in 2012.&lt;/p&gt;
 &lt;/div&gt;
 
@@ -101,9 +101,9 @@
     <link href="http://0.0.0.0:4000/cv.html"/>
     <updated>2018-01-01T00:00:00+01:00</updated>
     <id>http://0.0.0.0:4000/cv</id>
-    <content type="html">&lt;p style=&quot;margin-top: 1.5em;&quot;&gt;&lt;a href=&quot;http://gyorgy.fleischmann.hu/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;b style=&quot;font-size: 2em;&quot;&gt;FLEISCHMANN György&lt;/b&gt;&lt;/a&gt; • nick names: flex, gyurci, FleXoft&lt;/p&gt;
+    <content type="html">&lt;p style=&quot;margin-top: 1.5em; text-align: left;&quot;&gt;&lt;a href=&quot;http://gyorgy.fleischmann.hu/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;b style=&quot;font-size: 2em;&quot;&gt;FLEISCHMANN György&lt;/b&gt;&lt;/a&gt; &lt;nobr&gt;• nick names: flex, gyurci, FleXoft&lt;/nobr&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/flexoft&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;i class=&quot;icon-twitter&quot; style=&quot;margin-left: -5px; margin-right: -4px;&quot;&gt;&lt;/i&gt;@flexoft&lt;/a&gt; •&lt;i class=&quot;icon-mobile&quot; style=&quot;margin-left: -4px; margin-right: -5px;&quot;&gt;&lt;/i&gt;+36 30 979 1403 • &lt;a href=&quot;mailto:gyorgy@fleischmann.hu&quot; target=&quot;_top&quot;&gt;gyorgy@fleischmann.hu&lt;/a&gt; •&lt;a href=&quot;https://www.google.hu/maps/place/Budapest,+Ungv%C3%A1r+u.+33,+1185/@47.4337246,19.2123318,17z/data=!3m1!4b1!4m5!3m4!1s0x4741c18a7203082b:0x62593567a50ce394!8m2!3d47.433721!4d19.2145258?hl=hu&quot;&gt;&lt;i class=&quot;icon-home&quot; style=&quot;margin-right: -2px;&quot;&gt;&lt;/i&gt;H-1185, Budapest, Ungvár utca 33/1., HUNGARY&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;&lt;a href=&quot;https://twitter.com/flexoft&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;i class=&quot;icon-twitter&quot; style=&quot;margin-left: -4px; margin-right: -4px;&quot;&gt;&lt;/i&gt;@flexoft&lt;/a&gt; •&lt;nobr&gt;&lt;i class=&quot;icon-mobile&quot; style=&quot;margin-left: -4px; margin-right: -5px;&quot;&gt;&lt;/i&gt;+36 30 979 1403&lt;/nobr&gt; &lt;nobr&gt;• &lt;a href=&quot;mailto:gyorgy@fleischmann.hu&quot; target=&quot;_top&quot;&gt;gyorgy@fleischmann.hu&lt;/a&gt;&lt;/nobr&gt; • &lt;nobr&gt;&lt;a href=&quot;https://www.google.hu/maps/place/Budapest,+Ungv%C3%A1r+u.+33,+1185/@47.4337246,19.2123318,17z/data=!3m1!4b1!4m5!3m4!1s0x4741c18a7203082b:0x62593567a50ce394!8m2!3d47.433721!4d19.2145258?hl=hu&quot;&gt;&lt;i class=&quot;icon-home&quot; style=&quot;margin-left: -4px; margin-right: -2px;&quot;&gt;&lt;/i&gt;H-1185, Budapest, Ungvár utca 33/1., HUNGARY&lt;/a&gt;&lt;/nobr&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;summary&quot;&gt;SUMMARY&lt;/h1&gt;
 
@@ -316,7 +316,7 @@
 
 &lt;div class=&quot;rightbox&quot; style=&quot;width: 15%;&quot;&gt;
 &lt;a href=&quot;http://tsmadm.pl.fleischmann.hu&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/tsmadm.pl.jpg&quot; alt=&quot;tsmadm.pl&quot; title=&quot;tsmadm.pl&quot; /&gt;&lt;/a&gt;
-&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://tsmadm.pl&quot;&gt;tsmadm.pl&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://tsmadm.pl.fleischmann.hu&quot;&gt;tsmadm.pl&lt;/a&gt;&lt;/p&gt;
 &lt;br /&gt;
 &lt;img class=&quot;shadow&quot; src=&quot;images/html/SpeedLimit.png&quot; alt=&quot;SpeedLimit&quot; title=&quot;SpeedLimit&quot; align=&quot;right&quot; /&gt;
 &lt;p class=&quot;phototext&quot;&gt;SpeedLimit on iOS&lt;/p&gt;
