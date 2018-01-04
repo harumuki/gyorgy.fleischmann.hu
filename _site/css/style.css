@@ -87,6 +87,10 @@ h1 a:link {
   font-weight: 700;
 }
 
+h1 a:hover {
+  color: blue;
+}
+
 h2 {
   margin-top: 0.5em;
   font-size: 1.2em;
@@ -489,7 +493,7 @@ blockquote {
   margin: 0 0 0em;
   padding: 0.75em 1.5em 0.75em;
   color: #3B3D40;
-  display: inline-block;
+  clear: left;
 }
 
 blockquote:before {
@@ -499,7 +503,7 @@ blockquote:before {
   width: 4px;
   background: #CFD7DD;
   top: .5em;
-  border-radius: 8px;
+  border-radius: 2px;
   height: calc(100% - 1em);
   -moz-transition: all .3s ease-in-out;
   -webkit-transition: all .3s ease-in-out;
@@ -507,7 +511,7 @@ blockquote:before {
 }
 
 blockquote:hover:before {
-  width: 8px;
+  width: 10px;
   background: #2292F1;
 }
 
