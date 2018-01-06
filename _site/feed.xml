@@ -3,7 +3,7 @@
   <title>News 'n' Updates | gyorgy.fleischmann.hu</title>
   <link href="http://0.0.0.0:4000/feed.xml" rel="self"/>
   <link href="http://0.0.0.0:4000/"/>
-  <updated>2018-01-06T15:20:18+01:00</updated>
+  <updated>2018-01-06T17:09:32+01:00</updated>
   <id>http://0.0.0.0:4000/</id>
   <author>
     <name></name>
@@ -346,6 +346,9 @@
 
 &lt;p&gt;&lt;span title=&quot;2015&quot;&gt;&lt;b&gt;15&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
 
+&lt;ul&gt;
+  &lt;li&gt;recording for a year what I did and how I looked like&lt;/li&gt;
+&lt;/ul&gt;
 &lt;div style=&quot;width: 49.33%; margin-left: 1.3em;&quot;&gt;&lt;div class=&quot;videocontainer&quot; style=&quot;padding-bottom: 31%;&quot;&gt;&lt;iframe class=&quot;iframeshadow&quot; src=&quot;https://player.vimeo.com/video/249302002&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;span title=&quot;2013&quot;&gt;&lt;b&gt;13&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
@@ -368,7 +371,7 @@
 &lt;p&gt;&lt;span title=&quot;2009&quot;&gt;&lt;b&gt;09&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;div class=&quot;rightbox&quot; style=&quot;width: 13%;&quot;&gt;
-&lt;a href=&quot;https://www.olimex.com/Products/AVR/Development/AVR-GSM/&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://www.olimex.com/Products/AVR/Development/AVR-GSM/images/thumbs/310x230/AVR-GSM-01.jpg&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;https://www.olimex.com/Products/AVR/Development/AVR-GSM/&quot;&gt;AVR-GSM&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://www.olimex.com/Products/AVR/Development/AVR-GSM/&quot;&gt;&lt;img class=&quot;&quot; src=&quot;https://www.olimex.com/Products/AVR/Development/AVR-GSM/images/thumbs/310x230/AVR-GSM-01.jpg&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;https://www.olimex.com/Products/AVR/Development/AVR-GSM/&quot;&gt;AVR-GSM&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;ul&gt;
@@ -389,7 +392,7 @@
   &lt;li&gt;compulsory military service completed&lt;/li&gt;
   &lt;li&gt;free time activities: football, cinema, reading, music, photography&lt;/li&gt;
   &lt;li&gt;I do not smoke&lt;/li&gt;
-  &lt;li&gt;last update: 2018.01.01.&lt;/li&gt;
+  &lt;li&gt;last update: 2018.01.06.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&quot;others-ii&quot;&gt;OTHERS II.&lt;/h1&gt;
@@ -771,131 +774,6 @@
 
 &lt;/script&gt;
 
-</content>
-  </entry>
-  
-  <entry>
-    <title>📚 Books / könyvek 2017</title>
-    <link href="http://0.0.0.0:4000/books.html"/>
-    <updated>2017-09-11T00:00:00+02:00</updated>
-    <id>http://0.0.0.0:4000/books</id>
-    <content type="html">&lt;p&gt;Ezen az oldalon azt tervezem, hogy összeszedem az általam kedvelt (e vagy papír alapú) könyveket. Jelenleg ezeket olvasom/&lt;del&gt;tam&lt;/del&gt; mostanában.&lt;/p&gt;
-
-&lt;!-- break --&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;div class=&quot;rightbox&quot; style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/books/konyvespolc.jpg&quot; alt=&quot;Könyvespolc 20171104&quot; /&gt;&lt;/div&gt;
-    &lt;p&gt;Popper Péter: Felnőtnek lenni&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Rady playe One&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Weir, Andy: Artemis&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;Taylor, Dennis E. - MI, Bob&lt;/li&gt;
-  &lt;li&gt;Cline, Ernest - Ready Player One&lt;/li&gt;
-  &lt;li&gt;Parti Nagy Lajos: Fülkefor ​és vidéke, Fülkefória és vidéke (II)&lt;/li&gt;
-  &lt;li&gt;Moldova György: Keserű ​Pohár I-III.&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Harari, Yuval Noah: Sapiens - Az emberiség rövid története és Homo ​Deus - A holnap rövid története&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;Kellerman, Faye: Szemfényvesztés&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Brown, Pierce: Vörös lázadás, Arany Háború&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;Zoltán Gábor: Orgia&lt;/li&gt;
-  &lt;li&gt;Bolano(Bolaño), Roberto: 2666&lt;/li&gt;
-  &lt;li&gt;Szabó T. Anna: Törésteszt&lt;/li&gt;
-  &lt;li&gt;Chiang, Ted: Életed törtenete&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Elsberg, Marc: Blackout&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;Eggers, Dave: A Kör&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Berta Zsolt: Recept novelláskötet&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;Kelly, Scott: Endurance (angol)&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Scalzi, John: Az összeomló birodalom&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Földes András: Erőss Zsolt - A Himalájánál magasabbra&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Shafak(Şafak), Elif: Becsület&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Ebershoff, David: A dán lány&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Crouch, Blake: Sötét anyag&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Árpa Attila: Holtomiglan&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Vance, Ashlee: Elon Musk - Tesla, SpaceX és a fantasztikus jövő&lt;/del&gt;‎&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Hertzfeld, Andy: Revolution in The Valley: The Insanely Great Story of How the Mac Was Made (angol)&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Merchant, Brian: The One Device: The Secret History of the iPhone (angol)&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Hosseini, Khaled: Papírsárkányok&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;Radnóti Miklósné Gyarmati Fanni: Napló 1935-1946 I-II.&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Frei Tamás: A Bankár, A Megmentő, Agrárbárók, 2015: A káosz éve és a magyar elit háborúja&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Moldova György: Titkos Záradék&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Enders, Giulie: Bélügyek&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Csabai László: Szindbád szibériában&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Leslie L. Lawrence: Sindzse ​szeme&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;M. R. Carey: Kiéhezettek&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Moldova György: A ​végtelen vonal&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Hosszú Katinka: A magyar Iron Lady&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Blake Crouch: Wayward Pines trilógia&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;dos Santos, José Rodrigues: A hetedik pecsét - A világvége elkezdődött, Isten haragja&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;Howey, Hugh: A siló&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Banks, Iain M.: A játékmester&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Cussler, Clive: A jéghegy&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Chase, James Hadley: A gyilkos hajsza&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Cronin, Justin: A szabadulás&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Kolozsi László: Ki köpött a krémesbe, Mi van a reverenda alatt?&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;VanderMeer, Jeff: Expedíció&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Vermes, Timur: Nezd ki van itt!&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;Kent, Steven: The Ultimate History of Video Games&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;!--break--&gt;
-
-&lt;p&gt;Amit el kellene olvasni még:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Joyce, James: Ulysses&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;És-akkor-jöjjön-az-én-könyv-toplistám&quot;&gt;És akkor jöjjön az én könyv toplistám&lt;/h2&gt;
-
-&lt;div class=&quot;leftbox&quot; style=&quot;width: 14%; overflow: left;&quot;&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;https://moly.hu/system/covers/big/covers_370521.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;p class=&quot;phototext&quot;&gt;teszt szöveg és egy link: szoveg &lt;a src=&quot;http://index.hu/&quot;&gt;index&lt;/a&gt; és még egy kis szöveg&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;leftbox&quot; style=&quot;width: 14%; overflow: left;&quot;&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;https://moly.hu/system/covers/big/covers_434886.jpg?1490173019&quot; alt=&quot;&quot; /&gt;
-&lt;p class=&quot;phototext&quot;&gt;teszt szöveg és egy link: szoveg &lt;a src=&quot;http://index.hu/&quot;&gt;index&lt;/a&gt; és még egy kis szöveg&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;leftbox&quot; style=&quot;width: 14%; overflow: left;&quot;&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;https://moly.hu/system/covers/big/covers_35427.jpg?1395354721&quot; alt=&quot;&quot; /&gt;
-&lt;p class=&quot;phototext&quot;&gt;teszt szöveg és egy link: szoveg &lt;a src=&quot;http://index.hu/&quot;&gt;index&lt;/a&gt; és még egy kis szöveg&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;leftbox&quot; style=&quot;width: 14%; overflow: left;&quot;&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;https://moly.hu/system/covers/big/covers_37727.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;p class=&quot;phototext&quot;&gt;teszt szöveg és egy link: szoveg &lt;a src=&quot;http://index.hu/&quot;&gt;index&lt;/a&gt; és még egy kis szöveg&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;leftbox&quot; style=&quot;width: 14%; overflow: left;&quot;&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;https://moly.hu/system/covers/big/covers_37727.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;p class=&quot;phototext&quot;&gt;teszt szöveg és egy link: szoveg &lt;a src=&quot;http://index.hu/&quot;&gt;index&lt;/a&gt; és még egy kis szöveg&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;leftbox&quot; style=&quot;width: 14%; overflow: left;&quot;&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;https://moly.hu/system/covers/big/covers_37727.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;p class=&quot;phototext&quot;&gt;teszt szöveg és egy link: szoveg &lt;a src=&quot;http://index.hu/&quot;&gt;index&lt;/a&gt; és még egy kis szöveg&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br clear=&quot;all&quot; /&gt;&lt;/p&gt;
-
-&lt;p style=&quot;margin:0px&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Harari, Yuval Noah: Sapiens - Az emberiség rövid története és Homo ​Deus - A holnap rövid története&lt;/strong&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“A tűz tett minket veszedelmessé. A pletyka együttműködővé. A mezőgazdaság még éhesebbé. A mitológia tartotta fenn a törvényt és a rendet. A pénz adott valamit, amiben mind bízhatunk. Az ellentmondások teremtették meg a kultúrát. A tudomány tett minket a teremtés urává. De egyik sem tett boldoggá…&lt;/p&gt;
-
-  &lt;p&gt;A világhírű jeruzsálemi egyetemi tanár szerint így foglalható össze annak története, ahogyan jelentéktelen majmokból a világ uraivá váltunk.”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Harris, Thomas: A Vörös Sárkány (Rakéta regényújság 129., 1986, 24-33. szám)&lt;/li&gt;
-  &lt;li&gt;Merle, Robert: Mesterségem a halál
-Levin, Ira: A brazíliai fiúk (Rakéta regényújság 137., 1987, 20-26. szám)&lt;/li&gt;
-  &lt;li&gt;Shafak(Şafak), Elif: Szerelem&lt;/li&gt;
-  &lt;li&gt;Szabó Magda: Für Elise, Ajtó, Az őz, Abigél&lt;/li&gt;
-  &lt;li&gt;Simmel, Johannes Mario: Nem kell mindig kaviár&lt;/li&gt;
-&lt;/ul&gt;
 </content>
   </entry>
   
