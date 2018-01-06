@@ -3,7 +3,7 @@
   <title>News 'n' Updates | gyorgy.fleischmann.hu</title>
   <link href="http://0.0.0.0:4000/feed.xml" rel="self"/>
   <link href="http://0.0.0.0:4000/"/>
-  <updated>2018-01-04T13:06:05+01:00</updated>
+  <updated>2018-01-06T09:39:00+01:00</updated>
   <id>http://0.0.0.0:4000/</id>
   <author>
     <name></name>
@@ -150,7 +150,9 @@
 &lt;ul style=&quot;list-style-type:disc&quot;&gt;
 &lt;li&gt;Supporting a dozen large IBM TSM, SP customers in Hungary&lt;/li&gt;
 &lt;li&gt;Supporting IBM GPFS, Spectrum Scale cutomers with TSM / SP HSM&lt;/li&gt;
-&lt;li&gt;TSM Symposium 15 (Dresden)&lt;/li&gt;
+&lt;li&gt;TSM Symposium, 15 (Dresden)&lt;/li&gt;
+&lt;li&gt;TSM Symposium, 15 (Dresden)&lt;/li&gt;
+&lt;li&gt;Speaker of &lt;a href=&quot;http://systemsday.momartmail.hu/Home/Program&quot;&gt;IBM, RRC Systems Day&lt;/a&gt; (Effective storage usage in backup environments, real implementation experiences), 17&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;b&gt;Main projects and references:&lt;/b&gt;&lt;br /&gt;
@@ -168,17 +170,18 @@
 
 &lt;/div&gt;
 
-&lt;p&gt;&lt;span title=&quot;2004-2014&quot;&gt;&lt;b&gt;04-14&lt;/b&gt;&lt;/span&gt; • System engineer, &lt;a href=&quot;http://www.ibm.com/&quot;&gt;IBM&lt;/a&gt; &lt;a href=&quot;http://www-03.ibm.com/software/products/en/spectrum-protect&quot;&gt;Tivoli Storage Manager&lt;/a&gt; specialist • &lt;a href=&quot;http://www.user.hu/&quot;&gt;USER Tanácsadó Kft.&lt;/a&gt;, &lt;a href=&quot;http://www.userrendszerhaz.hu/&quot;&gt;USER Rendszerház Kft.&lt;/a&gt; (IBM Tivoli Awards &lt;span title=&quot;2012&quot;&gt;12&lt;/span&gt;, IBM AAA-level Tivoli Deployment Accreditation &lt;span title=&quot;2013&quot;&gt;13&lt;/span&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;span title=&quot;2004-2014&quot;&gt;&lt;b&gt;04-14&lt;/b&gt;&lt;/span&gt; • System engineer, &lt;a href=&quot;http://www.ibm.com/&quot;&gt;IBM&lt;/a&gt; &lt;a href=&quot;http://www-03.ibm.com/software/products/en/spectrum-protect&quot;&gt;Tivoli Storage Manager&lt;/a&gt; specialist • &lt;a href=&quot;http://www.user.hu/&quot;&gt;USER Tanácsadó Kft.&lt;/a&gt;, &lt;a href=&quot;http://www.userrendszerhaz.hu/&quot;&gt;USER Rendszerház Kft.&lt;/a&gt; (IBM Tivoli Awards, &lt;span title=&quot;2012&quot;&gt;12&lt;/span&gt; • IBM AAA-level Tivoli Deployment Accreditation, &lt;span title=&quot;2013&quot;&gt;13&lt;/span&gt;)&lt;/p&gt;
 
 &lt;div id=&quot;userID&quot; style=&quot;display:none; margin-left: 1em; margin-bottom: 1em;&quot;&gt;
 
 &lt;ul style=&quot;list-style-type:disc&quot;&gt;
 &lt;li&gt;Supporting a dozen large IBM TSM customers in Hungary&lt;/li&gt;
-&lt;li&gt;Participation the biggest IBM TSM related events (IBM C&amp;amp;SI EMEA Technical Academy 14 (Madrid), IBM Tivoli Technical Academy 13 (Reading), TSM Symposium 11 (Dresden))&lt;/li&gt;
+&lt;li&gt;Participation the biggest IBM TSM related events (IBM C&amp;amp;SI EMEA Technical Academy, 14 (Madrid) • IBM Tivoli Technical Academy, 13 (Reading) • TSM Symposium, 11 (Dresden))&lt;/li&gt;
 &lt;li&gt;Architect / integrate big IBM TSM configurations&lt;/li&gt;
 &lt;li&gt;Troubleshoot / consult performance, backup, restore issues&lt;/li&gt;
 &lt;li&gt;Member of several IBM TSM API based development&lt;/li&gt;
 &lt;li&gt;Health check, operate, maintain big IBM TSM environments&lt;/li&gt;
+&lt;li&gt;Speaker of &lt;a href=&quot;http://cloudday.momart.hu/&quot;&gt;VMware Cloud Day&lt;/a&gt; (Backing up VMware with IBM technology), 13&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;b&gt;Main projects and references:&lt;/b&gt;&lt;br /&gt;
@@ -189,7 +192,7 @@
 &lt;li&gt;MKB Bank (&amp;gt;10Y): 4 TSM servers on a HP-UX cluster environment with library manager configuration and other 2 TSM servers (IBM AIX) for document archiving systems&lt;/li&gt;
 &lt;li&gt;Allianz Biztosító (&amp;gt;10Y): TSM on a HA AIX environment with library manager configuration and other 2 TSM servers for document store systems&lt;/li&gt;  
 &lt;li&gt;Generali Biztosító (&amp;gt;10Y): 4 general TSM servers on Microsoft Windows for the region and other 2 TSM servers on IBM AIX for document store systems&lt;/li&gt;
-&lt;li&gt;FHB Bank (&amp;gt;2Y): TSM on a HA AIX environment&lt;/li&gt;
+&lt;li&gt;FHB Bank (&amp;gt;2Y): TSM on a AIX HA environment&lt;/li&gt;
 &lt;li&gt;Budapest Bank (&amp;gt;10Y): 2 TSM servers on a HA AIX environment&lt;/li&gt;
 &lt;li&gt;Chello Central Europe (&amp;gt;8Y): biggest TSM based video media archiving environment implementation and support&lt;/li&gt;
 &lt;li&gt;HVB/UniCredit Bank (&amp;gt;10Y): the first v5 –&amp;gt; v6 migrated AIX TSM systems on an IBM PureFlex system in the region&lt;/li&gt;
@@ -341,6 +344,10 @@
   &lt;li&gt;Simple Heart Rate monitoring macOS application based on Polar H7 BLE device with Xcode 9.2 and Swift 4.0.3 &lt;a href=&quot;https://github.com/FleXoft/Polar-H7-HRM&quot;&gt;project on GitHub&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;p&gt;&lt;span title=&quot;2015&quot;&gt;&lt;b&gt;15&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;div style=&quot;width: 49.33%; margin-left: 1.3em;&quot;&gt;&lt;div class=&quot;videocontainer&quot; style=&quot;padding-bottom: 31%;&quot;&gt;&lt;iframe class=&quot;iframeshadow&quot; src=&quot;https://player.vimeo.com/video/249302002&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;
+
 &lt;p&gt;&lt;span title=&quot;2013&quot;&gt;&lt;b&gt;13&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;ul&gt;
@@ -371,7 +378,7 @@
 
 &lt;h1 id=&quot;social-part&quot;&gt;SOCIAL PART&lt;/h1&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/fleischmann.gy&quot;&gt;&lt;i class=&quot;icon-facebook&quot; style=&quot;margin-left: -5px; margin-right: -6px;&quot;&gt;&lt;/i&gt;facebook&lt;/a&gt; •&lt;a href=&quot;https://twitter.com/FleXoft&quot;&gt;&lt;i class=&quot;icon-twitter&quot; style=&quot;margin-right: -1px;&quot;&gt;&lt;/i&gt;twitter&lt;/a&gt; •&lt;a href=&quot;https://www.flickr.com/photos/fleischmann/sets/72157622129419487/&quot;&gt;&lt;i class=&quot;icon-flickr&quot; style=&quot;margin-right: -1px;&quot;&gt;&lt;/i&gt;flickr&lt;/a&gt; •&lt;a href=&quot;https://plus.google.com/111227740573593478868&quot;&gt;&lt;i class=&quot;icon-gplus&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Google+&lt;/a&gt; •&lt;a href=&quot;http://fleischmann.tumblr.com/&quot;&gt;&lt;i class=&quot;icon-tumblr&quot; style=&quot;margin-left: -4px; margin-right: -4px;&quot;&gt;&lt;/i&gt;tumblr&lt;/a&gt; •&lt;a href=&quot;skype://Flexoft/&quot;&gt;&lt;i class=&quot;icon-skype&quot; style=&quot;margin-right: -1px;&quot;&gt;&lt;/i&gt;Skype&lt;/a&gt; • &lt;a href=&quot;https://www.linkedin.com/in/fleischmanngyorgy/&quot;&gt;linked&lt;i class=&quot;icon-linkedin-squared&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/fleischmann.gy&quot;&gt;&lt;i class=&quot;icon-facebook&quot; style=&quot;margin-left: -5px; margin-right: -6px;&quot;&gt;&lt;/i&gt;facebook&lt;/a&gt; •&lt;a href=&quot;https://twitter.com/FleXoft&quot;&gt;&lt;i class=&quot;icon-twitter&quot; style=&quot;margin-right: -1px;&quot;&gt;&lt;/i&gt;twitter&lt;/a&gt; •&lt;a href=&quot;https://www.flickr.com/photos/fleischmann/sets/72157622129419487/&quot;&gt;&lt;i class=&quot;icon-flickr&quot; style=&quot;margin-right: 0px;&quot;&gt;&lt;/i&gt;flickr&lt;/a&gt; •&lt;a href=&quot;https://plus.google.com/111227740573593478868&quot;&gt;&lt;i class=&quot;icon-gplus&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Google+&lt;/a&gt; •&lt;a href=&quot;http://fleischmann.tumblr.com/&quot;&gt;&lt;i class=&quot;icon-tumblr&quot; style=&quot;margin-left: -4px; margin-right: -4px;&quot;&gt;&lt;/i&gt;tumblr&lt;/a&gt; •&lt;a href=&quot;skype://Flexoft/&quot;&gt;&lt;i class=&quot;icon-skype&quot; style=&quot;margin-right: -1px;&quot;&gt;&lt;/i&gt;Skype&lt;/a&gt; • &lt;a href=&quot;https://www.linkedin.com/in/fleischmanngyorgy/&quot;&gt;linked&lt;i class=&quot;icon-linkedin-squared&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;others&quot;&gt;OTHERS&lt;/h1&gt;
 
