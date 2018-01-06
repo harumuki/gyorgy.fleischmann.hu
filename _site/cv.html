@@ -182,7 +182,7 @@
   <p class="phototext">Photo by me, 2016.11.11., Minolta Dynax 7D, 50mm</p>
 </div>
 
-<p>Highly qualified certified systems engineer / architect / consultant with more than 13 years of experience in designing, building and supporting complex <a href="https://www.ibm.com/"><img class="inline" src="http://m.fooyoh.com/files/attach/images/3004/195/251/014/logos4.jpg" alt="IBM Logo" style="width: 55px;" /></a> <a href="https://www.ibm.com/us-en/marketplace/data-protection-and-recovery"><img class="inline" src="https://www-03.ibm.com/systems/uk/resources/storage_spectrum_modernize_placeholder2.png" alt="IBM Spectrum Protect Logo" style="width: 20px;" /></a> <a href="https://www.ibm.com/us-en/marketplace/data-protection-and-recovery">Spectrum Protect</a> (aka: <a href="https://www.ibm.com/"><img class="inline" src="https://s-media-cache-ak0.pinimg.com/originals/f2/c2/e2/f2c2e2b63af6ffe5ddfff5a2557bfee6.jpg" alt="IBM Logo" style="width: 55px;" /></a> <a href="https://en.wikipedia.org/wiki/IBM_Tivoli_Storage_Manager">Tivoli Storage Manager</a>, <a href="https://en.wikipedia.org/wiki/IBM_Tivoli_Storage_Manager">TSM</a>, <a href="https://en.wikipedia.org/wiki/IBM_Tivoli_Storage_Manager">ADSTAR Distributed Storage Manager</a>, <a href="https://en.wikipedia.org/wiki/IBM_Tivoli_Storage_Manager">ADSM</a>) at the biggest Hungarian companies.</p>
+<p>Highly qualified certified systems engineer / architect / consultant with more than 13 years <span id="workTSM"></span> of experience in designing, building and supporting complex <a href="https://www.ibm.com/"><img class="inline" src="http://m.fooyoh.com/files/attach/images/3004/195/251/014/logos4.jpg" alt="IBM Logo" style="width: 55px;" /></a> <a href="https://www.ibm.com/us-en/marketplace/data-protection-and-recovery"><img class="inline" src="https://www-03.ibm.com/systems/uk/resources/storage_spectrum_modernize_placeholder2.png" alt="IBM Spectrum Protect Logo" style="width: 20px;" /></a> <a href="https://www.ibm.com/us-en/marketplace/data-protection-and-recovery">Spectrum Protect</a> (aka: <a href="https://www.ibm.com/"><img class="inline" src="https://s-media-cache-ak0.pinimg.com/originals/f2/c2/e2/f2c2e2b63af6ffe5ddfff5a2557bfee6.jpg" alt="IBM Logo" style="width: 55px;" /></a> <a href="https://en.wikipedia.org/wiki/IBM_Tivoli_Storage_Manager">Tivoli Storage Manager</a>, <a href="https://en.wikipedia.org/wiki/IBM_Tivoli_Storage_Manager">TSM</a>, <a href="https://en.wikipedia.org/wiki/IBM_Tivoli_Storage_Manager">ADSTAR Distributed Storage Manager</a>, <a href="https://en.wikipedia.org/wiki/IBM_Tivoli_Storage_Manager">ADSM</a>) at the biggest Hungarian companies.</p>
 
 <p>One of the well-known IBM TSM / Spectrum Protect experts / evangelists in <a href="https://en.wikipedia.org/wiki/Hungary">Hungary</a>. Enthusiastic member of the <a href="https://www.imwuc.org/hutug">Hungarian Tivoli User Group</a> (<a href="https://www.imwuc.org/hutug">Hu-TUG</a>). Regular speaker at biannual events in IBM TSM / Spectrum Protect related topics.</p>
 
@@ -412,7 +412,7 @@
 <ul>
   <li><a href="http://www.fleischmann.hu/">Family pages</a></li>
   <li><a href="https://github.com/FleXoft/HuTUG">Hu-TUG storage newsletters 1-5</a> (Google Docs)</li>
-  <li>Simple Heart Rate monitoring macOS application based on Polar H7 BLE device with Xcode 9.2 and Swift 4.0.3 <a href="https://github.com/FleXoft/Polar-H7-HRM">project on GitHub</a></li>
+  <li>Simple Heart Rate monitoring macOS application based on Polar H7 BLE device with Xcode and Swift <a href="https://github.com/FleXoft/Polar-H7-HRM">project on GitHub</a></li>
 </ul>
 
 <p><span title="2015"><b>15</b></span></p>
@@ -485,7 +485,7 @@
 	today = new Date();
     diff  = new Date();
 	
-  	function dateDiff ( fromDate, toDate ) {
+  	function dateDiff2 ( fromDate, toDate ) {
     
     	var returnString = "";
     	var tmpdiff;
@@ -516,43 +516,17 @@
   
   	}
  
-    function dateBirthDiff ( fromDate, toDate ) {
-    
-        var returnString = "";
-        var tmpdiff;
-    
-        tmpdiff = fromDate.getFullYear() - toDate.getFullYear();
-        if ( fromDate.getMonth() - toDate.getMonth() < 0 ) tmpdiff -= 1; 
-		if ( tmpdiff != 0 ) {
-        	returnString += tmpdiff + " " + ( ( tmpdiff != 1 ) ? "years, " : "year, " );
-		}
-   	  
-   	    tmpdiff = fromDate.getMonth() - toDate.getMonth();
-   	 	if ( fromDate.getMonth() - toDate.getMonth() < 0 ) tmpdiff = 12 + ( fromDate.getMonth() - toDate.getMonth() );
-   	 	if ( tmpdiff != 0 ) {
-     		returnString += tmpdiff + " " + ( ( tmpdiff != 1 ) ? "months" : "month" );
-     	}
-     	
-		if ( tmpdiff != 0 ) returnString += " and "; 
-
-   	    tmpdiff = fromDate.getDate() - toDate.getDate();
-   	  	if ( tmpdiff != 0 ) {
-   	 	  	returnString += tmpdiff + " " +( ( tmpdiff != 1 ) ? "days" : "day" );
-   	  	}
-
-		return returnString; 
-  
-  	}
-
     function myTimer () {
-     	document.getElementById ( 'motherBirthDiff' ).innerHTML = dateDiff ( new Date( 2014, 03 - 1, 8, 12, 00 ), new Date( 1937, 09 - 1, 07, 12, 00 ) );
-     	document.getElementById ( 'fatherBirthDiff' ).innerHTML = dateDiff ( today, new Date( 1945, 11 - 1, 16 - 1, 12, 00 ) );
-    	document.getElementById ( 'vigyorBirthDiff' ).innerHTML = dateDiff ( today, new Date( 1957, 01 - 1, 23 - 1, 12, 00 ) );
-    	document.getElementById ( 'flexBirthDiff'   ).innerHTML = dateDiff ( today, new Date( 1970, 05 - 1, 05 - 1, 23, 00 ) );
-    	document.getElementById ( 'wifeBirthDiff'   ).innerHTML = dateDiff ( today, new Date( 1974, 11 - 1, 24 - 1, 22, 00 ) );
-    	document.getElementById ( 'annaBirthDiff'   ).innerHTML = dateDiff ( today, new Date( 2001, 11 - 1, 05 - 1, 13, 20 ) );
-    	document.getElementById ( 'gergoBirthDiff'  ).innerHTML = dateDiff ( today, new Date( 2005, 11 - 1, 11 - 1, 10, 45 ) );
-    	document.getElementById ( 'andrasBirthDiff' ).innerHTML = dateDiff ( today, new Date( 2017, 09 - 1, 30 - 1, 22, 20 ) );
+     	document.getElementById ( 'motherBirthDiff' ).innerHTML = dateDiff ( new Date( 2014, 03 - 1, 08, 12, 00 ), new Date( 1937, 09 - 1, 07, 12, 00 ) );
+     	document.getElementById ( 'fatherBirthDiff' ).innerHTML = dateDiff ( today, new Date( 1945, 11 - 1, 16, 12, 00 ) );
+    	document.getElementById ( 'vigyorBirthDiff' ).innerHTML = dateDiff ( today, new Date( 1957, 01 - 1, 23, 12, 00 ) );
+    	document.getElementById ( 'flexBirthDiff'   ).innerHTML = dateDiff ( today, new Date( 1970, 05 - 1, 05, 23, 00 ) );
+    	document.getElementById ( 'wifeBirthDiff'   ).innerHTML = dateDiff ( today, new Date( 1974, 11 - 1, 24, 22, 00 ) );
+    	document.getElementById ( 'annaBirthDiff'   ).innerHTML = dateDiff ( today, new Date( 2001, 11 - 1, 05, 13, 20 ) );
+    	document.getElementById ( 'gergoBirthDiff'  ).innerHTML = dateDiff ( today, new Date( 2005, 11 - 1, 11, 10, 45 ) );
+    	document.getElementById ( 'andrasBirthDiff' ).innerHTML = dateDiff ( today, new Date( 2017, 09 - 1, 30, 22, 20 ) );
+
+    	document.getElementById ( 'workTSM' ).innerHTML = "(" + dateDiff ( today, new Date( 2004, 05 - 1, 1, 09, 00 ) ) + ")";
     }
     setInterval ( myTimer, 1000 );
     
@@ -582,6 +556,108 @@
         }	
      	
      }
+
+	/*
+	 * Function to calculate the absolute difference in days, months and years between 2 days taking into account variable month lengths and leap years
+	 * It ignores any time component (ie hours, minutes and seconds)
+	 *
+	 * https://gist.github.com/clecuona/2945438
+	 */
+	function dateDiff(dt1, dt2)
+	{
+	    /*
+	     * setup 'empty' return object
+	     */
+	    var ret = {days:0, months:0, years:0};
+
+	    /*
+	     * If the dates are equal, return the 'empty' object
+	     */
+	    if (dt1 == dt2) return ret;
+
+	    /*
+	     * ensure dt2 > dt1
+	     */
+	    if (dt1 > dt2)
+	    {
+	        var dtmp = dt2;
+	        dt2 = dt1;
+	        dt1 = dtmp;
+	    }
+
+	    /*
+	     * First get the number of full years
+	     */
+
+	    var year1 = dt1.getFullYear();
+	    var year2 = dt2.getFullYear();
+
+	    var month1 = dt1.getMonth();
+	    var month2 = dt2.getMonth();
+
+	    var day1 = dt1.getDate();
+	    var day2 = dt2.getDate();
+
+	    /*
+	     * Set initial values bearing in mind the months or days may be negative
+	     */
+
+	    ret['years'] = year2 - year1;
+	    ret['months'] = month2 - month1;
+	    ret['days'] = day2 - day1;
+
+	    /*
+	     * Now we deal with the negatives
+	     */
+
+	    /*
+	     * First if the day difference is negative
+	     * eg dt2 = 13 oct, dt1 = 25 sept
+	     */
+	    if (ret['days'] < 0)
+	    {
+	        /*
+	         * Use temporary dates to get the number of days remaining in the month
+	         */
+	        var dtmp1 = new Date(dt1.getFullYear(), dt1.getMonth() + 1, 1, 0, 0, -1);
+
+	        var numDays = dtmp1.getDate();
+
+	        ret['months'] -= 1;
+	        ret['days'] += numDays;
+
+	    }
+
+	    /*
+	     * Now if the month difference is negative
+	     */
+	    if (ret['months'] < 0)
+	    {
+	        ret['months'] += 12;
+	        ret['years'] -= 1;
+	    }
+
+	    // Add string conversion
+	    var returnString = "";
+
+		if ( ret['years'] != 0 ) {
+	    	returnString += ret['years'] + " " + ( ( ret['years'] != 1 ) ? "years" : "year" );
+		}
+		
+		if ( ret['years'] != 0 && ret['months'] != 0 ) returnString += ", ";
+
+	 	if ( ret['months'] != 0 ) {
+			returnString += ret['months'] + " " + ( ( ret['months'] != 1 ) ? "months" : "month" );
+	 	}
+	 	
+		if ( (ret['years'] != 0 || ret['months'] != 0 ) && ret['days'] != 0 ) returnString += " and ";
+
+	  	if ( ret['days'] != 0 ) {
+	 	  	returnString += ret['days'] + " " +( ( ret['days'] != 1 ) ? "days" : "day" );
+	  	}
+
+	    return returnString;
+	}
 
 </script>
 

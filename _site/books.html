@@ -1,0 +1,368 @@
+<!doctype html public "-//W3C//DTD HTML 5.0//EN" "http://www.w3.org/TR/html5/strict.dtd">
+
+<!-- 
+
+#  _____ _      _          _                                   _
+# |  ___| | ___(_)___  ___| |__  _ __ ___   __ _ _ __  _ __   | |__  _   _
+# | |_  | |/ _ \ / __|/ __| '_ \| '_ ` _ \ / _` | '_ \| '_ \  | '_ \| | | |
+# |  _| | |  __/ \__ \ (__| | | | | | | | | (_| | | | | | | |_| | | | |_| |
+# |_|   |_|\___|_|___/\___|_| |_|_| |_| |_|\__,_|_| |_|_| |_(_)_| |_|\__,_|
+#
+# -------------------------------------------------------------------------
+
+# Jekyll based web page POC on GitHub
+# 
+# 
+# 
+# 
+# 
+# Rls: 2018.01.01.  
+#
+
+-->
+
+<html lang="hu-HU">
+
+<head>
+
+  <meta charset="utf-8">
+
+  <meta name="keywords" content="Fleischmann György, fleischmann, flex, gyurci, flexoft, mohács, budapest, magyarország, hungary, photography, digital, photo, black and white, landscape, people, blog, light, photo blog, photolog, photoblog, linux, psion, timex, perl, lcd, minolta, 9000, d7d, tsm, tivoli, ibm, osx, apple" />
+
+  <meta name="owner" content="FLEISCHMANN György" />
+  <meta name="author" content="FLEISCHMANN György" />
+
+  <meta name="description" content="A personal page for Fleischmann György."/>
+
+  <meta property="twitter:account_id" content="2447061"/>
+
+  <meta http-equiv="cleartype" content="on">
+
+  <title>📚 Books / könyvek 2017 - gyorgy.fleischmann.hu</title>
+  <link rel="stylesheet" type="text/css" href="css/style.css" >
+  <link rel="stylesheet" type="text/css" href="css/syntax.css" >
+  <link rel="alternate" type="application/atom+xml" href="/feed.xml" title="News Feed">
+
+  <link rel="icon" href="http://gyorgy.fleischmann.hu/favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="http://gyorgy.fleischmann.hu/favicon.ico">
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108075264-7"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-108075264-7');
+  </script>
+
+  <!-- From: http://fontello.com/ -->
+  <link rel="stylesheet" href="fontello/css/fontello.css">
+  <link rel="stylesheet" href="fontello/css/animation.css">
+
+  <!-- PhotoSwipe part 1. -->
+
+  <!-- Core CSS file -->
+  <link rel="stylesheet" href="PhotoSwipe/photoswipe.css"> 
+
+  <!-- Skin CSS file (styling of UI - buttons, caption, etc.)
+       In the folder of skin CSS file there are also:
+       - .png and .svg icons sprite, 
+       - preloader.gif (for browsers that do not support CSS animations) -->
+  <link rel="stylesheet" href="PhotoSwipe/default-skin/default-skin.css"> 
+
+  <!-- Core JS file -->
+  <script src="PhotoSwipe/photoswipe.min.js"></script> 
+
+  <!-- UI JS file -->
+  <script src="PhotoSwipe/photoswipe-ui-default.min.js"></script> 
+
+</head>
+
+<!-- PhotoSwipe must have part 2. -->
+
+<!-- Root element of PhotoSwipe. Must have class pswp. -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true" style="margin: 0; padding: 0;">
+
+    <!-- Background of PhotoSwipe. 
+         It's a separate element as animating opacity is faster than rgba(). -->
+    <div class="pswp__bg"></div>
+
+    <!-- Slides wrapper with overflow:hidden. -->
+    <div class="pswp__scroll-wrap">
+
+        <!-- Container that holds slides. 
+            PhotoSwipe keeps only 3 of them in the DOM to save memory.
+            Don't modify these 3 pswp__item elements, data is added later on. -->
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar" style="margin: 0; padding: 0;">
+
+                <!--  Controls are self-explanatory. Order can be changed. -->
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+                <!-- element will get class pswp__preloader--active when preloader is running -->
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                      <div class="pswp__preloader__cut">
+                        <div class="pswp__preloader__donut"></div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div> 
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center" style="font-size: 25px; text-align: center;"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<body>
+
+<div class="container">
+
+  <header class="masthead" id="navbar">
+
+     <h2 class="masthead-title">
+       <a href="/"><b>gyorgy.fleischmann.hu</b></a>
+       <small>|<a href="tableofcontents.html"><i class="icon-list-numbered" style="font-size: 0.85em;"></i>tartalom</a></small>
+       <small>|<a href="categories.html"><i class="icon-list" style="font-size: 0.85em;"></i>kategóriák</a></small>
+       <small>|<a href="tags.html"><i class="icon-tags" style="font-size: 0.85em;"></i>#címkék</a></small>
+       <small>|<a href="feed.xml"><i class="icon-rss" style="font-size: 0.85em;"></i>RSS</a></small>
+       <small>|&nbsp;<a href="cv.html">rólam</a></small>
+     </h2>
+
+  </header>
+
+  <hr style="margin-top: -0.25em;">
+
+  <div class="content">
+    <article class='post'>
+
+  	
+  	
+    <h1 class='post-title'>📚 Books / könyvek 2017</h1>
+
+    <div class="post-date"><i class="icon-calendar"></i> 2017., szeptember 11.,
+
+	<!-- Source: https://sacha.me/articles/jekyll-word-counts/ -->
+	
+	
+	  632 szó, elolvasásához kb.: 
+	
+
+	
+	
+	  3 perc kell
+	| 
+
+	
+	<i class="icon-user"></i>
+    
+	  <a href="mailto:gyorgy@fleischmann.hu">_flex</a>
+	
+	<img src="http://www.gravatar.com/avatar/645917b1946117c27a6ee9bbd02240e1?s=40" style="width: 12px;"> |
+
+	<i class="icon-list"></i>
+    [<a href="categories.html#books / könyvek">books / könyvek</a>]
+    <i class="icon-tags"></i>
+    
+      <span class=""><a href="tags.html#listák">#listák</a></span>
+    
+      <span class=""><a href="tags.html#awesome">#awesome</a></span>
+    
+
+    </div><!-- .post-date -->
+
+	
+
+    <p>Ezen az oldalon azt tervezem, hogy összeszedem az általam kedvelt (e vagy papír alapú) könyveket. Jelenleg ezeket olvasom/<del>tam</del> mostanában.</p>
+
+<!-- break -->
+
+<ul>
+  <li>
+    <div class="rightbox" style="width: 25%;"><img class="shadow" src="images/books/konyvespolc.jpg" alt="Könyvespolc 20171104" /></div>
+    <p>Popper Péter: Felnőtnek lenni</p>
+  </li>
+  <li>Rady playe One</li>
+  <li><del>Weir, Andy: Artemis</del></li>
+  <li>Taylor, Dennis E. - MI, Bob</li>
+  <li>Cline, Ernest - Ready Player One</li>
+  <li>Parti Nagy Lajos: Fülkefor ​és vidéke, Fülkefória és vidéke (II)</li>
+  <li>Moldova György: Keserű ​Pohár I-III.</li>
+  <li><del>Harari, Yuval Noah: Sapiens - Az emberiség rövid története és Homo ​Deus - A holnap rövid története</del></li>
+  <li>Kellerman, Faye: Szemfényvesztés</li>
+  <li><del>Brown, Pierce: Vörös lázadás, Arany Háború</del></li>
+  <li>Zoltán Gábor: Orgia</li>
+  <li>Bolano(Bolaño), Roberto: 2666</li>
+  <li>Szabó T. Anna: Törésteszt</li>
+  <li>Chiang, Ted: Életed törtenete</li>
+  <li><del>Elsberg, Marc: Blackout</del></li>
+  <li>Eggers, Dave: A Kör</li>
+  <li><del>Berta Zsolt: Recept novelláskötet</del></li>
+  <li>Kelly, Scott: Endurance (angol)</li>
+  <li><del>Scalzi, John: Az összeomló birodalom</del></li>
+  <li><del>Földes András: Erőss Zsolt - A Himalájánál magasabbra</del></li>
+  <li><del>Shafak(Şafak), Elif: Becsület</del></li>
+  <li><del>Ebershoff, David: A dán lány</del></li>
+  <li><del>Crouch, Blake: Sötét anyag</del></li>
+  <li><del>Árpa Attila: Holtomiglan</del></li>
+  <li><del>Vance, Ashlee: Elon Musk - Tesla, SpaceX és a fantasztikus jövő</del>‎</li>
+  <li><del>Hertzfeld, Andy: Revolution in The Valley: The Insanely Great Story of How the Mac Was Made (angol)</del></li>
+  <li><del>Merchant, Brian: The One Device: The Secret History of the iPhone (angol)</del></li>
+  <li><del>Hosseini, Khaled: Papírsárkányok</del></li>
+  <li>Radnóti Miklósné Gyarmati Fanni: Napló 1935-1946 I-II.</li>
+  <li><del>Frei Tamás: A Bankár, A Megmentő, Agrárbárók, 2015: A káosz éve és a magyar elit háborúja</del></li>
+  <li><del>Moldova György: Titkos Záradék</del></li>
+  <li><del>Enders, Giulie: Bélügyek</del></li>
+  <li><del>Csabai László: Szindbád szibériában</del></li>
+  <li><del>Leslie L. Lawrence: Sindzse ​szeme</del></li>
+  <li><del>M. R. Carey: Kiéhezettek</del></li>
+  <li><del>Moldova György: A ​végtelen vonal</del></li>
+  <li><del>Hosszú Katinka: A magyar Iron Lady</del></li>
+  <li><del>Blake Crouch: Wayward Pines trilógia</del></li>
+  <li><del>dos Santos, José Rodrigues: A hetedik pecsét - A világvége elkezdődött, Isten haragja</del></li>
+  <li>Howey, Hugh: A siló</li>
+  <li><del>Banks, Iain M.: A játékmester</del></li>
+  <li><del>Cussler, Clive: A jéghegy</del></li>
+  <li><del>Chase, James Hadley: A gyilkos hajsza</del></li>
+  <li><del>Cronin, Justin: A szabadulás</del></li>
+  <li><del>Kolozsi László: Ki köpött a krémesbe, Mi van a reverenda alatt?</del></li>
+  <li><del>VanderMeer, Jeff: Expedíció</del></li>
+  <li><del>Vermes, Timur: Nezd ki van itt!</del></li>
+  <li>Kent, Steven: The Ultimate History of Video Games</li>
+</ul>
+
+<!--break-->
+
+<p>Amit el kellene olvasni még:</p>
+
+<ul>
+  <li>Joyce, James: Ulysses</li>
+</ul>
+
+<h2 id="És-akkor-jöjjön-az-én-könyv-toplistám">És akkor jöjjön az én könyv toplistám</h2>
+
+<div class="leftbox" style="width: 14%; overflow: left;">
+<img class="shadow" src="https://moly.hu/system/covers/big/covers_370521.jpg" alt="" />
+<p class="phototext">teszt szöveg és egy link: szoveg <a src="http://index.hu/">index</a> és még egy kis szöveg</p>
+</div>
+
+<div class="leftbox" style="width: 14%; overflow: left;">
+<img class="shadow" src="https://moly.hu/system/covers/big/covers_434886.jpg?1490173019" alt="" />
+<p class="phototext">teszt szöveg és egy link: szoveg <a src="http://index.hu/">index</a> és még egy kis szöveg</p>
+</div>
+
+<div class="leftbox" style="width: 14%; overflow: left;">
+<img class="shadow" src="https://moly.hu/system/covers/big/covers_35427.jpg?1395354721" alt="" />
+<p class="phototext">teszt szöveg és egy link: szoveg <a src="http://index.hu/">index</a> és még egy kis szöveg</p>
+</div>
+
+<div class="leftbox" style="width: 14%; overflow: left;">
+<img class="shadow" src="https://moly.hu/system/covers/big/covers_37727.jpg" alt="" />
+<p class="phototext">teszt szöveg és egy link: szoveg <a src="http://index.hu/">index</a> és még egy kis szöveg</p>
+</div>
+
+<div class="leftbox" style="width: 14%; overflow: left;">
+<img class="shadow" src="https://moly.hu/system/covers/big/covers_37727.jpg" alt="" />
+<p class="phototext">teszt szöveg és egy link: szoveg <a src="http://index.hu/">index</a> és még egy kis szöveg</p>
+</div>
+
+<div class="leftbox" style="width: 14%; overflow: left;">
+<img class="shadow" src="https://moly.hu/system/covers/big/covers_37727.jpg" alt="" />
+<p class="phototext">teszt szöveg és egy link: szoveg <a src="http://index.hu/">index</a> és még egy kis szöveg</p>
+</div>
+
+<p><br clear="all" /></p>
+
+<p style="margin:0px"></p>
+<p><strong>Harari, Yuval Noah: Sapiens - Az emberiség rövid története és Homo ​Deus - A holnap rövid története</strong><br /></p>
+
+<blockquote>
+  <p>“A tűz tett minket veszedelmessé. A pletyka együttműködővé. A mezőgazdaság még éhesebbé. A mitológia tartotta fenn a törvényt és a rendet. A pénz adott valamit, amiben mind bízhatunk. Az ellentmondások teremtették meg a kultúrát. A tudomány tett minket a teremtés urává. De egyik sem tett boldoggá…</p>
+
+  <p>A világhírű jeruzsálemi egyetemi tanár szerint így foglalható össze annak története, ahogyan jelentéktelen majmokból a világ uraivá váltunk.”</p>
+</blockquote>
+
+<ul>
+  <li>Harris, Thomas: A Vörös Sárkány (Rakéta regényújság 129., 1986, 24-33. szám)</li>
+  <li>Merle, Robert: Mesterségem a halál
+Levin, Ira: A brazíliai fiúk (Rakéta regényújság 137., 1987, 20-26. szám)</li>
+  <li>Shafak(Şafak), Elif: Szerelem</li>
+  <li>Szabó Magda: Für Elise, Ajtó, Az őz, Abigél</li>
+  <li>Simmel, Johannes Mario: Nem kell mindig kaviár</li>
+</ul>
+
+
+  </article>
+
+<!-- Disqus part -->
+
+<div id="disqus_thread" style="margin-top: 1em;"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://gyorgy-fleischmann-hu.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+  </div><!-- .content -->
+
+</div><!-- .container -->
+
+
+
+  <hr style="margin-top: 0.5em;" class="gradientstyle">
+
+  <center style="margin-bottom: 0.5em;"><nobr><i class="icon-star-empty-1" style="color: red;"></i> Nincs jog fenntartva</nobr> -= <a href="http://www.fleischmann.hu/">FLEISCHMANN</a> =- <nobr>No rights reserved <i class="icon-star-empty-1" style="color: red;"></i></nobr></center>  
+
+
+
+</body>
+
+</html>
