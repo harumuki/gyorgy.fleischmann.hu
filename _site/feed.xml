@@ -3,7 +3,7 @@
   <title>News 'n' Updates | gyorgy.fleischmann.hu</title>
   <link href="http://0.0.0.0:4000/feed.xml" rel="self"/>
   <link href="http://0.0.0.0:4000/"/>
-  <updated>2018-01-06T17:09:32+01:00</updated>
+  <updated>2018-01-08T13:09:03+01:00</updated>
   <id>http://0.0.0.0:4000/</id>
   <author>
     <name></name>
@@ -161,9 +161,9 @@
 &lt;li&gt;7/24 high availability TSM v6, v7, v8 support for:&lt;/li&gt;
 
 &lt;ul style=&quot;list-style-type:circle&quot;&gt;
-&lt;li&gt;MKB Bank (&amp;gt;2Y): 4 TSM servers on a HP-UX cluster environment with library manager configuration and other 2 TSM servers (IBM AIX) for document archiving systems&lt;/li&gt;
+&lt;li&gt;MKB Bank (&amp;gt;3Y): 4 TSM servers on a HP-UX cluster environment with library manager configuration and other 2 TSM servers (IBM AIX) for document archiving systems&lt;/li&gt;
 &lt;li&gt;Generali Biztosító (&amp;gt;2Y): 2 general TSM servers on Microsoft Windows and other 2 TSM (IBM AIX) servers for document store systems&lt;/li&gt;
-&lt;li&gt;MTVA (&amp;gt;2Y): TSM on a Microsoft Windows cluster, node replication, container pool deduplication environments and TSM on Linux with GPFS filesystems&lt;/li&gt;
+&lt;li&gt;MTVA (&amp;gt;3Y): TSM on a Microsoft Windows cluster, node replication, container pool deduplication environments and TSM on Linux with GPFS filesystems&lt;/li&gt;
 &lt;li&gt;MVMI, NAK(Nemzeti Agrárgazdasági Kamara), Diákhitel, EOS, FGSZ, FPH&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/ul&gt;
@@ -347,7 +347,7 @@
 &lt;p&gt;&lt;span title=&quot;2015&quot;&gt;&lt;b&gt;15&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;recording for a year what I did and how I looked like&lt;/li&gt;
+  &lt;li&gt;recorded for a year what I did and what I looked like&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div style=&quot;width: 49.33%; margin-left: 1.3em;&quot;&gt;&lt;div class=&quot;videocontainer&quot; style=&quot;padding-bottom: 31%;&quot;&gt;&lt;iframe class=&quot;iframeshadow&quot; src=&quot;https://player.vimeo.com/video/249302002&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;
 
@@ -381,7 +381,8 @@
 
 &lt;h1 id=&quot;social-part&quot;&gt;SOCIAL PART&lt;/h1&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/fleischmann.gy&quot;&gt;&lt;i class=&quot;icon-facebook&quot; style=&quot;margin-left: -5px; margin-right: -6px;&quot;&gt;&lt;/i&gt;facebook&lt;/a&gt; •&lt;a href=&quot;https://twitter.com/FleXoft&quot;&gt;&lt;i class=&quot;icon-twitter&quot; style=&quot;margin-right: -1px;&quot;&gt;&lt;/i&gt;twitter&lt;/a&gt; •&lt;a href=&quot;https://www.flickr.com/photos/fleischmann/sets/72157622129419487/&quot;&gt;&lt;i class=&quot;icon-flickr&quot; style=&quot;margin-right: 0px;&quot;&gt;&lt;/i&gt;flickr&lt;/a&gt; •&lt;a href=&quot;https://plus.google.com/111227740573593478868&quot;&gt;&lt;i class=&quot;icon-gplus&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Google+&lt;/a&gt; •&lt;a href=&quot;http://fleischmann.tumblr.com/&quot;&gt;&lt;i class=&quot;icon-tumblr&quot; style=&quot;margin-left: -4px; margin-right: -4px;&quot;&gt;&lt;/i&gt;tumblr&lt;/a&gt; •&lt;a href=&quot;skype://Flexoft/&quot;&gt;&lt;i class=&quot;icon-skype&quot; style=&quot;margin-right: -1px;&quot;&gt;&lt;/i&gt;Skype&lt;/a&gt; • &lt;a href=&quot;https://www.linkedin.com/in/fleischmanngyorgy/&quot;&gt;linked&lt;i class=&quot;icon-linkedin-squared&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/FleXoft&quot;&gt;&lt;i class=&quot;icon-twitter&quot; style=&quot;margin-right: -1px;&quot;&gt;&lt;/i&gt;twitter&lt;/a&gt;
+ •&lt;a href=&quot;https://www.facebook.com/fleischmann.gy&quot;&gt;&lt;i class=&quot;icon-facebook&quot; style=&quot;margin-left: -5px; margin-right: -6px;&quot;&gt;&lt;/i&gt;facebook&lt;/a&gt; •&lt;a href=&quot;http://fleischmann.tumblr.com/&quot;&gt;&lt;i class=&quot;icon-tumblr&quot; style=&quot;margin-left: -4px; margin-right: -4px;&quot;&gt;&lt;/i&gt;tumblr&lt;/a&gt; •&lt;a href=&quot;https://www.flickr.com/photos/fleischmann/sets/72157622129419487/&quot;&gt;&lt;i class=&quot;icon-flickr&quot; style=&quot;margin-right: 0px;&quot;&gt;&lt;/i&gt;flickr&lt;/a&gt; •&lt;a href=&quot;https://plus.google.com/111227740573593478868&quot;&gt;&lt;i class=&quot;icon-gplus&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Google+&lt;/a&gt; •&lt;a href=&quot;skype://Flexoft/&quot;&gt;&lt;i class=&quot;icon-skype&quot; style=&quot;margin-right: -1px;&quot;&gt;&lt;/i&gt;Skype&lt;/a&gt; • &lt;a href=&quot;https://www.linkedin.com/in/fleischmanngyorgy/&quot;&gt;linked&lt;i class=&quot;icon-linkedin-squared&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;others&quot;&gt;OTHERS&lt;/h1&gt;
 
