@@ -3,7 +3,7 @@
   <title>News 'n' Updates | gyorgy.fleischmann.hu</title>
   <link href="http://0.0.0.0:4000/feed.xml" rel="self"/>
   <link href="http://0.0.0.0:4000/"/>
-  <updated>2018-01-10T21:31:56+01:00</updated>
+  <updated>2018-01-10T21:52:08+01:00</updated>
   <id>http://0.0.0.0:4000/</id>
   <author>
     <name></name>
@@ -297,49 +297,56 @@
 
 &lt;h2 id=&quot;kecskemét-bács-kiskun--hungary&quot;&gt;&lt;a href=&quot;https://hu.wikipedia.org/wiki/Kecskem%C3%A9t&quot;&gt;Kecskemét&lt;/a&gt;, &lt;a href=&quot;https://hu.wikipedia.org/wiki/B%C3%A1cs-Kiskun_megye&quot;&gt;Bács-Kiskun&lt;/a&gt; • &lt;a href=&quot;https://en.wikipedia.org/wiki/Hungary&quot;&gt;HUNGARY&lt;/a&gt;&lt;/h2&gt;
 
-&lt;p&gt;&lt;span title=&quot;1988-1991&quot;&gt;&lt;b&gt;88-91&lt;/b&gt;&lt;/span&gt; • &lt;a href=&quot;http://gamf.kefo.hu/&quot;&gt;Technical College of Machine Industry and Automation (G.A.M.F.)&lt;/a&gt; • specialization: computer technology&lt;/p&gt;
+&lt;table class=&quot;blockheader&quot;&gt;
+  &lt;tr&gt;
+    &lt;th width=&quot;1%;&quot; valign=&quot;top&quot; style=&quot;padding-right: 0.3em;&quot;&gt;&lt;nobr&gt;&lt;span title=&quot;1988-1991&quot;&gt;&lt;b&gt;88-91&lt;/b&gt;&lt;/span&gt; •&lt;/nobr&gt;&lt;/th&gt;
+    &lt;th&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;&lt;a href=&quot;http://gamf.kefo.hu/&quot;&gt;Technical College of Machine Industry and Automation (G.A.M.F.)&lt;/a&gt; • specialization: computer technology&lt;/p&gt;&lt;/th&gt; 
+  &lt;/tr&gt;
+&lt;/table&gt;
 
 &lt;h2 id=&quot;mohács-baranya--hungary-2&quot;&gt;&lt;a href=&quot;https://hu.wikipedia.org/wiki/Moh%C3%A1cs&quot;&gt;Mohács&lt;/a&gt;, &lt;a href=&quot;https://hu.wikipedia.org/wiki/Baranya_megye&quot;&gt;Baranya&lt;/a&gt; • &lt;a href=&quot;https://en.wikipedia.org/wiki/Hungary&quot;&gt;HUNGARY&lt;/a&gt;&lt;/h2&gt;
 
-&lt;p&gt;&lt;span title=&quot;1984-1988&quot;&gt;&lt;b&gt;84-88&lt;/b&gt;&lt;/span&gt; • &lt;a href=&quot;http://mohacsikisfaludy.hu/&quot;&gt;Kisfaludy Károly Secondary School&lt;/a&gt; • faculties: mathematics, physics&lt;/p&gt;
+&lt;table class=&quot;blockheader&quot;&gt;
+  &lt;tr&gt;
+    &lt;th width=&quot;1%;&quot; valign=&quot;top&quot; style=&quot;padding-right: 0.3em;&quot;&gt;&lt;nobr&gt;&lt;span title=&quot;1984-1988&quot;&gt;&lt;b&gt;84-88&lt;/b&gt;&lt;/span&gt; •&lt;/nobr&gt;&lt;/th&gt;
+    &lt;th&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;&lt;a href=&quot;http://gamf.kefo.hu/&quot;&gt;&lt;a href=&quot;http://mohacsikisfaludy.hu/&quot;&gt;Kisfaludy Károly Secondary School&lt;/a&gt; • faculties: mathematics, physics&amp;lt;/p&amp;gt;&amp;lt;/th&amp;gt; 
+  &amp;lt;/tr&amp;gt;
+&amp;lt;/table&amp;gt;
 
-&lt;h1 id=&quot;technical-skills&quot;&gt;TECHNICAL SKILLS&lt;/h1&gt;
+# TECHNICAL SKILLS
 
-&lt;h2 id=&quot;operating-systems&quot;&gt;Operating systems&lt;/h2&gt;
+## Operating systems
 
-&lt;p&gt;UNIX • Microsoft Windows • Apple macOS (OS X)&lt;/p&gt;
+UNIX • Microsoft Windows • Apple macOS (OS X)
 
-&lt;h2 id=&quot;programming-languages&quot;&gt;Programming languages&lt;/h2&gt;
+## Programming languages
 
-&lt;p&gt;Objective-C (applications with Core Location framework, 13 and BLE, 17) • C (kernel mode device driver on Linux, TSM API) • 80x86 assembly (direct IPX protocol programming) • ATMEL AVR assembly, C (GSM based home automation, 09) • Epson S1C88 assembly (code breaker game, 04) • CA Clipper • DataFlex • perl (tsmadm.pl, 13) • awk • UNIX shell • Psion OPL (PhotoPal, 01) • Lotus Formula • Lotus Script (incident log system) • JavaScript&lt;/p&gt;
+Objective-C (applications with Core Location framework, 13 and BLE, 17) • C (kernel mode device driver on Linux, TSM API) • 80x86 assembly (direct IPX protocol programming) • ATMEL AVR assembly, C (GSM based home automation, 09) • Epson S1C88 assembly (code breaker game, 04) • CA Clipper • DataFlex • perl (tsmadm.pl, 13) • awk • UNIX shell • Psion OPL (PhotoPal, 01) • Lotus Formula • Lotus Script (incident log system) • JavaScript
 
-&lt;h2 id=&quot;hardware&quot;&gt;Hardware&lt;/h2&gt;
+## Hardware
 
-&lt;p&gt;IBM tape libraries (LTO, 3592 drives); IBM, HPE, Oracle High-End machines and storage systems&lt;/p&gt;
+IBM tape libraries (LTO, 3592 drives); IBM, HPE, Oracle High-End machines and storage systems
 
-&lt;h2 id=&quot;ibm-tsm--spectrum-protect-related&quot;&gt;IBM TSM / Spectrum Protect related&lt;/h2&gt;
+## IBM TSM / Spectrum Protect related
 
-&lt;p&gt;Daily TSM administration and 7/24 support for banks, insurance companies, broadcasting companies and state sector • Co-author of the tsmadmin.com blog • Founder of the &lt;a href=&quot;http://tsmadm.pl.fleischmann.hu&quot;&gt;tsmadm.pl&lt;/a&gt; free IBM TSM administration tool • The person who opens / closes the most tickets (IBM &lt;a href=&quot;https://www-01.ibm.com/support/docview.wss?uid=swg21507643&quot;&gt;PMR&lt;/a&gt;, &lt;a href=&quot;https://www-01.ibm.com/support/docview.wss?uid=swg21507643&quot;&gt;Problem Management Report&lt;/a&gt;) each year in Hungary • Took IBM TSM / Spectrum Protect (implementation, operation, administration, advanced administration) trainings (&amp;gt;30, on behalf of IBM, &lt;a href=&quot;http://iqjb.hu/&quot;&gt;IQSOFT - John Bryce Oktatóközpont Kft.&lt;/a&gt; and &lt;a href=&quot;https://www.training360.com/&quot;&gt;Training 360 Kft.&lt;/a&gt;)&lt;/p&gt;
+Daily TSM administration and 7/24 support for banks, insurance companies, broadcasting companies and state sector • Co-author of the tsmadmin.com blog • Founder of the &lt;a href=&quot;http://tsmadm.pl.fleischmann.hu&quot;&gt;tsmadm.pl&lt;/a&gt; free IBM TSM administration tool • The person who opens / closes the most tickets (IBM &lt;a href=&quot;https://www-01.ibm.com/support/docview.wss?uid=swg21507643&quot;&gt;PMR&lt;/a&gt;, &lt;a href=&quot;https://www-01.ibm.com/support/docview.wss?uid=swg21507643&quot;&gt;Problem Management Report&lt;/a&gt;) each year in Hungary • Took IBM TSM / Spectrum Protect (implementation, operation, administration, advanced administration) trainings (&amp;gt;30, on behalf of IBM, &lt;a href=&quot;http://iqjb.hu/&quot;&gt;IQSOFT - John Bryce Oktatóközpont Kft.&lt;/a&gt; and &lt;a href=&quot;https://www.training360.com/&quot;&gt;Training 360 Kft.&lt;/a&gt;)
 
-&lt;h1 id=&quot;professional-certifications&quot;&gt;Professional Certifications&lt;/h1&gt;
+# Professional Certifications
 
 &lt;div class=&quot;rightbox&quot; style=&quot;width: 7%;&quot;&gt;&lt;img class=&quot;&quot; src=&quot;images/cv/IBM_Sectrum_Protect_v8.1.png&quot; alt=&quot;IBM Sectrum Protect v8.1 Deployment Professional&quot; title=&quot;IBM Sectrum Protect v8.1 Deployment Professional&quot; /&gt;
-&lt;/div&gt;
-&lt;div class=&quot;rightbox&quot; style=&quot;width: 7%;&quot;&gt;&lt;img class=&quot;&quot; src=&quot;images/cv/Veeam_Availability_Suite_VMTSP_v9.5.png&quot; alt=&quot;Veeam Availability Suite VMTSP v9.5&quot; title=&quot;Veeam Availability Suite VMTSP v9.5&quot; /&gt;
+&lt;/div&gt;&lt;div class=&quot;rightbox&quot; style=&quot;width: 7%;&quot;&gt;&lt;img class=&quot;&quot; src=&quot;images/cv/Veeam_Availability_Suite_VMTSP_v9.5.png&quot; alt=&quot;Veeam Availability Suite VMTSP v9.5&quot; title=&quot;Veeam Availability Suite VMTSP v9.5&quot; /&gt;
 &lt;/div&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;Veeam Technical Sales Professional (VMTSP) - Veeam Availability Suite v9.5 • 09/28/2017&lt;/li&gt;
-  &lt;li&gt;IBM Certified Deployment Professional - Spectrum Protect V8.1 • 07/28/2017&lt;/li&gt;
-  &lt;li&gt;IBM Certified Deployment Professional - Tivoli Storage Manager V7.1 • 05/18/2015&lt;/li&gt;
-  &lt;li&gt;IBM Certified Deployment Professional - Tivoli Storage Productivity Center v5.1 •06/04/2013&lt;/li&gt;
-  &lt;li&gt;IBM Certified Deployment Professional - Tivoli Storage Manager v6.3 • 02/01/2013&lt;/li&gt;
-  &lt;li&gt;IBM Certified Solution Advisor - Tivoli Storage Solutions v3 • 03/22/2012&lt;/li&gt;
-  &lt;li&gt;IBM Certified Solution Advisor - Tivoli Storage Solutions v2 • 03/30/2011&lt;/li&gt;
-  &lt;li&gt;IBM Certified Deployment Professional - Tivoli Storage Manager v6.1 • 12/01/2009&lt;/li&gt;
-&lt;/ul&gt;
+* Veeam Technical Sales Professional (VMTSP) - Veeam Availability Suite v9.5 • 09/28/2017
+* IBM Certified Deployment Professional - Spectrum Protect V8.1 • 07/28/2017
+* IBM Certified Deployment Professional - Tivoli Storage Manager V7.1 • 05/18/2015
+* IBM Certified Deployment Professional - Tivoli Storage Productivity Center v5.1 •06/04/2013
+* IBM Certified Deployment Professional - Tivoli Storage Manager v6.3 • 02/01/2013
+* IBM Certified Solution Advisor - Tivoli Storage Solutions v3 • 03/22/2012
+* IBM Certified Solution Advisor - Tivoli Storage Solutions v2 • 03/30/2011
+* IBM Certified Deployment Professional - Tivoli Storage Manager v6.1 • 12/01/2009
 
-&lt;h1 id=&quot;hobby-projects-worth-to-mention&quot;&gt;HOBBY PROJECTS WORTH TO MENTION&lt;/h1&gt;
+# HOBBY PROJECTS WORTH TO MENTION
 
 &lt;div class=&quot;rightbox&quot; style=&quot;width: 12%;&quot;&gt;
 &lt;a href=&quot;http://old.fleischmann.hu/geocities.com/&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/geominihp20040407.jpg&quot; alt=&quot;geocities.com from 2004.&quot; title=&quot;geocities.com from 2004.&quot; /&gt;&lt;/a&gt;
@@ -359,84 +366,68 @@
 &lt;p class=&quot;phototext&quot;&gt;SpeedLimit on iOS&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;span title=&quot;2018&quot;&gt;&lt;b&gt;18&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;span title=&quot;2018&quot;&gt;&lt;b&gt;18&lt;/b&gt;&lt;/span&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;spadmin.pl (perl)&lt;/li&gt;
-&lt;/ul&gt;
+* spadmin.pl (perl)
 
-&lt;p&gt;&lt;span title=&quot;2017&quot;&gt;&lt;b&gt;17&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;span title=&quot;2017&quot;&gt;&lt;b&gt;17&lt;/b&gt;&lt;/span&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.fleischmann.hu/&quot;&gt;Family pages (GitHub, jekyll, HTML5, CSS3)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/FleXoft/HuTUG&quot;&gt;Hu-TUG storage newsletters 1-5&lt;/a&gt; (Google Docs)&lt;/li&gt;
-  &lt;li&gt;Simple Heart Rate monitoring macOS application based on Polar H7 BLE device with Xcode and Swift &lt;a href=&quot;https://github.com/FleXoft/Polar-H7-HRM&quot;&gt;project on GitHub&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+* &lt;a href=&quot;http://www.fleischmann.hu/&quot;&gt;Family pages (GitHub, jekyll, HTML5, CSS3)&lt;/a&gt;
+* &lt;a href=&quot;https://github.com/FleXoft/HuTUG&quot;&gt;Hu-TUG storage newsletters 1-5&lt;/a&gt; (Google Docs)
+* Simple Heart Rate monitoring macOS application based on Polar H7 BLE device with Xcode and Swift &lt;a href=&quot;https://github.com/FleXoft/Polar-H7-HRM&quot;&gt;project on GitHub&lt;/a&gt;
 
-&lt;p&gt;&lt;span title=&quot;2015&quot;&gt;&lt;b&gt;15&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;span title=&quot;2015&quot;&gt;&lt;b&gt;15&lt;/b&gt;&lt;/span&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;recorded for a year what I did and what I looked like&lt;/li&gt;
-&lt;/ul&gt;
+* recorded for a year what I did and what I looked like
 &lt;div style=&quot;width: 49.33%; margin-left: 1.3em;&quot;&gt;&lt;div class=&quot;videocontainer&quot; style=&quot;padding-bottom: 31%;&quot;&gt;&lt;iframe class=&quot;iframeshadow&quot; src=&quot;https://player.vimeo.com/video/249302002&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;span title=&quot;2013&quot;&gt;&lt;b&gt;13&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;span title=&quot;2013&quot;&gt;&lt;b&gt;13&lt;/b&gt;&lt;/span&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://tsmadm.pl.fleischmann.hu/&quot;&gt;tsmadm.pl&lt;/a&gt; (perl) &lt;a href=&quot;https://github.com/FleXoft/tsmadm.pl&quot;&gt;project on GitHub&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;SpeedLimit for iOS (Objective-C)&lt;/li&gt;
-&lt;/ul&gt;
+* &lt;a href=&quot;http://tsmadm.pl.fleischmann.hu/&quot;&gt;tsmadm.pl&lt;/a&gt; (perl) &lt;a href=&quot;https://github.com/FleXoft/tsmadm.pl&quot;&gt;project on GitHub&lt;/a&gt;
+* SpeedLimit for iOS (Objective-C)
 
-&lt;p&gt;&lt;span title=&quot;-2010&quot;&gt;&lt;b&gt;-10&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;span title=&quot;-2010&quot;&gt;&lt;b&gt;-10&lt;/b&gt;&lt;/span&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;Active photoblogger (+ photoblog site generator perl script)&lt;/li&gt;
-&lt;/ul&gt;
+* Active photoblogger (+ photoblog site generator perl script)
 
 &lt;div class=&quot;rightbox&quot; style=&quot;width: 17%;&quot;&gt;
 &lt;a href=&quot;https://www.flickr.com/photos/fleischmann/sets/72157622129419487/&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/flickr_thumb.png&quot; alt=&quot;BKV Photostream&quot; title=&quot;BKV Photostream&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;https://www.flickr.com/photos/fleischmann/sets/72157622129419487/&quot;&gt;BKV Photostream&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;span title=&quot;2009&quot;&gt;&lt;b&gt;09&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;span title=&quot;2009&quot;&gt;&lt;b&gt;09&lt;/b&gt;&lt;/span&gt;
 
 &lt;div class=&quot;rightbox&quot; style=&quot;width: 13%;&quot;&gt;
 &lt;a href=&quot;https://www.olimex.com/Products/AVR/Development/AVR-GSM/&quot;&gt;&lt;img class=&quot;&quot; src=&quot;https://www.olimex.com/Products/AVR/Development/AVR-GSM/images/thumbs/310x230/AVR-GSM-01.jpg&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;https://www.olimex.com/Products/AVR/Development/AVR-GSM/&quot;&gt;AVR-GSM&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.olimex.com/Products/AVR/Development/AVR-GSM/&quot;&gt;AVR-GSM&lt;/a&gt; based Home Automation Project (AVR C, I²C, LM75, HD44780, SIM300D)&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.flickr.com/photos/fleischmann/sets/72157622129419487/&quot;&gt;BKV Photostream&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+* &lt;a href=&quot;https://www.olimex.com/Products/AVR/Development/AVR-GSM/&quot;&gt;AVR-GSM&lt;/a&gt; based Home Automation Project (AVR C, I²C, LM75, HD44780, SIM300D)
+* &lt;a href=&quot;https://www.flickr.com/photos/fleischmann/sets/72157622129419487/&quot;&gt;BKV Photostream&lt;/a&gt;
 
-&lt;h1 id=&quot;social-part&quot;&gt;SOCIAL PART&lt;/h1&gt;
+# SOCIAL PART
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/FleXoft&quot;&gt;&lt;i class=&quot;icon-twitter&quot; style=&quot;margin-right: -1px;&quot;&gt;&lt;/i&gt;twitter&lt;/a&gt;
- •&lt;a href=&quot;https://www.facebook.com/fleischmann.gy&quot;&gt;&lt;i class=&quot;icon-facebook&quot; style=&quot;margin-left: -5px; margin-right: -6px;&quot;&gt;&lt;/i&gt;facebook&lt;/a&gt; •&lt;a href=&quot;http://fleischmann.tumblr.com/&quot;&gt;&lt;i class=&quot;icon-tumblr&quot; style=&quot;margin-left: -4px; margin-right: -4px;&quot;&gt;&lt;/i&gt;tumblr&lt;/a&gt; •&lt;a href=&quot;https://www.flickr.com/photos/fleischmann/sets/72157622129419487/&quot;&gt;&lt;i class=&quot;icon-flickr&quot; style=&quot;margin-right: 0px;&quot;&gt;&lt;/i&gt;flickr&lt;/a&gt; •&lt;a href=&quot;https://plus.google.com/111227740573593478868&quot;&gt;&lt;i class=&quot;icon-gplus&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Google+&lt;/a&gt; •&lt;a href=&quot;skype://Flexoft/&quot;&gt;&lt;i class=&quot;icon-skype&quot; style=&quot;margin-right: -1px;&quot;&gt;&lt;/i&gt;Skype&lt;/a&gt; • &lt;a href=&quot;https://www.linkedin.com/in/fleischmanngyorgy/&quot;&gt;linked&lt;i class=&quot;icon-linkedin-squared&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://twitter.com/FleXoft&quot;&gt;&lt;i class=&quot;icon-twitter&quot; style=&quot;margin-right: -1px;&quot;&gt;&lt;/i&gt;twitter&lt;/a&gt;
+ •&lt;a href=&quot;https://www.facebook.com/fleischmann.gy&quot;&gt;&lt;i class=&quot;icon-facebook&quot; style=&quot;margin-left: -5px; margin-right: -6px;&quot;&gt;&lt;/i&gt;facebook&lt;/a&gt; •&lt;a href=&quot;http://fleischmann.tumblr.com/&quot;&gt;&lt;i class=&quot;icon-tumblr&quot; style=&quot;margin-left: -4px; margin-right: -4px;&quot;&gt;&lt;/i&gt;tumblr&lt;/a&gt; •&lt;a href=&quot;https://www.flickr.com/photos/fleischmann/sets/72157622129419487/&quot;&gt;&lt;i class=&quot;icon-flickr&quot; style=&quot;margin-right: 0px;&quot;&gt;&lt;/i&gt;flickr&lt;/a&gt; •&lt;a href=&quot;https://plus.google.com/111227740573593478868&quot;&gt;&lt;i class=&quot;icon-gplus&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Google+&lt;/a&gt; •&lt;a href=&quot;skype://Flexoft/&quot;&gt;&lt;i class=&quot;icon-skype&quot; style=&quot;margin-right: -1px;&quot;&gt;&lt;/i&gt;Skype&lt;/a&gt; • &lt;a href=&quot;https://www.linkedin.com/in/fleischmanngyorgy/&quot;&gt;linked&lt;i class=&quot;icon-linkedin-squared&quot;&gt;&lt;/i&gt;&lt;/a&gt;
 
-&lt;h1 id=&quot;others&quot;&gt;OTHERS&lt;/h1&gt;
+# OTHERS
 
-&lt;ul&gt;
-  &lt;li&gt;working knowledge of everyday English&lt;/li&gt;
-  &lt;li&gt;good knowledge of technical English&lt;/li&gt;
-  &lt;li&gt;experienced driver (“B” category driving licence)&lt;/li&gt;
-  &lt;li&gt;compulsory military service completed&lt;/li&gt;
-  &lt;li&gt;free time activities: football, cinema, reading, music, photography&lt;/li&gt;
-  &lt;li&gt;I do not smoke&lt;/li&gt;
-  &lt;li&gt;last update: 01/10/2018&lt;/li&gt;
-&lt;/ul&gt;
+* working knowledge of everyday English
+* good knowledge of technical English
+* experienced driver (&quot;B&quot; category driving licence)
+* compulsory military service completed
+* free time activities: football, cinema, reading, music, photography
+* I do not smoke
+* last update: 01/10/2018
 
-&lt;h1 id=&quot;others-ii&quot;&gt;OTHERS II.&lt;/h1&gt;
+# OTHERS II.
 
-&lt;ul&gt;
-  &lt;li&gt;gender: male&lt;/li&gt;
-  &lt;li&gt;length, weight: average&lt;/li&gt;
-  &lt;li&gt;sexual orientation: straight&lt;/li&gt;
-  &lt;li&gt;religion: none (but if I really need to choose: &lt;a href=&quot;https://en.wikipedia.org/wiki/Buddhism&quot;&gt;Buddhism&lt;/a&gt; or &lt;a href=&quot;https://en.wikipedia.org/wiki/International_Society_for_Krishna_Consciousness&quot;&gt;Krishna Consciousness&lt;/a&gt; are the closest)&lt;/li&gt;
-  &lt;li&gt;political views: undecided&lt;/li&gt;
-  &lt;li&gt;intelligence: normal&lt;/li&gt;
-  &lt;li&gt;civil status: married, 3 kids (&lt;a href=&quot;http://anna.fleischmann.hu/&quot;&gt;Anna&lt;/a&gt; • &lt;a href=&quot;http://gergo.fleischmann.hu/&quot;&gt;Gergő&lt;/a&gt; • &lt;a href=&quot;http://andras.fleischmann.hu/&quot;&gt;András&lt;/a&gt;) and a &lt;a href=&quot;http://tofi.fleischmann.hu/&quot;&gt;dog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;economy: good&lt;/li&gt;
-&lt;/ul&gt;
+* gender: male
+* length, weight: average
+* sexual orientation: straight
+* religion: none (but if I really need to choose: &lt;a href=&quot;https://en.wikipedia.org/wiki/Buddhism&quot;&gt;Buddhism&lt;/a&gt; or &lt;a href=&quot;https://en.wikipedia.org/wiki/International_Society_for_Krishna_Consciousness&quot;&gt;Krishna Consciousness&lt;/a&gt; are the closest)
+* political views: undecided
+* intelligence: normal
+* civil status: married, 3 kids (&lt;a href=&quot;http://anna.fleischmann.hu/&quot;&gt;Anna&lt;/a&gt; • &lt;a href=&quot;http://gergo.fleischmann.hu/&quot;&gt;Gergő&lt;/a&gt; • &lt;a href=&quot;http://andras.fleischmann.hu/&quot;&gt;András&lt;/a&gt;) and a &lt;a href=&quot;http://tofi.fleischmann.hu/&quot;&gt;dog&lt;/a&gt;
+* economy: good
 
 &lt;!-- my Javascript Helpers --&gt;
 
@@ -622,7 +613,7 @@
 	}
 
 &lt;/script&gt;
-
+&lt;/a&gt;&lt;/p&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/table&gt;
 </content>
   </entry>
   
