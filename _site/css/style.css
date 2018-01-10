@@ -554,6 +554,18 @@ table.toc tr:nth-child(even) {
   background-color: #ffffff;
 }
 
+table.blockheader {
+  border: 0px;
+  margin-bottom: 0;
+}
+table.blockheader th {
+  padding: 0;
+  background-color: white;
+  color: black;
+  border: 0px;
+  font-weight: normal;
+}
+
 .footnotes {
   clear: both;
   padding: 0;

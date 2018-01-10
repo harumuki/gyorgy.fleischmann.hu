@@ -3,7 +3,7 @@
   <title>News 'n' Updates | gyorgy.fleischmann.hu</title>
   <link href="http://0.0.0.0:4000/feed.xml" rel="self"/>
   <link href="http://0.0.0.0:4000/"/>
-  <updated>2018-01-08T13:18:22+01:00</updated>
+  <updated>2018-01-10T21:21:17+01:00</updated>
   <id>http://0.0.0.0:4000/</id>
   <author>
     <name></name>
@@ -65,7 +65,7 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;div class=&quot;rightbox&quot; style=&quot;width: 15%;&quot;&gt;&lt;a href=&quot;http://gyorgy.fleischmann.hu/&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/HTML_(HyperText_Markup_Language)_2017_-_gyorgy.fleischmann.hu_(2017-11-22).png&quot; alt=&quot;gyorgy.fleischmann.hu saved in 2017.&quot; title=&quot;gyorgyfleischmann.hu saved in 2017.&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://gyorgy.fleischmann.hu/&quot;&gt;gyorgy.fleischmann.hu&lt;/a&gt; saved in 2017.&lt;/p&gt;&lt;/div&gt;
-    &lt;p&gt;Épp amikor ezeket a feltöltéseket és a hozzájuk kapcsolódó finomításokat csináltam (DNS bejegyzések frissítése, régi karakter kódolások javítása a &lt;a href=&quot;https://github.com/&quot;&gt;GitHub&lt;/a&gt;-hoz, &lt;a href=&quot;https://analytics.google.com/&quot;&gt;Google Analytics&lt;/a&gt; újraélesztése) gondoltam arra, hogy mi lenne akkor, ha ide újra készítenék már egy teljesen új oldalt is, az itt adott technikákkal (GitHub, jekyll, html5, css3). Első körben a következőket tűztem ki célul:&lt;/p&gt;
+    &lt;p&gt;Épp amikor ezeket a feltöltéseket és a hozzájuk kapcsolódó finomításokat csináltam (DNS bejegyzések frissítése, régi karakter kódolások javítása a &lt;a href=&quot;https://github.com/&quot;&gt;GitHub&lt;/a&gt;-hoz, &lt;a href=&quot;https://analytics.google.com/&quot;&gt;Google Analytics&lt;/a&gt; újraélesztése) gondoltam arra, hogy mi lenne akkor, ha ide újra készítenék már egy teljesen új oldalt is, az itt adott technikákkal (GitHub, jekyll, HTML5, CSS3). Első körben a következőket tűztem ki célul:&lt;/p&gt;
     &lt;ul&gt;
       &lt;li&gt;tudjon majd kezelni sorkizárt szövegeket úgy, hogy dinamikusan kezeljen ezzel együtt jobbra/balra igazított képeket vagy szövegdobozokat is;&lt;/li&gt;
       &lt;li&gt;valahogy lehessen iniciálékat tenni a bekezdések elé;&lt;/li&gt;
@@ -107,7 +107,7 @@
 
 &lt;h1 id=&quot;summary&quot;&gt;SUMMARY&lt;/h1&gt;
 
-&lt;div class=&quot;rightbox&quot; style=&quot;width: 35%;&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;photos/flex.jpg&quot; alt=&quot;Fleischmann György&quot; title=&quot;Fleischmann György&quot; /&gt;
+&lt;div class=&quot;rightbox&quot; style=&quot;width: 30%;&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;photos/flex.jpg&quot; alt=&quot;Fleischmann György&quot; title=&quot;Fleischmann György&quot; /&gt;
   &lt;p class=&quot;phototext&quot;&gt;Photo by me, 2016.11.11., Minolta Dynax 7D, 50mm&lt;/p&gt;
 &lt;/div&gt;
 
@@ -121,29 +121,34 @@
 
 &lt;h1 style=&quot;clear: none;&quot;&gt;FAMILY&lt;/h1&gt;
 
-&lt;div style=&quot;margin-left: 1em; padding: 0; float: right; width: 45pt;&quot;&gt;
-  &lt;p style=&quot;text-align: right; margin-bottom: 0;margin-right: 0.5em; font-size: 10pt;&quot;&gt;&lt;a style=&quot;color: #bbb;&quot; href=&quot;javascript:showhide( 'motherID', 'fatherID', 'vigyorID', 'wifeID', 'annaID', 'gergoID', 'andrasID', 'familypics' );&quot;&gt;more/less&lt;/a&gt;&lt;/p&gt;
+&lt;div style=&quot;margin-left: 1em; padding: 0; float: right; width: 75pt;&quot;&gt;
+  &lt;p style=&quot;text-align: right; margin-bottom: 0;margin-right: 0.5em; font-size: 10pt;&quot;&gt;&lt;a style=&quot;color: #bbb;&quot; href=&quot;javascript:showhide( 'motherID', 'fatherID', 'vigyorID', 'wifeID', 'annaID', 'gergoID', 'andrasID', 'familypics' );&quot;&gt;more / less &lt;i class=&quot;icon-plus&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;h2 id=&quot;mohács-baranya--hungary&quot;&gt;&lt;a href=&quot;https://hu.wikipedia.org/wiki/Moh%C3%A1cs&quot;&gt;Mohács&lt;/a&gt;, &lt;a href=&quot;https://hu.wikipedia.org/wiki/Baranya_megye&quot;&gt;Baranya&lt;/a&gt; • &lt;a href=&quot;https://en.wikipedia.org/wiki/Hungary&quot;&gt;HUNGARY&lt;/a&gt;&lt;/h2&gt;
-&lt;div id=&quot;motherID&quot; style=&quot;display:none;&quot;&gt;&lt;span title=&quot;1937-2014&quot;&gt;37-14&lt;/span&gt; • &lt;a href=&quot;http://anyuka.fleischmann.hu/&quot;&gt;mother&lt;/a&gt; • &lt;span id=&quot;motherBirthDiff&quot;&gt;&lt;/span&gt;&lt;/div&gt;
-&lt;div id=&quot;fatherID&quot; style=&quot;display:none;&quot;&gt;&lt;span title=&quot;1945-&quot;&gt;45-na&lt;/span&gt; • &lt;a href=&quot;http://apuka.fleischmann.hu/&quot;&gt;father&lt;/a&gt; • &lt;span id=&quot;fatherBirthDiff&quot;&gt;&lt;/span&gt;&lt;/div&gt;
-&lt;div id=&quot;vigyorID&quot; style=&quot;display:none;&quot;&gt;&lt;span title=&quot;1957-&quot;&gt;57-na&lt;/span&gt; • stepbrother • &lt;span id=&quot;vigyorBirthDiff&quot;&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div id=&quot;motherID&quot; style=&quot;display:none;&quot;&gt;&lt;span title=&quot;1937-2014&quot;&gt;37-14&lt;/span&gt; • &lt;a href=&quot;http://anyuka.fleischmann.hu/&quot;&gt;mother, Zsuzsanna&lt;/a&gt; • &lt;span id=&quot;motherBirthDiff&quot;&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div id=&quot;fatherID&quot; style=&quot;display:none;&quot;&gt;&lt;span title=&quot;1945-&quot;&gt;45-na&lt;/span&gt; • &lt;a href=&quot;http://apuka.fleischmann.hu/&quot;&gt;father, György&lt;/a&gt; • &lt;span id=&quot;fatherBirthDiff&quot;&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div id=&quot;vigyorID&quot; style=&quot;display:none;&quot;&gt;&lt;span title=&quot;1957-&quot;&gt;57-na&lt;/span&gt; • stepbrother, István • &lt;span id=&quot;vigyorBirthDiff&quot;&gt;&lt;/span&gt;&lt;/div&gt;
 &lt;div id=&quot;flexID&quot; style=&quot;display:block;&quot;&gt;&lt;span title=&quot;1970-&quot;&gt;&lt;b&gt;70-na&lt;/b&gt;&lt;/span&gt; • &lt;span id=&quot;flexBirthDiff&quot;&gt;&lt;/span&gt;&lt;/div&gt;
-&lt;div id=&quot;wifeID&quot; style=&quot;display:none;&quot;&gt;&lt;span title=&quot;1974-&quot;&gt;74-na&lt;/span&gt; • &lt;a href=&quot;http://hajnalka.fleischmann.hu/&quot;&gt;wife&lt;/a&gt; • &lt;span id=&quot;wifeBirthDiff&quot;&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div id=&quot;wifeID&quot; style=&quot;display:none;&quot;&gt;&lt;span title=&quot;1974-&quot;&gt;74-na&lt;/span&gt; • &lt;a href=&quot;http://hajnalka.fleischmann.hu/&quot;&gt;wife, Hajnalka&lt;/a&gt; • &lt;span id=&quot;wifeBirthDiff&quot;&gt;&lt;/span&gt;&lt;/div&gt;
 &lt;div id=&quot;annaID&quot; style=&quot;display:none;&quot;&gt;&lt;span title=&quot;2001-&quot;&gt;01-na&lt;/span&gt; • &lt;a href=&quot;http://anna.fleischmann.hu/&quot;&gt;Anna&lt;/a&gt; • &lt;span id=&quot;annaBirthDiff&quot;&gt;&lt;/span&gt;&lt;/div&gt;
 &lt;div id=&quot;gergoID&quot; style=&quot;display:none;&quot;&gt;&lt;span title=&quot;2005-&quot;&gt;05-na&lt;/span&gt; • &lt;a href=&quot;http://gergo.fleischmann.hu/&quot;&gt;Gergő&lt;/a&gt; • &lt;span id=&quot;gergoBirthDiff&quot;&gt;&lt;/span&gt;&lt;/div&gt;
 &lt;div id=&quot;andrasID&quot; style=&quot;display:none;&quot;&gt;&lt;span title=&quot;2017-&quot;&gt;17-na&lt;/span&gt; • &lt;a href=&quot;http://andras.fleischmann.hu/&quot;&gt;András&lt;/a&gt; • &lt;span id=&quot;andrasBirthDiff&quot;&gt;&lt;/span&gt;&lt;/div&gt;
 
 &lt;h1 id=&quot;work&quot;&gt;WORK&lt;/h1&gt;
 
-&lt;div style=&quot;margin-left: 1em; padding: 0; float: right; width: 45pt;&quot;&gt;
-  &lt;p style=&quot;text-align: right; margin-bottom: 0;margin-right: 0.5em; font-size: 10pt;&quot;&gt;&lt;a style=&quot;color: #bbb;&quot; href=&quot;javascript:showhide( 'egID', 'userID', 'schneiderID', 'sgID', 'clID', 'mofaID' );&quot;&gt;more/less&lt;/a&gt;&lt;/p&gt;
+&lt;div style=&quot;margin-left: 1em; padding: 0; float: right; width: 75pt;&quot;&gt;
+  &lt;p style=&quot;text-align: right; margin-bottom: 0;margin-right: 0.5em; font-size: 10pt;&quot;&gt;&lt;a style=&quot;color: #bbb;&quot; href=&quot;javascript:showhide( 'egID', 'userID', 'schneiderID', 'sgID', 'clID', 'mofaID' );&quot;&gt;more / less &lt;i class=&quot;icon-plus&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;h2 id=&quot;budapest-pest--hungary&quot;&gt;&lt;a href=&quot;https://hu.wikipedia.org/wiki/Budapest&quot;&gt;Budapest&lt;/a&gt;, &lt;a href=&quot;https://hu.wikipedia.org/wiki/Pest_megye&quot;&gt;Pest&lt;/a&gt; • &lt;a href=&quot;https://en.wikipedia.org/wiki/Hungary&quot;&gt;HUNGARY&lt;/a&gt;&lt;/h2&gt;
 
-&lt;p&gt;&lt;span title=&quot;2015-&quot;&gt;&lt;b&gt;15-na&lt;/b&gt;&lt;/span&gt; • System engineer, &lt;a href=&quot;http://www.ibm.com/&quot;&gt;IBM&lt;/a&gt; &lt;a href=&quot;http://www-03.ibm.com/software/products/en/spectrum-protect&quot;&gt;Spectrum Protect&lt;/a&gt; (Tivoli Storage Manager) specialist • &lt;a href=&quot;http://www.scss.hu/&quot;&gt;SCSS Informatikai, Kereskedelmi és Szolgáltató Kft.&lt;/a&gt;, &lt;a href=&quot;http://effectivegroup.hu/&quot;&gt;Effective Group Informatika Zrt.&lt;/a&gt;&lt;/p&gt;
+&lt;table class=&quot;blockheader&quot;&gt;
+  &lt;tr&gt;
+    &lt;th width=&quot;1%;&quot; valign=&quot;top&quot; style=&quot;padding-right: 0.3em;&quot;&gt;&lt;nobr&gt;&lt;span title=&quot;2015-&quot;&gt;&lt;b&gt;15-na&lt;/b&gt;&lt;/span&gt; •&lt;/nobr&gt;&lt;/th&gt;
+    &lt;th&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;System engineer, &lt;a href=&quot;http://www.ibm.com/&quot;&gt;IBM&lt;/a&gt; &lt;a href=&quot;http://www-03.ibm.com/software/products/en/spectrum-protect&quot;&gt;Spectrum Protect&lt;/a&gt; (Tivoli Storage Manager) specialist • &lt;a href=&quot;http://www.scss.hu/&quot;&gt;SCSS Informatikai, Kereskedelmi és Szolgáltató Kft.&lt;/a&gt;, &lt;a href=&quot;http://effectivegroup.hu/&quot;&gt;Effective Group Informatika Zrt.&lt;/a&gt;&lt;/p&gt;&lt;/th&gt; 
+  &lt;/tr&gt;
+&lt;/table&gt;
 
 &lt;div id=&quot;egID&quot; style=&quot;display:none; margin-left: 1em; margin-bottom: 1em;&quot;&gt;
 
@@ -170,7 +175,12 @@
 
 &lt;/div&gt;
 
-&lt;p&gt;&lt;span title=&quot;2004-2014&quot;&gt;&lt;b&gt;04-14&lt;/b&gt;&lt;/span&gt; • System engineer, &lt;a href=&quot;http://www.ibm.com/&quot;&gt;IBM&lt;/a&gt; &lt;a href=&quot;http://www-03.ibm.com/software/products/en/spectrum-protect&quot;&gt;Tivoli Storage Manager&lt;/a&gt; specialist • &lt;a href=&quot;http://www.user.hu/&quot;&gt;USER Tanácsadó Kft.&lt;/a&gt;, &lt;a href=&quot;http://www.userrendszerhaz.hu/&quot;&gt;USER Rendszerház Kft.&lt;/a&gt; (IBM Tivoli Awards, &lt;span title=&quot;2012&quot;&gt;12&lt;/span&gt; • IBM AAA-level Tivoli Deployment Accreditation, &lt;span title=&quot;2013&quot;&gt;13&lt;/span&gt;)&lt;/p&gt;
+&lt;table class=&quot;blockheader&quot;&gt;
+  &lt;tr&gt;
+    &lt;th width=&quot;1%;&quot; valign=&quot;top&quot; style=&quot;padding-right: 0.3em;&quot;&gt;&lt;nobr&gt;&lt;span title=&quot;2004-2014&quot;&gt;&lt;b&gt;04-14&lt;/b&gt;&lt;/span&gt; •&lt;/nobr&gt;&lt;/th&gt;
+    &lt;th&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;System engineer, &lt;a href=&quot;http://www.ibm.com/&quot;&gt;IBM&lt;/a&gt; &lt;a href=&quot;http://www-03.ibm.com/software/products/en/spectrum-protect&quot;&gt;Tivoli Storage Manager&lt;/a&gt; specialist • &lt;a href=&quot;http://www.user.hu/&quot;&gt;USER Tanácsadó Kft.&lt;/a&gt;, &lt;a href=&quot;http://www.userrendszerhaz.hu/&quot;&gt;USER Rendszerház Kft.&lt;/a&gt; (IBM Tivoli Awards, &lt;span title=&quot;2012&quot;&gt;12&lt;/span&gt; • IBM AAA-level Tivoli Deployment Accreditation, &lt;span title=&quot;2013&quot;&gt;13&lt;/span&gt;)&lt;/p&gt;&lt;/th&gt; 
+  &lt;/tr&gt;
+&lt;/table&gt;
 
 &lt;div id=&quot;userID&quot; style=&quot;display:none; margin-left: 1em; margin-bottom: 1em;&quot;&gt;
 
@@ -205,7 +215,12 @@
 
 &lt;/div&gt;
 
-&lt;p&gt;&lt;span title=&quot;2001-2003&quot;&gt;&lt;b&gt;01-03&lt;/b&gt;&lt;/span&gt; • Network / &lt;a href=&quot;http://www.ibm.com/&quot;&gt;IBM&lt;/a&gt; &lt;a href=&quot;http://www-03.ibm.com/software/products/en/ibmdomino&quot;&gt;Lotus Notes / Domino&lt;/a&gt; administrator • &lt;a href=&quot;http://www.schneider-electric.hu/&quot;&gt;Schneider Electric Hungária Villamossági Rt.&lt;/a&gt;&lt;/p&gt;
+&lt;table class=&quot;blockheader&quot;&gt;
+  &lt;tr&gt;
+    &lt;th width=&quot;1%;&quot; valign=&quot;top&quot; style=&quot;padding-right: 0.3em;&quot;&gt;&lt;nobr&gt;&lt;span title=&quot;2001-2003&quot;&gt;&lt;b&gt;01-03&lt;/b&gt;&lt;/span&gt; •&lt;/nobr&gt;&lt;/th&gt;
+    &lt;th&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;Network / &lt;a href=&quot;http://www.ibm.com/&quot;&gt;IBM&lt;/a&gt; &lt;a href=&quot;http://www-03.ibm.com/software/products/en/ibmdomino&quot;&gt;Lotus Notes / Domino&lt;/a&gt; administrator • &lt;a href=&quot;http://www.schneider-electric.hu/&quot;&gt;Schneider Electric Hungária Villamossági Rt.&lt;/a&gt;&lt;/p&gt;&lt;/th&gt; 
+  &lt;/tr&gt;
+&lt;/table&gt;
 
 &lt;div id=&quot;schneiderID&quot; style=&quot;display:none; margin-left: 1em; margin-bottom: 1em; margin-top: 0em;&quot;&gt;
 
@@ -221,7 +236,12 @@
 
 &lt;/div&gt;
 
-&lt;p&gt;&lt;span title=&quot;1998-2001&quot;&gt;&lt;b&gt;98-01&lt;/b&gt;&lt;/span&gt; • Office Automation Officer • &lt;a href=&quot;http://www.societegenerale.fr/&quot;&gt;Société Générale Hungária Bank Inc.&lt;/a&gt;&lt;/p&gt;
+&lt;table class=&quot;blockheader&quot;&gt;
+  &lt;tr&gt;
+    &lt;th width=&quot;1%;&quot; valign=&quot;top&quot; style=&quot;padding-right: 0.3em;&quot;&gt;&lt;nobr&gt;&lt;span title=&quot;1998-2001&quot;&gt;&lt;b&gt;98-01&lt;/b&gt;&lt;/span&gt; •&lt;/nobr&gt;&lt;/th&gt;
+    &lt;th&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;Office Automation Officer • &lt;a href=&quot;http://www.societegenerale.fr/&quot;&gt;Société Générale Hungária Bank Inc.&lt;/a&gt;&lt;/p&gt;&lt;/th&gt; 
+  &lt;/tr&gt;
+&lt;/table&gt;
 
 &lt;div id=&quot;sgID&quot; style=&quot;display:none; margin-left: 1em; margin-bottom: 1em; margin-top: 0em;&quot;&gt;
 
@@ -234,7 +254,12 @@
 
 &lt;/div&gt;
 
-&lt;p&gt;&lt;span title=&quot;1997-1998&quot;&gt;&lt;b&gt;97-98&lt;/b&gt;&lt;/span&gt; • EDP assistent • &lt;a href=&quot;http://www.ca-cib.com/&quot;&gt;Crédit Lyonnais Bank Hungary Inc.&lt;/a&gt;&lt;/p&gt;
+&lt;table class=&quot;blockheader&quot;&gt;
+  &lt;tr&gt;
+    &lt;th width=&quot;1%;&quot; valign=&quot;top&quot; style=&quot;padding-right: 0.3em;&quot;&gt;&lt;nobr&gt;&lt;span title=&quot;1997-1998&quot;&gt;&lt;b&gt;97-98&lt;/b&gt;&lt;/span&gt; •&lt;/nobr&gt;&lt;/th&gt;
+    &lt;th&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;EDP assistent • &lt;a href=&quot;http://www.ca-cib.com/&quot;&gt;Crédit Lyonnais Bank Hungary Inc.&lt;/a&gt;&lt;/p&gt;&lt;/th&gt; 
+  &lt;/tr&gt;
+&lt;/table&gt;
 
 &lt;div id=&quot;clID&quot; style=&quot;display:none; margin-left: 1em; margin-bottom: 1em; margin-top: 0em;&quot;&gt;
 
@@ -247,7 +272,12 @@
 
 &lt;h2 id=&quot;mohács-baranya--hungary-1&quot;&gt;&lt;a href=&quot;https://hu.wikipedia.org/wiki/Moh%C3%A1cs&quot;&gt;Mohács&lt;/a&gt;, &lt;a href=&quot;https://hu.wikipedia.org/wiki/Baranya_megye&quot;&gt;Baranya&lt;/a&gt; • &lt;a href=&quot;https://en.wikipedia.org/wiki/Hungary&quot;&gt;HUNGARY&lt;/a&gt;&lt;/h2&gt;
 
-&lt;li class=&quot;smallest&quot;&gt;&lt;span title=&quot;1991-1997&quot;&gt;&lt;b&gt;91-97&lt;/b&gt;&lt;/span&gt; • System engineer • &lt;a href=&quot;http://kronospan-mofa.hu/&quot;&gt;Fibreboard Factory (M.O.F.A.) Inc.&lt;/a&gt;&lt;/li&gt;
+&lt;table class=&quot;blockheader&quot;&gt;
+  &lt;tr&gt;
+    &lt;th width=&quot;1%;&quot; valign=&quot;top&quot; style=&quot;padding-right: 0.3em;&quot;&gt;&lt;nobr&gt;&lt;span title=&quot;1991-1997&quot;&gt;&lt;b&gt;91-97&lt;/b&gt;&lt;/span&gt; •&lt;/nobr&gt;&lt;/th&gt;
+    &lt;th&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;System engineer • &lt;a href=&quot;http://kronospan-mofa.hu/&quot;&gt;Fibreboard Factory (M.O.F.A.) Inc.&lt;/a&gt;&lt;/p&gt;&lt;/th&gt; 
+  &lt;/tr&gt;
+&lt;/table&gt;
 
 &lt;div id=&quot;mofaID&quot; style=&quot;display:none; margin-left: 1em; margin-bottom: 1em;&quot;&gt;
 
@@ -339,7 +369,7 @@
 &lt;p&gt;&lt;span title=&quot;2017&quot;&gt;&lt;b&gt;17&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.fleischmann.hu/&quot;&gt;Family pages&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.fleischmann.hu/&quot;&gt;Family pages (GitHub, jekyll, HTML5, CSS3)&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/FleXoft/HuTUG&quot;&gt;Hu-TUG storage newsletters 1-5&lt;/a&gt; (Google Docs)&lt;/li&gt;
   &lt;li&gt;Simple Heart Rate monitoring macOS application based on Polar H7 BLE device with Xcode and Swift &lt;a href=&quot;https://github.com/FleXoft/Polar-H7-HRM&quot;&gt;project on GitHub&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -361,7 +391,7 @@
 &lt;p&gt;&lt;span title=&quot;-2010&quot;&gt;&lt;b&gt;-10&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Active photoblogger (photoblog site generator perl script)&lt;/li&gt;
+  &lt;li&gt;Active photoblogger (+ photoblog site generator perl script)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;div class=&quot;rightbox&quot; style=&quot;width: 17%;&quot;&gt;
@@ -393,7 +423,7 @@
   &lt;li&gt;compulsory military service completed&lt;/li&gt;
   &lt;li&gt;free time activities: football, cinema, reading, music, photography&lt;/li&gt;
   &lt;li&gt;I do not smoke&lt;/li&gt;
-  &lt;li&gt;last update: 2018.01.06.&lt;/li&gt;
+  &lt;li&gt;last update: 01/10/2018&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&quot;others-ii&quot;&gt;OTHERS II.&lt;/h1&gt;

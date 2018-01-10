@@ -485,6 +485,21 @@ table.toc {
 
 }
 
+table.blockheader {
+
+  border: 0px;
+  margin-bottom: 0;
+
+  th {
+    padding: 0;
+    background-color: white;
+    color: black;
+    border: 0px;
+    font-weight: normal;
+  }
+  
+}
+
 ////////////////////////////////////////////////////////////////////////////////////////
   
 /////////////////////
