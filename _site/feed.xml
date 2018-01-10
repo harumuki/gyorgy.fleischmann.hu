@@ -3,7 +3,7 @@
   <title>News 'n' Updates | gyorgy.fleischmann.hu</title>
   <link href="http://0.0.0.0:4000/feed.xml" rel="self"/>
   <link href="http://0.0.0.0:4000/"/>
-  <updated>2018-01-10T21:21:17+01:00</updated>
+  <updated>2018-01-10T21:31:56+01:00</updated>
   <id>http://0.0.0.0:4000/</id>
   <author>
     <name></name>
@@ -155,7 +155,6 @@
 &lt;ul style=&quot;list-style-type:disc&quot;&gt;
 &lt;li&gt;Supporting a dozen large IBM TSM, SP customers in Hungary&lt;/li&gt;
 &lt;li&gt;Supporting IBM GPFS, Spectrum Scale cutomers with TSM / SP HSM&lt;/li&gt;
-&lt;li&gt;TSM Symposium, 15 (Dresden)&lt;/li&gt;
 &lt;li&gt;TSM Symposium, 15 (Dresden)&lt;/li&gt;
 &lt;li&gt;Speaker of &lt;a href=&quot;http://systemsday.momartmail.hu/Home/Program&quot;&gt;IBM, RRC Systems Day&lt;/a&gt; (Effective storage usage in backup environments, real implementation experiences), 17&lt;/li&gt;
 &lt;/ul&gt;
