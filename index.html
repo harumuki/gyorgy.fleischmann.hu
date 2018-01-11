@@ -27,7 +27,7 @@ title:  Welcome to
 
   <article class='post' style="">
 
-    <h1 class='post-title'><a href="{{ site.path }}{{ post.url }}" style="">{{ post.title }}</a></h1>
+    <a href="{{ site.path }}{{ post.url }}"><h1 class='post-title'>{{ post.title }}</h1></a>
 
     <div class="post-date"><i class="icon-calendar"></i> {% assign m = post.date | date: "%-m" %}{{ post.date | date: "%Y., " }}{% case m %}{% when '1' %}január{% when '2' %}február{% when '3' %}március{% when '4' %}április{% when '5' %}május{% when '6' %}június{% when '7' %}július{% when '8' %}augusztus{% when '9' %}szeptember{% when '10' %}október{% when '11' %}november{% when '12' %}december{% endcase %}{{ post.date | date: " %-d." }},
 
@@ -58,7 +58,7 @@ title:  Welcome to
 
     <!-- Read more part 2. -->
     {{ post.content | split:'<!-- break -->' | first }}
-    {% if post.content contains '<!-- break -->' %}<p style="float: right; clear: right;"><a href="{{ post.url }}">...a bejegyzés itt folytatódik <i class="icon-right-big"></i></a></p>{% endif %}
+    {% if post.content contains '<!-- break -->' %}<p style="float: right; clear: right;"><a href="{{ post.url }}">...a "{{ post.title }}" bejegyzés itt folytatódik <i class="icon-right-big"></i></a></p>{% endif %}
 
     <!-- Disqus counter -->
     {% if post.comments %}
