@@ -1,0 +1,645 @@
+<!doctype html public "-//W3C//DTD HTML 5.0//EN" "http://www.w3.org/TR/html5/strict.dtd">
+
+<!-- 
+
+#                                       __ _      _          _                                   _
+#                                      / _| |    (_)        | |                                 | |
+#   __ _ _   _  ___  _ __ __ _ _   _  | |_| | ___ _ ___  ___| |__  _ __ ___   __ _ _ __  _ __   | |__  _   _
+#  / _` | | | |/ _ \| '__/ _` | | | | |  _| |/ _ \ / __|/ __| '_ \| '_ ` _ \ / _` | '_ \| '_ \  | '_ \| | | |
+# | (_| | |_| | (_) | | | (_| | |_| |_| | | |  __/ \__ \ (__| | | | | | | | | (_| | | | | | | |_| | | | |_| |
+#  \__, |\__, |\___/|_|  \__, |\__, (_)_| |_|\___|_|___/\___|_| |_|_| |_| |_|\__,_|_| |_|_| |_(_)_| |_|\__,_|
+#   __/ | __/ |           __/ | __/ |
+#  |___/ |___/           |___/ |___/
+# -----------------------------------------------------------------------------------------------------------
+
+# Jekyll based web page POC on GitHub
+# 
+# 
+# Rls: 2018.01.01.  
+#
+
+-->
+
+<html lang="hu-HU">
+
+<head>
+
+  <meta charset="utf-8">
+
+  <meta name="keywords" content="Fleischmann György, fleischmann, flex, gyurci, flexoft, mohács, budapest, magyarország, hungary, photography, digital, photo, black and white, landscape, people, blog, light, photo blog, photolog, photoblog, linux, sinclair, zx spectrum, psion, timex, perl, lcd, minolta, 9000, d7d, tsm, tivoli, ibm, tsm, tivoli storage manager, spectrum protect, gpfs, spectrum scale, osx, apple, ble" />
+
+  <meta name="owner" content="FLEISCHMANN György" />
+  <meta name="author" content="FLEISCHMANN György" />
+
+  <meta name="description" content="A personal page for Fleischmann György."/>
+
+  <meta property="twitter:account_id" content="2447061"/>
+
+  <meta http-equiv="cleartype" content="on">
+
+  <title>🕰 Visszaemlékezés 1970 ... 2018 - gyorgy.fleischmann.hu</title>
+  <link rel="stylesheet" type="text/css" href="css/style.css" >
+  <link rel="stylesheet" type="text/css" href="css/syntax.css" >
+  <link rel="alternate" type="application/atom+xml" href="/feed.xml" title="News Feed">
+
+  <link rel="icon" href="http://gyorgy.fleischmann.hu/favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="http://gyorgy.fleischmann.hu/favicon.ico">
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108075264-7"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-108075264-7');
+  </script>
+
+  <!-- From: http://fontello.com/ -->
+  <link rel="stylesheet" href="fontello/css/fontello.css">
+  <link rel="stylesheet" href="fontello/css/animation.css">
+
+  <!-- PhotoSwipe part 1. -->
+
+  <!-- Core CSS file -->
+  <link rel="stylesheet" href="PhotoSwipe/photoswipe.css"> 
+
+  <!-- Skin CSS file (styling of UI - buttons, caption, etc.)
+       In the folder of skin CSS file there are also:
+       - .png and .svg icons sprite, 
+       - preloader.gif (for browsers that do not support CSS animations) -->
+  <link rel="stylesheet" href="PhotoSwipe/default-skin/default-skin.css"> 
+
+  <!-- Core JS file -->
+  <script src="PhotoSwipe/photoswipe.min.js"></script> 
+
+  <!-- UI JS file -->
+  <script src="PhotoSwipe/photoswipe-ui-default.min.js"></script> 
+
+</head>
+
+<!-- PhotoSwipe must have part 2. -->
+
+<!-- Root element of PhotoSwipe. Must have class pswp. -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true" style="margin: 0; padding: 0;">
+
+    <!-- Background of PhotoSwipe. 
+         It's a separate element as animating opacity is faster than rgba(). -->
+    <div class="pswp__bg"></div>
+
+    <!-- Slides wrapper with overflow:hidden. -->
+    <div class="pswp__scroll-wrap">
+
+        <!-- Container that holds slides. 
+            PhotoSwipe keeps only 3 of them in the DOM to save memory.
+            Don't modify these 3 pswp__item elements, data is added later on. -->
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar" style="margin: 0; padding: 0;">
+
+                <!--  Controls are self-explanatory. Order can be changed. -->
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+                <!-- element will get class pswp__preloader--active when preloader is running -->
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                      <div class="pswp__preloader__cut">
+                        <div class="pswp__preloader__donut"></div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div> 
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center" style="font-size: 25px; text-align: center;"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<body>
+
+<div class="container">
+
+  <header class="masthead" id="navbar">
+
+     <h2 class="masthead-title">
+       <a href="/"><b>gyorgy.fleischmann.hu</b></a>
+       <nobr>
+       <small>|<a href="tableofcontents.html"><i class="icon-list-numbered" style="font-size: 0.85em;"></i>tartalom</a></small>
+       <small>|<a href="categories.html"><i class="icon-list" style="font-size: 0.85em;"></i>kategóriák</a></small>
+       <small>|<a href="tags.html"><i class="icon-tags" style="font-size: 0.85em;"></i>#címkék</a></small>
+       <small>|<a href="feed.xml"><i class="icon-rss" style="font-size: 0.85em;"></i>RSS</a></small>
+       <small>|&nbsp;<a href="cv.html">rólam</a></small>
+       </nobr>
+     </h2>
+
+  </header>
+
+  <hr style="margin-top: -0.25em;">
+
+  <div class="content">
+    <article class='post'>
+
+  	
+  	
+    <h1 class='post-title'>🕰 Visszaemlékezés 1970 ... 2018</h1>
+
+    <div class="post-date"><i class="icon-calendar"></i> 1970., május 5.,
+
+	<!-- Source: https://sacha.me/articles/jekyll-word-counts/ -->
+	
+	
+	  2391 szó, elolvasásához kb.: 
+	
+
+	
+	
+	  13 perc kell
+	| 
+
+	
+	<i class="icon-user"></i>
+    
+	  <a href="mailto:gyorgy@fleischmann.hu">_flex</a>
+	
+	<img src="http://www.gravatar.com/avatar/645917b1946117c27a6ee9bbd02240e1?s=40" style="width: 12px;"> |
+
+	<i class="icon-list"></i>
+    [<a href="categories.html#memories / visszaemlékezés">memories / visszaemlékezés</a>]
+    <i class="icon-tags"></i>
+    
+      <span class=""><a href="tags.html#gyerekkor">#gyerekkor</a></span>
+    
+      <span class=""><a href="tags.html#család">#család</a></span>
+    
+      <span class=""><a href="tags.html#élet">#élet</a></span>
+    
+      <span class=""><a href="tags.html#visszaemlékezés">#visszaemlékezés</a></span>
+    
+      <span class=""><a href="tags.html#képek">#képek</a></span>
+    
+      <span class=""><a href="tags.html#hun">#hun</a></span>
+    
+
+    </div><!-- .post-date -->
+
+	
+
+    <p>Nagyon nehezem vettem rá magamat, hogy ezt a részt végül összeírjam, pedig már nagyon régóta terveztem, de ahogy most már látszik, szépen lassan azért csak-csak összeszedtem magamat és azokat a dolgokat is, amiket itt meg terveztem már nagyon, nagyon régóta osztani, furcsa módon első körben csak önmagammal. 😀</p>
+
+<p>Ha ne adj isten valaki más is valahogy mégis idekeveredne, beleolvasna és még esetleg ezek után is lenne bármi hozzászólása vagy akár heJesírási javaslata, akkor azt persze bátran tegye majd meg a lap legeslegalján!</p>
+
+<!-- break -->
+
+<p>Kezdjük is akkor ezt a “történetet” egészen az elejéről!</p>
+
+<!-- Tartalom -->
+<div class="rightbox rightboxborders" style="width: 29%;">
+<h2>Tartalom:</h2>
+
+<p style="font-size: 0.6em;">[1970 - 1976]<br />
+[1976 - 1984]<br />
+</p>
+</div>
+
+<h1 style="clear: left;"> 1970., május 5. - 1976., szeptember 1.</h1>
+
+<p>Amennyire én tudom, a születésem tényleg nem lehetett egy “leányálom” anyámnak - főleg úgy, hogy láttam már közelről pár születést -, aki az elmondásai alapján nagyon megkínlódott velem. Majdnem elvérzett a szülésben, mivel én sem segítettem nagyon a folyamatot, azaz nem nagyon akartam magamtól valahogy erre a világra megszületni. Magához a születésemhez az akkori technikák közül - ha igazak az elmesélt történetek és miért ne lennének már azok -, akkor a szülőfogó nevű frappáns kis eszközt használták fel  segítségként.
+Így, már néhány év eltelte után, bátran kijelenthetjük, hogy nagyon sokat nem ártottak végül ezzel a szerkezettel nekem, bár már egyre többször érzem azt, hogy az én életem is véges lesz. ✞ Esténként puffadok, sokszor zsibbad már reggelente a bal kezem, többször megmagyarázhahatlanul nekem is fáj már a fejem (korábban ilyenem sem volt) és összevissza dobog gyakran, nekem már nagyon zavaró módon a “kis” szívem… és amúgy is eleget láttam, éltem már. Ha az elét elég kegyes lesz hozzám, akkor nem apám halála előtt megyek majd el! De ne ugorjunk még ennyire a történet végére!!!</p>
+
+<p>A szülés után pár hónappal már a Mohácsi Városi Bölcsőde (7700 Mohács, Dózsa György utca 9.) műintézmény tagja lettem. Magáról a bölcsiről nem sok emlékem maradt meg, de anyám által sokat emlegetett történet alapján már 6 hónaposan szobatiszta voltam… 🤣</p>
+
+<div class="row" style=""> 
+  <div class="column">
+	<img class="shadow" src="photos/vissza/197x_gy_baba.JPG" />
+	<img class="shadow" src="photos/vissza/197x_gy_dedi.JPG" />
+	<img class="shadow" src="photos/vissza/197x_gy_anyuka2.JPG" />
+	<img class="shadow" src="photos/vissza/197x_gy_anyuka.JPG" />
+	
+  </div>
+  <div class="column">
+	<img class="shadow" src="photos/vissza/197x_gy_1ev.JPG" />
+  	<img class="shadow" src="photos/vissza/197x_gy_baba_anyuka.JPG" />
+	<img class="shadow" src="photos/vissza/197x_gy_baba_anyuka_dedi.JPG" />
+	<img class="shadow" src="photos/vissza/197x_gy_apuka.JPG" />
+
+  </div>
+  <div class="column">
+	<img class="shadow" src="photos/vissza/197x_gy_baba_anyuka2.JPG" />
+	<img class="shadow" src="photos/vissza/197x_gy_dedi2.JPG" />
+	<img class="shadow" src="photos/vissza/197x_gy_dombai.JPG" />
+	<img class="shadow" src="photos/vissza/197x_gy_.JPG" />
+
+  </div>
+  <div class="column">
+  	<img class="shadow" src="photos/vissza/197x_gy_baba_apuka.JPG" />
+	<img class="shadow" src="photos/vissza/197x_gy_apuka2.JPG" />
+	<img class="shadow" src="photos/vissza/1973_gy_3eves.JPG" />
+	<img class="shadow" src="photos/vissza/197x_gy__.JPG" />
+
+  </div>
+</div>
+
+<p>Innen persze egyenes út vezetett tovább a Mohácsi Korsós utcai Óvodába (7700 Mohács, Korsós utca ?.). Az az emlékem van meg, hogy volt egy nyár, amikor pár hétre másik óvodába kellet átköltözni pár hétre, és a csoportomból senki más nem jött velem pont abba a óvodába ahova én mentem át erre az ideiglenes pár hetes időre. Kicsit megviselt ez a dolog akkor, főleg ha így, ennyi év után is még mindig így emlékszem rá. 
+Vannak olyan emlékképeim is, hogy az ovi udvarának egyik falán volt egy kis lyuk a kis összekötő utcára és azon keresztül beszélgetünk a nem ovis, de velünk egykorú, de közel lakó gyerekekkel, illetve az is, hogy volt egy év, amikor valahogy az óvónénik elfelejtették év végén visszadni a korábban év közben elkobzott játékokat. Nekem az van meg, hogy volt pár mini Tom és Jerry-s képregénykönyvem, ami így végül náluk végezte.</p>
+
+<p>A képek és az emlékek alapján a következő személyekre emlékszem vissza:</p>
+
+<p>És akkor jöjjenek a bölcsis és az ovis képek ehhez az időszakhoz:</p>
+
+<p><img class="shadow" src="photos/vissza/197x_gy_ovi_6.JPG" /></p>
+
+<div class="row" style=""> 
+  <div class="column">
+	<img class="shadow" src="photos/vissza/197x_gy_ovi_1.JPG" /> 
+	<img class="shadow" src="photos/vissza/197x_gy_ovi_9.JPG" />	
+	
+  </div>
+  <div class="column">	
+  	<img class="shadow" src="photos/vissza/197x_gy_ovi_5.JPG" />
+
+  </div>
+  <div class="column">
+	<img class="shadow" src="photos/vissza/197x_gy_ovi_7.JPG" />
+	<img class="shadow" src="photos/vissza/197x_gy_ovi_3.JPG" />
+	<img class="shadow" src="photos/vissza/197x_gy_ovi_2.JPG" />
+  
+  </div>
+  <div class="column">
+	<img class="shadow" src="photos/vissza/197x_gy_ovi_8.JPG" />
+	<img class="shadow" src="photos/vissza/197x_gy_ovi_4.JPG" />
+  
+  </div>
+</div>
+
+<!-- Áltiskola -->
+
+<h1 id="1976-szeptember-1---1984-szeptember-1-általános-iskola">1976., szeptember 1. - 1984., szeptember 1. (általános iskola)</h1>
+<h3 id="mohács-térségi-Általános-iskola---széchenyi-iskola---széchenyi-téri-Általános-iskola-7700-mohács-széchenyi-tér-17">Mohács Térségi Általános Iskola - Széchenyi Iskola - Széchenyi Téri Általános Iskola (7700 Mohács, Széchenyi tér 17.)</h3>
+
+<p>1…4: 1976-77 (1.), 1977-78 (2.), 1978-79 (3.), 1979-80 (4.)</p>
+
+<div class="rightbox" style="width: 20%;"><img class="shadow" src="photos/vissza/gy_1osztaly.JPG" alt="1. osztály" title="1. osztály" /></div>
+<p>Mindenféle különösebben nagy stressz nélkül kezdődött nekem az általános iskola, ahova talán ha 1 hétig kísérgetett anyukám reggelente és utána -, mint mindenki más abban az időben - őnjáró lettem, nem úgy, mint a mai “modern” gyerek. Nagyon emlékszem még az alsós időkből Szökőts Béla tanárúrra, amint tesiórákat és talán még a rajzórákat is (???) tartja nekünk és szuperül tud fütyűlni mindenféle extra technikákkal. Sajnos nekem azóta sem sikerült így megtanulnom fütyülni. :-(</p>
+
+<p>Ausztriából kaptam egy nagyon menő narancssárga iskolatáskát és egy menőségben is hozzá illő vadi új tolltartót (az akkori kornak megfelelően töltőtollal). A táskát még valamikor az év elején Matics Tibi véletlenül tussal leöntötte (rajzórán ő ült mögöttem) és onnantól egy szép nagy sötét folt éktelenkedett tovább ezen a gyönyörű iskolatáskán. Az első sokk után ez valahogy többé már nem zavart. Sokáig megmaradt ez a táska és amikor nem használtam már az iskolában, akkor játékokat tartottam, cipeltem benne.</p>
+
+<p>Ebben az időben már voltak Koh-I-Noor Versatil töltőceruzák is, amit általában azok a szülők kapták a munkahelyükön, akik irodában dolgoztak, ahonnan hazavitték és odaadták a gyereküknek.</p>
+
+<p>Emlékszem még, hogy a Tolbuhin utcai lakásunk belső udvarában volt egy “játszótér”, ahol rengeteget bigéztünk <a href="https://hu.wiktionary.org/wiki/bige">link1</a> <a href="http://mek.oszk.hu/02100/02115/html/1-734.html">link2</a> és amikor valaki a lakók közül megcsinálta/tta a ping-pong asztalt, focikapukat és talán valami röplabdapályát is, amikhez a helyi halászok fonták a hálókat, akkor ezekkel is játszottunk. Közben lekezdődött a műszaki bolt építkezése és akkor az építkezési területre jártunk valami háborús játékot játaszni, amihez csipeszpuska / pisztoly kukoricával és az aluminium karnisból készített fúvócső voltak a fegyferek. A fúvócsövezésre, az u szöges csúzlizásra és az úgyszintén az aluminium karnisból készített mini ágyukkal való kísérletezés, a ping-pong labdából készített füstbomba és a benzisen ampulákkal robbangatás is jó móka volt, így utólag.</p>
+
+<p>Akikkel összejártam ebben az időben azok: a Kalocsai testvérek, de leginkább <a href="https://www.facebook.com/laszlo.kalocsai.96">Lacika</a>, Kalotai Péter, <a href="https://www.facebook.com/zoltan.husz">Husz Zoltán</a> aztán ott voltak még a Pereszlényi testvérek (Zsolt (), László), akikkel sokáig egy lépcsőházban laktunk és talán az ő helyükre költöztek a Kalotaiék egy időre.</p>
+
+<div class="rightbox" style="width: 15%;">
+
+<div class="rightboxborders" style="margin: 0;"><b>Sorsfordító 1.</b></div>
+
+<div class="rightbox" style="margin-top: 0.6em;">
+	<img class="shadow" src="photos/vissza/IMG_8962.JPG" />
+</div>
+
+</div>
+
+<p>Valamikor itt történt még meg az az ominózus eset is, hogy Szűcs Gábor (akivel eddig a pontig elég jó volt a kapcsolatom és ha változott is idővel, akkor nem magától ettől az esettől változott meg) osztálytársam a napközi WC-jében úgy lökte meg a felyem a mosdókagylóhoz, hogy az egyik felső, középső metszőfogam egyik sarka letört. Ez az eset azóta is rendesem beragadt az emlékezetembe és sokszor bevillan. Nagyon mély és nagyon rossz emléket hagyott bennem. A jobb oldali képen már látszik ennek a balsesetnek a nyoma.</p>
+
+<p>Volt egy nyár, amikor a nyári napközibe levittem (nem tudom, hogy ez mennyire volt előtte leegyeztetve???) a család hordozható magnóját, egy Boney M. kazettával a Fogadalmi Nagytemplom mögé és ott vagánykodtam vele.</p>
+
+<p>Sanyo Cassette Type Recorder Model M1530a
+Sanyo Cassette Type Recorder Model M2522
+Sanyo Cassette Tape Recorder Model M2511
+Philips N2221 Cassette Recorder</p>
+
+<p>VIDEOTON Munkácsy color</p>
+
+<p>4…8</p>
+
+<p>Már felsősök lehettünk, amikor elkezdtünk a MHSZ (Magyar Honvédelmi Szövetség) keretein belül működő modellező klubba / szakkörbe járni, a Vörösmarty utcába, az akkori művház udvarába Mangold Ferenc, Feri bácsihoz. Abban az időben ez volt a legjobb elfoglaltás, amit el tudok képzelni. A bátyám már évekkel korábban odajárt. A sok balsafa, a ragasztó szaga, maga a klubb, maga a műhely és a társaság nagyon jó emlékeket ébreszt még most is bennem. Ha ott a klubb keretein belül nem is sikerült, de valamikor, valamilyen napra kaptam egy A1-es összeszerelhető repülőmdelt ajándékba (a nagy mohács főutcán lévő játékboltból), amit otthon teljes egészében sikerült összeszerelni. Ez a repülőt valamikor sikerült is reptetni a mohácsi vásártér közelében lévő valamelyik nagy mezőn. Volt is pár model, ami beszállt a házak közé és talán olyan is volt, ami sosem lett meg többet. Érdekesség még, hogy amikor végleg bezárták a klubbot, akkor pár gép hozzánk került az udvari tárolónkba, amiknek az alkatrészeit (szárny, törzs) egy adott pillantaban anyám karónak használt el a ketünkben. Szép volt látni ezeket a gépeket a földbe dugva. Nem tudom, hogy pontosan kik jártak akkor még oda, de ott voltak pár alkalommal a Pereszlényi testvérek és a végefelé pedig Kulutácz Tamás volt még ott utolsóként, akit én még ismertem.</p>
+
+<div class="rightbox rightboxborders" style="width: 13%;"><b>Sorsfordító 2.</b></div>
+
+<p>Itt volt még egy “kemény” pratizánakciójuk a szüleimnek, amikor is előzetes bejelentés és mindenféle egyeztetés nélkül valamelyik nap bevittek Pécsre és ott megcsináltattak rajtam egy orrmandula műtétet. Ez még az a fajta műtét volt, amikor beültetik a kedves, aranyos gyerkőcöt a valamilyen segéd ölébe, aki az egyik legváratlanabb pillanatban összekulcsolja a saját lábaival a gyerek lábait, kezeivel, pedig lefogja a kezeit, majd hátulról/oldalról valaki suttyomban egy éteres gézzel elaltaja. Innen meg már jön a szájon át kapirgálós móka, ami a művelethez még kell…</p>
+
+<p>1980-81</p>
+
+<p>Zeneiskola</p>
+
+<p>1981-82</p>
+
+<p>1982-83</p>
+
+<p>1982., szeptember 14.</p>
+
+<p>1983., nyara Svédország? Atari 2600 konzol. (Asteroids-ra emlékszem nagyon.)</p>
+
+<p>1983-84</p>
+
+<p>Az utolsó áltiskolás évekből az az emlékem maradt még meg nagyon, hogy Csete Béla és Szalai Attila osztálytársaimmal hatalmasakat bringáztunk a suli körül és a városban is. Volt egy alkalom, amikor Béla és Szasza bemásztak az iskola óvóhelyébe és kicsórtak két db gázálarctáskát/szimatszatyrot. Akkor ez egy nagyon félelmetes mozzanat volt, utólag mégmindig azt gondolom, hogy ezzel nagyon vagányak voltak.
+Nagyon emlékszem még arra, hogyha megéheztünk, akkor simán tudtunk venni a főutcában lévő Lila presszóban (vagy hogy is hívták) egy kis vagy nagy zsíroskenyeret. Volt ott még hot-dog is, de az akkoriban még “megfizethetetlen” volt.</p>
+
+<p><img class="shadow" src="photos/vissza/gy_8osztaly.JPG" /></p>
+
+<div class="row" style=""> 
+  <div class="column">
+	
+  </div>
+  <div class="column">
+	<img class="shadow" src="photos/vissza/IMG_8951.JPG" />
+	<img class="shadow" src="photos/vissza/IMG_8953.JPG" />
+	<img class="shadow" src="photos/vissza/IMG_8954.JPG" />
+	<img class="shadow" src="photos/vissza/IMG_8955.JPG" />
+	<img class="shadow" src="photos/vissza/IMG_8956.JPG" />
+	<img class="shadow" src="photos/vissza/IMG_8958.JPG" />
+		
+  </div>
+  <div class="column">
+	<img class="shadow" src="photos/vissza/IMG_8975.JPG" />
+	  
+	<img class="shadow" src="photos/vissza/gy_munchen.JPG" />
+	<img class="shadow" src="photos/vissza/gy_svedek.JPG" />
+  </div>
+  <div class="column">
+
+  </div>
+</div>
+
+<p>VIDEOTON RC4602 OCR</p>
+
+<p>Valamikor itt költöztünk át a Tolbuhin utcai (ma Szentháromság utca) emeletesházból a Tanácsház utcai (ma Városház utca) még ma is “eredeti, akkori” állapotában álló családi házunkba.</p>
+
+<p>Videoton RM 4630-al és a Poptarisznya hallgatásával indultam neki az új szobámnak.</p>
+
+<p>Pif, Asterix, Talpraesett Tom, Mozaik, Hahota, Alfa, IPM magazin</p>
+
+<p>Illetve olyan családban nöttem fel, ahol vol már digitális multiméter (Leader Digital-Multimeter LDM-851), jelgenerátor (Leader Signal Generator LSG-17), frekimérő (Sinclair PFM200), Weller páka és még minden más akkor csodaszámba menő (vidéken meg főleg) kütyü.</p>
+
+<p>Videoton Super Star 12 TV (TC 1612)</p>
+
+<p>Akai AJ-350H</p>
+
+<!-- Gimi -->
+
+<h1 id="1984-szeptember-1---1988-szeptember-1-gimnázium">1984., szeptember 1. - 1988., szeptember 1. (gimnázium)</h1>
+<h3 id="kisfaludy-károly-gimnázium-mohács">Kisfaludy Károly Gimnázium, Mohács</h3>
+
+<ol>
+  <li>1984-85</li>
+</ol>
+
+<p>Zeneiskola vége, de innen már másfajta zenei érdeklődés indult meg és ezen a környeken került a családba egy Sinclair ZX Spectrum 48K (ami később egy németországból behozott Spectrum+ dobozzal plusszá alakult és egy kicsit később kapott még egy Kempstion joystick illesztőt és egy 80K Rádiótechniká-ból épített lapozót)</p>
+
+<ol>
+  <li>1985-86</li>
+</ol>
+
+<p>A Duna 1985-ben fagyott be utoljára teljesen Mohácsnál.</p>
+
+<p>Balázsy Eszter</p>
+
+<p>RFT Proxima 408 + ORION HS-9 Mambó + orosz 27kg-os “Hi-Fi” lemezjátszó</p>
+
+<p>Ezen a nyáron már biztosan megvolt a család első és nagyon sokáig még meglévő videómagnója egy nem is akármilyen sötét Panasonic NV-430.</p>
+
+<p>Balaton. Izzadásgátló stift</p>
+
+<ol>
+  <li>1986-87</li>
+</ol>
+
+<p>Ilyen volt anno az 1986–87-es istenigazi nagy tél! Oszd meg ha visszaemlékszel még rá
+http://0-24.org/index.php/2017/12/06/ilyen-volt-anno-az-1986-87-es-istenigazi-nagy-tel-oszd-meg-ha-visszaemlekszel-meg-ra/</p>
+
+<ol>
+  <li>1987-88</li>
+</ol>
+
+<p>Atyámtól kaptam egy Élysée Series 60 (METALLIC GRAY) töltőtollat Pécsen a nagy Nagy Lajos király útjai papírboltban. Ezzel írtam a “szuper” érettségimet a gimiben.</p>
+
+<div>
+
+<div class="leftbox" style="width: 32%; margin-right: 2%;">
+
+## Levi's 501 Commercial 85
+<div class="videocontainer">
+  <iframe src="https://www.youtube.com/embed/Q56M5OZS1A8" frameborder="0" allowfullscreen="" class="iframeshadow"></iframe>
+</div>
+
+</div>
+
+<div class="leftbox" style="width: 32%; margin-right: 2%;">
+
+## Levi's 501 Commercial 88
+<div class="videocontainer">
+  <iframe src="https://www.youtube.com/embed/2RKp1P2S2qs" frameborder="0" allowfullscreen="" class="iframeshadow"></iframe>
+</div>
+
+</div>
+
+<div class="leftbox" style="width: 32%; margin-right: 0%;">
+
+## Levi's 501 Commercial 89
+<div class="videocontainer">
+  <iframe src="https://www.youtube.com/embed/ME0TFT4xXGs" frameborder="0" allowfullscreen="" class="iframeshadow"></iframe>
+</div>
+
+</div>
+
+</div>
+
+<h1 id="1988-szeptember-1---1991-augusztus-1-főiskola">1988., szeptember 1. - 1991., augusztus 1. (főiskola)</h1>
+
+<p>1988-89</p>
+
+<p>Egy SHARP Double Cassette Twin Mechanism WQ-T222 magnóval kezdtem meg a főiskolát, amit még Bécsben vettünk a nyáron. Nagyon szerettem volna egy WQ-T252-es modellt, és úgy emlékszem, hogy volt is a boltokban, de mégsem engedték a szüleim. Böröcz Pistiéknek volt ilyenjük.</p>
+
+<p>1989-90</p>
+
+<p>90 nyarán kaptam életem első Levi’s 501-es farmerét és farmerdzsekiét Németországban. Valahol itt kapott apán a Grundingos haverjától talán egy sérült AIWA kismagnót</p>
+
+<p>Ebben az évben egy Videoton Tünde TV-vel gazdagítottam a szobát.</p>
+
+<p>1990-91</p>
+
+<h1 id="1991-augusztus-1---1997-február-mofa">1991., augusztus 1. - 1997., február (M.O.F.A.)</h1>
+
+<div class="rightbox rightboxborders" style="width: 13%;"><b>Sorsfordító 3.</b></div>
+
+<p>1992., január</p>
+<blockquote>
+  <h2 id="arról-hogy-a-szívek-összetörnek-márai-sándor-füves-könyv">Arról, hogy a szívek összetörnek (Márai Sándor: Füves könyv)</h2>
+  <p>“De pontosan úgy, mint a dalokban, melyeket a kávéházi chansonénekesnők énekelnek. S a dalok tanulsága mindig annyi, hogy az összetört szíveket nem lehet többé eggyéragasztani. Az életben is ennyi a tanulság. Ha egy ember egyszer bizalommal, föltétlen érzésekkel közeledett valakihez, s érzéseit megsértették, „szívét összetörték”, soha többé nem tud igazi bizalmat, feltétlen odaadást érezni egy másik ember iránt. Nincs érzékenyebb anyag a földön, mint az emberi anyag. Képtelen arra, hogy elfeledjen egy sértést, mellyel lelkét vagy érzéseit illették. S bármiféle baráti vagy szerelmi találkozást hoz is még számára az élet, gyanakvó marad, minden kapcsolat torz és gonosz játékalkalom lesz számára, örökké bosszút akar. Ilyen az ember. Vigyázz, ha ilyen megsértett szívűekkel állasz szemközt: nem tudod őket megengesztelni. S nincs az a türelem, bölcsesség, nagylelkűség, szenvedély, mely az ilyen csalódott szíveket nyugtatni tudja.”</p>
+</blockquote>
+
+<div class="rightbox rightboxborders" style="width: 13%;"><b>Sorsfordító 4.</b></div>
+
+<p>1992., június Hajni</p>
+
+<p>1993., február. 1994. február katonaság (Szentendre, Baja)
+Slezák Vanda (https://www.facebook.com/vandamaci)</p>
+
+<p>Képek katonaság</p>
+
+<p>1995., június 27., Laurie Anderson: The nerve bible “https://www.youtube.com/embed/KYnezeqB9Q0”</p>
+
+<p>Levi’s 501 Commercial 96 
+https://www.youtube.com/watch?v=VcMZMjxydWQ</p>
+
+<h1 id="1997-február---2004-május-credit-lyonnais-societe-generale-schneider-electric">1997., február - 2004., május (Credit Lyonnais, Societe Generale, Schneider Electric)</h1>
+
+<ol>
+  <li>március Suzanne Vega a Vörösmarty Művházban?</li>
+</ol>
+
+<p>1998
+Bp 
+Bécs
+Atlanta
+Memphis
+Chattanuga
+Gatlinburg
+Birmingham
+Rock city mountains
+New Orleans
+Lake Pont chartrain
+Dallas
+Memphis
+Cincinaty
+New York
+Bécs
+Bp</p>
+
+<h1 id="2004-május-1---2014-október-user-tanácsadó-kft-majd-user-rendszerház-kft">2004., május 1. - 2014., október. USER Tanácsadó Kft. majd USER Rendszerház Kft.</h1>
+
+<p>2005 PowerBook G4</p>
+
+<p>2006 MacBook (2006, Intel GMA950)</p>
+
+<p>New York</p>
+
+<p>2011 MacBook Pro 2011</p>
+
+<p>2012
+Bp 
+London
+Miami
+Homestead
+Everglades
+Keywest
+Fort Lauderdale
+Orlando
+Cape canaveral
+Miami
+Bp</p>
+
+<ol>
+  <li>október 6. hétfő Laurie Anderson</li>
+</ol>
+
+<h1 id="2015-január-1---scss-kft-effective-group-zrt">2015., január 1. - (SCSS Kft., Effective Group Zrt.)</h1>
+
+<p>MacBook Pro (Retina, 13-inch, Mid 2014)</p>
+
+<p>2015
+Bp
+London
+Boston
+Capecod
+Albany
+Niagara
+Ittaca
+Harisburg
+Lanchester
+Shanon doah
+Washington
+Philadelphia
+New York
+Savannah
+Bp</p>
+
+<p>2016
+Bp
+London
+Boston
+Machester, NH
+North Convay, NH
+Acadia, ME
+Bar Harbour, ME
+Saint John, NB
+Halifax, NS
+Fredericton, NB
+Quebec, QE
+Montreal,
+Ottawa,
+Bp</p>
+
+
+  </article>
+
+<!-- Disqus part -->
+
+<div id="disqus_thread" style="margin-top: 1em;"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://gyorgy-fleischmann-hu.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+  </div><!-- .content -->
+
+</div><!-- .container -->
+
+
+
+  <hr style="margin-top: 0.5em; clear: both; width: 95%;" class="gradientstyle">
+
+  <center style="margin-bottom: 0.5em;"><nobr><i class="icon-star-empty-1" style="color: red;"></i> Nincs jog fenntartva</nobr> -= <a href="http://www.fleischmann.hu/">FLEISCHMANN</a> =- <nobr>No rights reserved <i class="icon-star-empty-1" style="color: red;"></i></nobr></center>  
+
+
+
+</body>
+
+</html>

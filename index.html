@@ -27,7 +27,7 @@ title:  Welcome to
 
   <article class='post' style="">
 
-    <a href="{{ site.path }}{{ post.url }}"><h1 class='post-title'>{{ post.title }}</h1></a>
+    <h1 class='post-title'><a href="{{ site.path }}{{ post.url }}" class="hvr-buzz-out">&nbsp;{{ post.title }}</a></h1>
 
     <div class="post-date"><i class="icon-calendar"></i> {% assign m = post.date | date: "%-m" %}{{ post.date | date: "%Y., " }}{% case m %}{% when '1' %}január{% when '2' %}február{% when '3' %}március{% when '4' %}április{% when '5' %}május{% when '6' %}június{% when '7' %}július{% when '8' %}augusztus{% when '9' %}szeptember{% when '10' %}október{% when '11' %}november{% when '12' %}december{% endcase %}{{ post.date | date: " %-d." }},
 
@@ -67,6 +67,8 @@ title:  Welcome to
       <a href="{{ site.path }}{{ post.url }}#disqus_thread">Disqus counter</a>
 
     {% endif %}
+
+    <div style="clear: both;"></div>
 
   </article>
 
