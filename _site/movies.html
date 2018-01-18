@@ -1,10 +1,292 @@
+<!doctype html public "-//W3C//DTD HTML 5.0//EN" "http://www.w3.org/TR/html5/strict.dtd">
+
+<!-- 
+
+#                                       __ _      _          _                                   _
+#                                      / _| |    (_)        | |                                 | |
+#   __ _ _   _  ___  _ __ __ _ _   _  | |_| | ___ _ ___  ___| |__  _ __ ___   __ _ _ __  _ __   | |__  _   _
+#  / _` | | | |/ _ \| '__/ _` | | | | |  _| |/ _ \ / __|/ __| '_ \| '_ ` _ \ / _` | '_ \| '_ \  | '_ \| | | |
+# | (_| | |_| | (_) | | | (_| | |_| |_| | | |  __/ \__ \ (__| | | | | | | | | (_| | | | | | | |_| | | | |_| |
+#  \__, |\__, |\___/|_|  \__, |\__, (_)_| |_|\___|_|___/\___|_| |_|_| |_| |_|\__,_|_| |_|_| |_(_)_| |_|\__,_|
+#   __/ | __/ |           __/ | __/ |
+#  |___/ |___/           |___/ |___/
+# -----------------------------------------------------------------------------------------------------------
+
+# Jekyll based web page POC on GitHub
+# 
+# 
+# Rls: 2018.01.01.  
+#
+
+-->
+
+<html lang="hu-HU">
+
+<head>
+
+  <meta charset="utf-8">
+
+  <meta name="keywords" content="Fleischmann György, fleischmann, flex, gyurci, flexoft, mohács, budapest, magyarország, hungary, photography, digital, photo, black and white, landscape, people, blog, light, photo blog, photolog, photoblog, linux, sinclair, zx spectrum, psion, timex, perl, lcd, minolta, 9000, d7d, tsm, tivoli, ibm, tsm, tivoli storage manager, spectrum protect, gpfs, spectrum scale, osx, apple, ble" />
+
+  <meta name="owner" content="FLEISCHMANN György" />
+  <meta name="author" content="FLEISCHMANN György" />
+
+  <meta name="description" content="A personal page for Fleischmann György."/>
+
+  <meta property="twitter:account_id" content="2447061"/>
+
+  <meta http-equiv="cleartype" content="on">
+
+  <title>🎬 Movies / filmek [2018] - gyorgy.fleischmann.hu</title>
+  <link rel="stylesheet" type="text/css" href="css/style.css" >
+  <link rel="stylesheet" type="text/css" href="css/syntax.css" >
+  <link rel="alternate" type="application/atom+xml" href="/feed.xml" title="News Feed">
+
+  <link rel="icon" href="http://gyorgy.fleischmann.hu/favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="http://gyorgy.fleischmann.hu/favicon.ico">
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108075264-7"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-108075264-7');
+  </script>
+
+  <!-- From: http://fontello.com/ -->
+  <link rel="stylesheet" href="fontello/css/fontello.css">
+  <link rel="stylesheet" href="fontello/css/animation.css">
+
+  <!-- PhotoSwipe part 1. -->
+
+  <!-- Core CSS file -->
+  <link rel="stylesheet" href="PhotoSwipe/photoswipe.css"> 
+
+  <!-- Skin CSS file (styling of UI - buttons, caption, etc.)
+       In the folder of skin CSS file there are also:
+       - .png and .svg icons sprite, 
+       - preloader.gif (for browsers that do not support CSS animations) -->
+  <link rel="stylesheet" href="PhotoSwipe/default-skin/default-skin.css"> 
+
+  <!-- Core JS file -->
+  <script src="PhotoSwipe/photoswipe.min.js"></script> 
+
+  <!-- UI JS file -->
+  <script src="PhotoSwipe/photoswipe-ui-default.min.js"></script> 
+
+</head>
+
+<!-- PhotoSwipe must have part 2. -->
+
+<!-- Root element of PhotoSwipe. Must have class pswp. -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true" style="margin: 0; padding: 0;">
+
+    <!-- Background of PhotoSwipe. 
+         It's a separate element as animating opacity is faster than rgba(). -->
+    <div class="pswp__bg"></div>
+
+    <!-- Slides wrapper with overflow:hidden. -->
+    <div class="pswp__scroll-wrap">
+
+        <!-- Container that holds slides. 
+            PhotoSwipe keeps only 3 of them in the DOM to save memory.
+            Don't modify these 3 pswp__item elements, data is added later on. -->
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar" style="margin: 0; padding: 0;">
+
+                <!--  Controls are self-explanatory. Order can be changed. -->
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+                <!-- element will get class pswp__preloader--active when preloader is running -->
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                      <div class="pswp__preloader__cut">
+                        <div class="pswp__preloader__donut"></div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div> 
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center" style="font-size: 25px; text-align: center;"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<body>
+
+<div class="container">
+
+  <header class="masthead" id="navbar">
+
+     <h2 class="masthead-title">
+       <a href="/"><b>gyorgy.fleischmann.hu</b></a>
+       <nobr>
+       <small>|<a href="tableofcontents.html"><i class="icon-list-numbered" style="font-size: 0.85em;"></i>tartalom</a></small>
+       <small>|<a href="categories.html"><i class="icon-list" style="font-size: 0.85em;"></i>kategóriák</a></small>
+       <small>|<a href="tags.html"><i class="icon-tags" style="font-size: 0.85em;"></i>#címkék</a></small>
+       <small>|<a href="feed.xml"><i class="icon-rss" style="font-size: 0.85em;"></i>RSS</a></small>
+       <small>|&nbsp;<a href="cv.html">rólam</a></small>
+       </nobr>
+     </h2>
+
+  </header>
+
+  <hr style="margin-top: -0.25em;">
+
+  <div class="content">
+    <article class='post'>
+
+  	
+  	
+    <h1 class='post-title'>🎬 Movies / filmek [2018]</h1>
+
+    <div class="post-date"><i class="icon-calendar"></i> 2018., január 18.,
+
+	<!-- Source: https://sacha.me/articles/jekyll-word-counts/ -->
+	
+	
+	  397 szó, elolvasásához kb.: 
+	
+
+	
+	
+	  2 perc kell
+	| 
+
+	
+	<i class="icon-user"></i>
+    
+	  <a href="mailto:gyorgy@fleischmann.hu">_flex</a>
+	
+	<img src="http://www.gravatar.com/avatar/645917b1946117c27a6ee9bbd02240e1?s=40" style="width: 12px;"> |
+
+	<i class="icon-list"></i>
+    [<a href="categories.html#movies / filmek">movies / filmek</a>]
+    <i class="icon-tags"></i>
+    
+      <span class=""><a href="tags.html#listák">#listák</a></span>
+    
+      <span class=""><a href="tags.html#awesome">#awesome</a></span>
+    
+
+    </div><!-- .post-date -->
+
+	
+
+    <div class="leftbox" style="width: 15%;"><a href=""><img class="shadow" src="" alt="" title="" /></a></div>
+
+<p><strong>~~ ~~</strong></p>
+
+<p>””</p>
+
+<hr style="clear: both;" />
+
+<div class="leftbox" style="width: 15%;"><a href="https://port.hu/adatlap/film/mozi/szarnyas-fejvadasz-2049-blade-runner-2049/movie-176846#video-963594"><img class="shadow" src="https://media.port.hu/images/000/972/350x510/545.jpg" alt="Szárnyas fejvadász 2049 /Blade Runner 2049/" title="Szárnyas fejvadász 2049 /Blade Runner 2049/" /></a></div>
+
+<p><strong><del>Szárnyas fejvadász 2049 /Blade Runner 2049/</del></strong></p>
+
+<p>“Bár az alkotók az új történetet hét lakat alatt tartják, azt már tudjuk, hogy minden idők talán legnagyobb legendájú sci-fi/akciófilmje jó kezekben van: a producer az első rész rendezője, Ridley Scott, a rendező pedig az utóbbi évek legnagyobb meglepetéseit készítő kanadai Denis Villeneuve.Már maga a sztárszereposztás is fantasztikus filmmé teszi az új Szárnyas fejvadászt: minden esély megvan rá, hogy a Budapesten forgatott új rész felnő az elsőhöz, és maga is legendává válik.”</p>
+
+<hr style="clear: both;" />
+
+<div class="leftbox" style="width: 15%;"><a href="https://port.hu/adatlap/film/tv/a-kigyo-olelese-el-abrazo-de-la-serpiente/movie-168036?section=mozi&amp;title=a-kigyo-olelese-el-abrazo-de-la-serpiente&amp;id=movie-168036#video-916198"><img class="shadow" src="
+https://media.port.hu/images/000/803/350x510/976.jpg" alt="A kígyó ölelése /El abrazo de la serpiente/" title="A kígyó ölelése /El abrazo de la serpiente/" /></a></div>
+
+<p><strong><del>A kígyó ölelése /El abrazo de la serpiente/</del></strong></p>
+
+<p>“Karamakate, a nagyhatalmú amazóniai sámán, törzsének utolsó képviselője a világtól elvonultan, a dzsungel mélyén él. A magány évtizedei chullachaqui-vá változtatták, olyan emberré, aki emlékek és érzelmek nélküli üres kéregként létezik. Életét azonban felrázza egy amerikai etnobotanikus érkezése, aki a Yakrunát, a szent varázsnövényt keresi, amely megtanít álmodni. Együtt indulnak Amazónia szívébe, és utazásuk során a múlt, a jelen és a jövő egybeolvad, Karamakate pedig lassan visszanyeri elveszett emlékeit.
+A történet a sámán és a két megszállott fehér ember road movie-ján túl a kolumbiai rendező kezében az őstermészet és a globalizáció örökös küzdelméről szóló gigantikus parabolává nemesül. A film egy őslakos szemével láttatja a gyarmatosítás groteszkségét, a hittérítés bornírtságát, és egy valódi ayahuasca-szeánsz után nekünk szegezi a kérdést: vajon elég bölcsek vagyunk ahhoz, hogy örökségünket ne játsszuk ki mohó anyagi érdekeknek?”</p>
+
+<hr style="clear: both;" />
+
+<div class="leftbox" style="width: 15%;"><a href="https://port.hu/adatlap/film/tv/mustang-mustang/movie-169772#video-921046"><img class="shadow" src="
+https://media.port.hu/images/000/833/350x510/558.jpg" alt="Mustang" title="Mustang" /></a></div>
+
+<p><strong><del>Mustang</del></strong></p>
+
+<p>“Öt lánytestvér egy török faluban él nagybátyjukkal és nagyanyjukkal. A kamaszlányok felhőtlen boldogságban vágnak neki a nyári szünetnek, de a bigott török közeg a legkisebb kilengést sem tűri: az egyik szomszédasszony jelenti a lányok erkölcseire vigyázó nagymamának, hogy azok együtt fürödtek a tengerben a falubeli fiúkkal. A nyári vakáció a lányok számára nem azt a szabadságot hozza, amire számítottak, éppen ellenkezőleg, nevelőik egyre drasztikusabb módszerekkel próbálják betörni őket és megakadályozni, hogy az ezeréves tradíciók ellenében viselkedjenek. Az öt lány öt különböző választ ad az elnyomásra.”</p>
+
+<hr style="clear: both;" />
+
 <h1 id="movies">Movies</h1>
 
-<p>I use a lot of applications on my iPhone. Here is a list of the ones that I love and use the most of my day to day life, sorted by their importance:</p>
+<p>Betty Blue 
+A Pont-Neuf szerelmesei
+A nagy kékség</p>
 
-<p>Betty Blue</p>
 
-<p>A Pont-Neuf szerelmesei</p>
+  </article>
 
-<p>A nagy kékség</p>
+<!-- Disqus part -->
 
+<div id="disqus_thread" style="margin-top: 1em; padding:1em;border:solid 1px #eee;"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://gyorgy-fleischmann-hu.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+  </div><!-- .content -->
+
+</div><!-- .container -->
+
+
+
+  <hr style="margin-top: 0.5em; clear: both; width: 95%;" class="gradientstyle">
+
+  <center style="margin-bottom: 0.5em;"><nobr><i class="icon-star-empty-1" style="color: red;"></i> Nincs jog fenntartva</nobr> -= <a href="http://www.fleischmann.hu/" class="hvr-buzz-out">FLEISCHMANN</a> =- <nobr>No rights reserved <i class="icon-star-empty-1" style="color: red;"></i></nobr></center>  
+
+
+
+</body>
+
+</html>
