@@ -5,7 +5,7 @@ title:  Welcome to
 
 <div>
 
-<div class="rightbox" style="width: 25%; margin-left: 1%; border-left: 1px solid #ff0000;"><a href="https://twitter.com/FleXoft"><img style="width: 80%; margin-left: 0.5em;" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Twitter_2010_logo_-_from_Commons.svg/1024px-Twitter_2010_logo_-_from_Commons.svg.png"></a><br>
+<div class="rightbox" style="width: 25%; margin-left: 1%; margin-bottom: 0.5em; border-left: 1px solid #ff0000;"><a href="https://twitter.com/FleXoft"><img style="width: 80%; margin-left: 0.5em;" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Twitter_2010_logo_-_from_Commons.svg/1024px-Twitter_2010_logo_-_from_Commons.svg.png"></a><br>
   <a class="twitter-timeline" href="https://twitter.com/FleXoft?ref_src=twsrc%5Etfw" data-tweet-limit="2" data-dnt="true" data-chrome="noheader nofooter noscrollbar noborders transparent" data-lang="en">Tweets by FleXoft</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
 
 <p>Ez az oldal, az én publikus <nobr><a href="https://jekyllrb.com/"><img class="inline" src="https://talk.jekyllrb.com/uploads/jekyllrb/original/1X/4f9bd5334246d33651e846aed812280fbff586ba.png" alt="Jekyll Logo" style="width: 60px;"></a><a href="https://jekyllrb.com/">Jekyll</a></nobr> "játszóterem", ami igazán jól elszórakoztatott a vele töltött időben. Messze jóval szórakoztatóbb dolognak tartom ezt, mint egy <nobr><a href="https://wordpress.com/"><img class="inline" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png" alt="Wordpress Logo" style="width: 24px;"></a> <a href="https://wordpress.com/">Wordpress</a></nobr> (ismerem, többször futottam már neki) vagy akár egy <nobr><a href="https://www.drupal.org/"><img class="inline" src="https://www.drupal.org/files/drupal%208%20logo%20isolated%20CMYK%2072.png" alt="Drupal Logo" style="width: 24px;"></a> <a href="https://www.drupal.org/">Drupal</a></nobr> (nem igazán használtam még) blogmotor / tartalomkezelő rendszerrel való játszadozás. Az eddig megszerzett tapasztalatok alapján meggyőződésem, hogy igazán egyedi megjelenésű, gyors relációsadatbázis-kezelő funkciókat nem igénylő megoldást manapság ebben érdemes készíteni.</p>
@@ -14,11 +14,11 @@ title:  Welcome to
 
 <p>Nagyon nagy aktivitásra itt azért senki ne számítson, mert ezek az oldalak leginkább még azért maradtak csak fenn, hogy az önéletrajzomat valahol folyamatosan frissíthessem és ha kell innen tovább tudjam osztani...</p>
 
-<hr>
+</div>
+
+<hr style="clear: both;">
 
 <p>Az utolsó 10 bejegyzés (vagy akár a teljes <a href="http://localhost:4000/tableofcontents.html">tartalomjegyzék</a>):</p>
-
-</div>
 
 {% for post in site.posts limit: 10 %}
   {% if post.category == 'teszt' or post.category == 'test' %}
