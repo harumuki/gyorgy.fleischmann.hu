@@ -512,6 +512,7 @@
 <ul>
   <li>gender: male</li>
   <li>length, weight: average</li>
+  <li>Blood type: O Rh negative</li>
   <li>sexual orientation: straight</li>
   <li>religion: none (but if I really need to choose: <a href="https://en.wikipedia.org/wiki/Buddhism">Buddhism</a> or <a href="https://en.wikipedia.org/wiki/International_Society_for_Krishna_Consciousness">Krishna Consciousness</a> are the closest), I believe in science</li>
   <li>political views: undecided</li>
@@ -702,6 +703,58 @@
 
 	    return returnString;
 	}
+
+</script>
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/three.js/86/three.min.js"></script>
+
+<script type="text/javascript">
+  
+ /* https://codepen.io/thebabydino/pen/dvFcz */
+
+  var scene = new THREE.Scene(), 
+    w = window.innerWidth, h = window.innerHeight/2, 
+    camera = new THREE.PerspectiveCamera(
+      50   /* field of view, the lower, the closer it appears */, 
+      w/h  /* aspect ratio of view */, 
+      .1   /* near clipping plane */, 
+      100 /* far clipping plane */), 
+    renderer = new THREE.WebGLRenderer() /* renderer draws on screen what the camera sees */, 
+    
+    /* threejs.org/docs/#Reference/Extras.Geometries/BoxGeometry */
+    geometry = new THREE.BoxGeometry(2, 2, 2), 
+    
+    /* threejs.org/docs/#Reference/Materials/MeshBasicMaterial */
+    material = new THREE.MeshBasicMaterial({ color: 0x000000, wireframe: true }), 
+    cube = new THREE.Mesh(geometry, material);
+
+    var geo = new THREE.EdgesGeometry( geometry ); // or WireframeGeometry( geometry )
+    var mat = new THREE.LineBasicMaterial( { color: 0x000000, linewidth: 1 } );
+    cube = new THREE.LineSegments( geo, mat );
+
+    renderer.setClearColor( 0xffffff );
+
+var animate = function() {
+  
+  renderer.render(scene, camera); /* this is enough to render cube if not animated */
+  
+  /* keep increasing rotation around the y-axis */
+  cube.rotation.y += .02; /* the higher the value, the faster it rotates */
+  cube.rotation.x += .01;
+  //cube.rotation.z += .02;
+
+  requestAnimationFrame(animate);
+};
+
+renderer.setSize(w, h);
+document.body.appendChild(renderer.domElement); /* add our renderer to the body element */
+
+scene.add(cube); /* cube added at coordinates (0, 0, 0) */
+
+/* move the cube from inside the camera, the higher the value, the further away it goes */
+camera.position.z = 5;
+
+animate();
 
 </script>
 
