@@ -28,7 +28,7 @@
 
   <meta name="keywords" content="Fleischmann György, fleischmann, flex, gyurci, flexoft, mohács, budapest, magyarország, hungary, photography, digital, photo, black and white, landscape, people, blog, light, photo blog, photolog, photoblog, linux, sinclair, zx spectrum, psion, timex, perl, lcd, minolta, 9000, d7d, tsm, tivoli, ibm, tsm, tivoli storage manager, spectrum protect, gpfs, spectrum scale, osx, apple, ble" />
 
-  <meta name="owner" content="FLEISCHMANN György" />
+  <meta name="owner"  content="FLEISCHMANN György" />
   <meta name="author" content="FLEISCHMANN György" />
 
   <meta name="description" content="A personal page for Fleischmann György."/>
@@ -40,7 +40,7 @@
   <title>Document series / Dukumentumfilm sorozatok [2018] - gyorgy.fleischmann.hu</title>
   <link rel="stylesheet" type="text/css" href="css/style.css" >
   <link rel="stylesheet" type="text/css" href="css/syntax.css" >
-  <link rel="alternate" type="application/atom+xml" href="/feed.xml" title="News Feed">
+  <link rel="alternate"  type="application/atom+xml" href="/feed.xml" title="News Feed for gyorgy.fleischmann.hu">
 
   <link rel="icon" href="http://gyorgy.fleischmann.hu/favicon.ico" type="image/x-icon">
   <link rel="shortcut icon" href="http://gyorgy.fleischmann.hu/favicon.ico">
@@ -148,6 +148,23 @@
 </div>
 
 <body>
+
+<!-- Horisontal progress bar, https://blog.andyjiang.com/reading-position-horizontal-progress-bar --> 
+<div id="Reading-progress"><span id="Progress-bar" class="bar"></span></div>
+
+<script type="text/javascript">
+
+  window.addEventListener('scroll', function(e) {
+    var s = (window.pageYOffset !== undefined) ? window.pageYOffset : (document.documentElement || document.body.parentNode || document.body).scrollTop;
+    var body = document.body;
+    var html = document.documentElement;
+    var d = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
+    var c = window.innerHeight;
+    var position = (s / (d - c)) * 100;
+    document.getElementById('Progress-bar').setAttribute('style', 'width: ' + position + '%');
+  });
+
+</script>
 
 <div class="container">
 
