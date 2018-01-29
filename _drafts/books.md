@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    📚 Books / könyvek [2018]
+title:    📚 Books / könyvek
 author:   flex
 comments: true
 category: books / könyvek
@@ -8,6 +8,8 @@ tags:     [listák, awesome]
 ---
 
 Ezen az oldalon tervezem összeszedni az általam kedvelt (e vagy papír alapú) könyveket. Jelenleg ezeket olvasom/~~tam~~ mostanában.
+
+<!-- break -->
 
 ## De előtte jöjjön a lényeg az én aktuális könyv TOPlistám:
 
@@ -22,9 +24,29 @@ Ezen az oldalon tervezem összeszedni az általam kedvelt (e vagy papír alapú)
 <span><img class="shadow" src="https://s01.static.libri.hu/cover/e6/6/3201999_4.jpg" alt="" style="width: 12%;" alt=""></span>
 <span><img class="shadow" src="http://nagysandor.eu/images/objects/books/brosnan.jpg" alt="" style="width: 12%;" alt=""></span>
 	
-<hr>
+<hr style="clear: both;">
 
-<!-- break -->
+<!-- Folyamatban -->
+<div class="rightbox rightboxborders" style="width: 35%;">
+<h2>Folyamatban:</h2>
+
+<ul>
+	<li>Popper Péter: Felnőtnek lenni</li>
+	<li>Taylor, Dennis E.: MI, Bob</li>
+	<li>Parti Nagy Lajos: Fülkefor ​és vidéke, Fülkefória és vidéke (II)</li>
+	<li>Moldova György: Keserű ​Pohár I-III.</li>
+	<li>Kellerman, Faye: Szemfényvesztés</li>
+	<li>Zoltán Gábor: Orgia</li>
+	<li>Bolano(Bolaño), Roberto: 2666</li>
+	<li>Szabó T. Anna: Törésteszt</li>
+	<li>Chiang, Ted: Életed törtenete</li>
+	<li>Eggers, Dave: A Kör </li>
+	<li>Kelly, Scott: Endurance (angol)</li>
+	<li>Radnóti Miklósné Gyarmati Fanni: Napló 1935-1946 I-II.</li>
+	<li>Joyce, James: Ulysses</li>
+</ul>
+
+</div> <!-- Folyamatban -->
 
 {% include book_cover.html 
 	href="https://moly.hu/konyvek/jared-diamond-haboruk-jarvanyok-technikak" 
@@ -33,7 +55,7 @@ Ezen az oldalon tervezem összeszedni az általam kedvelt (e vagy papír alapú)
 
 "A „háborúk járványok technikák” a világtörténelem alapvető kérdésére keresi a választ: „miért az európai civilizáció hódította meg a világot, miért nem másként történt ez?” Így is fogalmazhatunk: Miért Pisaro maroknyi csapata győzte le Atahualpa inka fejedelmet és hatalmas hadseregét, miért nem ő kényszerítette térdre I. Károly spanyol királyt (és egyben Német-Római császárt)? Vagy ahogy az új-guineai Yali – a szerző barátja – vetette fel: Miért van az, hogy ti fehérek olyan sok árut termeltetek és hoztatok Új-Guineába, míg nekünk feketéknek, oly kevés saját árunk van? A provokatív kérdésekre rendhagyó, nagyívű válasz születik, nemcsak a történelem, hanem a földrajz, a biológia, a régészet, a nyelvészet, a járványtan és antropológia, valamint a tudomány- és technikatörténet alapján, mintegy 13 ezer éves időskálán mozogva új összefüggések rajzolódtak ki."
 
-<hr style="clear: both;">
+<hr>
 
 {% include book_cover.html 
 	href="https://www.agavekonyvek.hu/konyvek/ready-player-one" 
@@ -116,23 +138,8 @@ Pierce Brown a Vörös lázadás-trilógiával robbant be 2014-ben a sci-fibe, �
 <hr style="clear: both;">
 
 - <div class="rightbox" style="width: 25%;"><img class="shadow" src="images/books/konyvespolc.jpg" alt="Könyvespolc 20171104" title="Könyvespolc 20171104"></div>
-Popper Péter: Felnőtnek lenni
-- ~~Weir, Andy: Artemis~~
-- Taylor, Dennis E.: MI, Bob
-- Parti Nagy Lajos: Fülkefor ​és vidéke, Fülkefória és vidéke (II)
-- Moldova György: Keserű ​Pohár I-III.
-- ~~Harari, Yuval Noah: Sapiens - Az emberiség rövid története és Homo ​Deus - A holnap rövid története~~
-- Kellerman, Faye: Szemfényvesztés
-- ~~Brown, Pierce: Vörös lázadás, Arany Háború~~
-- Zoltán Gábor: Orgia
-- Bolano(Bolaño), Roberto: 2666
-- Szabó T. Anna: Törésteszt
-- Chiang, Ted: Életed törtenete
-- ~~Elsberg, Marc: Blackout~~ 
-- Eggers, Dave: A Kör 
-- ~~Berta Zsolt: Recept novelláskötet~~
-- Kelly, Scott: Endurance (angol)
-- ~~Scalzi, John: Az összeomló birodalom~~
+
+- ~~Scalzi, John: Az összeomló birodalom~~
 - ~~Földes András: Erőss Zsolt - A Himalájánál magasabbra~~
 - ~~Shafak(Şafak), Elif: Becsület~~
 - ~~Ebershoff, David: A dán lány~~
@@ -142,7 +149,7 @@ Popper Péter: Felnőtnek lenni
 - ~~Hertzfeld, Andy: Revolution in The Valley: The Insanely Great Story of How the Mac Was Made (angol)~~
 - ~~Merchant, Brian: The One Device: The Secret History of the iPhone (angol)~~
 - ~~Hosseini, Khaled: Papírsárkányok~~
-- Radnóti Miklósné Gyarmati Fanni: Napló 1935-1946 I-II.
+
 - ~~Frei Tamás: A Bankár, A Megmentő, Agrárbárók, 2015: A káosz éve és a magyar elit háborúja~~
 - ~~Moldova György: Titkos Záradék~~
 - ~~Enders, Giulie: Bélügyek~~
@@ -162,12 +169,6 @@ Popper Péter: Felnőtnek lenni
 - ~~VanderMeer, Jeff: Expedíció~~
 - ~~Vermes, Timur: Nezd ki van itt!~~
 - Kent, Steven: The Ultimate History of Video Games
-
-<!--break-->
-
-Amit el kellene olvasni még:
-
-- Joyce, James: Ulysses
 
  
 - Harris, Thomas: A Vörös Sárkány (Rakéta regényújság 129., 1986, 24-33. szám) 

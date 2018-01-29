@@ -1,11 +1,13 @@
 ---
 layout:   post
-title:    🎬 Movies / filmek [2018]
+title:    🎬 Movies / filmek
 author:   flex
 comments: true
 category: movies / filmek
 tags:     [listák, awesome]
 ---
+
+<!-- break -->
 
 {% include movie_cover.html 
 	href="https://port.hu/adatlap/film/mozi/thelma-thelma/movie-196009#video-983530" 
@@ -50,7 +52,7 @@ Ez a nyár más, mint a korábbiak. Boldog és furcsa, szerelemmel és bánattal
 
 {% include movie_cover.html 
 	href="https://port.hu/adatlap/film/tv/a-kigyo-olelese-el-abrazo-de-la-serpiente/movie-168036?section=mozi&title=a-kigyo-olelese-el-abrazo-de-la-serpiente&id=movie-168036#video-916198" 
-	src="https://pics.filmaffinity.com/el_abrazo_de_la_serpiente-385873306-large.jpg" 
+	src="http://www.amoiralcine.com/wp-content/uploads/2016/02/Poster-Oficial-El-Abrazo-de-la-Serpiente-Venezuela-1-717x1024.jpg" 
 	title="A kígyó ölelése /El abrazo de la serpiente/" %}
 
 "Karamakate, a nagyhatalmú amazóniai sámán, törzsének utolsó képviselője a világtól elvonultan, a dzsungel mélyén él. A magány évtizedei chullachaqui-vá változtatták, olyan emberré, aki emlékek és érzelmek nélküli üres kéregként létezik. Életét azonban felrázza egy amerikai etnobotanikus érkezése, aki a Yakrunát, a szent varázsnövényt keresi, amely megtanít álmodni. Együtt indulnak Amazónia szívébe, és utazásuk során a múlt, a jelen és a jövő egybeolvad, Karamakate pedig lassan visszanyeri elveszett emlékeit.

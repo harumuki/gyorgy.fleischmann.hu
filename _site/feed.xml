@@ -3,13 +3,530 @@
   <title>News 'n' Updates | gyorgy.fleischmann.hu</title>
   <link href="http://0.0.0.0:4000/feed.xml" rel="self"/>
   <link href="http://0.0.0.0:4000/"/>
-  <updated>2018-01-28T21:37:03+01:00</updated>
+  <updated>2018-01-29T09:50:28+01:00</updated>
   <id>http://0.0.0.0:4000/</id>
   <author>
     <name></name>
   </author>
   <generator>Jekyll v3.6.0</generator>
 
+  
+  <entry>
+    <title>🎧 Muzax</title>
+    <link href="http://0.0.0.0:4000/muzax.html"/>
+    <updated>2018-01-29T09:50:18+01:00</updated>
+    <id>http://0.0.0.0:4000/muzax</id>
+    <content type="html">&lt;p&gt;Ahogyan &lt;a href=&quot;timeline.html&quot;&gt;itt&lt;/a&gt; már leírtam szépen lassan gyerekkoromtól beépült az életembe a zene. Ezen az oldalon összeszedem azokat, amik a legkedvesebbek nekem.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Laurie Anderson&lt;/strong&gt;: Home Of The Brave (1986)&lt;/p&gt;
+
+&lt;div class=&quot;videocontainer&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/mua8Pr6uRso&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; class=&quot;iframeshadow&quot; width=&quot;1024&quot; height=&quot;576&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+</content>
+  </entry>
+  
+  <entry>
+    <title>🎬 Movies / filmek</title>
+    <link href="http://0.0.0.0:4000/movies.html"/>
+    <updated>2018-01-29T09:49:12+01:00</updated>
+    <id>http://0.0.0.0:4000/movies</id>
+    <content type="html">&lt;!-- break --&gt;
+
+&lt;div class=&quot;leftbox&quot; style=&quot;width: 15% ;&quot;&gt;&lt;a href=&quot;https://port.hu/adatlap/film/mozi/thelma-thelma/movie-196009#video-983530&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;http://t2.gstatic.com/images?q=tbn:ANd9GcSaKPgvVW33At9xYgW3PXplfAiwQxGnPkqeHhCaG6B5TCUDlB72&quot; alt=&quot;Thelma&quot; title=&quot;Thelma&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Thelma&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;“Thelma, egy vallásos háttérrel rendelkező norvég diáklány Oslóba költözik, ahol beleszeret egy másik lányba. S miközben szégyenérzettel terhelt szexuális ébredését éli meg, Thelma felfedezi, hogy természetfeletti képességgel és erővel rendelkezik.”&lt;/p&gt;
+
+&lt;hr style=&quot;clear: both;&quot; /&gt;
+
+&lt;div class=&quot;leftbox&quot; style=&quot;width: 15% ;&quot;&gt;&lt;a href=&quot;https://port.hu/adatlap/film/mozi/lady-bird-lady-bird/movie-191843#video-969510&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;http://t2.gstatic.com/images?q=tbn:ANd9GcT0Yf7_FepQU9VEbNsZ7824_2nvdFKOlogCo-yvJhSjuRA22aYg&quot; alt=&quot;Lady Bird&quot; title=&quot;Lady Bird&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Lady Bird&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;“Greta Gerwig első önálló rendezése merész, új hangot üt meg, bravúrosan tárja fel a humort és a pátoszt, amit egy anya és tinédzser lánya közti viharos viszony rejt.
+Christine “Lady Bird” McPherson (Saoirse Ronan) teljesen olyan, mint a szeretettől túláradó, megrögzötten makacs és határozott anyja, Marion (Laurie Metcalf), akivel örökös harcban áll. Marion nővér, és fáradhatatlanul dolgozik, hogy ellássa családját, miután Lady Bird apja elveszíti az állását. A kaliforniai Sacramentóban vagyunk 2002-ben, az amerikai gazdaság szeszélyesen változásai közepette játszódó történet érzékeny tükröt tart a kapcsolatoknak, melyek formálnak minket, a hiteknek, melyek meghatároznak minket, és a páratlan szépségű helynek, amelyet otthonnak nevezünk. “&lt;/p&gt;
+
+&lt;hr style=&quot;clear: both;&quot; /&gt;
+
+&lt;div class=&quot;leftbox&quot; style=&quot;width: 15% ;&quot;&gt;&lt;a href=&quot;https://port.hu/adatlap/film/mozi/szolits-a-neveden-call-me-by-your-name/movie-197412&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;http://t1.gstatic.com/images?q=tbn:ANd9GcRDtqzFejuwWDwGc41npRohO8lsVRfwzGXkjpinHQ3ZRuEvZWKH&quot; alt=&quot;Szólíts a neveden /Call Me by Your Name/&quot; title=&quot;Szólíts a neveden /Call Me by Your Name/&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Szólíts a neveden /Call Me by Your Name/&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;“Egy nyár Észak-Olaszországban. Elio (Timothée Chalamet), a 17 éves amerikai srác számára maga a paradicsom. A szüleivel együtt minden évben ugyanabban az ódon villában meg kertben tölti a vakációt, és ugyanazok a régi barátok veszik körül. Buliznak, strandolnak, zenét hallgatnak, beszélgetnek, és persze szerelemesek?
+Elio apja művészettörténész, aki minden évben befogadja néhány hétre egy tanítványát. Ezúttal a doktori disszertációján dolgozó Oliver (Armie Hammer) érkezik, aki megzavarja a boldog harmóniát. Nem illik ide. Túl laza, túl szép, nem tudni mit akar.
+Ez a nyár más, mint a korábbiak. Boldog és furcsa, szerelemmel és bánattal teli. És mire véget ér, már semmi nem lehet ugyanolyan, mint addig volt. “&lt;/p&gt;
+
+&lt;hr style=&quot;clear: both;&quot; /&gt;
+
+&lt;div class=&quot;leftbox&quot; style=&quot;width: 15% ;&quot;&gt;&lt;a href=&quot;https://port.hu/adatlap/film/mozi/szarnyas-fejvadasz-2049-blade-runner-2049/movie-176846#video-963594&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://upload.wikimedia.org/wikipedia/en/9/9b/Blade_Runner_2049_poster.png&quot; alt=&quot;Szárnyas fejvadász 2049 /Blade Runner 2049/&quot; title=&quot;Szárnyas fejvadász 2049 /Blade Runner 2049/&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Szárnyas fejvadász 2049 /Blade Runner 2049/&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;“Bár az alkotók az új történetet hét lakat alatt tartják, azt már tudjuk, hogy minden idők talán legnagyobb legendájú sci-fi/akciófilmje jó kezekben van: a producer az első rész rendezője, Ridley Scott, a rendező pedig az utóbbi évek legnagyobb meglepetéseit készítő kanadai Denis Villeneuve. Már maga a sztárszereposztás is fantasztikus filmmé teszi az új Szárnyas fejvadászt: minden esély megvan rá, hogy a Budapesten forgatott új rész felnő az elsőhöz, és maga is legendává válik.”&lt;/p&gt;
+
+&lt;!-- break --&gt;
+
+&lt;hr style=&quot;clear: both;&quot; /&gt;
+
+&lt;div class=&quot;leftbox&quot; style=&quot;width: 15% ;&quot;&gt;&lt;a href=&quot;https://port.hu/adatlap/film/tv/a-kigyo-olelese-el-abrazo-de-la-serpiente/movie-168036?section=mozi&amp;amp;title=a-kigyo-olelese-el-abrazo-de-la-serpiente&amp;amp;id=movie-168036#video-916198&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;http://www.amoiralcine.com/wp-content/uploads/2016/02/Poster-Oficial-El-Abrazo-de-la-Serpiente-Venezuela-1-717x1024.jpg&quot; alt=&quot;A kígyó ölelése /El abrazo de la serpiente/&quot; title=&quot;A kígyó ölelése /El abrazo de la serpiente/&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;A kígyó ölelése /El abrazo de la serpiente/&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;“Karamakate, a nagyhatalmú amazóniai sámán, törzsének utolsó képviselője a világtól elvonultan, a dzsungel mélyén él. A magány évtizedei chullachaqui-vá változtatták, olyan emberré, aki emlékek és érzelmek nélküli üres kéregként létezik. Életét azonban felrázza egy amerikai etnobotanikus érkezése, aki a Yakrunát, a szent varázsnövényt keresi, amely megtanít álmodni. Együtt indulnak Amazónia szívébe, és utazásuk során a múlt, a jelen és a jövő egybeolvad, Karamakate pedig lassan visszanyeri elveszett emlékeit.
+A történet a sámán és a két megszállott fehér ember road movie-ján túl a kolumbiai rendező kezében az őstermészet és a globalizáció örökös küzdelméről szóló gigantikus parabolává nemesül. A film egy őslakos szemével láttatja a gyarmatosítás groteszkségét, a hittérítés bornírtságát, és egy valódi ayahuasca-szeánsz után nekünk szegezi a kérdést: vajon elég bölcsek vagyunk ahhoz, hogy örökségünket ne játsszuk ki mohó anyagi érdekeknek?”&lt;/p&gt;
+
+&lt;hr style=&quot;clear: both;&quot; /&gt;
+
+&lt;div class=&quot;leftbox&quot; style=&quot;width: 15% ;&quot;&gt;&lt;a href=&quot;https://port.hu/adatlap/film/tv/mustang-mustang/movie-169772#video-921046&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;http://t1.gstatic.com/images?q=tbn:ANd9GcTXW5ECjwVJt3CsEm1aphgMqCGtBGUBoX50a8-WkV43Vg_V_MlI&quot; alt=&quot;Mustang&quot; title=&quot;Mustang&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Mustang&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;“Öt lánytestvér egy török faluban él nagybátyjukkal és nagyanyjukkal. A kamaszlányok felhőtlen boldogságban vágnak neki a nyári szünetnek, de a bigott török közeg a legkisebb kilengést sem tűri: az egyik szomszédasszony jelenti a lányok erkölcseire vigyázó nagymamának, hogy azok együtt fürödtek a tengerben a falubeli fiúkkal. A nyári vakáció a lányok számára nem azt a szabadságot hozza, amire számítottak, éppen ellenkezőleg, nevelőik egyre drasztikusabb módszerekkel próbálják betörni őket és megakadályozni, hogy az ezeréves tradíciók ellenében viselkedjenek. Az öt lány öt különböző választ ad az elnyomásra.”&lt;/p&gt;
+
+&lt;hr style=&quot;clear: both;&quot; /&gt;
+
+&lt;h1 id=&quot;movies&quot;&gt;Movies&lt;/h1&gt;
+
+&lt;p&gt;Magyar
+Isteni műszak&lt;/p&gt;
+
+&lt;p&gt;45 év / 45 Years (2015)
+Jelenetek egy házasságból
+Up in the air
+Betty Blue 
+A Pont-Neuf szerelmesei
+A nagy kékség
+Blue Is the Warmest Color
+Fish Tank
+Headhunters [Hodejegerne]
+Bikanyak (Bullhead) magyar előzetes
+A Generalis
+Rust and Broken
+All.About.My.Mother
+Europa
+Avatar
+A világ végéig ~ A Trilógia - Until The End Of The World
+Az utolsó mohikán
+Before Sunrise
+Blade Runner
+Boyhood (2014) [1080p]
+Brazil 1985
+Breaking Away
+Broken.Embraces.2009.HUN.DVDRiP.XviD-Legacy
+Cafe.de.Flore.2011.CUSTOM.BDRip.XviD.Hungarian-HuSync
+Casablanca 1942
+Castillos De Carton
+Deadpool
+Hamam
+Hair
+Forrest.Gump
+Flashdance
+9 és 1/2 hét
+Ghost.in.the.Shell
+Ive.Loved.You.So.Long
+Jesus Christ Superstar
+Kolya
+Mommy.2014
+Monty Python and the Holy Grail 1975
+Top.Gun
+Volt egyszer egy vadnyugat
+Vörös Sárkány (Red Dragon)
+The.Magnificent.Seven
+The Fault in Our Stars
+The.Man.From.U.N.C.L.E.
+Starship Troopers
+Scott Pilgrim
+Sicario
+The Best Exotic
+The.Brand.New.Testament
+Office Space
+Night on Earth
+Kill Bill	
+New York bandái
+Short cuts
+Less Than Zero 
+remeny rabjai&lt;/p&gt;
+
+&lt;p&gt;20th.Century.Women.2016.HUN.BDRiP.XviD-Gianni
+45.ev.2015.HUN.ENG.CUSTOM.BDRip.x264-PLAN9
+A Generalis.m4v
+A Generalis.m4v.vsmeta
+A.Gun.in.Each.Hand.[Una.Pistola.en.Cada.Mano].DVDRip.2012.XviD.HORiZON-ArtSubs
+A hét mesterlövész 1960
+All.About.My.Mother.1999.BDRip.XviD.HUN-CRW
+Allegiant.2016.BDRiP.x264.HuN-HyperX
+A.martfui.rem.2016.720p.HDTV.DD5.1.x264.HuN-CRLS
+American.Made.2017.BDRip.X264-DEFLATE
+Annie Hall 1977
+Avatar Extended Collectors Edition
+A világ végéig ~ A Trilógia - Until The End Of The World (Wim Wenders 1991)
+A Woman Under the Influence 1974
+Az ajánlat 2005
+Az.ajanlat.2005.DVDRip.XviD.Hun.AC3.5.1-Timba
+Az utolsó mohikán (The Last Of The Mohicans) 1992
+Bartali.2006.DVDRiP.x264.HuN-ClunkyChip
+Batman.v.Superman.Dawn.of.Justice.2016.EXTENDED.BDRip.x264-SPARKS
+Before Midnight 2013
+Before Sunrise.1995.DVDRip.x264.480p.YIFY.mkv
+Before.Sunset.200.7BrRip.720p.x264.YIFY.mkv
+Berlin felett az ég 1987
+Beszelj.Hozza.2002.BDRip.XviD.HUN-1st
+Blade Runner
+Blade Runner 2049.720p.WEB-DL.H264.AC3-EVO
+Blancanieves 2012
+Blue Is the Warmest Color 2013
+Blue.Jasmine.2013.BDRip.x264.HuN-No1
+Boyhood (2014)
+Boyhood (2014) [1080p]
+Brazil 1985
+Breaking Away 1979
+Bridge.of.Spies.2015.BDRip.x264-SPARKS
+Broken.Embraces.2009.HUN.DVDRiP.XviD-Legacy
+Cafe.de.Flore.2011.CUSTOM.BDRip.XviD.Hungarian-HuSync
+Casablanca 1942
+Castillos De Carton
+Chinatown [1974] Eng 720p
+Colossus - The Forbin Project (1970)
+Criminal.2016.BDRiP.x264.HuN-HyperX
+Cross Of Iron 1977
+Deadpool.2016.BDRiP.x264.HuN-HyperX
+Deepwater.Horizon.2016.720p.BluRay.DTS.x264.HuN-HyperX
+Demolition.2015.BDRip.x264-GECKOS
+Diary Of A Country Priest 1951.m4v
+Dilisek vacsorája 1998
+Dirty Dancing 1987
+Dirty Dancing 2 2004
+Doctor.Strange.2016.720p.BluRay.DTS.x264-VietHD
+Dunkirk.2017.BDRip.x264-SPARKS
+@eaDir
+Elet.vagy.valami.hasonlo.2002.HUN.DVDRiP.XviD-seven
+Elle.2016.720p.BluRay.DTS.x264-VietHD
+Embrace.of.the.Serpent.2015.LIMITED.BDRip.x264-DEPTH
+Enemy.at.the.Gates.2001.HUN.BDRip.Xvid-ZHR
+E.T. A  Földönkívüli
+Eye.in.the.Sky.2015.BDRiP.x264.HuN-HyperX
+Eyes Wide Shut 1999
+Fantomas BOXSET
+Felon.2008.BDrip.Custom.HUN.x264-DenZo
+Final Cut - Hölgyeim és Uraim.avi
+Final.Fantasy.Advent.Children.Complete.2009.720p.BluRay.DTS.x264-THORA
+Flashdance 1983
+Forrest.Gump.1994.720p.BluRay.DTS.x264.Hungarian-BW
+Full Metal Jacket 1987
+Get.Out.2017.720p.BluRay.DTS.x264.HuN-No1
+Ghost.in.the.Shell.2017.720p.BluRay.DD-EX.x264-BabyRed
+Gifted.2017.BDRip.x264-GECKOS
+Goodfellas.1990.Special.Edition.DVDRip.XviD.INTERNAL
+Hair 1979
+Hamam (1997)
+Hannah.and.Her.Sisters.1986.HUN.DVDRiP.XviD-Legacy
+Harry Potter
+Headhunters [Hodejegerne] [2011] 720p ReRip BRRip H264 AC3 - CODY
+Hell.or.High.Water.2016.BDRip.x264-DiAMOND
+Hervadó virágok (Broken Flowers) 2005
+Hidden.Figures..2016.DVDSCR-P2P
+Homefront.2013.BDRip.x264-R4Z3R
+Incendies.LIMITED.DVDRip.XviD-DoNE
+Indiana.Jones.and.the.Last.Crusade.1989.iNT.CUSTOM.HUN.DVDRiP.XviD-DWP
+Indiana.Jones.and.The.Raiders.of.The.Lost.Ark.1981.BDrip.Custom.HUN.x264-DenZo
+Indiana.Jones.And.The.Temple.Of.Doom.1984.BDrip.Custom.HUN.x264-DenZo
+In Search of a Midnight Kiss
+Into.The.Wild.2007.DVDRip.XviD-FLAiTE
+In.Your.Eyes.2014.DVDRip.x264-BiPOLAR
+Ip.Man.3.2015.CUSTOM.BDRip.x264.HUN-SLN
+Ive.Loved.You.So.Long.2008.LiMiTED.DVDRip.XviD-NODLABS
+Jack.Reacher.Never.Go.Back.2016.720p.WEB-DL.H264.AC3-EVO
+Jamesbond.ULTiMATE.Collection.HUN.PAL.DVDR-Zso
+Jesus Christ Superstar - Jézus Krisztus Szupersztár 1973
+Julieta.2016.LIMITED.BDRip.x264-BiPOLAR
+Jurassic.World.2015.BDRip.x264.HuN-HRT
+Kedi (2017) 1080p x264
+Kikepzes.2001.DVDRip.XviD.HUN-BOSS
+Kill Bill
+Kill Bill The Whole Bloody Affair 2012
+Kill.Command.2016.BDRiP.x264.HuN-HyperX
+King.Arthur.Legend.of.the.Sword.2017.BluRay.720p.DD5.1.x264.HuN-TRiNiTY
+Kingsglaive.Final.Fantasy.XV.2016.BDRiP.x264.HuN-HyperX
+Kolya 1996 Jan Sverak
+Komputerkémek 1992
+La Grande Bellezza [The Great Beauty] 2013
+La.La.Land.2016.DVDScr.XVID.AC3.HQ.Hive-CM8
+La.mala.educacion.2004.720p.BluRay.x264.HuN-TRiNiTY
+La.Meglio.Gioventu.Atto.Primo.2003.iTALIAN.DVDRip.XviD-TRL
+Lélekszakadva 2002.avi
+Lion.2016.1080p.WEB-DL.DD5.1.H264-FGT
+Live.Flesh.1997.HUN.CUSTOM.DVDRip.XviD-deadinside
+Logan.2017.BDRiP.x264.HuN-HyperX
+Lost.in.Translation.2003.DVDRip.HUN.Xvid-EVOlution
+Louis.De.Funes.A.Csendor.Es.A.Csendorlanyok.DVDRip.XviD.Hun-NoGrp
+Louis.De.Funes.A.Csendor.Es.A.Foldonkivuliek.DVDRip.XviD.Hun-NoGrp
+Louis.De.Funes.A.Csendor.Nosul.DVDRip.XviD.Hun-NoGrp
+Louis.De.Funes.A.Csendor.Nyugdijba.Megy.DVDRip.XviD.Hun-NoGrp
+Louis.De.Funes.A.Fosveny.DVDRip.XviD.Hun-NoGrp
+Louis.De.Funes.A.Saint.Tropezi.Csendor.DVDRip.XviD.Hun-NoGrp
+Majdnem.Hires.2000.Custom.Hun.Pal.DVDR-NBTIMI
+Manchester.by.the.Sea.2016.BDRip.x264-GECKOS
+Manhattan.1979.DVDRiP.XViD.Hun-WebShit
+Martin.Scorsese.Movie.Pack.DVDRip.XviD.ArenaBG
+Match.Point[2005]DvDrip[Eng]-aXXo
+Me.Before.You.2016.BDRiP.x264.HuN-HyperX
+Mechanic.Resurrection.2016.BDRiP.x264.HuN-HyperX
+Mission.Impossible.Trilogy
+Miss.Sloane.2016.HUN.BDRiP.XviD-Gianni
+Modern Times 1936
+Mommy.2014.720p.BluRay.x264-PSYCHD
+Monty Python and the Holy Grail 1975
+Monty Python Live At The Hollywood Bowl 1982
+Mr.and.Mrs.Smith.2008.RETAIL.DVDRiP.XviD.HUN-DynamicLife
+Mustang.2015.BDRip.x264.HuN-Nimphas
+Night on Earth
+Nincs.bocsanat.1992.DUAL.DVDRiP.XviD-seven
+Nine.And.A.Half.Weeks.1986.HUN.DVDRip.XviD-pocokmaster
+Nocturnal.Animals.2016.720p.BluRay.DTS.x264.HuN-TRiNiTY
+Office Space1999 720p
+Office Space [Special Edition] 1999
+Óz, a csodák csodája (The Wizard of Oz) 1939.avi
+Oz the Great and Powerful 2013 1080p 3D
+Palackposta.2016.BDRip.x264.HuN-BaKeR
+Passengers (2016) x264 AAC 2.0 HDCAM (Deflickered) -DDR
+Paterson.2016.BDRip.X264-AMIABLE[rarbg]
+Paterson.2016.DVDScr.XVID.AC3.HQ.Hive-CM8[oscars]
+Persepolis 2007
+Phoenix.2014.BRRip.XviD.AC3-EVO
+Pirates.of.the.Caribbean.Dead.Men.Tell.No.Tales.2017.HUN.BDRiP.XviD-Gianni
+Pirates.Of.The.Caribbean.II.Dead.Mans.Chest.2006
+Pirates.of.the.Caribbean.The.Curse.of.the.Black.Pearl.2003
+Pitkin
+Pour.La.Peau.D’un.Flic.1981.720p.BluRay.AC3.x264.HuN-AMBiLiGHT
+Proof.2005.HUN.BDRiP.x264-ARROW
+Pulp Fiction 1994
+Rope 1948.mkv
+Saturday Night Fever - Szombat esti láz 1977
+Scott Pilgrim vs the World 2010
+Shot.Caller.2017.HUN.BDRiP.XviD-Gianni
+Sicario.2015.BDRip.x264-SPARKS
+Solaris
+Spartacus 2 disc edition 1960
+Starship Troopers (1997)
+Starship.Troopers.Invasion.2012.DVDRip.XviD-DiSPOSABLE
+Starship.Troopers.Traitor.of.Mars.2017.HUN.720p.BluRay.DTS.x264-DeeMoN
+Suicide.Squad.2016.TC.WEBRiP.x264.HuN-HyperX
+Szabadeses.2014.RETAiL.DVDRip.x264.HuN-No1
+Sztalker
+The.Accountant.2016.BDRiP.x264.HuN-HyperX
+The Best Exotic Marigold Hotel
+The Big Lebowski 1998
+The.Big.Short.2015.BDRiP.x264.HuN-HyperX
+The.Brand.New.Testament.2015.CUSTOM.BDRip.x264.HUN-HTH
+The.Bridge.on.the.River.Kwai.1957.HUN.BDRip.XviD-HDEvo
+The.Drop.2014.720p.WEB-DL.DD5.1.H264-RARBG
+The Fault in Our Stars 2014
+The.Garage.1920.REMASTERED.BDRip.x264-GHOULS
+The.Girl.on.the.Train.2016.BDRiP.x264.HuN-HyperX
+The Gold Rush 1925
+The.Great.Escape.1963.iNT.CUSTOM.DVDRip.XviD.Hungarian-AlienSExist
+The.Kid.1921
+The.Magnificent.Seven.2016.HUN.BDRiP.x264-ARROW
+The.Man.From.U.N.C.L.E.(8.Movies.Collection)480p.DVDRip.H264(BINGOWINGZ-UKB-RG)
+The.Man.Who.Knew.Infinity.2015.BDRiP.x264.HuN-HyperX
+The.Matrix.Trilogy.ReTaiL.BDRip.XviD.DuaL-PpB
+The.Notebook.2004.Custom.BDRip.x264.HUN-MDC
+The Secret Life of Walter Mitty 2013
+The.Shallows.2016.BDRip.x264-GECKOS
+The Shawshank Redemption 1994
+The.Twilight.Saga.Eclipse.2010.iNT.BDRip.XviD.HUN-PpB
+The Unbearable Lightness of Being 1988
+The.Wizard.of.Lies.2017.HUN.BDRiP.XviD-Gianni
+Titanic.1997.HUN.BDRiP.x264-DWP
+Toni.Erdmann.2016.720p.BluRay.x264-SADPANDA
+Top.Gun.1986.REPACK.2xHUN.720p.BluRay.x264-TOXI
+Top.Secret.1984.DVDrip.Hun-FegRa
+Trance
+Tükör által homályosan.ISO
+Twilight 01 - Twilight.epub
+Under Fire 1983
+Under Fire 1983 hun
+Űrgolyhók (Spaceballs)
+Volt egyszer egy vadnyugat - Cera Una Volta Il West 1968
+Vörös Sárkány (Red Dragon) 2002
+Wild Tales 2014
+Wind.River.2017.720p.BluRay.x264-GECKOS
+Women.on.the.Verge.of.a.Nervous.Breakdown.1988.BDRip.x264.HUN-CRW
+Youth.2015.BDRip.x264-PHOBOS
+Zabriskie Point 1970
+Zelig
+Zodiac.2007.DC.BDrip.Custom.HUN.x264-DenZo&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>📚 Books / könyvek</title>
+    <link href="http://0.0.0.0:4000/books.html"/>
+    <updated>2018-01-29T09:48:53+01:00</updated>
+    <id>http://0.0.0.0:4000/books</id>
+    <content type="html">&lt;p&gt;Ezen az oldalon tervezem összeszedni az általam kedvelt (e vagy papír alapú) könyveket. Jelenleg ezeket olvasom/&lt;del&gt;tam&lt;/del&gt; mostanában.&lt;/p&gt;
+
+&lt;!-- break --&gt;
+
+&lt;h2 id=&quot;de-előtte-jöjjön-a-lényeg-az-én-aktuális-könyv-toplistám&quot;&gt;De előtte jöjjön a lényeg az én aktuális könyv TOPlistám:&lt;/h2&gt;
+
+&lt;p&gt;&lt;span&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://moly.hu/system/covers/big/covers_370521.jpg&quot; alt=&quot;&quot; style=&quot;width: 12%;&quot; /&gt;&lt;/span&gt;
+&lt;span&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://moly.hu/system/covers/big/covers_434886.jpg?1490173019&quot; alt=&quot;&quot; style=&quot;width: 12%; margin-left: -4em;&quot; /&gt;&lt;/span&gt;
+&lt;span&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://moly.hu/system/covers/big/covers_35427.jpg?1395354721&quot; alt=&quot;&quot; style=&quot;width: 12%;&quot; /&gt;&lt;/span&gt;
+&lt;span&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://moly.hu/system/covers/big/covers_37727.jpg&quot; alt=&quot;&quot; style=&quot;width: 12%;&quot; /&gt;&lt;/span&gt;
+&lt;span&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://s04.static.libri.hu/cover/8d/1/3277407_5.jpg&quot; alt=&quot;&quot; style=&quot;width: 12%;&quot; /&gt;&lt;/span&gt;
+&lt;span&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://s03.static.libri.hu/cover/1a/8/4039575_5.jpg&quot; alt=&quot;&quot; style=&quot;width: 12%;&quot; /&gt;&lt;/span&gt;
+&lt;span&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://www.book24.hu/thumbnails/215/0/img/boritok/agave/csomag_john-scalzi-venek-haboruja-1-4-promo.png&quot; alt=&quot;&quot; style=&quot;width: 12%;&quot; /&gt;&lt;/span&gt;
+&lt;span&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://s06.static.libri.hu/cover/69/e/817799_5.jpg&quot; alt=&quot;&quot; style=&quot;width: 12%;&quot; /&gt;&lt;/span&gt;
+&lt;span&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://s01.static.libri.hu/cover/e6/6/3201999_4.jpg&quot; alt=&quot;&quot; style=&quot;width: 12%;&quot; /&gt;&lt;/span&gt;
+&lt;span&gt;&lt;img class=&quot;shadow&quot; src=&quot;http://nagysandor.eu/images/objects/books/brosnan.jpg&quot; alt=&quot;&quot; style=&quot;width: 12%;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr style=&quot;clear: both;&quot; /&gt;
+
+&lt;!-- Folyamatban --&gt;
+&lt;div class=&quot;rightbox rightboxborders&quot; style=&quot;width: 35%;&quot;&gt;
+&lt;h2&gt;Folyamatban:&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Popper Péter: Felnőtnek lenni&lt;/li&gt;
+	&lt;li&gt;Taylor, Dennis E.: MI, Bob&lt;/li&gt;
+	&lt;li&gt;Parti Nagy Lajos: Fülkefor ​és vidéke, Fülkefória és vidéke (II)&lt;/li&gt;
+	&lt;li&gt;Moldova György: Keserű ​Pohár I-III.&lt;/li&gt;
+	&lt;li&gt;Kellerman, Faye: Szemfényvesztés&lt;/li&gt;
+	&lt;li&gt;Zoltán Gábor: Orgia&lt;/li&gt;
+	&lt;li&gt;Bolano(Bolaño), Roberto: 2666&lt;/li&gt;
+	&lt;li&gt;Szabó T. Anna: Törésteszt&lt;/li&gt;
+	&lt;li&gt;Chiang, Ted: Életed törtenete&lt;/li&gt;
+	&lt;li&gt;Eggers, Dave: A Kör &lt;/li&gt;
+	&lt;li&gt;Kelly, Scott: Endurance (angol)&lt;/li&gt;
+	&lt;li&gt;Radnóti Miklósné Gyarmati Fanni: Napló 1935-1946 I-II.&lt;/li&gt;
+	&lt;li&gt;Joyce, James: Ulysses&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+&lt;p&gt;&lt;!-- Folyamatban --&gt;&lt;/p&gt;
+
+&lt;div class=&quot;leftbox&quot; style=&quot;width: 15%;&quot;&gt;&lt;a href=&quot;https://moly.hu/konyvek/jared-diamond-haboruk-jarvanyok-technikak&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://moly.hu/system/covers/big/covers_262501.jpg?1395465817&quot; alt=&quot;Diamond, Jared - Háborúk, ​járványok, technikák&quot; title=&quot;Diamond, Jared - Háborúk, ​járványok, technikák&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Diamond, Jared - Háborúk, ​járványok, technikák&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;“A „háborúk járványok technikák” a világtörténelem alapvető kérdésére keresi a választ: „miért az európai civilizáció hódította meg a világot, miért nem másként történt ez?” Így is fogalmazhatunk: Miért Pisaro maroknyi csapata győzte le Atahualpa inka fejedelmet és hatalmas hadseregét, miért nem ő kényszerítette térdre I. Károly spanyol királyt (és egyben Német-Római császárt)? Vagy ahogy az új-guineai Yali – a szerző barátja – vetette fel: Miért van az, hogy ti fehérek olyan sok árut termeltetek és hoztatok Új-Guineába, míg nekünk feketéknek, oly kevés saját árunk van? A provokatív kérdésekre rendhagyó, nagyívű válasz születik, nemcsak a történelem, hanem a földrajz, a biológia, a régészet, a nyelvészet, a járványtan és antropológia, valamint a tudomány- és technikatörténet alapján, mintegy 13 ezer éves időskálán mozogva új összefüggések rajzolódtak ki.”&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;leftbox&quot; style=&quot;width: 15%;&quot;&gt;&lt;a href=&quot;https://www.agavekonyvek.hu/konyvek/ready-player-one&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://www.book24.hu/thumbnails/215/0/img/boritok/agave/ernest_cline_ready_player_one_b1_72pi.jpg&quot; alt=&quot;Cline, Ernest: Ready Player One&quot; title=&quot;Cline, Ernest: Ready Player One&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Cline, Ernest: Ready Player One&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;“2044-et írunk, és a valóság elég ronda egy hely. Az emberiség nagy részéhez hasonlóan a gimnazista Wade Watts is azt a kiutat látja zord környezetéből, hogy bejelentkezik az OASIS-ba, a világméretű virtuális utópiába, ahol az avatárján keresztül mindenki szabadon tanulhat, dolgozhat, és szórakozhat. Ugyancsak az emberiség nagy részéhez hasonlóan Wade is arról álmodozik, hogy ő találja meg elsőként a virtuális világ elrejtett kincsét. A szimuláció tervezőjeként ismert James Halliday ugyanis ördögi feladványt hagyott maga után, amelynek leggyorsabb megfejtője szédületes vagyonra és hatalomra tehet szert.&lt;/p&gt;
+
+&lt;p&gt;A Halliday által kifundált feladatok sikeres teljesítéséhez a popkultúra megszállott ismeretére van szükség, Wade pedig éppúgy otthon van a Gyalog galoppban, mint a Pac-Manben, a Rush életművében vagy az animékben. Amikor a tizennyolc éves srác hosszú évek kitartó munkája után megoldja az első feladványt, hirtelen a figyelem középpontjába kerül, és ez életveszélybe sodorja. Egyes játékosok ugyanis még a gyilkosságig is hajlandóak elmenni a mesés nyeremény megszerzéséért.&lt;/p&gt;
+
+&lt;p&gt;Ernest Cline első regénye a 2011-es megjelenését követően megkapta a rangos Prometheus-díjat, és mostanra a popkulturális irodalom egyik legfontosabb kortárs művévé vált. Több millió példányban adták el, világszerte óriási rajongótábora van, és készül belőle már a nagyköltségvetésű film is: Steven Spielberg rendezésében 2018 márciusában mutatják be a mozik.”&lt;/p&gt;
+
+&lt;hr style=&quot;clear: both;&quot; /&gt;
+
+&lt;div class=&quot;leftbox&quot; style=&quot;width: 15%;&quot;&gt;&lt;a href=&quot;http://fumax.hu/termek/andy_weir_artemis.html&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://s01.static.libri.hu/cover/79/4/4189827_5.jpg&quot; alt=&quot;Weir, Andy: Artemis&quot; title=&quot;Weir, Andy: Artemis&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Weir, Andy: Artemis&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;“Jazz Bashara bűnöző.&lt;/p&gt;
+
+&lt;p&gt;Vagy valami olyasmi. Az élet ugyanis elég kemény Artemisen, a Hold első és egyetlen városában, hacsak nem vagy gazdag turista vagy excentrikus milliárdos. Némi ártalmatlan, de tiltott áru becsempészése nem egetverő bűn, ugyebár? Főleg, ha különböző adósságokat kell törlesztened, mivel a hordári munkádért kapott fizetés a lakbért is alig fedezi.&lt;/p&gt;
+
+&lt;p&gt;A dolgok akkor kezdenek megváltozni, amikor Jazznek páratlan lehetősége adódik a tökéletes bűntény elkövetésére, amely akkora nyereséggel kecsegtet, hogy képtelenség lenne visszautasítani. A lehetetlen végrehajtása azonban még csak a kezdet: ráébred, hogy egyenesen egy összeesküvés kellős közepébe csöppent, amelynek célja nem kevesebb, mint átvenni a hatalmat egész Artemis fölött.&lt;/p&gt;
+
+&lt;p&gt;Ha pedig túl akarja élni, bele kell mennie élete legbrutálisabb játszmájába, olyan tétekkel, amelyek már egyáltalán nincsenek az ínyére.&lt;/p&gt;
+
+&lt;p&gt;A marsi sikerlista-vezető szerzője, Andy Weir újabb lenyűgöző főszereplőt alkotott, Jazz történetét pedig a rá jellemző humorral és tudományos alapossággal írta meg. Az Artemis filmes jogai már a könyv bejelentésének napján elkeltek, a 20th Century Fox és a New Regency máris dolgozik az adaptáción.”&lt;/p&gt;
+
+&lt;hr style=&quot;clear: both;&quot; /&gt;
+
+&lt;div class=&quot;leftbox&quot; style=&quot;width: 15%;&quot;&gt;&lt;a href=&quot;https://bookline.hu/product/home.action?_v=Yuval_Noah_Harari_Sapiens&amp;amp;id=20822&amp;amp;type=250&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://moly.hu/system/covers/big/covers_370521.jpg&quot; alt=&quot;Harari, Yuval Noah: Sapiens - Az emberiség rövid története&quot; title=&quot;Harari, Yuval Noah: Sapiens - Az emberiség rövid története&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;div class=&quot;leftbox&quot; style=&quot;width: 15%;&quot;&gt;&lt;a href=&quot;https://bookline.hu/product/home.action?_v=Yuval_Noah_Harari_Homo_Deus&amp;amp;id=32396&amp;amp;type=250&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://moly.hu/system/covers/big/covers_434886.jpg?1490173019&quot; alt=&quot;Harari, Yuval Noah: Homo ​Deus - A holnap rövid története&quot; title=&quot;Harari, Yuval Noah: Homo ​Deus - A holnap rövid története&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Harari, Yuval Noah: Sapiens - Az emberiség rövid története és Homo ​Deus - A holnap rövid története&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;“A tűz tett minket veszedelmessé. A pletyka együttműködővé. A mezőgazdaság még éhesebbé. A mitológia tartotta fenn a törvényt és a rendet. A pénz adott valamit, amiben mind bízhatunk. Az ellentmondások teremtették meg a kultúrát. A tudomány tett minket a teremtés urává. De egyik sem tett boldoggá…&lt;/p&gt;
+
+&lt;p&gt;A világhírű jeruzsálemi egyetemi tanár szerint így foglalható össze annak története, ahogyan jelentéktelen majmokból a világ uraivá váltunk.”&lt;/p&gt;
+
+&lt;p&gt;“Legyőztük a pusztító éhínséget. Megfékeztük a gyilkos járványokat. Véget vetettünk az öldöklő háborúknak. De mihez kezdjünk ezek után? Kíséreljük meg legyőzni az öregedést? Próbáljuk meg kicselezni a halált? Tegyük az embert istenné?&lt;/p&gt;
+
+&lt;p&gt;A világhírű jeruzsálemi egyetemi tanár, Yuval Noah Harari elgondolkodtatóan és világosan vázolja fel az emberiség lehetséges jövőit, és hogy miként válhat a Homo sapiens Homo deusszá.”&lt;/p&gt;
+
+&lt;hr style=&quot;clear: both;&quot; /&gt;
+
+&lt;div class=&quot;leftbox&quot; style=&quot;width: 15%;&quot;&gt;&lt;a href=&quot;https://www.agavekonyvek.hu/konyvek/voros-lazadas&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://dopvn1uhjjonw.cloudfront.net/thumbnails/215/0/img/boritok/agave/pierce-brown-voros-lazadas-b1_k.jpg&quot; alt=&quot;Brown, Pierce: Vörös lázadás&quot; title=&quot;Brown, Pierce: Vörös lázadás&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;div class=&quot;leftbox&quot; style=&quot;width: 15%;&quot;&gt;&lt;a href=&quot;https://www.agavekonyvek.hu/konyvek/arany-haboru-voros-lazadas-trilogia-2&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://www.book24.hu/thumbnails/215/0/img/boritok/agave/pierce-brown-arany-haboru-b1.jpg&quot; alt=&quot;Brown, Pierce: Arany Háború&quot; title=&quot;Brown, Pierce: Arany Háború&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Brown, Pierce: Vörös lázadás, Arany Háború,&lt;/strong&gt; &lt;strong&gt;Hajnalcsillag&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;“&lt;strong&gt;Vörös lázadás:&lt;/strong&gt; A fiatal Darrow a Marson él, bányász, és Vörösnek született, a színekről elnevezett kasztokra épülő társadalom legalacsonyabb rétegébe. Fáradtságot nem ismerve kockáztatja az életét a beomló alagutak és lándzsaviperák közt abban a hitben, hogy sorstársaival lakhatóvá teszi a bolygó felszínét a jövő generációi számára. Darrow még sosem látta a szabad égboltot, ám a kötelességét mégis teljesíti, mert reméli, hogy emberfeletti munkájával a saját gyermekeinek is jobb életet teremt. Egy nap azonban megtudja, hogy a Vörösök elől eltitkolják az igazságot, ugyanis a Mars felszíne már alkalmas az emberi életre. Méghozzá nem is akármilyenre.&lt;/p&gt;
+
+&lt;p&gt;Igazságot követelve a kasztjának és bosszúra szomjazva meggyilkolt szerelme miatt Darrow csatlakozik a földalatti ellenálláshoz, hogy megdöntse az Aranyak zsarnoki uralmát. S céljának elérésében semmi sem gátolhatja meg… Még az sem, hogy olyanná kell válnia, mint gyűlölt ellenségei.”&lt;/p&gt;
+
+&lt;p&gt;“&lt;strong&gt;Arany háború:&lt;/strong&gt; Az Arany háborúban folytatódik Darrow tragédia kovácsolta bosszúhadjárata: eltökélten vezeti harcba elnyomott népét a szabadságért egy hazugságokra épült elitista utópiában. Arannyá vált ő is, és belülről tervezi megdönteni a Társadalmat. Azonban nem csak leggyűlöltebb ellenségeit kell legyőznie, hanem a benne lakozó bosszúvágyat is, hogy végül erőszakos polgárháború helyett világa újjászületését hozza el.&lt;/p&gt;
+
+&lt;p&gt;Ha a Vörös lázadás egy letehetetlenül olvasmányos, folyamatosan pörgő, végig lebilincselő kezdet volt, akkor az Arany háború egy még brutálisabb adrenalinlöket: az olvasó fék nélkül száguld a szereplőkkel a folyamatos akciójelenetek, űrharcok és politikai intrikák közt. Helyenként kegyetlen, máskor nagyon is emberi élet-halál történet a bosszúról egy felejthetetlen főszereplővel – Pierce Brownt joggal tartják az akció sci-fik egyik legnagyobb reményű új szerzőjének.”&lt;/p&gt;
+
+&lt;p&gt;“&lt;strong&gt;Hajnalcsillag:&lt;/strong&gt; Darrow békében élt, de az ellenségei háborúba kényszerítették. Az Arany uralkodók felakasztották a feleségét és rabszolgasorba taszították a népét. Ő azonban nem törődött bele a sorsába, nem adta fel: mindent kockáztatva beépült az Aranyak közé, és lehetetlent nem ismerve harcolt és élt túl mindent, hogy végül elindíthassa a forradalmat, ami darabjaira szedi a marsi rendszert.&lt;/p&gt;
+
+&lt;p&gt;Most eljött az idő, a forradalom kezdetét veszi.&lt;/p&gt;
+
+&lt;p&gt;Pierce Brown a Vörös lázadás-trilógiával robbant be 2014-ben a sci-fibe, és a hirtelen sikerének köszönhetően mára olvasók milliói rajonganak érte a világ minden táján. A Hajnalcsillag a megkoronázása e diadalmenetnek, egyben méltó befejezése az utóbbi évek legnépszerűbb sci-fi sorozatának.”&lt;/p&gt;
+
+&lt;hr style=&quot;clear: both;&quot; /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;rightbox&quot; style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/books/konyvespolc.jpg&quot; alt=&quot;Könyvespolc 20171104&quot; title=&quot;Könyvespolc 20171104&quot; /&gt;&lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;Scalzi, John: Az összeomló birodalom&lt;/del&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;Földes András: Erőss Zsolt - A Himalájánál magasabbra&lt;/del&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;Shafak(Şafak), Elif: Becsület&lt;/del&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;Ebershoff, David: A dán lány&lt;/del&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;Crouch, Blake: Sötét anyag&lt;/del&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;Árpa Attila: Holtomiglan&lt;/del&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;Vance, Ashlee: Elon Musk - Tesla, SpaceX és a fantasztikus jövő&lt;/del&gt;‎&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;Hertzfeld, Andy: Revolution in The Valley: The Insanely Great Story of How the Mac Was Made (angol)&lt;/del&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;Merchant, Brian: The One Device: The Secret History of the iPhone (angol)&lt;/del&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;del&gt;Hosseini, Khaled: Papírsárkányok&lt;/del&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;Frei Tamás: A Bankár, A Megmentő, Agrárbárók, 2015: A káosz éve és a magyar elit háborúja&lt;/del&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;Moldova György: Titkos Záradék&lt;/del&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;Enders, Giulie: Bélügyek&lt;/del&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;Csabai László: Szindbád szibériában&lt;/del&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;Leslie L. Lawrence: Sindzse ​szeme&lt;/del&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;M. R. Carey: Kiéhezettek&lt;/del&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;Moldova György: A ​végtelen vonal&lt;/del&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;Hosszú Katinka: A magyar Iron Lady&lt;/del&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;Blake Crouch: Wayward Pines trilógia&lt;/del&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;dos Santos, José Rodrigues: A hetedik pecsét - A világvége elkezdődött, Isten haragja&lt;/del&gt;&lt;/li&gt;
+  &lt;li&gt;Howey, Hugh: A siló&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;Banks, Iain M.: A játékmester&lt;/del&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;Cussler, Clive: A jéghegy&lt;/del&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;Chase, James Hadley: A gyilkos hajsza&lt;/del&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;Cronin, Justin: A szabadulás&lt;/del&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;Kolozsi László: Ki köpött a krémesbe, Mi van a reverenda alatt?&lt;/del&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;VanderMeer, Jeff: Expedíció&lt;/del&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;Vermes, Timur: Nezd ki van itt!&lt;/del&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Kent, Steven: The Ultimate History of Video Games&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Harris, Thomas: A Vörös Sárkány (Rakéta regényújság 129., 1986, 24-33. szám)&lt;/li&gt;
+  &lt;li&gt;Merle, Robert: Mesterségem a halál
+Levin, Ira: A brazíliai fiúk (Rakéta regényújság 137., 1987, 20-26. szám)&lt;/li&gt;
+  &lt;li&gt;Shafak(Şafak), Elif: Szerelem&lt;/li&gt;
+  &lt;li&gt;Szabó Magda: Für Elise, Ajtó, Az őz, Abigél&lt;/li&gt;
+  &lt;li&gt;Simmel, Johannes Mario: Nem kell mindig kaviár&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
   
   <entry>
     <title>🖥 macOSApps / macOSApps [2018]</title>
@@ -490,339 +1007,6 @@
   </entry>
   
   <entry>
-    <title>🎬 Movies / filmek [2018]</title>
-    <link href="http://0.0.0.0:4000/movies.html"/>
-    <updated>2018-01-28T20:49:51+01:00</updated>
-    <id>http://0.0.0.0:4000/movies</id>
-    <content type="html">&lt;div class=&quot;leftbox&quot; style=&quot;width: 15% ;&quot;&gt;&lt;a href=&quot;https://port.hu/adatlap/film/mozi/thelma-thelma/movie-196009#video-983530&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;http://t2.gstatic.com/images?q=tbn:ANd9GcSaKPgvVW33At9xYgW3PXplfAiwQxGnPkqeHhCaG6B5TCUDlB72&quot; alt=&quot;Thelma&quot; title=&quot;Thelma&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Thelma&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;“Thelma, egy vallásos háttérrel rendelkező norvég diáklány Oslóba költözik, ahol beleszeret egy másik lányba. S miközben szégyenérzettel terhelt szexuális ébredését éli meg, Thelma felfedezi, hogy természetfeletti képességgel és erővel rendelkezik.”&lt;/p&gt;
-
-&lt;hr style=&quot;clear: both;&quot; /&gt;
-
-&lt;div class=&quot;leftbox&quot; style=&quot;width: 15% ;&quot;&gt;&lt;a href=&quot;https://port.hu/adatlap/film/mozi/lady-bird-lady-bird/movie-191843#video-969510&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;http://t2.gstatic.com/images?q=tbn:ANd9GcT0Yf7_FepQU9VEbNsZ7824_2nvdFKOlogCo-yvJhSjuRA22aYg&quot; alt=&quot;Lady Bird&quot; title=&quot;Lady Bird&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Lady Bird&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;“Greta Gerwig első önálló rendezése merész, új hangot üt meg, bravúrosan tárja fel a humort és a pátoszt, amit egy anya és tinédzser lánya közti viharos viszony rejt.
-Christine “Lady Bird” McPherson (Saoirse Ronan) teljesen olyan, mint a szeretettől túláradó, megrögzötten makacs és határozott anyja, Marion (Laurie Metcalf), akivel örökös harcban áll. Marion nővér, és fáradhatatlanul dolgozik, hogy ellássa családját, miután Lady Bird apja elveszíti az állását. A kaliforniai Sacramentóban vagyunk 2002-ben, az amerikai gazdaság szeszélyesen változásai közepette játszódó történet érzékeny tükröt tart a kapcsolatoknak, melyek formálnak minket, a hiteknek, melyek meghatároznak minket, és a páratlan szépségű helynek, amelyet otthonnak nevezünk. “&lt;/p&gt;
-
-&lt;hr style=&quot;clear: both;&quot; /&gt;
-
-&lt;div class=&quot;leftbox&quot; style=&quot;width: 15% ;&quot;&gt;&lt;a href=&quot;https://port.hu/adatlap/film/mozi/szolits-a-neveden-call-me-by-your-name/movie-197412&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;http://t1.gstatic.com/images?q=tbn:ANd9GcRDtqzFejuwWDwGc41npRohO8lsVRfwzGXkjpinHQ3ZRuEvZWKH&quot; alt=&quot;Szólíts a neveden /Call Me by Your Name/&quot; title=&quot;Szólíts a neveden /Call Me by Your Name/&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Szólíts a neveden /Call Me by Your Name/&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;“Egy nyár Észak-Olaszországban. Elio (Timothée Chalamet), a 17 éves amerikai srác számára maga a paradicsom. A szüleivel együtt minden évben ugyanabban az ódon villában meg kertben tölti a vakációt, és ugyanazok a régi barátok veszik körül. Buliznak, strandolnak, zenét hallgatnak, beszélgetnek, és persze szerelemesek?
-Elio apja művészettörténész, aki minden évben befogadja néhány hétre egy tanítványát. Ezúttal a doktori disszertációján dolgozó Oliver (Armie Hammer) érkezik, aki megzavarja a boldog harmóniát. Nem illik ide. Túl laza, túl szép, nem tudni mit akar.
-Ez a nyár más, mint a korábbiak. Boldog és furcsa, szerelemmel és bánattal teli. És mire véget ér, már semmi nem lehet ugyanolyan, mint addig volt. “&lt;/p&gt;
-
-&lt;hr style=&quot;clear: both;&quot; /&gt;
-
-&lt;div class=&quot;leftbox&quot; style=&quot;width: 15% ;&quot;&gt;&lt;a href=&quot;https://port.hu/adatlap/film/mozi/szarnyas-fejvadasz-2049-blade-runner-2049/movie-176846#video-963594&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://upload.wikimedia.org/wikipedia/en/9/9b/Blade_Runner_2049_poster.png&quot; alt=&quot;Szárnyas fejvadász 2049 /Blade Runner 2049/&quot; title=&quot;Szárnyas fejvadász 2049 /Blade Runner 2049/&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Szárnyas fejvadász 2049 /Blade Runner 2049/&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;“Bár az alkotók az új történetet hét lakat alatt tartják, azt már tudjuk, hogy minden idők talán legnagyobb legendájú sci-fi/akciófilmje jó kezekben van: a producer az első rész rendezője, Ridley Scott, a rendező pedig az utóbbi évek legnagyobb meglepetéseit készítő kanadai Denis Villeneuve. Már maga a sztárszereposztás is fantasztikus filmmé teszi az új Szárnyas fejvadászt: minden esély megvan rá, hogy a Budapesten forgatott új rész felnő az elsőhöz, és maga is legendává válik.”&lt;/p&gt;
-
-&lt;!-- break --&gt;
-
-&lt;hr style=&quot;clear: both;&quot; /&gt;
-
-&lt;div class=&quot;leftbox&quot; style=&quot;width: 15% ;&quot;&gt;&lt;a href=&quot;https://port.hu/adatlap/film/tv/a-kigyo-olelese-el-abrazo-de-la-serpiente/movie-168036?section=mozi&amp;amp;title=a-kigyo-olelese-el-abrazo-de-la-serpiente&amp;amp;id=movie-168036#video-916198&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://pics.filmaffinity.com/el_abrazo_de_la_serpiente-385873306-large.jpg&quot; alt=&quot;A kígyó ölelése /El abrazo de la serpiente/&quot; title=&quot;A kígyó ölelése /El abrazo de la serpiente/&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;A kígyó ölelése /El abrazo de la serpiente/&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;“Karamakate, a nagyhatalmú amazóniai sámán, törzsének utolsó képviselője a világtól elvonultan, a dzsungel mélyén él. A magány évtizedei chullachaqui-vá változtatták, olyan emberré, aki emlékek és érzelmek nélküli üres kéregként létezik. Életét azonban felrázza egy amerikai etnobotanikus érkezése, aki a Yakrunát, a szent varázsnövényt keresi, amely megtanít álmodni. Együtt indulnak Amazónia szívébe, és utazásuk során a múlt, a jelen és a jövő egybeolvad, Karamakate pedig lassan visszanyeri elveszett emlékeit.
-A történet a sámán és a két megszállott fehér ember road movie-ján túl a kolumbiai rendező kezében az őstermészet és a globalizáció örökös küzdelméről szóló gigantikus parabolává nemesül. A film egy őslakos szemével láttatja a gyarmatosítás groteszkségét, a hittérítés bornírtságát, és egy valódi ayahuasca-szeánsz után nekünk szegezi a kérdést: vajon elég bölcsek vagyunk ahhoz, hogy örökségünket ne játsszuk ki mohó anyagi érdekeknek?”&lt;/p&gt;
-
-&lt;hr style=&quot;clear: both;&quot; /&gt;
-
-&lt;div class=&quot;leftbox&quot; style=&quot;width: 15% ;&quot;&gt;&lt;a href=&quot;https://port.hu/adatlap/film/tv/mustang-mustang/movie-169772#video-921046&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;http://t1.gstatic.com/images?q=tbn:ANd9GcTXW5ECjwVJt3CsEm1aphgMqCGtBGUBoX50a8-WkV43Vg_V_MlI&quot; alt=&quot;Mustang&quot; title=&quot;Mustang&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Mustang&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;“Öt lánytestvér egy török faluban él nagybátyjukkal és nagyanyjukkal. A kamaszlányok felhőtlen boldogságban vágnak neki a nyári szünetnek, de a bigott török közeg a legkisebb kilengést sem tűri: az egyik szomszédasszony jelenti a lányok erkölcseire vigyázó nagymamának, hogy azok együtt fürödtek a tengerben a falubeli fiúkkal. A nyári vakáció a lányok számára nem azt a szabadságot hozza, amire számítottak, éppen ellenkezőleg, nevelőik egyre drasztikusabb módszerekkel próbálják betörni őket és megakadályozni, hogy az ezeréves tradíciók ellenében viselkedjenek. Az öt lány öt különböző választ ad az elnyomásra.”&lt;/p&gt;
-
-&lt;hr style=&quot;clear: both;&quot; /&gt;
-
-&lt;h1 id=&quot;movies&quot;&gt;Movies&lt;/h1&gt;
-
-&lt;p&gt;Magyar
-Isteni műszak&lt;/p&gt;
-
-&lt;p&gt;45 év / 45 Years (2015)
-Jelenetek egy házasságból
-Up in the air
-Betty Blue 
-A Pont-Neuf szerelmesei
-A nagy kékség
-Blue Is the Warmest Color
-Fish Tank
-Headhunters [Hodejegerne]
-Bikanyak (Bullhead) magyar előzetes
-A Generalis
-Rust and Broken
-All.About.My.Mother
-Europa
-Avatar
-A világ végéig ~ A Trilógia - Until The End Of The World
-Az utolsó mohikán
-Before Sunrise
-Blade Runner
-Boyhood (2014) [1080p]
-Brazil 1985
-Breaking Away
-Broken.Embraces.2009.HUN.DVDRiP.XviD-Legacy
-Cafe.de.Flore.2011.CUSTOM.BDRip.XviD.Hungarian-HuSync
-Casablanca 1942
-Castillos De Carton
-Deadpool
-Hamam
-Hair
-Forrest.Gump
-Flashdance
-9 és 1/2 hét
-Ghost.in.the.Shell
-Ive.Loved.You.So.Long
-Jesus Christ Superstar
-Kolya
-Mommy.2014
-Monty Python and the Holy Grail 1975
-Top.Gun
-Volt egyszer egy vadnyugat
-Vörös Sárkány (Red Dragon)
-The.Magnificent.Seven
-The Fault in Our Stars
-The.Man.From.U.N.C.L.E.
-Starship Troopers
-Scott Pilgrim
-Sicario
-The Best Exotic
-The.Brand.New.Testament
-Office Space
-Night on Earth
-Kill Bill	
-New York bandái
-Short cuts
-Less Than Zero 
-remeny rabjai&lt;/p&gt;
-
-&lt;p&gt;20th.Century.Women.2016.HUN.BDRiP.XviD-Gianni
-45.ev.2015.HUN.ENG.CUSTOM.BDRip.x264-PLAN9
-A Generalis.m4v
-A Generalis.m4v.vsmeta
-A.Gun.in.Each.Hand.[Una.Pistola.en.Cada.Mano].DVDRip.2012.XviD.HORiZON-ArtSubs
-A hét mesterlövész 1960
-All.About.My.Mother.1999.BDRip.XviD.HUN-CRW
-Allegiant.2016.BDRiP.x264.HuN-HyperX
-A.martfui.rem.2016.720p.HDTV.DD5.1.x264.HuN-CRLS
-American.Made.2017.BDRip.X264-DEFLATE
-Annie Hall 1977
-Avatar Extended Collectors Edition
-A világ végéig ~ A Trilógia - Until The End Of The World (Wim Wenders 1991)
-A Woman Under the Influence 1974
-Az ajánlat 2005
-Az.ajanlat.2005.DVDRip.XviD.Hun.AC3.5.1-Timba
-Az utolsó mohikán (The Last Of The Mohicans) 1992
-Bartali.2006.DVDRiP.x264.HuN-ClunkyChip
-Batman.v.Superman.Dawn.of.Justice.2016.EXTENDED.BDRip.x264-SPARKS
-Before Midnight 2013
-Before Sunrise.1995.DVDRip.x264.480p.YIFY.mkv
-Before.Sunset.200.7BrRip.720p.x264.YIFY.mkv
-Berlin felett az ég 1987
-Beszelj.Hozza.2002.BDRip.XviD.HUN-1st
-Blade Runner
-Blade Runner 2049.720p.WEB-DL.H264.AC3-EVO
-Blancanieves 2012
-Blue Is the Warmest Color 2013
-Blue.Jasmine.2013.BDRip.x264.HuN-No1
-Boyhood (2014)
-Boyhood (2014) [1080p]
-Brazil 1985
-Breaking Away 1979
-Bridge.of.Spies.2015.BDRip.x264-SPARKS
-Broken.Embraces.2009.HUN.DVDRiP.XviD-Legacy
-Cafe.de.Flore.2011.CUSTOM.BDRip.XviD.Hungarian-HuSync
-Casablanca 1942
-Castillos De Carton
-Chinatown [1974] Eng 720p
-Colossus - The Forbin Project (1970)
-Criminal.2016.BDRiP.x264.HuN-HyperX
-Cross Of Iron 1977
-Deadpool.2016.BDRiP.x264.HuN-HyperX
-Deepwater.Horizon.2016.720p.BluRay.DTS.x264.HuN-HyperX
-Demolition.2015.BDRip.x264-GECKOS
-Diary Of A Country Priest 1951.m4v
-Dilisek vacsorája 1998
-Dirty Dancing 1987
-Dirty Dancing 2 2004
-Doctor.Strange.2016.720p.BluRay.DTS.x264-VietHD
-Dunkirk.2017.BDRip.x264-SPARKS
-@eaDir
-Elet.vagy.valami.hasonlo.2002.HUN.DVDRiP.XviD-seven
-Elle.2016.720p.BluRay.DTS.x264-VietHD
-Embrace.of.the.Serpent.2015.LIMITED.BDRip.x264-DEPTH
-Enemy.at.the.Gates.2001.HUN.BDRip.Xvid-ZHR
-E.T. A  Földönkívüli
-Eye.in.the.Sky.2015.BDRiP.x264.HuN-HyperX
-Eyes Wide Shut 1999
-Fantomas BOXSET
-Felon.2008.BDrip.Custom.HUN.x264-DenZo
-Final Cut - Hölgyeim és Uraim.avi
-Final.Fantasy.Advent.Children.Complete.2009.720p.BluRay.DTS.x264-THORA
-Flashdance 1983
-Forrest.Gump.1994.720p.BluRay.DTS.x264.Hungarian-BW
-Full Metal Jacket 1987
-Get.Out.2017.720p.BluRay.DTS.x264.HuN-No1
-Ghost.in.the.Shell.2017.720p.BluRay.DD-EX.x264-BabyRed
-Gifted.2017.BDRip.x264-GECKOS
-Goodfellas.1990.Special.Edition.DVDRip.XviD.INTERNAL
-Hair 1979
-Hamam (1997)
-Hannah.and.Her.Sisters.1986.HUN.DVDRiP.XviD-Legacy
-Harry Potter
-Headhunters [Hodejegerne] [2011] 720p ReRip BRRip H264 AC3 - CODY
-Hell.or.High.Water.2016.BDRip.x264-DiAMOND
-Hervadó virágok (Broken Flowers) 2005
-Hidden.Figures..2016.DVDSCR-P2P
-Homefront.2013.BDRip.x264-R4Z3R
-Incendies.LIMITED.DVDRip.XviD-DoNE
-Indiana.Jones.and.the.Last.Crusade.1989.iNT.CUSTOM.HUN.DVDRiP.XviD-DWP
-Indiana.Jones.and.The.Raiders.of.The.Lost.Ark.1981.BDrip.Custom.HUN.x264-DenZo
-Indiana.Jones.And.The.Temple.Of.Doom.1984.BDrip.Custom.HUN.x264-DenZo
-In Search of a Midnight Kiss
-Into.The.Wild.2007.DVDRip.XviD-FLAiTE
-In.Your.Eyes.2014.DVDRip.x264-BiPOLAR
-Ip.Man.3.2015.CUSTOM.BDRip.x264.HUN-SLN
-Ive.Loved.You.So.Long.2008.LiMiTED.DVDRip.XviD-NODLABS
-Jack.Reacher.Never.Go.Back.2016.720p.WEB-DL.H264.AC3-EVO
-Jamesbond.ULTiMATE.Collection.HUN.PAL.DVDR-Zso
-Jesus Christ Superstar - Jézus Krisztus Szupersztár 1973
-Julieta.2016.LIMITED.BDRip.x264-BiPOLAR
-Jurassic.World.2015.BDRip.x264.HuN-HRT
-Kedi (2017) 1080p x264
-Kikepzes.2001.DVDRip.XviD.HUN-BOSS
-Kill Bill
-Kill Bill The Whole Bloody Affair 2012
-Kill.Command.2016.BDRiP.x264.HuN-HyperX
-King.Arthur.Legend.of.the.Sword.2017.BluRay.720p.DD5.1.x264.HuN-TRiNiTY
-Kingsglaive.Final.Fantasy.XV.2016.BDRiP.x264.HuN-HyperX
-Kolya 1996 Jan Sverak
-Komputerkémek 1992
-La Grande Bellezza [The Great Beauty] 2013
-La.La.Land.2016.DVDScr.XVID.AC3.HQ.Hive-CM8
-La.mala.educacion.2004.720p.BluRay.x264.HuN-TRiNiTY
-La.Meglio.Gioventu.Atto.Primo.2003.iTALIAN.DVDRip.XviD-TRL
-Lélekszakadva 2002.avi
-Lion.2016.1080p.WEB-DL.DD5.1.H264-FGT
-Live.Flesh.1997.HUN.CUSTOM.DVDRip.XviD-deadinside
-Logan.2017.BDRiP.x264.HuN-HyperX
-Lost.in.Translation.2003.DVDRip.HUN.Xvid-EVOlution
-Louis.De.Funes.A.Csendor.Es.A.Csendorlanyok.DVDRip.XviD.Hun-NoGrp
-Louis.De.Funes.A.Csendor.Es.A.Foldonkivuliek.DVDRip.XviD.Hun-NoGrp
-Louis.De.Funes.A.Csendor.Nosul.DVDRip.XviD.Hun-NoGrp
-Louis.De.Funes.A.Csendor.Nyugdijba.Megy.DVDRip.XviD.Hun-NoGrp
-Louis.De.Funes.A.Fosveny.DVDRip.XviD.Hun-NoGrp
-Louis.De.Funes.A.Saint.Tropezi.Csendor.DVDRip.XviD.Hun-NoGrp
-Majdnem.Hires.2000.Custom.Hun.Pal.DVDR-NBTIMI
-Manchester.by.the.Sea.2016.BDRip.x264-GECKOS
-Manhattan.1979.DVDRiP.XViD.Hun-WebShit
-Martin.Scorsese.Movie.Pack.DVDRip.XviD.ArenaBG
-Match.Point[2005]DvDrip[Eng]-aXXo
-Me.Before.You.2016.BDRiP.x264.HuN-HyperX
-Mechanic.Resurrection.2016.BDRiP.x264.HuN-HyperX
-Mission.Impossible.Trilogy
-Miss.Sloane.2016.HUN.BDRiP.XviD-Gianni
-Modern Times 1936
-Mommy.2014.720p.BluRay.x264-PSYCHD
-Monty Python and the Holy Grail 1975
-Monty Python Live At The Hollywood Bowl 1982
-Mr.and.Mrs.Smith.2008.RETAIL.DVDRiP.XviD.HUN-DynamicLife
-Mustang.2015.BDRip.x264.HuN-Nimphas
-Night on Earth
-Nincs.bocsanat.1992.DUAL.DVDRiP.XviD-seven
-Nine.And.A.Half.Weeks.1986.HUN.DVDRip.XviD-pocokmaster
-Nocturnal.Animals.2016.720p.BluRay.DTS.x264.HuN-TRiNiTY
-Office Space1999 720p
-Office Space [Special Edition] 1999
-Óz, a csodák csodája (The Wizard of Oz) 1939.avi
-Oz the Great and Powerful 2013 1080p 3D
-Palackposta.2016.BDRip.x264.HuN-BaKeR
-Passengers (2016) x264 AAC 2.0 HDCAM (Deflickered) -DDR
-Paterson.2016.BDRip.X264-AMIABLE[rarbg]
-Paterson.2016.DVDScr.XVID.AC3.HQ.Hive-CM8[oscars]
-Persepolis 2007
-Phoenix.2014.BRRip.XviD.AC3-EVO
-Pirates.of.the.Caribbean.Dead.Men.Tell.No.Tales.2017.HUN.BDRiP.XviD-Gianni
-Pirates.Of.The.Caribbean.II.Dead.Mans.Chest.2006
-Pirates.of.the.Caribbean.The.Curse.of.the.Black.Pearl.2003
-Pitkin
-Pour.La.Peau.D’un.Flic.1981.720p.BluRay.AC3.x264.HuN-AMBiLiGHT
-Proof.2005.HUN.BDRiP.x264-ARROW
-Pulp Fiction 1994
-Rope 1948.mkv
-Saturday Night Fever - Szombat esti láz 1977
-Scott Pilgrim vs the World 2010
-Shot.Caller.2017.HUN.BDRiP.XviD-Gianni
-Sicario.2015.BDRip.x264-SPARKS
-Solaris
-Spartacus 2 disc edition 1960
-Starship Troopers (1997)
-Starship.Troopers.Invasion.2012.DVDRip.XviD-DiSPOSABLE
-Starship.Troopers.Traitor.of.Mars.2017.HUN.720p.BluRay.DTS.x264-DeeMoN
-Suicide.Squad.2016.TC.WEBRiP.x264.HuN-HyperX
-Szabadeses.2014.RETAiL.DVDRip.x264.HuN-No1
-Sztalker
-The.Accountant.2016.BDRiP.x264.HuN-HyperX
-The Best Exotic Marigold Hotel
-The Big Lebowski 1998
-The.Big.Short.2015.BDRiP.x264.HuN-HyperX
-The.Brand.New.Testament.2015.CUSTOM.BDRip.x264.HUN-HTH
-The.Bridge.on.the.River.Kwai.1957.HUN.BDRip.XviD-HDEvo
-The.Drop.2014.720p.WEB-DL.DD5.1.H264-RARBG
-The Fault in Our Stars 2014
-The.Garage.1920.REMASTERED.BDRip.x264-GHOULS
-The.Girl.on.the.Train.2016.BDRiP.x264.HuN-HyperX
-The Gold Rush 1925
-The.Great.Escape.1963.iNT.CUSTOM.DVDRip.XviD.Hungarian-AlienSExist
-The.Kid.1921
-The.Magnificent.Seven.2016.HUN.BDRiP.x264-ARROW
-The.Man.From.U.N.C.L.E.(8.Movies.Collection)480p.DVDRip.H264(BINGOWINGZ-UKB-RG)
-The.Man.Who.Knew.Infinity.2015.BDRiP.x264.HuN-HyperX
-The.Matrix.Trilogy.ReTaiL.BDRip.XviD.DuaL-PpB
-The.Notebook.2004.Custom.BDRip.x264.HUN-MDC
-The Secret Life of Walter Mitty 2013
-The.Shallows.2016.BDRip.x264-GECKOS
-The Shawshank Redemption 1994
-The.Twilight.Saga.Eclipse.2010.iNT.BDRip.XviD.HUN-PpB
-The Unbearable Lightness of Being 1988
-The.Wizard.of.Lies.2017.HUN.BDRiP.XviD-Gianni
-Titanic.1997.HUN.BDRiP.x264-DWP
-Toni.Erdmann.2016.720p.BluRay.x264-SADPANDA
-Top.Gun.1986.REPACK.2xHUN.720p.BluRay.x264-TOXI
-Top.Secret.1984.DVDrip.Hun-FegRa
-Trance
-Tükör által homályosan.ISO
-Twilight 01 - Twilight.epub
-Under Fire 1983
-Under Fire 1983 hun
-Űrgolyhók (Spaceballs)
-Volt egyszer egy vadnyugat - Cera Una Volta Il West 1968
-Vörös Sárkány (Red Dragon) 2002
-Wild Tales 2014
-Wind.River.2017.720p.BluRay.x264-GECKOS
-Women.on.the.Verge.of.a.Nervous.Breakdown.1988.BDRip.x264.HUN-CRW
-Youth.2015.BDRip.x264-PHOBOS
-Zabriskie Point 1970
-Zelig
-Zodiac.2007.DC.BDrip.Custom.HUN.x264-DenZo&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
     <title>🎮 Video games / videojátékok [2018]</title>
     <link href="http://0.0.0.0:4000/videoGames.html"/>
     <updated>2018-01-28T20:48:07+01:00</updated>
@@ -881,61 +1065,6 @@ Zodiac.2007.DC.BDrip.Custom.HUN.x264-DenZo&lt;/p&gt;
     <updated>2018-01-28T19:32:17+01:00</updated>
     <id>http://0.0.0.0:4000/gadgets</id>
     <content type="html">
-</content>
-  </entry>
-  
-  <entry>
-    <title>🌍 Document series / Dokumentumfilm sorozatok [2018]</title>
-    <link href="http://0.0.0.0:4000/documentSeries.html"/>
-    <updated>2018-01-28T19:29:28+01:00</updated>
-    <id>http://0.0.0.0:4000/documentSeries</id>
-    <content type="html">&lt;h2&gt;TV Series&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/The_Day_the_Universe_Changed&quot;&gt;James Burke: The Day the Universe Changed&lt;/a&gt;&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>📺 TV series / TV sorozatok [2018]</title>
-    <link href="http://0.0.0.0:4000/TVSeries.html"/>
-    <updated>2018-01-23T00:00:00+01:00</updated>
-    <id>http://0.0.0.0:4000/TVSeries</id>
-    <content type="html">&lt;p&gt;“I’ve wasted about 42 days, 17 hours, and 21 minutes of my life watching TV shows. Calculate your time: &lt;a href=&quot;http://tiii.me&quot;&gt;http://tiii.me&lt;/a&gt;”&lt;/p&gt;
-
-&lt;!-- break --&gt;
-
-&lt;div class=&quot;rightbox&quot; style=&quot;width: 47%;&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/TVshows_(2018-01-21).png&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/div&gt;
-
-&lt;h2&gt;TV Series / TV Shows / TV sorozatok&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;71-80 • &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Onedin_Line&quot;&gt;The Onedin Line&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;79-80 • &lt;a href=&quot;https://en.wikipedia.org/wiki/Roots_(1977_miniseries)&quot;&gt;Roots&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;90-91 • &lt;a href=&quot;https://en.wikipedia.org/wiki/Twin_Peaks&quot;&gt;Twin Peaks&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;9x-9x • &lt;a href=&quot;https://en.wikipedia.org/wiki/Monty_Python&quot;&gt;Monthy Python, Fawlty Towers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;01-10 • &lt;a href=&quot;https://en.wikipedia.org/wiki/24_(TV_series)&quot;&gt;24&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;05-09 • &lt;a href=&quot;https://en.wikipedia.org/wiki/Prison_Break&quot;&gt;Prison Break&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;06-10 • &lt;a href=&quot;https://en.wikipedia.org/wiki/Heroes_(TV_series)&quot;&gt;Heroes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;06-13 • &lt;a href=&quot;https://en.wikipedia.org/wiki/Dexter_(TV_series)&quot;&gt;Dexter&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;06-10 • &lt;a href=&quot;https://en.wikipedia.org/wiki/The_IT_Crowd&quot;&gt;The IT Crowd&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;07-09 • &lt;a href=&quot;https://en.wikipedia.org/wiki/Life_(NBC_TV_series)&quot;&gt;Life&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;07-na • &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Big_Bang_Theory&quot;&gt;The Big Bang Theory&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;09-10 • &lt;a href=&quot;https://en.wikipedia.org/wiki/FlashForward&quot;&gt;Flashforward&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;10-10 • &lt;a href=&quot;https://en.wikipedia.org/wiki/Rubicon_(TV_series)&quot;&gt;Rubicon&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;10-10 • &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Door_(TV_series)&quot;&gt;The Door&lt;a&gt;&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;10-16 • &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Walking_Dead_(TV_series)&quot;&gt;The Walking Dead&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;10-17 • &lt;a href=&quot;https://en.wikipedia.org/wiki/Sherlock_(TV_series)&quot;&gt;Sherlock&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;10-15 • &lt;a href=&quot;https://en.wikipedia.org/wiki/Luther_(TV_series)&quot;&gt;Luther&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;11-15 • &lt;a href=&quot;https://en.wikipedia.org/wiki/Homeland_(TV_series)&quot;&gt;Homeland&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;12-na • &lt;a href=&quot;https://en.wikipedia.org/wiki/Elementary_(TV_series)&quot;&gt;Elementary&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;13-na • &lt;a href=&quot;https://en.wikipedia.org/wiki/House_of_Cards_(U.S._TV_series)&quot;&gt;House of Cards&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;13-na • &lt;a href=&quot;https://en.wikipedia.org/wiki/Vikings_(TV_series)&quot;&gt;Vikings&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;14-na • &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Affair_(TV_series)&quot;&gt;The Affair&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;14-15 • &lt;a href=&quot;https://en.wikipedia.org/wiki/True_Detective&quot;&gt;True Detective&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;15-na • &lt;a href=&quot;https://en.wikipedia.org/wiki/Humans_(TV_series)&quot;&gt;Humans&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;16-na • &lt;a href=&quot;https://en.wikipedia.org/wiki/Westworld_(TV_series)&quot;&gt;Westworld&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;18-na • &lt;a href=&quot;https://en.wikipedia.org/wiki/My_Next_Guest_Needs_No_Introduction_with_David_Letterman&quot;&gt;My next guest needs no introduction with David Letterman&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </content>
   </entry>
   

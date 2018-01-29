@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    🎧 Muzax 2017
+title:    🎧 Muzax
 author:   flex
 category: muzax / zene
 tags:     [listák, awesome]
