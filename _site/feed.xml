@@ -3,7 +3,7 @@
   <title>News 'n' Updates | gyorgy.fleischmann.hu</title>
   <link href="http://0.0.0.0:4000/feed.xml" rel="self"/>
   <link href="http://0.0.0.0:4000/"/>
-  <updated>2018-01-29T11:13:10+01:00</updated>
+  <updated>2018-01-29T19:33:05+01:00</updated>
   <id>http://0.0.0.0:4000/</id>
   <author>
     <name></name>
@@ -579,7 +579,9 @@ Levin, Ira: A brazíliai fiúk (Rakéta regényújság 137., 1987, 20-26. szám)
 &lt;table class=&quot;blockheader&quot;&gt;
   &lt;tr&gt;
     &lt;th width=&quot;1%;&quot; valign=&quot;top&quot; style=&quot;padding-right: 0.3em;&quot;&gt;&lt;nobr&gt;&lt;span title=&quot;2015-&quot;&gt;&lt;b&gt;15-na&lt;/b&gt;&lt;/span&gt; •&lt;/nobr&gt;&lt;/th&gt;
-    &lt;th&gt;&lt;div class=&quot;rightbox&quot; style=&quot;width: 15%;&quot;&gt;&lt;a href=&quot;http://effectivegroup.hu/&quot;&gt;&lt;img class=&quot;&quot; src=&quot;images/cv/EG_logo.png&quot; alt=&quot;Effective Group Informatika Zrt.&quot; title=&quot;Effective Group Informatika Zrt.&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;System engineer, &lt;a href=&quot;http://www.ibm.com/&quot;&gt;IBM&lt;/a&gt; &lt;a href=&quot;http://www-03.ibm.com/software/products/en/spectrum-protect&quot;&gt;Spectrum Protect&lt;/a&gt; (Tivoli Storage Manager) specialist • &lt;a href=&quot;http://www.scss.hu/&quot;&gt;SCSS Informatikai, Kereskedelmi és Szolgáltató Kft.&lt;/a&gt;, &lt;a href=&quot;http://effectivegroup.hu/&quot;&gt;Effective Group Informatika Zrt.&lt;/a&gt;&lt;/p&gt;&lt;/th&gt; 
+    &lt;th&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;System engineer, &lt;a href=&quot;http://www.ibm.com/&quot;&gt;IBM&lt;/a&gt; &lt;a href=&quot;http://www-03.ibm.com/software/products/en/spectrum-protect&quot;&gt;Spectrum Protect&lt;/a&gt; (Tivoli Storage Manager) specialist • &lt;a href=&quot;http://www.scss.hu/&quot;&gt;SCSS Informatikai, Kereskedelmi és Szolgáltató Kft.&lt;/a&gt;, &lt;a href=&quot;http://effectivegroup.hu/&quot;&gt;Effective Group Informatika Zrt.&lt;/a&gt;&lt;/p&gt;&lt;/th&gt;
+    &lt;th width=&quot;1%&quot;&gt;&lt;/th&gt;
+    &lt;th width=&quot;15%&quot; valign=&quot;top&quot;&gt;&lt;a href=&quot;http://effectivegroup.hu/&quot;&gt;&lt;img class=&quot;&quot; src=&quot;images/cv/EG_logo.png&quot; alt=&quot;Effective Group Informatika Zrt.&quot; title=&quot;Effective Group Informatika Zrt.&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
   &lt;/tr&gt;
 &lt;/table&gt;
 
@@ -610,7 +612,9 @@ Levin, Ira: A brazíliai fiúk (Rakéta regényújság 137., 1987, 20-26. szám)
 &lt;table class=&quot;blockheader&quot;&gt;
   &lt;tr&gt;
     &lt;th width=&quot;1%;&quot; valign=&quot;top&quot; style=&quot;padding-right: 0.3em;&quot;&gt;&lt;nobr&gt;&lt;span title=&quot;2004-2014&quot;&gt;&lt;b&gt;04-14&lt;/b&gt;&lt;/span&gt; •&lt;/nobr&gt;&lt;/th&gt;
-    &lt;th&gt;&lt;div class=&quot;rightbox&quot; style=&quot;width: 8%;&quot;&gt;&lt;a href=&quot;http://www.userrendszerhaz.hu/&quot;&gt;&lt;img class=&quot;&quot; src=&quot;images/cv/USER_logo.png&quot; alt=&quot;USER Rendszerház Kft.&quot; title=&quot;USER Rendszerház Kft.&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;System engineer, &lt;a href=&quot;http://www.ibm.com/&quot;&gt;IBM&lt;/a&gt; &lt;a href=&quot;http://www-03.ibm.com/software/products/en/spectrum-protect&quot;&gt;Tivoli Storage Manager&lt;/a&gt; specialist • &lt;a href=&quot;http://www.user.hu/&quot;&gt;USER Tanácsadó Kft.&lt;/a&gt;, &lt;a href=&quot;http://www.userrendszerhaz.hu/&quot;&gt;USER Rendszerház Kft.&lt;/a&gt; (IBM Tivoli Awards, &lt;span title=&quot;2012&quot;&gt;12&lt;/span&gt; • IBM AAA-level Tivoli Deployment Accreditation, &lt;span title=&quot;2013&quot;&gt;13&lt;/span&gt;)&lt;/p&gt;&lt;/th&gt; 
+    &lt;th valign=&quot;top&quot;&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;System engineer, &lt;a href=&quot;http://www.ibm.com/&quot;&gt;IBM&lt;/a&gt; &lt;a href=&quot;http://www-03.ibm.com/software/products/en/spectrum-protect&quot;&gt;Tivoli Storage Manager&lt;/a&gt; specialist • &lt;a href=&quot;http://www.user.hu/&quot;&gt;USER Tanácsadó Kft.&lt;/a&gt;, &lt;a href=&quot;http://www.userrendszerhaz.hu/&quot;&gt;USER Rendszerház Kft.&lt;/a&gt; (IBM Tivoli Awards, &lt;span title=&quot;2012&quot;&gt;12&lt;/span&gt; • IBM AAA-level Tivoli Deployment Accreditation, &lt;span title=&quot;2013&quot;&gt;13&lt;/span&gt;)&lt;/p&gt;&lt;/th&gt;
+    &lt;th width=&quot;1%&quot;&gt;&lt;/th&gt;
+    &lt;th width=&quot;15%&quot; valign=&quot;top&quot; align=&quot;right&quot;&gt;&lt;a href=&quot;http://www.userrendszerhaz.hu/&quot;&gt;&lt;img class=&quot;&quot; style=&quot;width: 50%&quot; src=&quot;images/cv/USER_logo.png&quot; alt=&quot;USER Rendszerház Kft.&quot; title=&quot;USER Rendszerház Kft.&quot; /&gt;&lt;/a&gt;&lt;/th&gt; 
   &lt;/tr&gt;
 &lt;/table&gt;
 
@@ -650,7 +654,9 @@ Levin, Ira: A brazíliai fiúk (Rakéta regényújság 137., 1987, 20-26. szám)
 &lt;table class=&quot;blockheader&quot;&gt;
   &lt;tr&gt;
     &lt;th width=&quot;1%;&quot; valign=&quot;top&quot; style=&quot;padding-right: 0.3em;&quot;&gt;&lt;nobr&gt;&lt;span title=&quot;2001-2003&quot;&gt;&lt;b&gt;01-03&lt;/b&gt;&lt;/span&gt; •&lt;/nobr&gt;&lt;/th&gt;
-    &lt;th&gt;&lt;div class=&quot;rightbox&quot; style=&quot;width: 15%;&quot;&gt;&lt;a href=&quot;http://www.schneider-electric.hu/&quot;&gt;&lt;img class=&quot;&quot; src=&quot;images/cv/Schneider_Electric_logo.png&quot; alt=&quot;Schneider Electric Hungária Villamossági Rt.&quot; title=&quot;Schneider Electric Hungária Villamossági Rt.&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;Network / &lt;a href=&quot;http://www.ibm.com/&quot;&gt;IBM&lt;/a&gt; &lt;a href=&quot;http://www-03.ibm.com/software/products/en/ibmdomino&quot;&gt;Lotus Notes / Domino&lt;/a&gt; administrator • &lt;a href=&quot;http://www.schneider-electric.hu/&quot;&gt;Schneider Electric Hungária Villamossági Rt.&lt;/a&gt;&lt;/p&gt;&lt;/th&gt; 
+    &lt;th valign=&quot;top&quot;&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;Network / &lt;a href=&quot;http://www.ibm.com/&quot;&gt;IBM&lt;/a&gt; &lt;a href=&quot;http://www-03.ibm.com/software/products/en/ibmdomino&quot;&gt;Lotus Notes / Domino&lt;/a&gt; administrator • &lt;a href=&quot;http://www.schneider-electric.hu/&quot;&gt;Schneider Electric Hungária Villamossági Rt.&lt;/a&gt;&lt;/p&gt;&lt;/th&gt;
+    &lt;th width=&quot;1%&quot;&gt;&lt;/th&gt;
+    &lt;th width=&quot;15%&quot; valign=&quot;top&quot; align=&quot;right&quot;&gt;&lt;a href=&quot;http://www.schneider-electric.hu/&quot;&gt;&lt;img class=&quot;&quot; src=&quot;images/cv/Schneider_Electric_logo.png&quot; alt=&quot;Schneider Electric Hungária Villamossági Rt.&quot; title=&quot;Schneider Electric Hungária Villamossági Rt.&quot; /&gt;&lt;/a&gt;&lt;/th&gt; 
   &lt;/tr&gt;
 &lt;/table&gt;
 
@@ -671,7 +677,9 @@ Levin, Ira: A brazíliai fiúk (Rakéta regényújság 137., 1987, 20-26. szám)
 &lt;table class=&quot;blockheader&quot;&gt;
   &lt;tr&gt;
     &lt;th width=&quot;1%;&quot; valign=&quot;top&quot; style=&quot;padding-right: 0.3em;&quot;&gt;&lt;nobr&gt;&lt;span title=&quot;1998-2001&quot;&gt;&lt;b&gt;98-01&lt;/b&gt;&lt;/span&gt; •&lt;/nobr&gt;&lt;/th&gt;
-    &lt;th&gt;&lt;div class=&quot;rightbox&quot; style=&quot;width: 15%;&quot;&gt;&lt;a href=&quot;&quot;&gt;&lt;img class=&quot;http://www.societegenerale.fr/&quot; src=&quot;images/cv/SG_logo.png&quot; alt=&quot;Société Générale Hungária Bank Inc.&quot; title=&quot;Société Générale Hungária Bank Inc.&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;Office Automation Officer • &lt;a href=&quot;http://www.societegenerale.fr/&quot;&gt;Société Générale Hungária Bank Inc.&lt;/a&gt;&lt;/p&gt;&lt;/th&gt; 
+    &lt;th valign=&quot;top&quot;&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;Office Automation Officer • &lt;a href=&quot;http://www.societegenerale.fr/&quot;&gt;Société Générale Hungária Bank Inc.&lt;/a&gt;&lt;/p&gt;&lt;/th&gt;
+    &lt;th width=&quot;1%&quot;&gt;&lt;/th&gt;
+    &lt;th width=&quot;15%&quot; valign=&quot;top&quot;&gt;&lt;a href=&quot;http://www.societegenerale.fr/&quot;&gt;&lt;img class=&quot;&quot; src=&quot;images/cv/SG_logo.png&quot; alt=&quot;Société Générale Hungária Bank Inc.&quot; title=&quot;Société Générale Hungária Bank Inc.&quot; /&gt;&lt;/a&gt;&lt;/th&gt; 
   &lt;/tr&gt;
 &lt;/table&gt;
 
@@ -689,7 +697,9 @@ Levin, Ira: A brazíliai fiúk (Rakéta regényújság 137., 1987, 20-26. szám)
 &lt;table class=&quot;blockheader&quot;&gt;
   &lt;tr&gt;
     &lt;th width=&quot;1%;&quot; valign=&quot;top&quot; style=&quot;padding-right: 0.3em;&quot;&gt;&lt;nobr&gt;&lt;span title=&quot;1997-1998&quot;&gt;&lt;b&gt;97-98&lt;/b&gt;&lt;/span&gt; •&lt;/nobr&gt;&lt;/th&gt;
-    &lt;th&gt;&lt;div class=&quot;rightbox&quot; style=&quot;width: 15%;&quot;&gt;&lt;a href=&quot;http://www.ca-cib.com/&quot;&gt;&lt;img class=&quot;&quot; src=&quot;images/cv/CL_logo.png&quot; alt=&quot;Crédit Lyonnais Bank Hungary Inc.&quot; title=&quot;Crédit Lyonnais Bank Hungary Inc.&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;EDP assistent • &lt;a href=&quot;http://www.ca-cib.com/&quot;&gt;Crédit Lyonnais Bank Hungary Inc.&lt;/a&gt;&lt;/p&gt;&lt;/th&gt; 
+    &lt;th valign=&quot;top&quot;&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;EDP assistent • &lt;a href=&quot;http://www.ca-cib.com/&quot;&gt;Crédit Lyonnais Bank Hungary Inc.&lt;/a&gt;&lt;/p&gt;&lt;/th&gt;
+    &lt;th width=&quot;1%&quot;&gt;&lt;/th&gt;
+    &lt;th width=&quot;15%&quot; valign=&quot;top&quot;&gt;&lt;a href=&quot;http://www.ca-cib.com/&quot;&gt;&lt;img class=&quot;&quot; src=&quot;images/cv/CL_logo.png&quot; alt=&quot;Crédit Lyonnais Bank Hungary Inc.&quot; title=&quot;Crédit Lyonnais Bank Hungary Inc.&quot; /&gt;&lt;/a&gt;&lt;/th&gt; 
   &lt;/tr&gt;
 &lt;/table&gt;
 
@@ -707,7 +717,9 @@ Levin, Ira: A brazíliai fiúk (Rakéta regényújság 137., 1987, 20-26. szám)
 &lt;table class=&quot;blockheader&quot;&gt;
   &lt;tr&gt;
     &lt;th width=&quot;1%;&quot; valign=&quot;top&quot; style=&quot;padding-right: 0.3em;&quot;&gt;&lt;nobr&gt;&lt;span title=&quot;1991-1997&quot;&gt;&lt;b&gt;91-97&lt;/b&gt;&lt;/span&gt; •&lt;/nobr&gt;&lt;/th&gt;
-    &lt;th&gt;&lt;div class=&quot;rightbox&quot; style=&quot;width: 15%;&quot;&gt;&lt;a href=&quot;http://kronospan-mofa.hu/&quot;&gt;&lt;img class=&quot;&quot; src=&quot;images/cv/Kronospan-mofa_logo.png&quot; alt=&quot;Fibreboard Factory (M.O.F.A.) Inc.&quot; title=&quot;Fibreboard Factory (M.O.F.A.) Inc.&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;System engineer • &lt;a href=&quot;http://kronospan-mofa.hu/&quot;&gt;Fibreboard Factory (M.O.F.A.) Inc.&lt;/a&gt;&lt;/p&gt;&lt;/th&gt; 
+    &lt;th valign=&quot;top&quot;&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;System engineer • &lt;a href=&quot;http://kronospan-mofa.hu/&quot;&gt;Fibreboard Factory (M.O.F.A.) Inc.&lt;/a&gt;&lt;/p&gt;&lt;/th&gt;
+    &lt;th width=&quot;1%&quot;&gt;&lt;/th&gt;
+    &lt;th width=&quot;15%&quot; valign=&quot;top&quot;&gt;&lt;a href=&quot;http://kronospan-mofa.hu/&quot;&gt;&lt;img class=&quot;&quot; src=&quot;images/cv/Kronospan-mofa_logo.png&quot; alt=&quot;Fibreboard Factory (M.O.F.A.) Inc.&quot; title=&quot;Fibreboard Factory (M.O.F.A.) Inc.&quot; /&gt;&lt;/a&gt;&lt;/th&gt; 
   &lt;/tr&gt;
 &lt;/table&gt;
 
@@ -733,7 +745,9 @@ Levin, Ira: A brazíliai fiúk (Rakéta regényújság 137., 1987, 20-26. szám)
 &lt;table class=&quot;blockheader&quot;&gt;
   &lt;tr&gt;
     &lt;th width=&quot;1%;&quot; valign=&quot;top&quot; style=&quot;padding-right: 0.3em;&quot;&gt;&lt;nobr&gt;&lt;span title=&quot;1988-1991&quot;&gt;&lt;b&gt;88-91&lt;/b&gt;&lt;/span&gt; •&lt;/nobr&gt;&lt;/th&gt;
-    &lt;th&gt;&lt;div class=&quot;rightbox&quot; style=&quot;width: 5%;&quot;&gt;&lt;a href=&quot;http://gamf.uni-pae.hu/&quot;&gt;&lt;img class=&quot;&quot; src=&quot;images/cv/GAMF_logo.png&quot; alt=&quot;Technical College of Machine Industry and Automation (G.A.M.F.)&quot; title=&quot;Technical College of Machine Industry and Automation (G.A.M.F.)&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;&lt;a href=&quot;http://gamf.uni-pae.hu/&quot;&gt;Technical College of Machine Industry and Automation (G.A.M.F.)&lt;/a&gt; • specialization: computer technology&lt;/p&gt;&lt;/th&gt; 
+    &lt;th valign=&quot;top&quot;&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;&lt;a href=&quot;http://gamf.uni-pae.hu/&quot;&gt;Technical College of Machine Industry and Automation (G.A.M.F.)&lt;/a&gt; • specialization: computer technology&lt;/p&gt;&lt;/th&gt;
+    &lt;th width=&quot;1%&quot;&gt;&lt;/th&gt;
+    &lt;th width=&quot;15%&quot; valign=&quot;top&quot; align=&quot;right&quot;&gt;&lt;a href=&quot;http://gamf.uni-pae.hu/&quot;&gt;&lt;img class=&quot;&quot; style=&quot;width: 30%&quot; src=&quot;images/cv/GAMF_logo.png&quot; alt=&quot;Technical College of Machine Industry and Automation (G.A.M.F.)&quot; title=&quot;Technical College of Machine Industry and Automation (G.A.M.F.)&quot; /&gt;&lt;/a&gt;&lt;/th&gt; 
   &lt;/tr&gt;
 &lt;/table&gt;
 
@@ -742,7 +756,9 @@ Levin, Ira: A brazíliai fiúk (Rakéta regényújság 137., 1987, 20-26. szám)
 &lt;table class=&quot;blockheader&quot;&gt;
   &lt;tr&gt;
     &lt;th width=&quot;1%;&quot; valign=&quot;top&quot; style=&quot;padding-right: 0.3em;&quot;&gt;&lt;nobr&gt;&lt;span title=&quot;1984-1988&quot;&gt;&lt;b&gt;84-88&lt;/b&gt;&lt;/span&gt; •&lt;/nobr&gt;&lt;/th&gt;
-    &lt;th&gt;&lt;div class=&quot;rightbox&quot; style=&quot;width: 5%;&quot;&gt;&lt;a href=&quot;http://mohacsikisfaludy.hu/&quot;&gt;&lt;img class=&quot;&quot; src=&quot;images/cv/Kisfaludy_logo.png&quot; alt=&quot;Kisfaludy Károly Secondary School&quot; title=&quot;Kisfaludy Károly Secondary School&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;&lt;a href=&quot;http://mohacsikisfaludy.hu/&quot;&gt;Kisfaludy Károly Secondary School&lt;/a&gt; • faculties: mathematics, physics&lt;/p&gt;&lt;/th&gt; 
+    &lt;th valign=&quot;top&quot;&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;&lt;a href=&quot;http://mohacsikisfaludy.hu/&quot;&gt;Kisfaludy Károly Secondary School&lt;/a&gt; • faculties: mathematics, physics&lt;/p&gt;&lt;/th&gt;
+    &lt;th width=&quot;1%&quot;&gt;&lt;/th&gt;
+    &lt;th width=&quot;15%&quot; valign=&quot;top&quot; align=&quot;right&quot;&gt;&lt;a href=&quot;http://mohacsikisfaludy.hu/&quot;&gt;&lt;img class=&quot;&quot; style=&quot;width: 30%&quot; src=&quot;images/cv/Kisfaludy_logo.png&quot; alt=&quot;Kisfaludy Károly Secondary School&quot; title=&quot;Kisfaludy Károly Secondary School&quot; /&gt;&lt;/a&gt;&lt;/th&gt; 
   &lt;/tr&gt;
 &lt;/table&gt;
 
