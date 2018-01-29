@@ -3,7 +3,7 @@
   <title>News 'n' Updates | gyorgy.fleischmann.hu</title>
   <link href="http://0.0.0.0:4000/feed.xml" rel="self"/>
   <link href="http://0.0.0.0:4000/"/>
-  <updated>2018-01-26T15:23:43+01:00</updated>
+  <updated>2018-01-28T21:37:03+01:00</updated>
   <id>http://0.0.0.0:4000/</id>
   <author>
     <name></name>
@@ -12,19 +12,516 @@
 
   
   <entry>
+    <title>🖥 macOSApps / macOSApps [2018]</title>
+    <link href="http://0.0.0.0:4000/macOSApps.html"/>
+    <updated>2018-01-28T21:00:14+01:00</updated>
+    <id>http://0.0.0.0:4000/macOSApps</id>
+    <content type="html">&lt;h1 id=&quot;awesome-macos-aka-os-x&quot;&gt;Awesome macOS (aka OS X)&lt;/h1&gt;
+
+&lt;!-- break --&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/sindresorhus/awesome&quot;&gt;&lt;img src=&quot;https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg&quot; alt=&quot;Awesome&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A curated list of awesome applications, softwares, tools and shiny things for macOS.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;Items marked with &lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg&quot; alt=&quot;Open-Source Software&quot; /&gt; are open-source software and link to the source code. Items marked with &lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg&quot; alt=&quot;Freeware&quot; /&gt; are free (as in free beer).&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;table-of-contents&quot;&gt;Table of Contents&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#applications&quot;&gt;Applications&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#audio&quot;&gt;Audio&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#backup&quot;&gt;Backup&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#chat-clients&quot;&gt;Chat Clients&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#developers&quot;&gt;Developers&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#e-book-utilities&quot;&gt;E-Book Utilities&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#editors&quot;&gt;Editors&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#email-utilities&quot;&gt;Email Utilities&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#finder&quot;&gt;Finder&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#games&quot;&gt;Games&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#graphics&quot;&gt;Graphics&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#productivity&quot;&gt;Productivity&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#sharing-files&quot;&gt;Sharing Files&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#terminal&quot;&gt;Terminal&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#utilities&quot;&gt;Utilities&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#video&quot;&gt;Video&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#window-management&quot;&gt;Window Management&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#others&quot;&gt;Others&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#command-line-utilities&quot;&gt;Command Line Utilities&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#macos-utilities&quot;&gt;macOS Utilities&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#security&quot;&gt;Security&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;applications&quot;&gt;Applications&lt;/h2&gt;
+
+&lt;h3 id=&quot;audio&quot;&gt;Audio&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.rogueamoeba.com/audiohijack/&quot;&gt;Audio Hijack&lt;/a&gt; - Record audio from any application like iTunes, Skype or Safari, or from hardware devices like microphones and mixers.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://tmkk.undo.jp/xld/index_e.html&quot;&gt;XLD&lt;/a&gt; - Rip/Decode/convert/play various “lossless” audio files. &lt;a href=&quot;https://code.google.com/archive/p/xld/source&quot;&gt;&lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg&quot; alt=&quot;Open-Source Software&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg&quot; alt=&quot;Freeware&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;backup&quot;&gt;Backup&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://bombich.com&quot;&gt;Carbon Copy Cloner&lt;/a&gt; - Create incremental and fully bootable backups of your Mac to external storage.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;bookmark-utilities&quot;&gt;Bookmark Utilities&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://readkitapp.com/&quot;&gt;ReadKit&lt;/a&gt; - Have all your Instapaper, Pocket, etc. feeds in one place even when you’re offline.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;chat-clients&quot;&gt;Chat Clients&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/telegram/id747648890?mt=12&quot;&gt;Telegram&lt;/a&gt; - A messaging app with a focus on speed and security, it’s super fast, simple and free. &lt;a href=&quot;https://github.com/overtake/telegram&quot;&gt;&lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg&quot; alt=&quot;Open-Source Software&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg&quot; alt=&quot;Freeware&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;data-recovery&quot;&gt;Data Recovery&lt;/h3&gt;
+
+&lt;h3 id=&quot;developers&quot;&gt;Developers&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://desktop.github.com/&quot;&gt;GitHub Desktop&lt;/a&gt; - A GUI for using GitHub. &lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg&quot; alt=&quot;Freeware&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://gitup.co/&quot;&gt;GitUp&lt;/a&gt; - A simple but powerful Git&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;e-book-utilities&quot;&gt;E-Book Utilities&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.amazon.com/gp/help/customer/display.html?nodeId=201246110&quot;&gt;Kindle App&lt;/a&gt; - Amazon Kindle App for macOS.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;editors&quot;&gt;Editors&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.sublimetext.com/&quot;&gt;Sublime Text 3&lt;/a&gt; - The sophisticated text editor.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;email-utilities&quot;&gt;Email Utilities&lt;/h3&gt;
+
+&lt;h3 id=&quot;finder&quot;&gt;Finder&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/forklift-file-manager-ftp/id412448059&quot;&gt;ForkLift&lt;/a&gt; - File Manager and FTP/SFTP/WebDAV/Amazon S3 client.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;games&quot;&gt;Games&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://boxerapp.com/&quot;&gt;Boxer&lt;/a&gt; - The DOS game emulator that’s fit for your Mac. &lt;a href=&quot;https://github.com/alunbestor/Boxer&quot;&gt;&lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg&quot; alt=&quot;Open-Source Software&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg&quot; alt=&quot;Freeware&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dolphin-emu.org&quot;&gt;Dolphin&lt;/a&gt; - A powerful, Open Source emulator for Nintendo GameCube and Wii games. &lt;a href=&quot;https://github.com/dolphin-emu/dolphin&quot;&gt;&lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg&quot; alt=&quot;Open-Source Software&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg&quot; alt=&quot;Freeware&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://openemu.org/&quot;&gt;OpenEmu&lt;/a&gt; - Multiple Video Game System. &lt;a href=&quot;https://github.com/OpenEmu/OpenEmu&quot;&gt;&lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg&quot; alt=&quot;Open-Source Software&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg&quot; alt=&quot;Freeware&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://stockfishchess.org/mac/&quot;&gt;Stockfish&lt;/a&gt; - Beautiful, powerful chess application. &lt;a href=&quot;https://github.com/daylen/stockfish-mac&quot;&gt;&lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg&quot; alt=&quot;Open-Source Software&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg&quot; alt=&quot;Freeware&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;graphics&quot;&gt;Graphics&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://secure.flyingmeat.com/acorn/&quot;&gt;Acorn&lt;/a&gt; - A very Mac-like image editor with a comprehensive feature set.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;productivity&quot;&gt;Productivity&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.alfredapp.com/&quot;&gt;Alfred&lt;/a&gt; - Boosts your efficiency and productivity.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;sharing-files&quot;&gt;Sharing Files&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.transmissionbt.com/&quot;&gt;Transmission&lt;/a&gt; - Simple, lightweight, multi-platform torrent client. &lt;a href=&quot;https://github.com/transmission/transmission&quot;&gt;&lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg&quot; alt=&quot;Open-Source Software&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg&quot; alt=&quot;Freeware&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;terminal&quot;&gt;Terminal&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.iterm2.com/&quot;&gt;iTerm 2&lt;/a&gt; - A terminal emulator. &lt;a href=&quot;https://github.com/gnachman/iTerm2&quot;&gt;&lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg&quot; alt=&quot;Open-Source Software&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg&quot; alt=&quot;Freeware&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;utilities&quot;&gt;Utilities&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itunes.apple.com/in/app/1password-password-manager/id443987910?mt=12&quot;&gt;1Password&lt;/a&gt; - Password Manager and Secure Wallet.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cheatsheetapp.com/CheatSheet/&quot;&gt;CheatSheet&lt;/a&gt; - Know your short cuts. &lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg&quot; alt=&quot;Freeware&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://heliumfloats.com/&quot;&gt;Helium&lt;/a&gt; - A floating browser window that allows you to watch media while you work. &lt;a href=&quot;https://github.com/JadenGeller/Helium&quot;&gt;&lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg&quot; alt=&quot;Open-Source Software&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg&quot; alt=&quot;Freeware&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://monodraw.helftone.com/&quot;&gt;Monodraw&lt;/a&gt; - A powerful ASCII art editor.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://derailer.org/paparazzi/&quot;&gt;Paparazzi&lt;/a&gt; - A small utility that makes screenshots of webpages. &lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg&quot; alt=&quot;Freeware&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/microsoft-remote-desktop/id715768417&quot;&gt;Microsoft Remote Desktop Connection Client&lt;/a&gt; - Remote Desktop Connection Client lets you connect from your Macintosh computer to a Windows-based computer.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codinn.com/products/ssh-tunnel/&quot;&gt;SSH Tunnel&lt;/a&gt; - Manage your SSH tunnels, tightly integrated with macOS Keychain, secure and intuitive.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.teamviewer.com/en-us/index.aspx&quot;&gt;TeamViewer&lt;/a&gt; - Remotely control another computer.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&amp;amp;id=ukelele&quot;&gt;Ukelele&lt;/a&gt; - Unicode Keyboard Layout Editor. &lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg&quot; alt=&quot;Freeware&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://theunarchiver.com/&quot;&gt;The Unarchiver&lt;/a&gt; - Unarchive many different kinds of archive files. &lt;a href=&quot;https://bitbucket.org/kosovan/theunarchiver&quot;&gt;&lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg&quot; alt=&quot;Open-Source Software&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg&quot; alt=&quot;Freeware&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;video&quot;&gt;Video&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://handbrake.fr/&quot;&gt;HandBrake&lt;/a&gt; - High performance video encoding and conversion tools with a nice GUI. &lt;a href=&quot;https://github.com/HandBrake/HandBrake&quot;&gt;&lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg&quot; alt=&quot;Open-Source Software&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bitbucket.org/galad87/subler/wiki/Home&quot;&gt;Subler&lt;/a&gt; - Mux and tag MP4 files. &lt;a href=&quot;https://bitbucket.org/galad87/subler/wiki/Home&quot;&gt;&lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg&quot; alt=&quot;Open-Source Software&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg&quot; alt=&quot;Freeware&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://lucija.frkovic.me/Subtitlr/&quot;&gt;Subtitlr&lt;/a&gt; - Drag and drop subititle download utility. &lt;a href=&quot;https://github.com/spilja/Subtitlr/tree/master&quot;&gt;&lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg&quot; alt=&quot;Open-Source Software&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;window-management&quot;&gt;Window Management&lt;/h3&gt;
+
+&lt;h3 id=&quot;others&quot;&gt;Others&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/JohnCoates/Aerial&quot;&gt;Aerial&lt;/a&gt; - Apple TV Aerial Screensaver for Mac. &lt;a href=&quot;https://github.com/JohnCoates/Aerial&quot;&gt;&lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg&quot; alt=&quot;Open-Source Software&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg&quot; alt=&quot;Freeware&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://panic.com/transmit/&quot;&gt;Transmit&lt;/a&gt; - A FTP client.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;command-line-utilities&quot;&gt;Command Line Utilities&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/herrbischoff/awesome-osx-command-line&quot;&gt;Awesome macOS Command Line&lt;/a&gt; - Use your macOS terminal shell to do awesome things.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/rgcr/m-cli&quot;&gt;m-cli&lt;/a&gt; -  Swiss Army Knife for macOS.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/guarinogabriel/Mac-CLI&quot;&gt;Mac-CLI&lt;/a&gt; -  macOS command line tools for developers.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/&quot;&gt;Mac macOS Manual Pages&lt;/a&gt; - Apple’s official man page reference which lists all general commands in Section 1.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/mas-cli/mas&quot;&gt;mas&lt;/a&gt; - A CLI for the Mac App Store. &lt;a href=&quot;https://github.com/mas-cli/mas&quot;&gt;&lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg&quot; alt=&quot;Open-Source Software&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg&quot; alt=&quot;Freeware&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;macos-utilities&quot;&gt;macOS Utilities&lt;/h2&gt;
+
+&lt;h2 id=&quot;security&quot;&gt;Security&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tunnelblick.net&quot;&gt;Tunnelblick&lt;/a&gt; - Easy to use OpenVPN client and GUI. &lt;a href=&quot;https://github.com/Tunnelblick/Tunnelblick&quot;&gt;&lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg&quot; alt=&quot;Open-Source Software&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg&quot; alt=&quot;Freeware&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;miscellaneous&quot;&gt;Miscellaneous&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;#table-of-contents&quot;&gt;⬆ back to top&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;license&quot;&gt;License&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://creativecommons.org/licenses/by/4.0/&quot;&gt;&lt;img src=&quot;http://i.creativecommons.org/l/by/4.0/88x31.png&quot; alt=&quot;Creative Commons License&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This work is licensed under a &lt;a href=&quot;http://creativecommons.org/licenses/by/4.0/&quot;&gt;Creative Commons Attribution 4.0 International License&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;apple-macos-aka-os-x&quot;&gt;Apple macOS (aka OS X)&lt;/h1&gt;
+
+&lt;p&gt;I use a lot of applications on our macs. Here is a list of the ones that I love and use the most of my day to day life, sorted by their importance:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.alfredapp.com/&quot;&gt;Alfred&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;this is by far my favourite application that I have. It saved me &lt;a href=&quot;http://i.imgur.com/eavekiX.png&quot;&gt;a lot of time&lt;/a&gt; in my life and has a really great &lt;a href=&quot;http://www.alfredforum.com/&quot;&gt;community&lt;/a&gt; and &lt;a href=&quot;http://www.packal.org/&quot;&gt;very powerful workflows&lt;/a&gt; that you can use&lt;/li&gt;
+      &lt;li&gt;I have attached the ones I use the most to &lt;a href=&quot;https://github.com/learn-anything/alfred-workflows&quot;&gt;this repo&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;feel free to use any that you like&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.iterm2.com/&quot;&gt;iTerm&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;recently moved completely to using the command line for all my development needs, this is probably the best terminal emulator out there that exists, have it assigned to &lt;a href=&quot;https://my.mindnode.com/c7EmmKvaxCyCEuTzcpkGB4MGeLpWdR8nsJK4rjDh&quot;&gt;w + j&lt;/a&gt; and can open it on demand at any time that I want&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://gist.github.com/nikitavoloboev/3fbe13ce427132d0297f411b62f49034&quot;&gt;here&lt;/a&gt; are all the &lt;a href=&quot;http://brew.sh/index.html&quot;&gt;homebrew&lt;/a&gt; packages I like and use&lt;/li&gt;
+      &lt;li&gt;I also really love using &lt;a href=&quot;https://github.com/isometry/alfred-tty&quot;&gt;this workflow&lt;/a&gt; to quickly &lt;a href=&quot;http://i.imgur.com/RNLb5wj.png&quot;&gt;switch between iTerm tabs&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://1password.com&quot;&gt;1Password&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;my password manager of choice, recently started to generate all of my passwords with it and keep everything in a secured and encrypted vault kept secure by my one master password&lt;/li&gt;
+      &lt;li&gt;no longer need to remember passwords and I now have a unique password for every website that I am signed up on whilist activating two factor authentication wherever possible&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.wikiwand.com/en/Dictionary_(software)&quot;&gt;Dictionary&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;comes natively with macOS and I started to love using it for exploring and searching through wikipedia&lt;/li&gt;
+      &lt;li&gt;it is incredibly fast to make the searches and it also gives &lt;a href=&quot;http://i.imgur.com/BPOmjkZ.png&quot;&gt;quick autosuggestions&lt;/a&gt; for any query I type that I can then select with up and down arrows&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.panic.com/transmit/&quot;&gt;Transmit&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;I often use this app to quickly send files from my local file system to the cloud (either S3 or dropbox) and get a shareable link I can send to people&lt;/li&gt;
+      &lt;li&gt;I use &lt;a href=&quot;https://www.dropbox.com/s/6y1lwy7lq9njdv6/Transmit.alfredworkflow?dl=1&quot;&gt;this alfred workflow&lt;/a&gt; to &lt;a href=&quot;http://i.imgur.com/RkkcdvA.png&quot;&gt;quickly open&lt;/a&gt; the cloud storage I need&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.transmissionbt.com/&quot;&gt;Transmission&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;a torrent client that I use, very minimal in its UI but is very powerful and has all the features that I need without the bloat that &lt;a href=&quot;http://www.utorrent.com/intl/en/&quot;&gt;uTorrent&lt;/a&gt; and other clients have&lt;/li&gt;
+      &lt;li&gt;have all my torrents downloaded into their specific folders&lt;/li&gt;
+      &lt;li&gt;I also want to set up a seedbox with my raspberry pie in the future as I have a bad tendency of not seeding the torrents that I downloaded&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www..com/acorn/&quot;&gt;Acorn&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;probably the best image editor out there on Mac, is packed with very powerful features and is very simple in its UI&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;browser&quot;&gt;Browser&lt;/h1&gt;
+
+&lt;p&gt;My browser of choice is &lt;a href=&quot;http://www.apple.com/safari/&quot;&gt;Safari&lt;/a&gt;. Chrome just kills the battery and Safari is really well optimised for macOS plus I have tried both and I really do find Safari a lot more ‘snappier’ to use. One powerful plus that chrome does have over safari is the amount of chrome extensions that you can get. Fortunately the ones most needed for me do exist on Safari.&lt;/p&gt;
+
+&lt;p&gt;Extensions:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Push to Kindle&lt;/li&gt;
+  &lt;li&gt;1Password&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.download-station-extension.com/?utm_source=extension&amp;amp;utm_medium=Chrome&amp;amp;utm_campaign=settings&quot;&gt;Synology Download Station extension&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;command-line-apps&quot;&gt;Command Line Apps&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://brew.sh&quot;&gt;Homebrew&lt;/a&gt; is a really wonderful and user friendly package manager for macOS.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://gist.github.com/nikitavoloboev/3fbe13ce427132d0297f411b62f49034&quot;&gt;Here&lt;/a&gt; are all the packages I use from it.&lt;/p&gt;
+
+&lt;p&gt;And here are some more command line tools I use and love :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/nvbn/thefuck&quot;&gt;thefuck&lt;/a&gt; : corrects your previous console command&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jingweno/ccat&quot;&gt;ccat&lt;/a&gt; : &lt;a href=&quot;http://www.linfo.org/cat.html&quot;&gt;cat&lt;/a&gt; command with colours&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;alfred-workflows&quot;&gt;Alfred Workflows&lt;/h1&gt;
+
+&lt;p&gt;I find &lt;a href=&quot;https://www.alfredapp.com&quot;&gt;Alfred&lt;/a&gt; with its ability to create custom workflows for it to bring me the most value.&lt;/p&gt;
+
+&lt;p&gt;I keep a list of my favourite workflows and why I love them in a GitHub repository &lt;a href=&quot;https://github.com/learn-anything/alfred-workflows&quot;&gt;here&lt;/a&gt;. Feel free to contribute to it if you wish.&lt;/p&gt;
+
+&lt;h1 id=&quot;awesome-mac&quot;&gt;Awesome Mac&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;LICENSE&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/license-CC0%201.0%20Universal-brightgreen.svg?style=flat-square&quot; alt=&quot;Software License&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://github.com/sindresorhus/awesome&quot;&gt;&lt;img src=&quot;https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg&quot; alt=&quot;Awesome&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Note: This repository isn’t finished yet. It will be updated from time to time, stay tuned!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;table-of-contents-1&quot;&gt;Table of Contents&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#cloud-storages&quot;&gt;Cloud Storages&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#developer-tools&quot;&gt;Developer Tools&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#e-mail&quot;&gt;E-Mail&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#ftp-clients&quot;&gt;FTP Clients&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#finance&quot;&gt;Finance&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#games&quot;&gt;Games&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#ide-integrated-development-environment&quot;&gt;IDE (Integrated development environment)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#messaging&quot;&gt;Messaging&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#organisational&quot;&gt;Organisational&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#photo-and-video&quot;&gt;Photo and Video&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#music&quot;&gt;Music&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#productivity&quot;&gt;Productivity&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#utilities&quot;&gt;Utilities&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#security&quot;&gt;Security&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#text-editors&quot;&gt;Text Editors&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;cloud-storages&quot;&gt;Cloud Storages&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Several data providers who stores your data in the cloud&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.google.com/intl/de_de/drive&quot;&gt;Google Drive&lt;/a&gt; - A file storage and synchronization service created by Google.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.icloud.com/&quot;&gt;iCloud&lt;/a&gt; - A file storage and synchronization service powered by Apple.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://onedrive.live.com/about/en-us&quot;&gt;OneDrive&lt;/a&gt; - OneDrive is a file hosting service that allows users to sync files and later access them from a web browser or mobile device from Microsoft.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;developer-tools&quot;&gt;Developer Tools&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Several tools to support the work of a developer&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://luckymarmot.com/paw&quot;&gt;Paw&lt;/a&gt; - The ultimative REST client for Mac.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.getpostman.com&quot;&gt;Postman&lt;/a&gt; - Postman helps you develop APIs faster.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.psequel.com&quot;&gt;PSequel&lt;/a&gt; - A PostgreSQL GUI Tool for Mac OS X.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.sequelpro.com&quot;&gt;Sequel Pro&lt;/a&gt; - MySQL database management for Mac OS X.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;e-mail&quot;&gt;E-Mail&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Programs which are used to access and manage a user’s email&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://airmailapp.com&quot;&gt;Airmail&lt;/a&gt; - Lightning Fast Mail Client for Mac and iPhone.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nylas.com/n1&quot;&gt;N1&lt;/a&gt; - The extensible, open source mail client.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.postbox-inc.com&quot;&gt;Postbox&lt;/a&gt; - Another powerful Mail Client for Mac.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ftp-clients&quot;&gt;FTP Clients&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Applications to connect via several protocols to a server.&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cyberduck.io&quot;&gt;Cyberduck&lt;/a&gt; - Libre FTP, SFTP, WebDAV, S3 &amp;amp; OpenStack Swift client.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://filezilla-project.org&quot;&gt;FileZilla&lt;/a&gt; - A fast and reliable cross-platform FTP, FTPS and SFTP client.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://fivedetails.com/flow/&quot;&gt;Flow&lt;/a&gt; - The Mac’s Best FTP + SFTP Client.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.panic.com/transmit/&quot;&gt;Transmit&lt;/a&gt; - The ultimate Mac OS X FTP + SFTP + S3 app.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.yummysoftware.com&quot;&gt;Yummy FTP&lt;/a&gt; - Pro-level, Fast, Reliable FTP Client.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;finance&quot;&gt;Finance&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Applications to keep an eye on your costs&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://subsembly.com/de/banking.html&quot;&gt;Banking 4&lt;/a&gt; - Your banking software for OS X.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;games-1&quot;&gt;Games&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;A list of awesome games which are running smoothly under Mac OS X&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://eu.battle.net/heroes&quot;&gt;Heroes of the Storm&lt;/a&gt; - A MOBA video game developed by Blizzard Entertainment.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ide-integrated-development-environment&quot;&gt;IDE (Integrated development environment)&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Software Applications that provides comprehensive facilities for software development.&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developer.android.com/studio/index.html&quot;&gt;Android Studio&lt;/a&gt; - Android Studio is the official integrated development environment (IDE) for Android platform development.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.jetbrains.com/objc/&quot;&gt;AppCode&lt;/a&gt; - Swift execution of your bright ideas.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.jetbrains.com/clion/&quot;&gt;CLion&lt;/a&gt; - intelligent cross-platform C/C++ IDE.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.eclipse.org&quot;&gt;Eclipse&lt;/a&gt; - A project aiming to provide a universal toolset for development.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.jetbrains.com/idea/&quot;&gt;Intellij IDEA&lt;/a&gt; - The Most Intelligent Java IDE.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.jetbrains.com/phpstorm/&quot;&gt;PhpStorm&lt;/a&gt; - The Most Intelligent PHP IDE.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.jetbrains.com/pycharm/&quot;&gt;PyCharm&lt;/a&gt; - The Most Intelligent Python IDE.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.jetbrains.com/ruby/&quot;&gt;RubyMine&lt;/a&gt; - The Most Intelligent Ruby and Rails IDE.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.jetbrains.com/webstorm/&quot;&gt;WebStorm&lt;/a&gt; - The smartest JavaScript IDE.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.visualstudio.com/&quot;&gt;VS Code&lt;/a&gt; - Excellent multipurpose IDE.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;messaging&quot;&gt;Messaging&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Apps to communicate with other human beings&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/stonesam92/ChitChat&quot;&gt;ChitChat&lt;/a&gt; - Unofficial Desktop client for WhatsApp.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jnordberg/irccloudapp&quot;&gt;Nimbus&lt;/a&gt; - Standalone IRCCloud client for OS X.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.skype.com&quot;&gt;Skype&lt;/a&gt; - Share, message and call across Platforms.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://slack.com/&quot;&gt;Slack&lt;/a&gt; - A messaging app for teams.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://desktop.telegram.org&quot;&gt;Telegram&lt;/a&gt; - A new era of messaging.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.codeux.com/textual&quot;&gt;Textual&lt;/a&gt; - The world’s most popular application for interacting with IRC on OS X.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;organisational&quot;&gt;Organisational&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Apps to organize your life like calendars or task lists&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://calendar.sunrise.am/&quot;&gt;Sunrise Calendar&lt;/a&gt; - A beautifully designed calendar experience for your Mac.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;photo-and-video&quot;&gt;Photo and Video&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Apps for you to be more creative&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://zoommyapp.com&quot;&gt;Zoommy&lt;/a&gt; - Find awesome free stock photos.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;music&quot;&gt;Music&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Apps for listen to your favourite music&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.soundnodeapp.com&quot;&gt;Soundnode&lt;/a&gt; - An opensource SoundCloud app for desktop.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;productivity-1&quot;&gt;Productivity&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Apps to improve your productivity during your day&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.cerebroapp.com&quot;&gt;Cerebro&lt;/a&gt; - One-input productivity booster.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wunderlist.com&quot;&gt;Wunderlist&lt;/a&gt; - Wunderlist is the easistest way to get stuff done. Keep your life in sync.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;utilities-1&quot;&gt;Utilities&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;A list of tools to ease up your work with Mac OS X&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.alfredapp.com/&quot;&gt;Alfred&lt;/a&gt; - Search your Mac and the web effortlessly, and control your Mac using customised actions with the Alfred.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itunes.apple.com/de/app/amphetamine/id937984704?mt=12&quot;&gt;Amphetamine&lt;/a&gt; - Don’t let you mac sleep.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.android.com/filetransfer&quot;&gt;Android File Transfer&lt;/a&gt; - Browse and transfer files upto 4 GB between Mac and Android device.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.freemacsoft.net/appcleaner/&quot;&gt;AppCleaner&lt;/a&gt; - A small application to thoroughly uninstall unwanted apps.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.dssw.co.uk/batteryguardian&quot;&gt;Battery Guardian&lt;/a&gt; - Battery Guardian offers an easy way to remember to deplete your MacBook battery. Depleting your battery helps extend the battery’s life.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://cleanmymac.com&quot;&gt;CleanMyMac&lt;/a&gt; - CleanMyMac can helps you to clean your Mac, monitor its health, optimize it for speed, and more.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://fluidapp.com&quot;&gt;Fluid&lt;/a&gt; - Turn Your Favorite Web Apps into Real Mac Apps.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.macupdate.com/app/mac/47923/garbage-truck&quot;&gt;Garbage Truck&lt;/a&gt; - Automate emptying of trash on your Mac.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bahoom.com/hyperdock/&quot;&gt;HyperDock&lt;/a&gt; - Windows 7 style preview of open windows/applications and more.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.iterm2.com&quot;&gt;iTerm2&lt;/a&gt; - A terminal emulator for Mac OS X that does amazing things.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.knocktounlock.com&quot;&gt;Knock&lt;/a&gt; - Unlock your Mac faster and more securely than ever.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://macid.co&quot;&gt;MacID&lt;/a&gt; - Unlock your Mac with just your fingerprint.™&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.titanium.free.fr/onyx.html&quot;&gt;Onyx&lt;/a&gt; - The multifunction Utility.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://pasteapp.me/&quot;&gt;Paste&lt;/a&gt; - Keep track of your clipboard.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://spectacleapp.com&quot;&gt;Spectacle&lt;/a&gt; - Window control with simple and customizable keyboard shortcuts.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://getkap.co/&quot;&gt;Kap&lt;/a&gt; - Kap. Capture your screen&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;security-1&quot;&gt;Security&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Encryption, Password Manager and other tools for your safety&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://agilebits.com/onepassword/mac&quot;&gt;1Password&lt;/a&gt; - A comprehensive password manager.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.boxcryptor.com&quot;&gt;Boxcryptor&lt;/a&gt; - A tool to encript your sensitive files in your cloud storage.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.dashlane.com/&quot;&gt;Dashlane&lt;/a&gt; - An another password manager &amp;amp; secure digital wallet.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;text-editors&quot;&gt;Text Editors&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;A type of program used for editing plain text files.&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://atom.io&quot;&gt;Atom&lt;/a&gt; - A hackable text editor for the 21st Century.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.barebones.com/products/bbedit/&quot;&gt;BBEdit&lt;/a&gt; - It doesn’t suck.®&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://panic.com/coda&quot;&gt;Coda2&lt;/a&gt; - Your code for the web.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.emacswiki.org/emacs/EmacsForMacOS&quot;&gt;Emacs&lt;/a&gt; - Emacs is console based editor and highly customizable.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.sublimetext.com/3&quot;&gt;Sublime Text 3&lt;/a&gt; - A sophisticated text editor for code, markup and prose.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://macromates.com&quot;&gt;TextMate&lt;/a&gt; - The Missing Editor for Mac OS X.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.vim.org/&quot;&gt;Vim&lt;/a&gt; - Vim is a highly configurable console based editor aimed at efficient text creation and modification.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;authors&quot;&gt;Authors&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Philipp Bräutigam&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/xyNNN&quot;&gt;github/xyNNN&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://twitter.com/pbraeutigam&quot;&gt;twitter/pbraeutigam&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;… and &lt;a href=&quot;https://github.com/xyNNN/awesome-mac/graphs/contributors&quot;&gt;Contributors&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&quot;license-1&quot;&gt;License&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://creativecommons.org/publicdomain/zero/1.0/&quot;&gt;&lt;img src=&quot;http://i.creativecommons.org/p/zero/1.0/88x31.png&quot; alt=&quot;CC0&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;To the extent possible under law, &lt;a href=&quot;http://www.philipp-braeutigam.de&quot;&gt;Philipp Bräutigam&lt;/a&gt; has waived all copyright and related or neighboring rights to this work.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
     <title>🎬 Movies / filmek [2018]</title>
     <link href="http://0.0.0.0:4000/movies.html"/>
-    <updated>2018-01-26T11:01:33+01:00</updated>
+    <updated>2018-01-28T20:49:51+01:00</updated>
     <id>http://0.0.0.0:4000/movies</id>
-    <content type="html">&lt;div class=&quot;leftbox&quot; style=&quot;width: 15%;&quot;&gt;&lt;a href=&quot;&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+    <content type="html">&lt;div class=&quot;leftbox&quot; style=&quot;width: 15% ;&quot;&gt;&lt;a href=&quot;https://port.hu/adatlap/film/mozi/thelma-thelma/movie-196009#video-983530&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;http://t2.gstatic.com/images?q=tbn:ANd9GcSaKPgvVW33At9xYgW3PXplfAiwQxGnPkqeHhCaG6B5TCUDlB72&quot; alt=&quot;Thelma&quot; title=&quot;Thelma&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;strong&gt;~~ ~~&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Thelma&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;””&lt;/p&gt;
+&lt;p&gt;“Thelma, egy vallásos háttérrel rendelkező norvég diáklány Oslóba költözik, ahol beleszeret egy másik lányba. S miközben szégyenérzettel terhelt szexuális ébredését éli meg, Thelma felfedezi, hogy természetfeletti képességgel és erővel rendelkezik.”&lt;/p&gt;
 
 &lt;hr style=&quot;clear: both;&quot; /&gt;
 
-&lt;div class=&quot;leftbox&quot; style=&quot;width: 15%;&quot;&gt;&lt;a href=&quot;https://port.hu/adatlap/film/mozi/szarnyas-fejvadasz-2049-blade-runner-2049/movie-176846#video-963594&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://media.port.hu/images/000/972/350x510/545.jpg&quot; alt=&quot;Szárnyas fejvadász 2049 /Blade Runner 2049/&quot; title=&quot;Szárnyas fejvadász 2049 /Blade Runner 2049/&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;leftbox&quot; style=&quot;width: 15% ;&quot;&gt;&lt;a href=&quot;https://port.hu/adatlap/film/mozi/lady-bird-lady-bird/movie-191843#video-969510&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;http://t2.gstatic.com/images?q=tbn:ANd9GcT0Yf7_FepQU9VEbNsZ7824_2nvdFKOlogCo-yvJhSjuRA22aYg&quot; alt=&quot;Lady Bird&quot; title=&quot;Lady Bird&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Lady Bird&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;“Greta Gerwig első önálló rendezése merész, új hangot üt meg, bravúrosan tárja fel a humort és a pátoszt, amit egy anya és tinédzser lánya közti viharos viszony rejt.
+Christine “Lady Bird” McPherson (Saoirse Ronan) teljesen olyan, mint a szeretettől túláradó, megrögzötten makacs és határozott anyja, Marion (Laurie Metcalf), akivel örökös harcban áll. Marion nővér, és fáradhatatlanul dolgozik, hogy ellássa családját, miután Lady Bird apja elveszíti az állását. A kaliforniai Sacramentóban vagyunk 2002-ben, az amerikai gazdaság szeszélyesen változásai közepette játszódó történet érzékeny tükröt tart a kapcsolatoknak, melyek formálnak minket, a hiteknek, melyek meghatároznak minket, és a páratlan szépségű helynek, amelyet otthonnak nevezünk. “&lt;/p&gt;
+
+&lt;hr style=&quot;clear: both;&quot; /&gt;
+
+&lt;div class=&quot;leftbox&quot; style=&quot;width: 15% ;&quot;&gt;&lt;a href=&quot;https://port.hu/adatlap/film/mozi/szolits-a-neveden-call-me-by-your-name/movie-197412&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;http://t1.gstatic.com/images?q=tbn:ANd9GcRDtqzFejuwWDwGc41npRohO8lsVRfwzGXkjpinHQ3ZRuEvZWKH&quot; alt=&quot;Szólíts a neveden /Call Me by Your Name/&quot; title=&quot;Szólíts a neveden /Call Me by Your Name/&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Szólíts a neveden /Call Me by Your Name/&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;“Egy nyár Észak-Olaszországban. Elio (Timothée Chalamet), a 17 éves amerikai srác számára maga a paradicsom. A szüleivel együtt minden évben ugyanabban az ódon villában meg kertben tölti a vakációt, és ugyanazok a régi barátok veszik körül. Buliznak, strandolnak, zenét hallgatnak, beszélgetnek, és persze szerelemesek?
+Elio apja művészettörténész, aki minden évben befogadja néhány hétre egy tanítványát. Ezúttal a doktori disszertációján dolgozó Oliver (Armie Hammer) érkezik, aki megzavarja a boldog harmóniát. Nem illik ide. Túl laza, túl szép, nem tudni mit akar.
+Ez a nyár más, mint a korábbiak. Boldog és furcsa, szerelemmel és bánattal teli. És mire véget ér, már semmi nem lehet ugyanolyan, mint addig volt. “&lt;/p&gt;
+
+&lt;hr style=&quot;clear: both;&quot; /&gt;
+
+&lt;div class=&quot;leftbox&quot; style=&quot;width: 15% ;&quot;&gt;&lt;a href=&quot;https://port.hu/adatlap/film/mozi/szarnyas-fejvadasz-2049-blade-runner-2049/movie-176846#video-963594&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://upload.wikimedia.org/wikipedia/en/9/9b/Blade_Runner_2049_poster.png&quot; alt=&quot;Szárnyas fejvadász 2049 /Blade Runner 2049/&quot; title=&quot;Szárnyas fejvadász 2049 /Blade Runner 2049/&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;strong&gt;Szárnyas fejvadász 2049 /Blade Runner 2049/&lt;/strong&gt;&lt;/p&gt;
 
@@ -34,8 +531,7 @@
 
 &lt;hr style=&quot;clear: both;&quot; /&gt;
 
-&lt;div class=&quot;leftbox&quot; style=&quot;width: 15%;&quot;&gt;&lt;a href=&quot;https://port.hu/adatlap/film/tv/a-kigyo-olelese-el-abrazo-de-la-serpiente/movie-168036?section=mozi&amp;amp;title=a-kigyo-olelese-el-abrazo-de-la-serpiente&amp;amp;id=movie-168036#video-916198&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;
-https://media.port.hu/images/000/803/350x510/976.jpg&quot; alt=&quot;A kígyó ölelése /El abrazo de la serpiente/&quot; title=&quot;A kígyó ölelése /El abrazo de la serpiente/&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;leftbox&quot; style=&quot;width: 15% ;&quot;&gt;&lt;a href=&quot;https://port.hu/adatlap/film/tv/a-kigyo-olelese-el-abrazo-de-la-serpiente/movie-168036?section=mozi&amp;amp;title=a-kigyo-olelese-el-abrazo-de-la-serpiente&amp;amp;id=movie-168036#video-916198&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://pics.filmaffinity.com/el_abrazo_de_la_serpiente-385873306-large.jpg&quot; alt=&quot;A kígyó ölelése /El abrazo de la serpiente/&quot; title=&quot;A kígyó ölelése /El abrazo de la serpiente/&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;strong&gt;A kígyó ölelése /El abrazo de la serpiente/&lt;/strong&gt;&lt;/p&gt;
 
@@ -44,8 +540,7 @@ A történet a sámán és a két megszállott fehér ember road movie-ján túl
 
 &lt;hr style=&quot;clear: both;&quot; /&gt;
 
-&lt;div class=&quot;leftbox&quot; style=&quot;width: 15%;&quot;&gt;&lt;a href=&quot;https://port.hu/adatlap/film/tv/mustang-mustang/movie-169772#video-921046&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;
-https://media.port.hu/images/000/833/350x510/558.jpg&quot; alt=&quot;Mustang&quot; title=&quot;Mustang&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;leftbox&quot; style=&quot;width: 15% ;&quot;&gt;&lt;a href=&quot;https://port.hu/adatlap/film/tv/mustang-mustang/movie-169772#video-921046&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;http://t1.gstatic.com/images?q=tbn:ANd9GcTXW5ECjwVJt3CsEm1aphgMqCGtBGUBoX50a8-WkV43Vg_V_MlI&quot; alt=&quot;Mustang&quot; title=&quot;Mustang&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;strong&gt;Mustang&lt;/strong&gt;&lt;/p&gt;
 
@@ -328,17 +823,90 @@ Zodiac.2007.DC.BDrip.Custom.HUN.x264-DenZo&lt;/p&gt;
   </entry>
   
   <entry>
+    <title>🎮 Video games / videojátékok [2018]</title>
+    <link href="http://0.0.0.0:4000/videoGames.html"/>
+    <updated>2018-01-28T20:48:07+01:00</updated>
+    <id>http://0.0.0.0:4000/videoGames</id>
+    <content type="html">
+</content>
+  </entry>
+  
+  <entry>
+    <title>👫 Friends / barátok [2018]</title>
+    <link href="http://0.0.0.0:4000/friends.html"/>
+    <updated>2018-01-28T20:47:47+01:00</updated>
+    <id>http://0.0.0.0:4000/friends</id>
+    <content type="html">
+</content>
+  </entry>
+  
+  <entry>
+    <title>📱 iOS / iOS [2018]</title>
+    <link href="http://0.0.0.0:4000/iOSApps.html"/>
+    <updated>2018-01-28T20:44:41+01:00</updated>
+    <id>http://0.0.0.0:4000/iOSApps</id>
+    <content type="html">&lt;h1 id=&quot;apple-ios-apps&quot;&gt;Apple iOS apps&lt;/h1&gt;
+
+&lt;p&gt;I have an iPhone 6 16GB. Here is a list of the ones that I love and use the most of my day to day life, sorted by their importance:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Waze&lt;/li&gt;
+  &lt;li&gt;Hipstamatic&lt;/li&gt;
+  &lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>🎵 LPs / LP-k [2018]</title>
+    <link href="http://0.0.0.0:4000/muzaxLP.html"/>
+    <updated>2018-01-28T19:38:09+01:00</updated>
+    <id>http://0.0.0.0:4000/muzaxLP</id>
+    <content type="html">
+</content>
+  </entry>
+  
+  <entry>
+    <title>💿 CDs / CD-k [2018]</title>
+    <link href="http://0.0.0.0:4000/muzaxCD.html"/>
+    <updated>2018-01-28T19:36:21+01:00</updated>
+    <id>http://0.0.0.0:4000/muzaxCD</id>
+    <content type="html">
+</content>
+  </entry>
+  
+  <entry>
+    <title>Gadgets /  [2018]</title>
+    <link href="http://0.0.0.0:4000/gadgets.html"/>
+    <updated>2018-01-28T19:32:17+01:00</updated>
+    <id>http://0.0.0.0:4000/gadgets</id>
+    <content type="html">
+</content>
+  </entry>
+  
+  <entry>
+    <title>🌍 Document series / Dokumentumfilm sorozatok [2018]</title>
+    <link href="http://0.0.0.0:4000/documentSeries.html"/>
+    <updated>2018-01-28T19:29:28+01:00</updated>
+    <id>http://0.0.0.0:4000/documentSeries</id>
+    <content type="html">&lt;h2&gt;TV Series&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/The_Day_the_Universe_Changed&quot;&gt;James Burke: The Day the Universe Changed&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
     <title>📺 TV series / TV sorozatok [2018]</title>
     <link href="http://0.0.0.0:4000/TVSeries.html"/>
     <updated>2018-01-23T00:00:00+01:00</updated>
     <id>http://0.0.0.0:4000/TVSeries</id>
-    <content type="html">&lt;p&gt;“I’ve wasted about 42 days, 17 hours, and 21 minutes of my life watching TV shows. Calculate your time: http://tiii.me”&lt;/p&gt;
+    <content type="html">&lt;p&gt;“I’ve wasted about 42 days, 17 hours, and 21 minutes of my life watching TV shows. Calculate your time: &lt;a href=&quot;http://tiii.me&quot;&gt;http://tiii.me&lt;/a&gt;”&lt;/p&gt;
 
 &lt;!-- break --&gt;
 
-&lt;h2&gt;TV Series / TV Shows / TV sorozatok&lt;/h2&gt;
+&lt;div class=&quot;rightbox&quot; style=&quot;width: 47%;&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/TVshows_(2018-01-21).png&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/div&gt;
 
-&lt;div class=&quot;rightbox&quot; style=&quot;width: 40%;&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/TVshows_(2018-01-21).png&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;h2&gt;TV Series / TV Shows / TV sorozatok&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;71-80 • &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Onedin_Line&quot;&gt;The Onedin Line&lt;/a&gt;&lt;/li&gt;
@@ -366,926 +934,8 @@ Zodiac.2007.DC.BDrip.Custom.HUN.x264-DenZo&lt;/p&gt;
   &lt;li&gt;14-15 • &lt;a href=&quot;https://en.wikipedia.org/wiki/True_Detective&quot;&gt;True Detective&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;15-na • &lt;a href=&quot;https://en.wikipedia.org/wiki/Humans_(TV_series)&quot;&gt;Humans&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;16-na • &lt;a href=&quot;https://en.wikipedia.org/wiki/Westworld_(TV_series)&quot;&gt;Westworld&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;18-na • &lt;a href=&quot;https://en.wikipedia.org/wiki/My_Next_Guest_Needs_No_Introduction_with_David_Letterman&quot;&gt;My next guest needs no introduction with David Letterman&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>Videogames</title>
-    <link href="http://0.0.0.0:4000/videoGames.html"/>
-    <updated>2018-01-21T09:33:14+01:00</updated>
-    <id>http://0.0.0.0:4000/videoGames</id>
-    <content type="html">
-</content>
-  </entry>
-  
-  <entry>
-    <title>Muzaxlp</title>
-    <link href="http://0.0.0.0:4000/muzaxLP.html"/>
-    <updated>2018-01-21T09:33:14+01:00</updated>
-    <id>http://0.0.0.0:4000/muzaxLP</id>
-    <content type="html">
-</content>
-  </entry>
-  
-  <entry>
-    <title>Gadgets</title>
-    <link href="http://0.0.0.0:4000/gadgets.html"/>
-    <updated>2018-01-21T09:33:06+01:00</updated>
-    <id>http://0.0.0.0:4000/gadgets</id>
-    <content type="html">
-</content>
-  </entry>
-  
-  <entry>
-    <title>Document series / Dukumentumfilm sorozatok [2018]</title>
-    <link href="http://0.0.0.0:4000/documentSeries.html"/>
-    <updated>2018-01-21T08:51:08+01:00</updated>
-    <id>http://0.0.0.0:4000/documentSeries</id>
-    <content type="html">&lt;h2&gt;TV Series&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/The_Day_the_Universe_Changed&quot;&gt;James Burke: The Day the Universe Changed&lt;/a&gt;&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>🕸 HTML (HyperText Markup Language) 2018</title>
-    <link href="http://0.0.0.0:4000/html2017.html"/>
-    <updated>2018-01-01T00:00:00+01:00</updated>
-    <id>http://0.0.0.0:4000/html2017</id>
-    <content type="html">&lt;p&gt;&lt;span class=&quot;initial&quot;&gt;&lt;img class=&quot;inline&quot; src=&quot;https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png&quot; alt=&quot;IBM Logo&quot; style=&quot;width:80px;&quot; /&gt;HTML&lt;/span&gt;Relatíve egészen sok időt töltöttem már el különböző HTML-alapú weboldal ötletek tervezgetésével úgy, hogy sosem olvastam még el egyetlenegy aktuális HTML verzió teljes dokumentációját sem az elejétől a végéig, és így sajnos sosem tudtam még rendesen sem elmélyedni a témában.&lt;/p&gt;
-
-&lt;!-- break --&gt;
-
-&lt;p&gt;Most, amikor épp ezzel az új oldallal kisérleteztem, arra gondoltam, hogyha egyszer valamikor abbahagyom majd a TSM-mel (&lt;a href=&quot;https://www.ibm.com/&quot;&gt;&lt;img class=&quot;inline&quot; src=&quot;http://m.fooyoh.com/files/attach/images/3004/195/251/014/logos4.jpg&quot; alt=&quot;IBM Logo&quot; style=&quot;width: 55px;&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;https://www.ibm.com/us-en/marketplace/data-protection-and-recovery&quot;&gt;&lt;img class=&quot;inline&quot; src=&quot;https://www-03.ibm.com/systems/uk/resources/storage_spectrum_modernize_placeholder2.png&quot; alt=&quot;IBM Spectrum Protect Logo&quot; style=&quot;width: 20px;&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;https://www.ibm.com/us-en/marketplace/data-protection-and-recovery&quot;&gt;Spectrum Protect&lt;/a&gt;, aka: &lt;a href=&quot;https://www.ibm.com/&quot;&gt;&lt;img class=&quot;inline&quot; src=&quot;https://s-media-cache-ak0.pinimg.com/originals/f2/c2/e2/f2c2e2b63af6ffe5ddfff5a2557bfee6.jpg&quot; alt=&quot;IBM Logo&quot; style=&quot;width: 55px;&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;https://en.wikipedia.org/wiki/IBM_Tivoli_Storage_Manager&quot;&gt;Tivoli Storage Manager&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/IBM_Tivoli_Storage_Manager&quot;&gt;ADSTAR Distributed Storage Manager&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/IBM_Tivoli_Storage_Manager&quot;&gt;ADSM&lt;/a&gt;) való munkáimat, akkor lehet, hogy talán ez lenne az a következő téma / terület, amit szívesen csinálnék majd helyette.&lt;/p&gt;
-
-&lt;p&gt;A sok “gondolkodás” közben / előtt, egészen a kezdetekkor már lementettem pár .html oldalt, amiben mind találtam valami nekem tetsző vagy éppen valami nekem nem tetsző dolgot és hamár összeraktam ezt az oldalt erről a témáról, akkor azonnnal adta magát, hogy itt lesz ezentúl ezenknek a régen lementett képeknek a végleges helyük. Lehet, hogy egyszer azt kis leírom majd, hogy melyikről mit gondolok, de nem most.&lt;/p&gt;
-
-&lt;div&gt;
-
-&lt;div class=&quot;leftbox&quot; style=&quot;width: 10%;&quot;&gt;&lt;a href=&quot;http://plastik.hu/&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/plastik_media_(20100518).png&quot; alt=&quot;plastik.hu saved in 2010.&quot; title=&quot;plastik.hu saved in 2010.&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://plastik.hu/&quot;&gt;plastik.hu&lt;/a&gt; saved in 2010.&lt;/p&gt;&lt;/div&gt;
-
-&lt;div class=&quot;leftbox&quot; style=&quot;width: 20%;&quot;&gt;&lt;a href=&quot;http://index.hu/&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/Index_(20120331).png&quot; alt=&quot;index.hu saved in 2012.&quot; title=&quot;index.hu saved in 2012.&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://index.hu/&quot;&gt;index.hu&lt;/a&gt; saved in 2012.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;a href=&quot;http://google.com/&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/Google_(20120331).png&quot; alt=&quot;google.com saved in 2012.&quot; title=&quot;google.com saved in 2012.&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://google.com/&quot;&gt;google.com&lt;/a&gt; saved in 2012.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;a href=&quot;http://adobe.com/&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/Adobe_(20120331).png&quot; alt=&quot;adobe.com saved in 2012.&quot; title=&quot;adobe.com saved in 2012.&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://adobe.com/&quot;&gt;adobe.com&lt;/a&gt; saved in 2012.&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;leftbox&quot; style=&quot;width: 21%;&quot;&gt;&lt;a href=&quot;http://nol.hu/&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/Nepszabadsag_(20120331).png&quot; alt=&quot;nol.hu saved in 2012.&quot; title=&quot;nol.hu saved in 2012.&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://nol.hu/&quot;&gt;nol.hu&lt;/a&gt; saved in 2012.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;a href=&quot;http://microsoft.com/&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/Microsoft_Corporation-Software,_Smartphones,_Online,_Games,_Cloud_Computing,_IT_Business_Technology,_Downloads_(20120331).png&quot; alt=&quot;microsoft.com saved in 2012.&quot; title=&quot;microsoft.com saved in 2012.&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://microsoft.com/&quot;&gt;microsoft.com&lt;/a&gt; saved in 2012.&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;leftbox&quot; style=&quot;width: 20%;&quot;&gt;&lt;a href=&quot;http://origo.hu/&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/origo_(20120331).png&quot; alt=&quot;origo.hu saved in 2012.&quot; title=&quot;origo.hu saved in 2010.&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://origo.hu/&quot;&gt;origo.hu&lt;/a&gt; saved in 2012.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;a href=&quot;http://cnn.com/&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/CNN.com_International_-_Breaking,_World,_Business,_Sports,_Entertainment_and_Video_News_(20120331).png&quot; alt=&quot;cnn.com saved in 2012.&quot; title=&quot;cnn.com saved in 2012.&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://cnn.com/&quot;&gt;cnn.com&lt;/a&gt; saved in 2012.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;a href=&quot;http://ibm.com/&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/IBM_-_United_States_(20120331).png&quot; alt=&quot;ibm.com saved in 2012.&quot; title=&quot;ibm.com save	d in 2012.&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://ibm.com/&quot;&gt;ibm.com&lt;/a&gt; saved in 2010.&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;leftbox&quot; style=&quot;width: 21%;&quot;&gt;&lt;a href=&quot;http://old.fleischmann.hu/geocities.com/html/news_template.htm&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/Gyurci-Flex's_NEWS_page_(20100518).png&quot; alt=&quot;news_template.htm saved in 2010.&quot; title=&quot;news_template.htm saved in 2010.&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://old.fleischmann.hu/geocities.com/html/news_template.htm&quot;&gt;news_template.htm&lt;/a&gt; saved in 2010.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;a href=&quot;http://old.fleischmann.hu/geocities.com/html/mybook/tartalom.htm&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/Az_en_konyvem_- _Tartalom_(2017-11-22).png&quot; alt=&quot;Tartalom saved in 2010.&quot; title=&quot;Tartalom saved in 2010.&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://old.fleischmann.hu/geocities.com/html/mybook/tartalom.htm&quot;&gt;Tartalom&lt;/a&gt; saved in 2010.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;a href=&quot;http://old.fleischmann.hu/geocities.com/html/mybook/az_uj_gazdasag_regi_szabalya.htm&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/Az_en_konyvem_-_Az_uj_gazdasag_regi_szabalya_(2017-11-22).png&quot; alt=&quot;Az új gazdaság régi szabálya saved in 2010.&quot; title=&quot;Az új gazdaság régi szabálya saved in 2010.&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://old.fleischmann.hu/geocities.com/html/mybook/az_uj_gazdasag_regi_szabalya.htm&quot;&gt;Az új gazdaság régi szabálya&lt;/a&gt; saved in 2010.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;a href=&quot;http://google.hu/&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/Google_(2017-12-20).png&quot; alt=&quot;google.hu saved in 2017.&quot; title=&quot;google.hu saved in 2017.&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://google.com/&quot;&gt;google.hu&lt;/a&gt; saved in 2017.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br style=&quot;clear: both;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Egy picit tovább visszatekerve még az idő kerekét, a lementett képeken kívül, a saját ötletekből és kisérletezgetésekből a következő nekem fontos oldalak maradtak fenn:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;div class=&quot;rightbox&quot; style=&quot;width: 15%;&quot;&gt;&lt;a href=&quot;http://old.fleischmann.hu/&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/FLEISCHMANN.HU_Tartalom-Contents_(20100518).png&quot; alt=&quot;fleischmann.hu saved in 2010.&quot; title=&quot;fleischmann.hu saved in 2010.&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://old.fleischmann.hu/&quot;&gt;fleischmann.hu&lt;/a&gt; saved in 2010.&lt;/p&gt;&lt;/div&gt;
-    &lt;div class=&quot;rightbox&quot; style=&quot;width: 15%;&quot;&gt;&lt;a href=&quot;http://old.fleischmann.hu/geocities.com/&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/geominihp20040407.jpg&quot; alt=&quot;geocities.com saved in 2004.&quot; title=&quot;geocities.com saved in 2004.&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://old.fleischmann.hu/geocities.com/&quot;&gt;geocities.com/gfleischmann/&lt;/a&gt; saved in 2004.&lt;/p&gt;&lt;/div&gt;
-    &lt;p&gt;Az első saját weboldalam (~1997-ből) még a GeoCities&lt;sup id=&quot;fnref:geocities&quot;&gt;&lt;a href=&quot;#fn:geocities&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; ingyenes szolgáltatására épült és amit most látok csak, hogy ennek a nyomai egy lelkes internetes csoportnak (OoCities&lt;sup id=&quot;fnref:oocities&quot;&gt;&lt;a href=&quot;#fn:oocities&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;) köszönhetően még mindig elérhetőek a következő címen is: &lt;a href=&quot;http://www.oocities.org/gfleischmann/&quot;&gt;www.oocities.org/gfleischmann&lt;/a&gt;. Én, az &lt;a href=&quot;http://old.fleischmann.hu/geocities.com/&quot;&gt;old.fleischmann.hu/geocities.com&lt;/a&gt; oldalon őrzöm az utolsó állapotát. Az oldal tanúsága alapján, 2003. év végéig volt ez még szerkesztve.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Egy kisebb szünet után valamikor ~2005-től a követező, már teljesen új formájában született újra a weboldalam: &lt;a href=&quot;http://old.fleischmann.hu/&quot;&gt;fleischmann.hu&lt;/a&gt; internetes domain alatt. (Külön köszönet illeti ezért Tóth Petit (G.A.M.F., Kecskemét) a domain név regisztrációért!) Ennek az oldalank az újdonsága a fotóblogolás volt, amihez a statikus oldalkat egy saját készítésű perl szkript “fordított” le. Ez az egész fotóblogolás egészen 2009 első negyedéig tartott. Közben (~2014-ben) magát az oldalt kiszolgáló és hosztoló fizikai gép (amiért nem győzök ugyszint eléggé hálás lenni Vihari Balázsnak, (Crédit Lyonnais, Budapest)) is megszűnt már. Azóta egészen 2017-ig nem is történt már vele tudtommal semmi változás egészen pontosan mostanáig, amikor is feltöltöttem minden általam elérhető archív fájlt a &lt;a href=&quot;https://github.com/&quot;&gt;&lt;img class=&quot;inline&quot; src=&quot;https://github.com/fluidicon.png&quot; alt=&quot;GitHub Logo&quot; style=&quot;width:30px;&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;https://github.com/&quot;&gt;GitHub&lt;/a&gt;-ra és a &lt;a href=&quot;http://pages.github.com/&quot;&gt;pages.github.com&lt;/a&gt; szolgáltásra hagytam az oldalak tényleges kiszolgálását a korábban már említett &lt;a href=&quot;http://old.fleischmann.hu/&quot;&gt;old.fleischmann.hu&lt;/a&gt; domain alatt.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;div class=&quot;rightbox&quot; style=&quot;width: 15%;&quot;&gt;&lt;a href=&quot;http://gyorgy.fleischmann.hu/&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/HTML_(HyperText_Markup_Language)_2017_-_gyorgy.fleischmann.hu_(2017-11-22).png&quot; alt=&quot;gyorgy.fleischmann.hu saved in 2017.&quot; title=&quot;gyorgyfleischmann.hu saved in 2017.&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://gyorgy.fleischmann.hu/&quot;&gt;gyorgy.fleischmann.hu&lt;/a&gt; saved in 2017.&lt;/p&gt;&lt;/div&gt;
-    &lt;p&gt;Épp amikor ezeket a feltöltéseket és a hozzájuk kapcsolódó finomításokat csináltam (DNS bejegyzések frissítése, régi karakter kódolások javítása a &lt;a href=&quot;https://github.com/&quot;&gt;GitHub&lt;/a&gt;-hoz, &lt;a href=&quot;https://analytics.google.com/&quot;&gt;Google Analytics&lt;/a&gt; újraélesztése) gondoltam arra, hogy mi lenne akkor, ha ide újra készítenék már egy teljesen új oldalt is, az itt adott technikákkal (GitHub, jekyll, HTML5, CSS3). Első körben a következőket tűztem ki célul:&lt;/p&gt;
-    &lt;ul&gt;
-      &lt;li&gt;tudjon majd kezelni sorkizárt szövegeket úgy, hogy dinamikusan kezeljen ezzel együtt jobbra/balra igazított képeket vagy szövegdobozokat is;&lt;/li&gt;
-      &lt;li&gt;valahogy lehessen iniciálékat tenni a bekezdések elé;&lt;/li&gt;
-      &lt;li&gt;lehessen terminál szerű (fekete ablak) példákat beidézni;&lt;/li&gt;
-      &lt;li&gt;magától kezeljen forrásprogrami példákat szépen színezve a szintaxiskiemeléseket (syntax highlighting);&lt;/li&gt;
-      &lt;li&gt;lehessen fotószeteket kezelni és legyen hozzá egy egyszerűen használható teljesképernyős fotó megjelenítő;&lt;/li&gt;
-      &lt;li&gt;tudjon médiafájlokat kezelni: .mp3, .mp4, youtube, vimeo, soundcloud, …;&lt;/li&gt;
-      &lt;li&gt;normálisan kezelje a markdown fájl formázó lehetőségeit;&lt;/li&gt;
-      &lt;li&gt;a nyomtatott változat is értkelhető kimenetet eredményezzen;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;A megálmodott és végül elkészített megoldást itt: &lt;a href=&quot;jekyll_test_page.html&quot;&gt;jekyll tesztoldalam&lt;/a&gt; és &lt;a href=&quot;jekyll-big-test_page.html&quot;&gt;jekyll tesztoldalam2&lt;/a&gt; teszteltem.&lt;/p&gt;
-
-&lt;p&gt;Persze lehetne még ezt az egész dizájnt -, ha nevezhetjük ezt egyáltalán annak - is a végtelenségig csiszolgatni, de én most itt, ezen a ponton egyelőre abbahagyom, mert eddig okozott a belé fektetett munka örömöt, boldogásgot és nem szereném, ha ez a végén esetleg még rossz irányba változna meg!&lt;/p&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:geocities&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Yahoo!_GeoCities&quot;&gt;Yahoo! GeoCities&lt;/a&gt; a Wikipedián &lt;a href=&quot;#fnref:geocities&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:oocities&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;http://www.oocities.com/&quot;&gt;OoCities&lt;/a&gt; &lt;a href=&quot;#fnref:oocities&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>👨🏻‍🎓 CV</title>
-    <link href="http://0.0.0.0:4000/cv.html"/>
-    <updated>2018-01-01T00:00:00+01:00</updated>
-    <id>http://0.0.0.0:4000/cv</id>
-    <content type="html">&lt;p style=&quot;margin-top: 1.5em; text-align: left;&quot;&gt;&lt;a href=&quot;http://gyorgy.fleischmann.hu/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;b style=&quot;font-size: 2em;&quot;&gt;FLEISCHMANN György&lt;/b&gt;&lt;/a&gt; &lt;nobr&gt;• nick names: flex, gyurci, FleXoft&lt;/nobr&gt;&lt;/p&gt;
-
-&lt;p style=&quot;text-align: left;&quot;&gt;&lt;a href=&quot;https://twitter.com/flexoft&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;i class=&quot;icon-twitter&quot; style=&quot;margin-left: -4px; margin-right: -4px;&quot;&gt;&lt;/i&gt;@flexoft&lt;/a&gt; •&lt;nobr&gt;&lt;i class=&quot;icon-mobile&quot; style=&quot;margin-left: -4px; margin-right: -5px;&quot;&gt;&lt;/i&gt;+36 30 979 1403&lt;/nobr&gt; &lt;nobr&gt;• &lt;a href=&quot;mailto:gyorgy@fleischmann.hu&quot; target=&quot;_top&quot;&gt;gyorgy@fleischmann.hu&lt;/a&gt;&lt;/nobr&gt; • &lt;nobr&gt;&lt;a href=&quot;https://www.google.hu/maps/place/Budapest,+Ungv%C3%A1r+u.+33,+1185/@47.4337246,19.2123318,17z/data=!3m1!4b1!4m5!3m4!1s0x4741c18a7203082b:0x62593567a50ce394!8m2!3d47.433721!4d19.2145258?hl=hu&quot;&gt;&lt;i class=&quot;icon-home&quot; style=&quot;margin-left: -5px; margin-right: 0px;&quot;&gt;&lt;/i&gt;H-1185, Budapest, Ungvár utca 33/1., HUNGARY&lt;/a&gt;&lt;/nobr&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;summary&quot;&gt;SUMMARY&lt;/h1&gt;
-
-&lt;div class=&quot;rightbox&quot; style=&quot;width: 30%;&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;photos/flex.jpg&quot; alt=&quot;Fleischmann György&quot; title=&quot;Fleischmann György&quot; /&gt;
-  &lt;p class=&quot;phototext&quot;&gt;Photo by me, 2016.11.11., Minolta Dynax 7D, 50mm&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Highly qualified certified systems engineer / architect / consultant with more than 13 years &lt;span id=&quot;workTSM&quot;&gt;&lt;/span&gt; of experience in designing, building and supporting complex &lt;a href=&quot;https://www.ibm.com/&quot;&gt;&lt;img class=&quot;inline&quot; src=&quot;http://m.fooyoh.com/files/attach/images/3004/195/251/014/logos4.jpg&quot; alt=&quot;IBM Logo&quot; style=&quot;width: 55px;&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;https://www.ibm.com/us-en/marketplace/data-protection-and-recovery&quot;&gt;&lt;img class=&quot;inline&quot; src=&quot;https://www-03.ibm.com/systems/uk/resources/storage_spectrum_modernize_placeholder2.png&quot; alt=&quot;IBM Spectrum Protect Logo&quot; style=&quot;width: 20px;&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;https://www.ibm.com/us-en/marketplace/data-protection-and-recovery&quot;&gt;Spectrum Protect&lt;/a&gt; (aka: &lt;a href=&quot;https://www.ibm.com/&quot;&gt;&lt;img class=&quot;inline&quot; src=&quot;https://s-media-cache-ak0.pinimg.com/originals/f2/c2/e2/f2c2e2b63af6ffe5ddfff5a2557bfee6.jpg&quot; alt=&quot;IBM Logo&quot; style=&quot;width: 55px;&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;https://en.wikipedia.org/wiki/IBM_Tivoli_Storage_Manager&quot;&gt;Tivoli Storage Manager&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/IBM_Tivoli_Storage_Manager&quot;&gt;TSM&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/IBM_Tivoli_Storage_Manager&quot;&gt;ADSTAR Distributed Storage Manager&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/IBM_Tivoli_Storage_Manager&quot;&gt;ADSM&lt;/a&gt;) at the biggest Hungarian companies.&lt;/p&gt;
-
-&lt;p&gt;One of the well-known IBM TSM / Spectrum Protect experts / evangelists in &lt;a href=&quot;https://en.wikipedia.org/wiki/Hungary&quot;&gt;Hungary&lt;/a&gt;. Enthusiastic member of the &lt;a href=&quot;https://www.imwuc.org/hutug&quot;&gt;Hungarian Tivoli User Group&lt;/a&gt; (&lt;a href=&quot;https://www.imwuc.org/hutug&quot;&gt;Hu-TUG&lt;/a&gt;). Regular speaker at biannual events in IBM TSM / Spectrum Protect related topics.&lt;/p&gt;
-
-&lt;p&gt;Team player and problem-solver with very good communication and interpersonal skills.&lt;/p&gt;
-
-&lt;!-- break --&gt;
-
-&lt;h1 style=&quot;clear: none;&quot;&gt;FAMILY&lt;/h1&gt;
-
-&lt;div style=&quot;margin-left: 1em; padding: 0; float: right; width: 75pt;&quot;&gt;
-  &lt;p style=&quot;text-align: right; margin-bottom: 0;margin-right: 0.5em; font-size: 10pt;&quot;&gt;&lt;a class=&quot;hvr-buzz-out&quot; style=&quot;color: #bbb;&quot; href=&quot;javascript:showhide( 'motherID', 'fatherID', 'vigyorID', 'wifeID', 'annaID', 'gergoID', 'andrasID', 'familypics' );&quot;&gt;more / less &lt;i class=&quot;icon-plus&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&quot;mohács-baranya--hungary&quot;&gt;&lt;a href=&quot;https://hu.wikipedia.org/wiki/Moh%C3%A1cs&quot;&gt;Mohács&lt;/a&gt;, &lt;a href=&quot;https://hu.wikipedia.org/wiki/Baranya_megye&quot;&gt;Baranya&lt;/a&gt; • &lt;a href=&quot;https://en.wikipedia.org/wiki/Hungary&quot;&gt;HUNGARY&lt;/a&gt;&lt;/h2&gt;
-&lt;div id=&quot;motherID&quot; style=&quot;display:none;&quot;&gt;&lt;span title=&quot;1937-2014&quot;&gt;37-14&lt;/span&gt; • &lt;a href=&quot;http://anyuka.fleischmann.hu/&quot;&gt;mother, Zsuzsanna&lt;/a&gt; • &lt;span id=&quot;motherBirthDiff&quot;&gt;&lt;/span&gt;&lt;/div&gt;
-&lt;div id=&quot;fatherID&quot; style=&quot;display:none;&quot;&gt;&lt;span title=&quot;1945-&quot;&gt;45-na&lt;/span&gt; • &lt;a href=&quot;http://apuka.fleischmann.hu/&quot;&gt;father, György&lt;/a&gt; • &lt;span id=&quot;fatherBirthDiff&quot;&gt;&lt;/span&gt;&lt;/div&gt;
-&lt;div id=&quot;vigyorID&quot; style=&quot;display:none;&quot;&gt;&lt;span title=&quot;1957-&quot;&gt;57-na&lt;/span&gt; • stepbrother, István • &lt;span id=&quot;vigyorBirthDiff&quot;&gt;&lt;/span&gt;&lt;/div&gt;
-&lt;div id=&quot;flexID&quot; style=&quot;display:block;&quot;&gt;&lt;span title=&quot;1970-&quot;&gt;&lt;b&gt;70-na&lt;/b&gt;&lt;/span&gt; • &lt;span id=&quot;flexBirthDiff&quot;&gt;&lt;/span&gt;&lt;/div&gt;
-&lt;div id=&quot;wifeID&quot; style=&quot;display:none;&quot;&gt;&lt;span title=&quot;1974-&quot;&gt;74-na&lt;/span&gt; • &lt;a href=&quot;http://hajnalka.fleischmann.hu/&quot;&gt;wife, Hajnalka&lt;/a&gt; • &lt;span id=&quot;wifeBirthDiff&quot;&gt;&lt;/span&gt;&lt;/div&gt;
-&lt;div id=&quot;annaID&quot; style=&quot;display:none;&quot;&gt;&lt;span title=&quot;2001-&quot;&gt;01-na&lt;/span&gt; • &lt;a href=&quot;http://anna.fleischmann.hu/&quot;&gt;Anna&lt;/a&gt; • &lt;span id=&quot;annaBirthDiff&quot;&gt;&lt;/span&gt;&lt;/div&gt;
-&lt;div id=&quot;gergoID&quot; style=&quot;display:none;&quot;&gt;&lt;span title=&quot;2005-&quot;&gt;05-na&lt;/span&gt; • &lt;a href=&quot;http://gergo.fleischmann.hu/&quot;&gt;Gergő&lt;/a&gt; • &lt;span id=&quot;gergoBirthDiff&quot;&gt;&lt;/span&gt;&lt;/div&gt;
-&lt;div id=&quot;andrasID&quot; style=&quot;display:none;&quot;&gt;&lt;span title=&quot;2017-&quot;&gt;17-na&lt;/span&gt; • &lt;a href=&quot;http://andras.fleischmann.hu/&quot;&gt;András&lt;/a&gt; • &lt;span id=&quot;andrasBirthDiff&quot;&gt;&lt;/span&gt;&lt;/div&gt;
-
-&lt;h1 id=&quot;work&quot;&gt;WORK&lt;/h1&gt;
-&lt;p class=&quot;phototext&quot; style=&quot;margin-top: -1.6em;&quot;&gt;References are available upon request, alternatively contact directly the companies listed below.&lt;/p&gt;
-
-&lt;div style=&quot;margin-left: 1em; padding: 0; float: right; width: 75pt;&quot;&gt;
-  &lt;p style=&quot;text-align: right; margin-bottom: 0;margin-right: 0.5em; font-size: 10pt;&quot;&gt;&lt;a class=&quot;hvr-buzz-out&quot; style=&quot;color: #bbb;&quot; href=&quot;javascript:showhide( 'egID', 'userID', 'schneiderID', 'sgID', 'clID', 'mofaID' );&quot;&gt;more / less &lt;i class=&quot;icon-plus&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&quot;budapest-pest--hungary&quot;&gt;&lt;a href=&quot;https://hu.wikipedia.org/wiki/Budapest&quot;&gt;Budapest&lt;/a&gt;, &lt;a href=&quot;https://hu.wikipedia.org/wiki/Pest_megye&quot;&gt;Pest&lt;/a&gt; • &lt;a href=&quot;https://en.wikipedia.org/wiki/Hungary&quot;&gt;HUNGARY&lt;/a&gt;&lt;/h2&gt;
-
-&lt;table class=&quot;blockheader&quot;&gt;
-  &lt;tr&gt;
-    &lt;th width=&quot;1%;&quot; valign=&quot;top&quot; style=&quot;padding-right: 0.3em;&quot;&gt;&lt;nobr&gt;&lt;span title=&quot;2015-&quot;&gt;&lt;b&gt;15-na&lt;/b&gt;&lt;/span&gt; •&lt;/nobr&gt;&lt;/th&gt;
-    &lt;th&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;System engineer, &lt;a href=&quot;http://www.ibm.com/&quot;&gt;IBM&lt;/a&gt; &lt;a href=&quot;http://www-03.ibm.com/software/products/en/spectrum-protect&quot;&gt;Spectrum Protect&lt;/a&gt; (Tivoli Storage Manager) specialist • &lt;a href=&quot;http://www.scss.hu/&quot;&gt;SCSS Informatikai, Kereskedelmi és Szolgáltató Kft.&lt;/a&gt;, &lt;a href=&quot;http://effectivegroup.hu/&quot;&gt;Effective Group Informatika Zrt.&lt;/a&gt;&lt;/p&gt;&lt;/th&gt; 
-  &lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;div id=&quot;egID&quot; style=&quot;display:none; margin-left: 3.5em; margin-bottom: 1em;&quot;&gt;
-
-&lt;ul style=&quot;list-style-type:disc&quot;&gt;
-&lt;li&gt;Supporting a dozen large IBM TSM, SP customers in Hungary&lt;/li&gt;
-&lt;li&gt;Supporting IBM GPFS, Spectrum Scale cutomers with TSM / SP HSM&lt;/li&gt;
-&lt;li&gt;TSM Symposium, 15 (Dresden)&lt;/li&gt;
-&lt;li&gt;Speaker of &lt;a href=&quot;http://systemsday.momartmail.hu/Home/Program&quot;&gt;IBM, RRC Systems Day&lt;/a&gt; (Effective storage usage in backup environments, real implementation experiences), 17&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;b&gt;Main projects and references:&lt;/b&gt;&lt;br /&gt;
-
-&lt;ul style=&quot;list-style-type:disc&quot;&gt;
-&lt;li&gt;7/24 high availability TSM v6, v7, v8 support for:&lt;/li&gt;
-
-&lt;ul style=&quot;list-style-type:circle&quot;&gt;
-&lt;li&gt;MKB Bank (&amp;gt;3Y): 4 TSM servers on a HP-UX cluster environment with library manager configuration and other 2 TSM servers (IBM AIX) for document archiving systems&lt;/li&gt;
-&lt;li&gt;Generali Biztosító (&amp;gt;2Y): 2 general TSM servers on Microsoft Windows and other 2 TSM (IBM AIX) servers for document store systems&lt;/li&gt;
-&lt;li&gt;MTVA (&amp;gt;3Y): TSM on a Microsoft Windows cluster, node replication, container pool deduplication environments and TSM on Linux with GPFS filesystems&lt;/li&gt;
-&lt;li&gt;MVMI, NAK(Nemzeti Agrárgazdasági Kamara), Diákhitel, EOS, FGSZ, FPH&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/ul&gt;
-
-&lt;/div&gt;
-
-&lt;table class=&quot;blockheader&quot;&gt;
-  &lt;tr&gt;
-    &lt;th width=&quot;1%;&quot; valign=&quot;top&quot; style=&quot;padding-right: 0.3em;&quot;&gt;&lt;nobr&gt;&lt;span title=&quot;2004-2014&quot;&gt;&lt;b&gt;04-14&lt;/b&gt;&lt;/span&gt; •&lt;/nobr&gt;&lt;/th&gt;
-    &lt;th&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;System engineer, &lt;a href=&quot;http://www.ibm.com/&quot;&gt;IBM&lt;/a&gt; &lt;a href=&quot;http://www-03.ibm.com/software/products/en/spectrum-protect&quot;&gt;Tivoli Storage Manager&lt;/a&gt; specialist • &lt;a href=&quot;http://www.user.hu/&quot;&gt;USER Tanácsadó Kft.&lt;/a&gt;, &lt;a href=&quot;http://www.userrendszerhaz.hu/&quot;&gt;USER Rendszerház Kft.&lt;/a&gt; (IBM Tivoli Awards, &lt;span title=&quot;2012&quot;&gt;12&lt;/span&gt; • IBM AAA-level Tivoli Deployment Accreditation, &lt;span title=&quot;2013&quot;&gt;13&lt;/span&gt;)&lt;/p&gt;&lt;/th&gt; 
-  &lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;div id=&quot;userID&quot; style=&quot;display:none; margin-left: 3.5em; margin-bottom: 1em;&quot;&gt;
-
-&lt;ul style=&quot;list-style-type:disc&quot;&gt;
-&lt;li&gt;Supporting a dozen large IBM TSM customers in Hungary&lt;/li&gt;
-&lt;li&gt;Participation the biggest IBM TSM related events (IBM C&amp;amp;SI EMEA Technical Academy, 14 (Madrid) • IBM Tivoli Technical Academy, 13 (Reading) • TSM Symposium, 11 (Dresden))&lt;/li&gt;
-&lt;li&gt;Architect / integrate big IBM TSM configurations&lt;/li&gt;
-&lt;li&gt;Troubleshoot / consult performance, backup, restore issues&lt;/li&gt;
-&lt;li&gt;Member of several IBM TSM API based development&lt;/li&gt;
-&lt;li&gt;Health check, operate, maintain big IBM TSM environments&lt;/li&gt;
-&lt;li&gt;Speaker of &lt;a href=&quot;http://cloudday.momart.hu/&quot;&gt;VMware Cloud Day&lt;/a&gt; (Backing up VMware with IBM technology), 13&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;b&gt;Main projects and references:&lt;/b&gt;&lt;br /&gt;
-
-&lt;ul style=&quot;list-style-type:disc&quot;&gt;
-&lt;li&gt;7/24 high availability TSM v5, v6 support for:&lt;/li&gt;
-&lt;ul style=&quot;list-style-type:circle&quot;&gt;
-&lt;li&gt;MKB Bank (&amp;gt;10Y): 4 TSM servers on a HP-UX cluster environment with library manager configuration and other 2 TSM servers (IBM AIX) for document archiving systems&lt;/li&gt;
-&lt;li&gt;Allianz Biztosító (&amp;gt;10Y): TSM on a HA AIX environment with library manager configuration and other 2 TSM servers for document store systems&lt;/li&gt;  
-&lt;li&gt;Generali Biztosító (&amp;gt;10Y): 4 general TSM servers on Microsoft Windows for the region and other 2 TSM servers on IBM AIX for document store systems&lt;/li&gt;
-&lt;li&gt;FHB Bank (&amp;gt;2Y): TSM on a AIX HA environment&lt;/li&gt;
-&lt;li&gt;Budapest Bank (&amp;gt;10Y): 2 TSM servers on a HA AIX environment&lt;/li&gt;
-&lt;li&gt;Chello Central Europe (&amp;gt;8Y): biggest TSM based video media archiving environment implementation and support&lt;/li&gt;
-&lt;li&gt;HVB/UniCredit Bank (&amp;gt;10Y): the first v5 –&amp;gt; v6 migrated AIX TSM systems on an IBM PureFlex system in the region&lt;/li&gt;
-&lt;/ul&gt;
-&lt;li&gt;TSM v5 -&amp;gt; v6 migration (TSM DB &amp;gt; 300GB) (OEP, UniCredit Bank, Generali Biztosító, MKB Bank)&lt;/li&gt;
-&lt;li&gt;v6 TSM based backup solutions for IBM PureFlex based environments and support (iCell, NISZ)&lt;/li&gt;
-&lt;li&gt;TSM v5 -&amp;gt; v6 migration consultation at HSBC Turkey (Istanbul)&lt;/li&gt;
-&lt;li&gt;Dealt with IBM SoftLayer fundamentals (Infrastructure-as-a-Service (IaaS))&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;/div&gt;
-
-&lt;table class=&quot;blockheader&quot;&gt;
-  &lt;tr&gt;
-    &lt;th width=&quot;1%;&quot; valign=&quot;top&quot; style=&quot;padding-right: 0.3em;&quot;&gt;&lt;nobr&gt;&lt;span title=&quot;2001-2003&quot;&gt;&lt;b&gt;01-03&lt;/b&gt;&lt;/span&gt; •&lt;/nobr&gt;&lt;/th&gt;
-    &lt;th&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;Network / &lt;a href=&quot;http://www.ibm.com/&quot;&gt;IBM&lt;/a&gt; &lt;a href=&quot;http://www-03.ibm.com/software/products/en/ibmdomino&quot;&gt;Lotus Notes / Domino&lt;/a&gt; administrator • &lt;a href=&quot;http://www.schneider-electric.hu/&quot;&gt;Schneider Electric Hungária Villamossági Rt.&lt;/a&gt;&lt;/p&gt;&lt;/th&gt; 
-  &lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;div id=&quot;schneiderID&quot; style=&quot;display:none; margin-left: 3.5em; margin-bottom: 1em; margin-top: 0em;&quot;&gt;
-
-&lt;ul style=&quot;list-style-type:disc&quot;&gt;
-&lt;li class=&quot;small&quot;&gt;IBM Lotus Notes administrator (450 users; Austria, Slovak Republic, Slovenia, Croatia, Yugoslavia) and developer&lt;/li&gt;
-&lt;li class=&quot;small&quot;&gt;operating the whole network&lt;/li&gt;
-&lt;li class=&quot;small&quot;&gt;work in S.A.P. R3 environment (COMPAQ/Digital, True64 UNIX)&lt;/li&gt;
-&lt;li class=&quot;small&quot;&gt;organised and successfully started the new logistics center of Schneider Electric Hungária Villamossági Rt. in Harbor Park (Frame Relay connection to the center, phone network, computer network, wireless phone (DECT), wireless network (based on Cisco Aironet 340, 350 series), Novell Netware, ...)&lt;/li&gt;
-&lt;li class=&quot;small&quot;&gt;working with the following systems and equipments: CheckPoint firewall, Netscape iPlanet Web server, Netscape CMS server, Netscape Proxy server, Novell Netware 5.x, Intel Shiva + Radius, Nortel network equipments (switches, routers, hubs), ntp, ...&lt;/li&gt;
-&lt;li class=&quot;small&quot;&gt;prepared: SMS gateway (Linux + perl + Nokia 6210), webcamera (Linux + V4L + bttv)&lt;/li&gt;
-&lt;li class=&quot;small&quot;&gt;started the intranet in Hungary (based on IBM Lotus Notes, WIB)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;/div&gt;
-
-&lt;table class=&quot;blockheader&quot;&gt;
-  &lt;tr&gt;
-    &lt;th width=&quot;1%;&quot; valign=&quot;top&quot; style=&quot;padding-right: 0.3em;&quot;&gt;&lt;nobr&gt;&lt;span title=&quot;1998-2001&quot;&gt;&lt;b&gt;98-01&lt;/b&gt;&lt;/span&gt; •&lt;/nobr&gt;&lt;/th&gt;
-    &lt;th&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;Office Automation Officer • &lt;a href=&quot;http://www.societegenerale.fr/&quot;&gt;Société Générale Hungária Bank Inc.&lt;/a&gt;&lt;/p&gt;&lt;/th&gt; 
-  &lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;div id=&quot;sgID&quot; style=&quot;display:none; margin-left: 3.5em; margin-bottom: 1em; margin-top: 0em;&quot;&gt;
-
-&lt;ul style=&quot;list-style-type:disc&quot;&gt;
-&lt;li class=&quot;small&quot;&gt;we built up the whole information system of this new bank (with two of my colleagues) from the ground&lt;/li&gt;
-&lt;li class=&quot;small&quot;&gt;Lotus Notes administrator and developer&lt;/li&gt;
-&lt;li class=&quot;small&quot;&gt;working with GIRO, SWIFT and the local accounting system&lt;/li&gt;
-&lt;li class=&quot;small&quot;&gt;installing and supporting SogeCash (MultiCash based) remote bank system&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;/div&gt;
-
-&lt;table class=&quot;blockheader&quot;&gt;
-  &lt;tr&gt;
-    &lt;th width=&quot;1%;&quot; valign=&quot;top&quot; style=&quot;padding-right: 0.3em;&quot;&gt;&lt;nobr&gt;&lt;span title=&quot;1997-1998&quot;&gt;&lt;b&gt;97-98&lt;/b&gt;&lt;/span&gt; •&lt;/nobr&gt;&lt;/th&gt;
-    &lt;th&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;EDP assistent • &lt;a href=&quot;http://www.ca-cib.com/&quot;&gt;Crédit Lyonnais Bank Hungary Inc.&lt;/a&gt;&lt;/p&gt;&lt;/th&gt; 
-  &lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;div id=&quot;clID&quot; style=&quot;display:none; margin-left: 3.5em; margin-bottom: 1em; margin-top: 0em;&quot;&gt;
-
-&lt;ul style=&quot;list-style-type:disc&quot;&gt;
-&lt;li class=&quot;smallest&quot;&gt;learning to use and operate the new systems (HP-UX, HP PCs, Microsoft WindowsNT network, SQL, TCP/IP)&lt;/li&gt;
-&lt;li class=&quot;smallest&quot;&gt;worked with GIRO, SWIFT, Lotus Notes and the local accounting system&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;/div&gt;
-
-&lt;h2 id=&quot;mohács-baranya--hungary-1&quot;&gt;&lt;a href=&quot;https://hu.wikipedia.org/wiki/Moh%C3%A1cs&quot;&gt;Mohács&lt;/a&gt;, &lt;a href=&quot;https://hu.wikipedia.org/wiki/Baranya_megye&quot;&gt;Baranya&lt;/a&gt; • &lt;a href=&quot;https://en.wikipedia.org/wiki/Hungary&quot;&gt;HUNGARY&lt;/a&gt;&lt;/h2&gt;
-
-&lt;table class=&quot;blockheader&quot;&gt;
-  &lt;tr&gt;
-    &lt;th width=&quot;1%;&quot; valign=&quot;top&quot; style=&quot;padding-right: 0.3em;&quot;&gt;&lt;nobr&gt;&lt;span title=&quot;1991-1997&quot;&gt;&lt;b&gt;91-97&lt;/b&gt;&lt;/span&gt; •&lt;/nobr&gt;&lt;/th&gt;
-    &lt;th&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;System engineer • &lt;a href=&quot;http://kronospan-mofa.hu/&quot;&gt;Fibreboard Factory (M.O.F.A.) Inc.&lt;/a&gt;&lt;/p&gt;&lt;/th&gt; 
-  &lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;div id=&quot;mofaID&quot; style=&quot;display:none; margin-left: 3.5em; margin-bottom: 1em;&quot;&gt;
-
-&lt;ul style=&quot;list-style-type:disc&quot;&gt;
-&lt;li class=&quot;smallest&quot;&gt;learned to use i8048 and i8051 microcontrollers&lt;/li&gt;
-&lt;li class=&quot;smallest&quot;&gt;December 1991 - August 1992 programmer assistant, computer technology collaborator&lt;/li&gt;
-&lt;li class=&quot;smallest&quot;&gt;learned to use the local network, programmed in C language&lt;/li&gt;
-&lt;li class=&quot;smallest&quot;&gt;March 1994 - March 1997 computer technology organizer&lt;/li&gt;
-&lt;li class=&quot;smallest&quot;&gt;extended the network of the company, connected its existing systems, worked independently, maintained and controlled the whole system&lt;/li&gt;
-&lt;li class=&quot;smallest&quot;&gt;formed new concepts in the information technology system of the company, established the e-mail system and the DIAL-IN accessibility of the network, developed ONLINE systems and established these systems on the existing network&lt;/li&gt;
-&lt;li class=&quot;smallest&quot;&gt;software legalization&lt;/li&gt;
-&lt;li class=&quot;smallest&quot;&gt;established and maintained several Novell NetWare based networks in Mohács city&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;/div&gt;
-
-&lt;h1 id=&quot;education&quot;&gt;EDUCATION&lt;/h1&gt;
-
-&lt;h2 id=&quot;kecskemét-bács-kiskun--hungary&quot;&gt;&lt;a href=&quot;https://hu.wikipedia.org/wiki/Kecskem%C3%A9t&quot;&gt;Kecskemét&lt;/a&gt;, &lt;a href=&quot;https://hu.wikipedia.org/wiki/B%C3%A1cs-Kiskun_megye&quot;&gt;Bács-Kiskun&lt;/a&gt; • &lt;a href=&quot;https://en.wikipedia.org/wiki/Hungary&quot;&gt;HUNGARY&lt;/a&gt;&lt;/h2&gt;
-
-&lt;table class=&quot;blockheader&quot;&gt;
-  &lt;tr&gt;
-    &lt;th width=&quot;1%;&quot; valign=&quot;top&quot; style=&quot;padding-right: 0.3em;&quot;&gt;&lt;nobr&gt;&lt;span title=&quot;1988-1991&quot;&gt;&lt;b&gt;88-91&lt;/b&gt;&lt;/span&gt; •&lt;/nobr&gt;&lt;/th&gt;
-    &lt;th&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;&lt;a href=&quot;http://gamf.kefo.hu/&quot;&gt;Technical College of Machine Industry and Automation (G.A.M.F.)&lt;/a&gt; • specialization: computer technology&lt;/p&gt;&lt;/th&gt; 
-  &lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&quot;mohács-baranya--hungary-2&quot;&gt;&lt;a href=&quot;https://hu.wikipedia.org/wiki/Moh%C3%A1cs&quot;&gt;Mohács&lt;/a&gt;, &lt;a href=&quot;https://hu.wikipedia.org/wiki/Baranya_megye&quot;&gt;Baranya&lt;/a&gt; • &lt;a href=&quot;https://en.wikipedia.org/wiki/Hungary&quot;&gt;HUNGARY&lt;/a&gt;&lt;/h2&gt;
-
-&lt;table class=&quot;blockheader&quot;&gt;
-  &lt;tr&gt;
-    &lt;th width=&quot;1%;&quot; valign=&quot;top&quot; style=&quot;padding-right: 0.3em;&quot;&gt;&lt;nobr&gt;&lt;span title=&quot;1984-1988&quot;&gt;&lt;b&gt;84-88&lt;/b&gt;&lt;/span&gt; •&lt;/nobr&gt;&lt;/th&gt;
-    &lt;th&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;&lt;a href=&quot;http://mohacsikisfaludy.hu/&quot;&gt;Kisfaludy Károly Secondary School&lt;/a&gt; • faculties: mathematics, physics&lt;/p&gt;&lt;/th&gt; 
-  &lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;h1 id=&quot;technical-skills&quot;&gt;TECHNICAL SKILLS&lt;/h1&gt;
-
-&lt;h2 id=&quot;operating-systems&quot;&gt;Operating systems&lt;/h2&gt;
-
-&lt;p&gt;UNIX • Microsoft Windows • Apple macOS (OS X)&lt;/p&gt;
-
-&lt;h2 id=&quot;programming-languages&quot;&gt;Programming languages&lt;/h2&gt;
-
-&lt;p&gt;Objective-C (applications with Core Location framework, 13 and BLE, 17) • C (kernel mode device driver on Linux, TSM API) • 80x86 assembly (direct IPX protocol programming) • ATMEL AVR assembly, C (GSM based home automation, 09) • Epson S1C88 assembly (code breaker game, 04) • CA Clipper • DataFlex • perl (tsmadm.pl, 13) • awk • UNIX shell • Psion OPL (PhotoPal, 01) • Lotus Formula • Lotus Script (incident log system) • JavaScript&lt;/p&gt;
-
-&lt;h2 id=&quot;hardware&quot;&gt;Hardware&lt;/h2&gt;
-
-&lt;p&gt;IBM tape libraries (LTO, 3592 drives); IBM, HPE, Oracle High-End machines and storage systems&lt;/p&gt;
-
-&lt;h2 id=&quot;ibm-tsm--spectrum-protect-related&quot;&gt;IBM TSM / Spectrum Protect related&lt;/h2&gt;
-
-&lt;p&gt;Daily TSM administration and 7/24 support for banks, insurance companies, broadcasting companies and state sector • Co-author of the tsmadmin.com blog • Founder of the &lt;a href=&quot;http://tsmadm.pl.fleischmann.hu&quot;&gt;tsmadm.pl&lt;/a&gt; free IBM TSM administration tool • The person who opens / closes the most tickets (IBM &lt;a href=&quot;https://www-01.ibm.com/support/docview.wss?uid=swg21507643&quot;&gt;PMR&lt;/a&gt;, &lt;a href=&quot;https://www-01.ibm.com/support/docview.wss?uid=swg21507643&quot;&gt;Problem Management Report&lt;/a&gt;) each year in Hungary • Took IBM TSM / Spectrum Protect (implementation, operation, administration, advanced administration) trainings (&amp;gt;30, on behalf of IBM, &lt;a href=&quot;http://iqjb.hu/&quot;&gt;IQSOFT - John Bryce Oktatóközpont Kft.&lt;/a&gt; and &lt;a href=&quot;https://www.training360.com/&quot;&gt;Training 360 Kft.&lt;/a&gt;)&lt;/p&gt;
-
-&lt;h1 id=&quot;professional-certifications&quot;&gt;Professional Certifications&lt;/h1&gt;
-
-&lt;div class=&quot;rightbox&quot; style=&quot;width: 7%;&quot;&gt;&lt;img class=&quot;&quot; src=&quot;images/cv/IBM_Sectrum_Protect_v8.1.png&quot; alt=&quot;IBM Sectrum Protect v8.1 Deployment Professional&quot; title=&quot;IBM Sectrum Protect v8.1 Deployment Professional&quot; /&gt;
-&lt;/div&gt;
-&lt;div class=&quot;rightbox&quot; style=&quot;width: 7%;&quot;&gt;&lt;img class=&quot;&quot; src=&quot;images/cv/Veeam_Availability_Suite_VMTSP_v9.5.png&quot; alt=&quot;Veeam Availability Suite VMTSP v9.5&quot; title=&quot;Veeam Availability Suite VMTSP v9.5&quot; /&gt;
-&lt;/div&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Veeam Technical Sales Professional (VMTSP) - Veeam Availability Suite v9.5 • 09/28/2017&lt;/li&gt;
-  &lt;li&gt;IBM Certified Deployment Professional - Spectrum Protect V8.1 • 07/28/2017&lt;/li&gt;
-  &lt;li&gt;IBM Certified Deployment Professional - Tivoli Storage Manager V7.1 • 05/18/2015&lt;/li&gt;
-  &lt;li&gt;IBM Certified Deployment Professional - Tivoli Storage Productivity Center v5.1 •06/04/2013&lt;/li&gt;
-  &lt;li&gt;IBM Certified Deployment Professional - Tivoli Storage Manager v6.3 • 02/01/2013&lt;/li&gt;
-  &lt;li&gt;IBM Certified Solution Advisor - Tivoli Storage Solutions v3 • 03/22/2012&lt;/li&gt;
-  &lt;li&gt;IBM Certified Solution Advisor - Tivoli Storage Solutions v2 • 03/30/2011&lt;/li&gt;
-  &lt;li&gt;IBM Certified Deployment Professional - Tivoli Storage Manager v6.1 • 12/01/2009&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;hobby-projects-worth-to-mention&quot;&gt;HOBBY PROJECTS WORTH TO MENTION&lt;/h1&gt;
-
-&lt;div class=&quot;rightbox&quot; style=&quot;width: 12%;&quot;&gt;
-&lt;a href=&quot;http://old.fleischmann.hu/geocities.com/&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/geominihp20040407.jpg&quot; alt=&quot;geocities.com from 2004.&quot; title=&quot;geocities.com from 2004.&quot; /&gt;&lt;/a&gt;
-&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://old.fleischmann.hu/geocities.com/&quot;&gt;geocities.com&lt;/a&gt; from 2004.&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;rightbox&quot; style=&quot;width: 15%;&quot;&gt;
-&lt;a href=&quot;http://old.fleischmann.hu/photo/contents/index.htm&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/FLEISCHMANN.HU_Tartalom-Contents_(20100518).png&quot; alt=&quot;fleischmann.hu from 2010.&quot; title=&quot;fleischmann.hu from 2010.&quot; /&gt;&lt;/a&gt;
-&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://old.fleischmann.hu/photo/contents/index.htm&quot;&gt;fleischmann.hu&lt;/a&gt; from 2010.&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;rightbox&quot; style=&quot;width: 15%;&quot;&gt;
-&lt;a href=&quot;http://tsmadm.pl.fleischmann.hu&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/tsmadm.pl.jpg&quot; alt=&quot;tsmadm.pl&quot; title=&quot;tsmadm.pl&quot; /&gt;&lt;/a&gt;
-&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://tsmadm.pl.fleischmann.hu&quot;&gt;tsmadm.pl&lt;/a&gt;&lt;/p&gt;
-&lt;br /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;images/html/SpeedLimit.png&quot; alt=&quot;SpeedLimit&quot; title=&quot;SpeedLimit&quot; align=&quot;right&quot; /&gt;
-&lt;p class=&quot;phototext&quot;&gt;SpeedLimit on iOS&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;span title=&quot;2018&quot;&gt;&lt;b&gt;18&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;spadmin.pl (perl)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span title=&quot;2017&quot;&gt;&lt;b&gt;17&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.fleischmann.hu/&quot;&gt;Family pages (GitHub, jekyll, HTML5, CSS3)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/FleXoft/HuTUG&quot;&gt;Hu-TUG storage newsletters 1-5&lt;/a&gt; (Google Docs)&lt;/li&gt;
-  &lt;li&gt;Simple Heart Rate monitoring macOS application based on Polar H7 BLE device with Xcode and Swift &lt;a href=&quot;https://github.com/FleXoft/Polar-H7-HRM&quot;&gt;project on GitHub&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span title=&quot;2015&quot;&gt;&lt;b&gt;15&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;recorded for a year what I did and what I looked like&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div style=&quot;width: 49.33%; margin-left: 1.3em;&quot;&gt;&lt;div class=&quot;videocontainer&quot; style=&quot;padding-bottom: 31%;&quot;&gt;&lt;iframe class=&quot;iframeshadow&quot; src=&quot;https://player.vimeo.com/video/249302002&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;span title=&quot;2013&quot;&gt;&lt;b&gt;13&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://tsmadm.pl.fleischmann.hu/&quot;&gt;tsmadm.pl&lt;/a&gt; (perl) &lt;a href=&quot;https://github.com/FleXoft/tsmadm.pl&quot;&gt;project on GitHub&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;SpeedLimit for iOS (Objective-C)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span title=&quot;-2010&quot;&gt;&lt;b&gt;-10&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Active photoblogger (+ photoblog site generator perl script)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;rightbox&quot; style=&quot;width: 17%;&quot;&gt;
-&lt;a href=&quot;https://www.flickr.com/photos/fleischmann/sets/72157622129419487/&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/flickr_thumb.png&quot; alt=&quot;BKV Photostream&quot; title=&quot;BKV Photostream&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;https://www.flickr.com/photos/fleischmann/sets/72157622129419487/&quot;&gt;BKV Photostream&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;span title=&quot;2009&quot;&gt;&lt;b&gt;09&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;div class=&quot;rightbox&quot; style=&quot;width: 13%;&quot;&gt;
-&lt;a href=&quot;https://www.olimex.com/Products/AVR/Development/AVR-GSM/&quot;&gt;&lt;img class=&quot;&quot; src=&quot;https://www.olimex.com/Products/AVR/Development/AVR-GSM/images/thumbs/310x230/AVR-GSM-01.jpg&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;https://www.olimex.com/Products/AVR/Development/AVR-GSM/&quot;&gt;AVR-GSM&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.olimex.com/Products/AVR/Development/AVR-GSM/&quot;&gt;AVR-GSM&lt;/a&gt; based Home Automation Project (AVR C, I²C, LM75, HD44780, SIM300D)&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.flickr.com/photos/fleischmann/sets/72157622129419487/&quot;&gt;BKV Photostream&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;social-part&quot;&gt;SOCIAL PART&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/FleXoft&quot;&gt;&lt;i class=&quot;icon-twitter&quot; style=&quot;margin-right: -1px;&quot;&gt;&lt;/i&gt;twitter&lt;/a&gt;
- •&lt;a href=&quot;https://www.facebook.com/fleischmann.gy&quot;&gt;&lt;i class=&quot;icon-facebook&quot; style=&quot;margin-left: -5px; margin-right: -6px;&quot;&gt;&lt;/i&gt;facebook&lt;/a&gt; •&lt;a href=&quot;http://fleischmann.tumblr.com/&quot;&gt;&lt;i class=&quot;icon-tumblr&quot; style=&quot;margin-left: -4px; margin-right: -4px;&quot;&gt;&lt;/i&gt;tumblr&lt;/a&gt; •&lt;a href=&quot;https://www.flickr.com/photos/fleischmann/sets/72157622129419487/&quot;&gt;&lt;i class=&quot;icon-flickr&quot; style=&quot;margin-right: 0px;&quot;&gt;&lt;/i&gt;flickr&lt;/a&gt; •&lt;a href=&quot;https://plus.google.com/111227740573593478868&quot;&gt;&lt;i class=&quot;icon-gplus&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Google+&lt;/a&gt; •&lt;a href=&quot;skype://Flexoft/&quot;&gt;&lt;i class=&quot;icon-skype&quot; style=&quot;margin-right: -1px;&quot;&gt;&lt;/i&gt;Skype&lt;/a&gt; • &lt;a href=&quot;https://www.linkedin.com/in/fleischmanngyorgy/&quot;&gt;linked&lt;i class=&quot;icon-linkedin-squared&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;others&quot;&gt;OTHERS&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;working knowledge of everyday English&lt;/li&gt;
-  &lt;li&gt;good knowledge of technical English&lt;/li&gt;
-  &lt;li&gt;experienced driver (“B” category driving licence)&lt;/li&gt;
-  &lt;li&gt;compulsory military service completed&lt;/li&gt;
-  &lt;li&gt;free time activities: football, cinema, reading, music, photography&lt;/li&gt;
-  &lt;li&gt;I do not smoke&lt;/li&gt;
-  &lt;li&gt;last update: 01/10/2018&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;others-ii&quot;&gt;OTHERS II.&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;gender: male&lt;/li&gt;
-  &lt;li&gt;length, weight: average&lt;/li&gt;
-  &lt;li&gt;Blood type: O Rh negative&lt;/li&gt;
-  &lt;li&gt;sexual orientation: straight&lt;/li&gt;
-  &lt;li&gt;religion: none (but if I really need to choose: &lt;a href=&quot;https://en.wikipedia.org/wiki/Buddhism&quot;&gt;Buddhism&lt;/a&gt; or &lt;a href=&quot;https://en.wikipedia.org/wiki/International_Society_for_Krishna_Consciousness&quot;&gt;Krishna Consciousness&lt;/a&gt; are the closest), I believe in science&lt;/li&gt;
-  &lt;li&gt;political views: undecided&lt;/li&gt;
-  &lt;li&gt;intelligence: normal&lt;/li&gt;
-  &lt;li&gt;civil status: married, 3 kids (&lt;a href=&quot;http://anna.fleischmann.hu/&quot;&gt;Anna&lt;/a&gt; • &lt;a href=&quot;http://gergo.fleischmann.hu/&quot;&gt;Gergő&lt;/a&gt; • &lt;a href=&quot;http://andras.fleischmann.hu/&quot;&gt;András&lt;/a&gt;) and a &lt;a href=&quot;http://tofi.fleischmann.hu/&quot;&gt;dog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;economy: good&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;!-- my Javascript Helpers --&gt;
-
-&lt;script type=&quot;text/javascript&quot;&gt;
-    
-    // main()
-    
-	today = new Date();
-    diff  = new Date();
-	
-  	function dateDiff2 ( fromDate, toDate ) {
-    
-    	var returnString = &quot;&quot;;
-    	var tmpdiff;
-    
-		var one_day = 1000 * 60 * 60 * 24;
-
-    	diff.setTime( new Date( fromDate.getFullYear(), fromDate.getMonth(), fromDate.getDate(), fromDate.getHours(), fromDate.getMinutes() ) - toDate );
-
-    	tmpdiff = diff.getFullYear() - 1970; 	
-		if ( tmpdiff != 0 ) {
-			returnString += tmpdiff + &quot; &quot; + ( ( tmpdiff != 1 ) ? &quot;years&quot; : &quot;year&quot; );
-		}
-   	  
-		if ( tmpdiff != 0 &amp;&amp; ( diff.getMonth() != 0 || ( diff.getDate() - 1 ) != 0 ) ) returnString += &quot;, &quot;; 
-
-   	    tmpdiff = diff.getMonth();
-   	 	if ( tmpdiff != 0 ) {
-   			returnString += tmpdiff + &quot; &quot; + ( ( tmpdiff != 1 ) ? &quot;months&quot; : &quot;month&quot; );
-   		}
-   		if ( tmpdiff != 0 &amp;&amp; ( ( diff.getDate() - 1 ) != 0 ) ) returnString += &quot; and &quot;;
-   	
-   	    tmpdiff = diff.getDate() - 1;
-   	  	if ( tmpdiff != 0 ) {
-   	 		returnString += tmpdiff + &quot; &quot; + ( ( tmpdiff != 1 ) ? &quot;days&quot; : &quot;day&quot; );
-   	  	}
-  
-		return returnString; 
-  
-  	}
- 
-    function myTimer () {
-     	document.getElementById ( 'motherBirthDiff' ).innerHTML = dateDiff ( new Date( 2014, 03 - 1, 08, 12, 00 ), new Date( 1937, 09 - 1, 07, 12, 00 ) );
-     	document.getElementById ( 'fatherBirthDiff' ).innerHTML = dateDiff ( today, new Date( 1945, 11 - 1, 16, 12, 00 ) );
-    	document.getElementById ( 'vigyorBirthDiff' ).innerHTML = dateDiff ( today, new Date( 1957, 01 - 1, 23, 12, 00 ) );
-    	document.getElementById ( 'flexBirthDiff'   ).innerHTML = dateDiff ( today, new Date( 1970, 05 - 1, 05, 23, 00 ) );
-    	document.getElementById ( 'wifeBirthDiff'   ).innerHTML = dateDiff ( today, new Date( 1974, 11 - 1, 24, 22, 00 ) );
-    	document.getElementById ( 'annaBirthDiff'   ).innerHTML = dateDiff ( today, new Date( 2001, 11 - 1, 05, 13, 20 ) );
-    	document.getElementById ( 'gergoBirthDiff'  ).innerHTML = dateDiff ( today, new Date( 2005, 11 - 1, 11, 10, 45 ) );
-    	document.getElementById ( 'andrasBirthDiff' ).innerHTML = dateDiff ( today, new Date( 2017, 09 - 1, 30, 22, 20 ) );
-
-    	document.getElementById ( 'workTSM' ).innerHTML = &quot;(&quot; + dateDiff ( today, new Date( 2004, 05 - 1, 1, 09, 00 ) ) + &quot;)&quot;;
-    }
-    setInterval ( myTimer, 1000 );
-    
-    function showhide ( id ) {
-    
-    	var len = arguments.length;
-        if ( len == 0 ) return;
-       
-        for( var i = 0; i &lt; len; i++ ) {
-  
-    		var e = document.getElementById( arguments[i] );
-        	e.style.display = ( e.style.display == 'block' ) ? 'none' : 'block';
-        
-     	}
-     }
-     	
-     function enabledisableMouse ( id ) {
-       
-     	var len = arguments.length;
-        if ( len == 0 ) return;
-          
-        for( var i = 0; i &lt; len; i++ ) {
-     
-       		var e = document.getElementById( arguments[i] );
-           	e.style.pointerEvents = ( e.style.pointerEvents == 'none' ) ? 'auto' : 'none';
-           
-        }	
-     	
-     }
-
-	/*
-	 * Function to calculate the absolute difference in days, months and years between 2 days taking into account variable month lengths and leap years
-	 * It ignores any time component (ie hours, minutes and seconds)
-	 *
-	 * https://gist.github.com/clecuona/2945438
-	 */
-	function dateDiff(dt1, dt2)
-	{
-	    /*
-	     * setup 'empty' return object
-	     */
-	    var ret = {days:0, months:0, years:0};
-
-	    /*
-	     * If the dates are equal, return the 'empty' object
-	     */
-	    if (dt1 == dt2) return ret;
-
-	    /*
-	     * ensure dt2 &gt; dt1
-	     */
-	    if (dt1 &gt; dt2)
-	    {
-	        var dtmp = dt2;
-	        dt2 = dt1;
-	        dt1 = dtmp;
-	    }
-
-	    /*
-	     * First get the number of full years
-	     */
-
-	    var year1 = dt1.getFullYear();
-	    var year2 = dt2.getFullYear();
-
-	    var month1 = dt1.getMonth();
-	    var month2 = dt2.getMonth();
-
-	    var day1 = dt1.getDate();
-	    var day2 = dt2.getDate();
-
-	    /*
-	     * Set initial values bearing in mind the months or days may be negative
-	     */
-
-	    ret['years'] = year2 - year1;
-	    ret['months'] = month2 - month1;
-	    ret['days'] = day2 - day1;
-
-	    /*
-	     * Now we deal with the negatives
-	     */
-
-	    /*
-	     * First if the day difference is negative
-	     * eg dt2 = 13 oct, dt1 = 25 sept
-	     */
-	    if (ret['days'] &lt; 0)
-	    {
-	        /*
-	         * Use temporary dates to get the number of days remaining in the month
-	         */
-	        var dtmp1 = new Date(dt1.getFullYear(), dt1.getMonth() + 1, 1, 0, 0, -1);
-
-	        var numDays = dtmp1.getDate();
-
-	        ret['months'] -= 1;
-	        ret['days'] += numDays;
-
-	    }
-
-	    /*
-	     * Now if the month difference is negative
-	     */
-	    if (ret['months'] &lt; 0)
-	    {
-	        ret['months'] += 12;
-	        ret['years'] -= 1;
-	    }
-
-	    // Add string conversion
-	    var returnString = &quot;&quot;;
-
-		if ( ret['years'] != 0 ) {
-	    	returnString += ret['years'] + &quot; &quot; + ( ( ret['years'] != 1 ) ? &quot;years&quot; : &quot;year&quot; );
-		}
-		
-		if ( ret['years'] != 0 &amp;&amp; ret['months'] != 0 ) returnString += &quot;, &quot;;
-
-	 	if ( ret['months'] != 0 ) {
-			returnString += ret['months'] + &quot; &quot; + ( ( ret['months'] != 1 ) ? &quot;months&quot; : &quot;month&quot; );
-	 	}
-	 	
-		if ( (ret['years'] != 0 || ret['months'] != 0 ) &amp;&amp; ret['days'] != 0 ) returnString += &quot; and &quot;;
-
-	  	if ( ret['days'] != 0 ) {
-	 	  	returnString += ret['days'] + &quot; &quot; +( ( ret['days'] != 1 ) ? &quot;days&quot; : &quot;day&quot; );
-	  	}
-
-	    return returnString;
-	}
-
-&lt;/script&gt;
-
-&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/three.js/86/three.min.js&quot;&gt;&lt;/script&gt;
-
-&lt;script type=&quot;text/javascript&quot;&gt;
-  
- /* https://codepen.io/thebabydino/pen/dvFcz */
-
-  var scene = new THREE.Scene(), 
-    w = window.innerWidth, h = window.innerHeight/2, 
-    camera = new THREE.PerspectiveCamera(
-      50   /* field of view, the lower, the closer it appears */, 
-      w/h  /* aspect ratio of view */, 
-      .1   /* near clipping plane */, 
-      100 /* far clipping plane */), 
-    renderer = new THREE.WebGLRenderer() /* renderer draws on screen what the camera sees */, 
-    
-    /* threejs.org/docs/#Reference/Extras.Geometries/BoxGeometry */
-    geometry = new THREE.BoxGeometry(2, 2, 2), 
-    
-    /* threejs.org/docs/#Reference/Materials/MeshBasicMaterial */
-    material = new THREE.MeshBasicMaterial({ color: 0x000000, wireframe: true }), 
-    cube = new THREE.Mesh(geometry, material);
-
-    var geo = new THREE.EdgesGeometry( geometry ); // or WireframeGeometry( geometry )
-    var mat = new THREE.LineBasicMaterial( { color: 0x000000, linewidth: 1 } );
-    cube = new THREE.LineSegments( geo, mat );
-
-    renderer.setClearColor( 0xffffff );
-
-var animate = function() {
-  
-  renderer.render(scene, camera); /* this is enough to render cube if not animated */
-  
-  /* keep increasing rotation around the y-axis */
-  cube.rotation.y += .02; /* the higher the value, the faster it rotates */
-  cube.rotation.x += .01;
-  //cube.rotation.z += .02;
-
-  requestAnimationFrame(animate);
-};
-
-renderer.setSize(w, h);
-document.body.appendChild(renderer.domElement); /* add our renderer to the body element */
-
-scene.add(cube); /* cube added at coordinates (0, 0, 0) */
-
-/* move the cube from inside the camera, the higher the value, the further away it goes */
-camera.position.z = 5;
-
-animate();
-
-&lt;/script&gt;
-
-</content>
-  </entry>
-  
-  <entry>
-    <title>📷 Üllői út v1.0β</title>
-    <link href="http://0.0.0.0:4000/ulloi.html"/>
-    <updated>2017-11-04T00:00:00+01:00</updated>
-    <id>http://0.0.0.0:4000/ulloi</id>
-    <content type="html">&lt;p&gt;Na akkor fussunk is neki ennek a történetnek!&lt;/p&gt;
-
-&lt;p&gt;Nagyon hálás témának tartom magát az egész Üllői utat fotózgatni nap, mint nap, mert sok más magyarországi témával együtt, ez is igazán egyedi szociolenyomata ennek az országnak.&lt;/p&gt;
-
-&lt;p&gt;Idén, &lt;a href=&quot;http://anna.fleischmann.hu/&quot;&gt;Anna&lt;/a&gt; szülinapján, végül hosszú várakozás után azt gondoltam, hogy együtt, egy közös szülinapi ebédre bevillamosozva a város felé, végre megnézzük közelebbről is ezt a témát. Végül az út során, teszt jelleggel ezek a képek készültek, sajnos csak mobiltelefonnal… ☹️ A várt hatás még sajnos nincs meg, de egy tesztnek mindenképpen jó volt.&lt;/p&gt;
-
-&lt;p&gt;Extra dolog még, hogy akkor itt tudom majd tesztelni az oldalhoz megálmodott fotómegjelenítő megoldást is valamikor…&lt;/p&gt;
-
-&lt;!-- break --&gt;
-
-&lt;div class=&quot;row&quot; style=&quot;&quot;&gt; 
-  &lt;div class=&quot;column&quot;&gt;
-&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo(0);&quot;&gt;&lt;img class=&quot;shadow zoomeffect&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8464.JPG&quot; alt=&quot;Test&quot; title=&quot;Title&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo(1);&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8466.JPG&quot; /&gt;&lt;/a&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8474.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8476.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8479.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8480.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8482.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8485.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8491.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8492.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8495.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8497.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8498.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8501.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8502.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8505.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8507.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8508.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8513.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8514.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8517.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8518.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8520.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8523.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8524.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8527.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8529.JPG&quot; /&gt;
- &lt;/div&gt;
-  &lt;div class=&quot;column&quot;&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8535.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8536.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8539.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8541.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8542.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8544.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8547.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8549.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8551.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8553.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8554.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8557.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8558.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8569.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8570.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8573.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8575.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8576.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8579.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8581.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8582.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8584.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8586.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8589.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8591.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8595.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8596.JPG&quot; /&gt;
- &lt;/div&gt;
-  &lt;div class=&quot;column&quot;&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8598.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8601.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8603.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8604.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8606.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8609.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8610.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8613.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8615.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8616.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8621.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8622.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8624.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8627.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8628.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8631.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8632.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8634.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8637.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8639.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8641.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8642.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8644.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8646.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8649.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8651.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8652.JPG&quot; /&gt;
- &lt;/div&gt;
-  &lt;div class=&quot;column&quot;&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8655.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8656.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8661.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8662.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8665.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8667.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8668.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8670.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8673.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8675.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8677.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8679.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8681.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8683.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8687.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8688.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8691.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8693.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8694.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8696.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8698.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8701.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8702.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8705.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8706.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8708.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8711.JPG&quot; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;script type=&quot;text/javascript&quot;&gt;
-
-  var gallery;
-
-  var openPhotoSwipe = function() {
-    var pswpElement = document.querySelectorAll('.pswp')[0];
-
-    // build items array
-    var items = [
-        {
-            src: 'photos/2017-11-05-Ulloi/IMG_8464.JPG',
-            w: 2448,
-            h: 2448,
-            title: 'Image Caption',
-            author: 'John Doe'
-        },
-        {
-            src: 'photos/2017-11-05-Ulloi/IMG_8466.JPG',
-            w: 2448,
-            h: 2448
-        }
-    ];
-    
-    // define options (if needed)
-    var options = {
-             // history &amp; focus options are disabled on CodePen        
-        history: false,
-        focus: false,
-
-        showAnimationDuration: 0,
-        hideAnimationDuration: 0
-        
-    };
-    
-    gallery = new PhotoSwipe( pswpElement, PhotoSwipeUI_Default, items, options);
-    gallery.init();
-    
-  };
-
-  //openPhotoSwipe();
-  //document.getElementById('btn').onclick = openPhotoSwipe;
-
-&lt;/script&gt;
-
-</content>
-  </entry>
-  
-  <entry>
-    <title>🎒 What's in your bag? / Mi van a táskádban?</title>
-    <link href="http://0.0.0.0:4000/whats_in_my_bag.html"/>
-    <updated>2017-11-01T00:00:00+01:00</updated>
-    <id>http://0.0.0.0:4000/whats_in_my_bag</id>
-    <content type="html">&lt;p&gt;Nagyon klassz dolognak tartom a &lt;a href=&quot;https://www.theverge.com/&quot;&gt;&lt;img class=&quot;inline&quot; src=&quot;https://lh3.googleusercontent.com/YQ8RkZYveeS6uZyRbnylKwNyiQzpUk_iszrOn_cxcoY1SfR6aj7oHu484DhzSaUsfjnbW-ts=w300&quot; alt=&quot;The Verge Logo&quot; style=&quot;width: 23px;&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;https://www.theverge.com/&quot;&gt;The Verge&lt;/a&gt; &lt;sup id=&quot;fnref:theverge_whatisin&quot;&gt;&lt;a href=&quot;#fn:theverge_whatisin&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; időről időre megjelenő cikkét arról, hogy egyes munkatársai mit hordanak nap, mint nap magukkal a táskájukban. Mindekinek érdemes lenne néha, néha átnéznie, hogy mennyi felesleges dolgot cipelünk magunkkal minden egyes nap!&lt;/p&gt;
-
-&lt;p&gt;Itt megy az enyém:&lt;/p&gt;
-
-&lt;!-- break --&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:theverge_whatisin&quot;&gt;
-      &lt;p&gt;A The Verge cikkei a témában itt találhatóak: &lt;a href=&quot;https://www.theverge.com/2012/5/18/3028566/whats-in-your-bag&quot;&gt;link&lt;/a&gt; &lt;a href=&quot;#fnref:theverge_whatisin&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
 </content>
   </entry>
   

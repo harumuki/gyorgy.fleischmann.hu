@@ -1,14 +1,9 @@
-# MUZAX
+---
+layout:   post
+title:    👫 Friends / barátok [2018]
+author:   flex
+comments: true
+category: Friends / barátok
+tags:     [listák, awesome]
+---
 
-I listen a lot of muxaz on my devices. Here is a list of the ones that I love and would listen the most of my day to day life, sorted by their importance: 
-
-1.  
-
-The rest:
-
-- Nina Hagen - African Regae
-- The Knife - You Make Me Like Charity
-
-End
-
- 

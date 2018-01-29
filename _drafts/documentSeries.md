@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    Document series / Dukumentumfilm sorozatok [2018]
+title:    🌍 Document series / Dokumentumfilm sorozatok [2018]
 author:   flex
 comments: true
 category: Document series / Dukumentumfilm sorozatok

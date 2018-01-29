@@ -7,17 +7,40 @@ category: movies / filmek
 tags:     [listák, awesome]
 ---
 
-<div class="leftbox" style="width: 15%;"><a href=""><img class="shadow" src="" alt="" title=""></a></div>
+{% include movie_cover.html 
+	href="https://port.hu/adatlap/film/mozi/thelma-thelma/movie-196009#video-983530" 
+	src="http://t2.gstatic.com/images?q=tbn:ANd9GcSaKPgvVW33At9xYgW3PXplfAiwQxGnPkqeHhCaG6B5TCUDlB72" 
+	title="Thelma" %}
 
-**~~ ~~**
-
-"" 
+"Thelma, egy vallásos háttérrel rendelkező norvég diáklány Oslóba költözik, ahol beleszeret egy másik lányba. S miközben szégyenérzettel terhelt szexuális ébredését éli meg, Thelma felfedezi, hogy természetfeletti képességgel és erővel rendelkezik." 
 
 <hr style="clear: both;">
 
-<div class="leftbox" style="width: 15%;"><a href="https://port.hu/adatlap/film/mozi/szarnyas-fejvadasz-2049-blade-runner-2049/movie-176846#video-963594"><img class="shadow" src="https://media.port.hu/images/000/972/350x510/545.jpg" alt="Szárnyas fejvadász 2049 /Blade Runner 2049/" title="Szárnyas fejvadász 2049 /Blade Runner 2049/"></a></div>
+{% include movie_cover.html 
+	href="https://port.hu/adatlap/film/mozi/lady-bird-lady-bird/movie-191843#video-969510" 
+	src="http://t2.gstatic.com/images?q=tbn:ANd9GcT0Yf7_FepQU9VEbNsZ7824_2nvdFKOlogCo-yvJhSjuRA22aYg" 
+	title="Lady Bird" %}
 
-**Szárnyas fejvadász 2049 /Blade Runner 2049/**
+"Greta Gerwig első önálló rendezése merész, új hangot üt meg, bravúrosan tárja fel a humort és a pátoszt, amit egy anya és tinédzser lánya közti viharos viszony rejt.
+Christine "Lady Bird" McPherson (Saoirse Ronan) teljesen olyan, mint a szeretettől túláradó, megrögzötten makacs és határozott anyja, Marion (Laurie Metcalf), akivel örökös harcban áll. Marion nővér, és fáradhatatlanul dolgozik, hogy ellássa családját, miután Lady Bird apja elveszíti az állását. A kaliforniai Sacramentóban vagyunk 2002-ben, az amerikai gazdaság szeszélyesen változásai közepette játszódó történet érzékeny tükröt tart a kapcsolatoknak, melyek formálnak minket, a hiteknek, melyek meghatároznak minket, és a páratlan szépségű helynek, amelyet otthonnak nevezünk. " 
+
+<hr style="clear: both;">
+
+{% include movie_cover.html 
+	href="https://port.hu/adatlap/film/mozi/szolits-a-neveden-call-me-by-your-name/movie-197412"
+	src="http://t1.gstatic.com/images?q=tbn:ANd9GcRDtqzFejuwWDwGc41npRohO8lsVRfwzGXkjpinHQ3ZRuEvZWKH" 
+	title="Szólíts a neveden /Call Me by Your Name/" %}
+
+"Egy nyár Észak-Olaszországban. Elio (Timothée Chalamet), a 17 éves amerikai srác számára maga a paradicsom. A szüleivel együtt minden évben ugyanabban az ódon villában meg kertben tölti a vakációt, és ugyanazok a régi barátok veszik körül. Buliznak, strandolnak, zenét hallgatnak, beszélgetnek, és persze szerelemesek?
+Elio apja művészettörténész, aki minden évben befogadja néhány hétre egy tanítványát. Ezúttal a doktori disszertációján dolgozó Oliver (Armie Hammer) érkezik, aki megzavarja a boldog harmóniát. Nem illik ide. Túl laza, túl szép, nem tudni mit akar.
+Ez a nyár más, mint a korábbiak. Boldog és furcsa, szerelemmel és bánattal teli. És mire véget ér, már semmi nem lehet ugyanolyan, mint addig volt. " 
+
+<hr style="clear: both;">
+
+{% include movie_cover.html 
+	href="https://port.hu/adatlap/film/mozi/szarnyas-fejvadasz-2049-blade-runner-2049/movie-176846#video-963594" 
+	src="https://upload.wikimedia.org/wikipedia/en/9/9b/Blade_Runner_2049_poster.png" 
+	title="Szárnyas fejvadász 2049 /Blade Runner 2049/" %}
 
 "Bár az alkotók az új történetet hét lakat alatt tartják, azt már tudjuk, hogy minden idők talán legnagyobb legendájú sci-fi/akciófilmje jó kezekben van: a producer az első rész rendezője, Ridley Scott, a rendező pedig az utóbbi évek legnagyobb meglepetéseit készítő kanadai Denis Villeneuve. Már maga a sztárszereposztás is fantasztikus filmmé teszi az új Szárnyas fejvadászt: minden esély megvan rá, hogy a Budapesten forgatott új rész felnő az elsőhöz, és maga is legendává válik." 
 
@@ -25,20 +48,20 @@ tags:     [listák, awesome]
 
 <hr style="clear: both;">
 
-<div class="leftbox" style="width: 15%;"><a href="https://port.hu/adatlap/film/tv/a-kigyo-olelese-el-abrazo-de-la-serpiente/movie-168036?section=mozi&title=a-kigyo-olelese-el-abrazo-de-la-serpiente&id=movie-168036#video-916198"><img class="shadow" src="
-https://media.port.hu/images/000/803/350x510/976.jpg" alt="A kígyó ölelése /El abrazo de la serpiente/" title="A kígyó ölelése /El abrazo de la serpiente/"></a></div>
-
-**A kígyó ölelése /El abrazo de la serpiente/**
+{% include movie_cover.html 
+	href="https://port.hu/adatlap/film/tv/a-kigyo-olelese-el-abrazo-de-la-serpiente/movie-168036?section=mozi&title=a-kigyo-olelese-el-abrazo-de-la-serpiente&id=movie-168036#video-916198" 
+	src="https://pics.filmaffinity.com/el_abrazo_de_la_serpiente-385873306-large.jpg" 
+	title="A kígyó ölelése /El abrazo de la serpiente/" %}
 
 "Karamakate, a nagyhatalmú amazóniai sámán, törzsének utolsó képviselője a világtól elvonultan, a dzsungel mélyén él. A magány évtizedei chullachaqui-vá változtatták, olyan emberré, aki emlékek és érzelmek nélküli üres kéregként létezik. Életét azonban felrázza egy amerikai etnobotanikus érkezése, aki a Yakrunát, a szent varázsnövényt keresi, amely megtanít álmodni. Együtt indulnak Amazónia szívébe, és utazásuk során a múlt, a jelen és a jövő egybeolvad, Karamakate pedig lassan visszanyeri elveszett emlékeit.
 A történet a sámán és a két megszállott fehér ember road movie-ján túl a kolumbiai rendező kezében az őstermészet és a globalizáció örökös küzdelméről szóló gigantikus parabolává nemesül. A film egy őslakos szemével láttatja a gyarmatosítás groteszkségét, a hittérítés bornírtságát, és egy valódi ayahuasca-szeánsz után nekünk szegezi a kérdést: vajon elég bölcsek vagyunk ahhoz, hogy örökségünket ne játsszuk ki mohó anyagi érdekeknek?" 
 
 <hr style="clear: both;">
 
-<div class="leftbox" style="width: 15%;"><a href="https://port.hu/adatlap/film/tv/mustang-mustang/movie-169772#video-921046"><img class="shadow" src="
-https://media.port.hu/images/000/833/350x510/558.jpg" alt="Mustang" title="Mustang"></a></div>
-
-**Mustang**
+{% include movie_cover.html 
+	href="https://port.hu/adatlap/film/tv/mustang-mustang/movie-169772#video-921046" 
+	src="http://t1.gstatic.com/images?q=tbn:ANd9GcTXW5ECjwVJt3CsEm1aphgMqCGtBGUBoX50a8-WkV43Vg_V_MlI" 
+	title="Mustang" %}
 
 "Öt lánytestvér egy török faluban él nagybátyjukkal és nagyanyjukkal. A kamaszlányok felhőtlen boldogságban vágnak neki a nyári szünetnek, de a bigott török közeg a legkisebb kilengést sem tűri: az egyik szomszédasszony jelenti a lányok erkölcseire vigyázó nagymamának, hogy azok együtt fürödtek a tengerben a falubeli fiúkkal. A nyári vakáció a lányok számára nem azt a szabadságot hozza, amire számítottak, éppen ellenkezőleg, nevelőik egyre drasztikusabb módszerekkel próbálják betörni őket és megakadályozni, hogy az ezeréves tradíciók ellenében viselkedjenek. Az öt lány öt különböző választ ad az elnyomásra." 
 
@@ -48,7 +71,6 @@ https://media.port.hu/images/000/833/350x510/558.jpg" alt="Mustang" title="Musta
 
 Magyar
 Isteni műszak
-
 
 45 év / 45 Years (2015)
 Jelenetek egy házasságból

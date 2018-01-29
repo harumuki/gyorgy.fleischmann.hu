@@ -1,1 +1,266 @@
+<!doctype html public "-//W3C//DTD HTML 5.0//EN" "http://www.w3.org/TR/html5/strict.dtd">
 
+<!-- 
+
+#                                       __ _      _          _                                   _
+#                                      / _| |    (_)        | |                                 | |
+#   __ _ _   _  ___  _ __ __ _ _   _  | |_| | ___ _ ___  ___| |__  _ __ ___   __ _ _ __  _ __   | |__  _   _
+#  / _` | | | |/ _ \| '__/ _` | | | | |  _| |/ _ \ / __|/ __| '_ \| '_ ` _ \ / _` | '_ \| '_ \  | '_ \| | | |
+# | (_| | |_| | (_) | | | (_| | |_| |_| | | |  __/ \__ \ (__| | | | | | | | | (_| | | | | | | |_| | | | |_| |
+#  \__, |\__, |\___/|_|  \__, |\__, (_)_| |_|\___|_|___/\___|_| |_|_| |_| |_|\__,_|_| |_|_| |_(_)_| |_|\__,_|
+#   __/ | __/ |           __/ | __/ |
+#  |___/ |___/           |___/ |___/
+# -----------------------------------------------------------------------------------------------------------
+
+# Jekyll based web page POC on GitHub
+# 
+# 
+# Rls: 2018.01.01.  
+#
+
+-->
+
+<html lang="hu-HU">
+
+<head>
+
+  <meta charset="utf-8">
+
+  <meta name="keywords" content="Fleischmann György, fleischmann, flex, gyurci, flexoft, mohács, budapest, magyarország, hungary, photography, digital, photo, black and white, landscape, people, blog, light, photo blog, photolog, photoblog, linux, sinclair, zx spectrum, psion, timex, perl, lcd, minolta, 9000, d7d, tsm, tivoli, ibm, tsm, tivoli storage manager, spectrum protect, gpfs, spectrum scale, osx, apple, ble" />
+
+  <meta name="owner"  content="FLEISCHMANN György" />
+  <meta name="author" content="FLEISCHMANN György" />
+
+  <meta name="description" content="A personal page for Fleischmann György."/>
+
+  <meta property="twitter:account_id" content="2447061"/>
+
+  <meta http-equiv="cleartype" content="on">
+
+  <title>🎵 LPs / LP-k [2018] - gyorgy.fleischmann.hu</title>
+  <link rel="stylesheet" type="text/css" href="css/style.css" >
+  <link rel="stylesheet" type="text/css" href="css/syntax.css" >
+  <link rel="alternate"  type="application/atom+xml" href="/feed.xml" title="News Feed for gyorgy.fleischmann.hu">
+
+  <link rel="icon" href="http://gyorgy.fleischmann.hu/favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="http://gyorgy.fleischmann.hu/favicon.ico">
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108075264-7"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-108075264-7');
+  </script>
+
+  <!-- From: http://fontello.com/ -->
+  <link rel="stylesheet" href="fontello/css/fontello.css">
+  <link rel="stylesheet" href="fontello/css/animation.css">
+
+  <!-- PhotoSwipe part 1. -->
+
+  <!-- Core CSS file -->
+  <link rel="stylesheet" href="PhotoSwipe/photoswipe.css"> 
+
+  <!-- Skin CSS file (styling of UI - buttons, caption, etc.)
+       In the folder of skin CSS file there are also:
+       - .png and .svg icons sprite, 
+       - preloader.gif (for browsers that do not support CSS animations) -->
+  <link rel="stylesheet" href="PhotoSwipe/default-skin/default-skin.css"> 
+
+  <!-- Core JS file -->
+  <script src="PhotoSwipe/photoswipe.min.js"></script> 
+
+  <!-- UI JS file -->
+  <script src="PhotoSwipe/photoswipe-ui-default.min.js"></script> 
+
+</head>
+
+<!-- PhotoSwipe must have part 2. -->
+
+<!-- Root element of PhotoSwipe. Must have class pswp. -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true" style="margin: 0; padding: 0;">
+
+    <!-- Background of PhotoSwipe. 
+         It's a separate element as animating opacity is faster than rgba(). -->
+    <div class="pswp__bg"></div>
+
+    <!-- Slides wrapper with overflow:hidden. -->
+    <div class="pswp__scroll-wrap">
+
+        <!-- Container that holds slides. 
+            PhotoSwipe keeps only 3 of them in the DOM to save memory.
+            Don't modify these 3 pswp__item elements, data is added later on. -->
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar" style="margin: 0; padding: 0;">
+
+                <!--  Controls are self-explanatory. Order can be changed. -->
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+                <!-- element will get class pswp__preloader--active when preloader is running -->
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                      <div class="pswp__preloader__cut">
+                        <div class="pswp__preloader__donut"></div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div> 
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center" style="font-size: 25px; text-align: center;"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<body>
+
+<!-- Horisontal progress bar, https://blog.andyjiang.com/reading-position-horizontal-progress-bar --> 
+<div id="Reading-progress"><span id="Progress-bar" class="bar"></span></div>
+
+<script type="text/javascript">
+
+  window.addEventListener('scroll', function(e) {
+    var s = (window.pageYOffset !== undefined) ? window.pageYOffset : (document.documentElement || document.body.parentNode || document.body).scrollTop;
+    var body = document.body;
+    var html = document.documentElement;
+    var d = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
+    var c = window.innerHeight;
+    var position = (s / (d - c)) * 100;
+    document.getElementById('Progress-bar').setAttribute('style', 'width: ' + position + '%');
+  });
+
+</script>
+
+<div class="container">
+
+  <header class="masthead" id="navbar">
+
+     <h2 class="masthead-title">
+       <a href="/"><b>gyorgy.fleischmann.hu</b></a>
+       <nobr>
+       <small>|<a href="tableofcontents.html"><i class="icon-list-numbered" style="font-size: 0.85em;"></i>tartalom</a></small>
+       <small>|<a href="categories.html"><i class="icon-list" style="font-size: 0.85em;"></i>kategóriák</a></small>
+       <small>|<a href="tags.html"><i class="icon-tags" style="font-size: 0.85em;"></i>#címkék</a></small>
+       <small>|<a href="feed.xml"><i class="icon-rss" style="font-size: 0.85em;"></i>RSS</a></small>
+       <small>|&nbsp;<a href="cv.html">rólam</a> (<a href="cv.html"><img class="inline" src="http://icons.iconarchive.com/icons/icons-land/vista-flags/128/English-Language-Flag-1-icon.png" alt="CV" title="CV" style="width: 32px;"></a>)</small>
+       </nobr>
+     </h2>
+
+  </header>
+
+  <hr style="margin-top: -0.25em;">
+
+  <div class="content">
+    <article class='post'>
+
+  	
+  	
+    <h1 class='post-title'>🎵 LPs / LP-k [2018]</h1>
+
+    <div class="post-date"><i class="icon-calendar"></i> 2018., január 28.,
+
+	<!-- Source: https://sacha.me/articles/jekyll-word-counts/ -->
+	
+	
+
+	
+	| 
+
+	
+	<i class="icon-user"></i>
+    
+	  <a href="mailto:gyorgy@fleischmann.hu">_flex</a>
+	
+	<img src="http://www.gravatar.com/avatar/645917b1946117c27a6ee9bbd02240e1?s=40" style="width: 12px;"> |
+
+	<i class="icon-list"></i>
+    [<a href="categories.html#LPs / LP-k">LPs / LP-k</a>]
+    <i class="icon-tags"></i>
+    
+      <span class=""><a href="tags.html#listák">#listák</a></span>
+    
+      <span class=""><a href="tags.html#awesome">#awesome</a></span>
+    
+
+    </div><!-- .post-date -->
+
+	
+
+    
+
+
+  </article>
+
+<!-- Disqus part -->
+
+<div id="disqus_thread" style="margin-top: 1em; padding:1em;border:solid 1px #eee; clear: both;"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://gyorgy-fleischmann-hu.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+  </div><!-- .content -->
+
+</div><!-- .container -->
+
+
+
+  <hr style="margin-top: 0.5em; clear: both; width: 95%;" class="gradientstyle">
+
+  <center style="margin-bottom: 0.5em;"><nobr><i class="icon-star-empty-1" style="color: red;"></i> Nincs jog fenntartva</nobr> -= <a href="http://www.fleischmann.hu/" class="hvr-buzz-out">FLEISCHMANN</a> =- <nobr>No rights reserved <i class="icon-star-empty-1" style="color: red;"></i></nobr></center>  
+
+
+
+</body>
+
+</html>

@@ -14,7 +14,7 @@ title:  Welcome to
 
 <p>Nagyon nagy aktivitásra itt azért senki ne számítson, mert ezek az oldalak leginkább még azért maradtak csak fenn, hogy az önéletrajzomat valahol folyamatosan frissíthessem és ha kell innen egyszer majd tovább tudjam osztani az érdeklődőknek...</p>
 
-<p>Nincsenek nagy illúzium azzal kapcsolatban sem, hogy itt valami szuper magyarázattal fogok szolgálni bárkinek is bármire, de amit megpróbálok összehozni, az egy őszinte múltbarévedés lesz a javából.</p>
+<p>Nincsenek nagy illúzióim azzal kapcsolatban sem, hogy itt valami szuper magyarázattal fogok szolgálni bárkinek is bármire, de amit megpróbálok összehozni, az végül egy őszinte múltbarévedés lesz a javából.</p>
 
 </div>
 
@@ -60,17 +60,16 @@ title:  Welcome to
 
     <!-- Read more part 2. -->
     {{ post.content | split:'<!-- break -->' | first }}
-    {% if post.content contains '<!-- break -->' %}<p style="float: right; clear: right;"><a href="{{ post.url }}">...a "{{ post.title }}" bejegyzés itt folytatódik <i class="icon-right-big"></i></a></p>{% endif %}
 
+    <div style="clear: both;">
     <!-- Disqus counter -->
     {% if post.comments %}
-
       <script id="dsq-count-scr" src="//gyorgy-fleischmann-hu.disqus.com/count.js" async></script>
-      <a href="{{ site.path }}{{ post.url }}#disqus_thread">Disqus counter</a>
-
+      <nobr><a href="{{ site.path }}{{ post.url }}#disqus_thread">Disqus counter</a></nobr>
     {% endif %}
 
-    <div style="clear: both;"></div>
+    {% if post.content contains '<!-- break -->' %}<p style="float: right; clear: right;"><a href="{{ post.url }}">...a "{{ post.title }}" bejegyzés itt folytatódik <i class="icon-right-big"></i></a></p>{% endif %}
+    </div>
 
   </article>
 
