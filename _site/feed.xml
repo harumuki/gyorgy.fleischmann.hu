@@ -3,7 +3,7 @@
   <title>News 'n' Updates | gyorgy.fleischmann.hu</title>
   <link href="http://0.0.0.0:4000/feed.xml" rel="self"/>
   <link href="http://0.0.0.0:4000/"/>
-  <updated>2018-01-29T09:50:28+01:00</updated>
+  <updated>2018-01-29T11:13:10+01:00</updated>
   <id>http://0.0.0.0:4000/</id>
   <author>
     <name></name>
@@ -525,6 +525,598 @@ Levin, Ira: A brazíliai fiúk (Rakéta regényújság 137., 1987, 20-26. szám)
   &lt;li&gt;Szabó Magda: Für Elise, Ajtó, Az őz, Abigél&lt;/li&gt;
   &lt;li&gt;Simmel, Johannes Mario: Nem kell mindig kaviár&lt;/li&gt;
 &lt;/ul&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>👨🏻‍🎓 CV</title>
+    <link href="http://0.0.0.0:4000/cv.html"/>
+    <updated>2018-01-29T00:00:00+01:00</updated>
+    <id>http://0.0.0.0:4000/cv</id>
+    <content type="html">&lt;p style=&quot;margin-top: 1.5em; text-align: left;&quot;&gt;&lt;a href=&quot;http://gyorgy.fleischmann.hu/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;b style=&quot;font-size: 2em;&quot;&gt;FLEISCHMANN György&lt;/b&gt;&lt;/a&gt; &lt;nobr&gt;• nick names: flex, gyurci, FleXoft&lt;/nobr&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align: left;&quot;&gt;&lt;a href=&quot;https://twitter.com/flexoft&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;i class=&quot;icon-twitter&quot; style=&quot;margin-left: -4px; margin-right: -4px;&quot;&gt;&lt;/i&gt;@flexoft&lt;/a&gt; •&lt;nobr&gt;&lt;i class=&quot;icon-mobile&quot; style=&quot;margin-left: -4px; margin-right: -5px;&quot;&gt;&lt;/i&gt;+36 30 979 1403&lt;/nobr&gt; &lt;nobr&gt;• &lt;a href=&quot;mailto:gyorgy@fleischmann.hu&quot; target=&quot;_top&quot;&gt;gyorgy@fleischmann.hu&lt;/a&gt;&lt;/nobr&gt; • &lt;nobr&gt;&lt;a href=&quot;https://www.google.hu/maps/place/Budapest,+Ungv%C3%A1r+u.+33,+1185/@47.4337246,19.2123318,17z/data=!3m1!4b1!4m5!3m4!1s0x4741c18a7203082b:0x62593567a50ce394!8m2!3d47.433721!4d19.2145258?hl=hu&quot;&gt;&lt;i class=&quot;icon-home&quot; style=&quot;margin-left: -5px; margin-right: 0px;&quot;&gt;&lt;/i&gt;H-1185, Budapest, Ungvár utca 33/1., HUNGARY&lt;/a&gt;&lt;/nobr&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;summary&quot;&gt;SUMMARY&lt;/h1&gt;
+
+&lt;div class=&quot;rightbox&quot; style=&quot;width: 30%;&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;photos/flex.jpg&quot; alt=&quot;Fleischmann György&quot; title=&quot;Fleischmann György&quot; /&gt;
+  &lt;p class=&quot;phototext&quot;&gt;Photo by me, 2016.11.11., Minolta Dynax 7D, 50mm&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Highly qualified certified systems engineer / architect / consultant with more than 13 years &lt;span id=&quot;workTSM&quot;&gt;&lt;/span&gt; of experience in designing, building and supporting complex &lt;a href=&quot;https://www.ibm.com/&quot;&gt;&lt;img class=&quot;inline&quot; src=&quot;http://m.fooyoh.com/files/attach/images/3004/195/251/014/logos4.jpg&quot; alt=&quot;IBM Logo&quot; style=&quot;width: 55px;&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;https://www.ibm.com/us-en/marketplace/data-protection-and-recovery&quot;&gt;&lt;img class=&quot;inline&quot; src=&quot;https://www-03.ibm.com/systems/uk/resources/storage_spectrum_modernize_placeholder2.png&quot; alt=&quot;IBM Spectrum Protect Logo&quot; style=&quot;width: 20px;&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;https://www.ibm.com/us-en/marketplace/data-protection-and-recovery&quot;&gt;Spectrum Protect&lt;/a&gt; (aka: &lt;a href=&quot;https://www.ibm.com/&quot;&gt;&lt;img class=&quot;inline&quot; src=&quot;https://s-media-cache-ak0.pinimg.com/originals/f2/c2/e2/f2c2e2b63af6ffe5ddfff5a2557bfee6.jpg&quot; alt=&quot;IBM Logo&quot; style=&quot;width: 55px;&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;https://en.wikipedia.org/wiki/IBM_Tivoli_Storage_Manager&quot;&gt;Tivoli Storage Manager&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/IBM_Tivoli_Storage_Manager&quot;&gt;TSM&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/IBM_Tivoli_Storage_Manager&quot;&gt;ADSTAR Distributed Storage Manager&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/IBM_Tivoli_Storage_Manager&quot;&gt;ADSM&lt;/a&gt;) at the biggest Hungarian companies.&lt;/p&gt;
+
+&lt;p&gt;One of the well-known IBM TSM / Spectrum Protect experts / evangelists in &lt;a href=&quot;https://en.wikipedia.org/wiki/Hungary&quot;&gt;Hungary&lt;/a&gt;. Enthusiastic member of the &lt;a href=&quot;https://www.imwuc.org/hutug&quot;&gt;Hungarian Tivoli User Group&lt;/a&gt; (&lt;a href=&quot;https://www.imwuc.org/hutug&quot;&gt;Hu-TUG&lt;/a&gt;). Regular speaker at biannual events in IBM TSM / Spectrum Protect related topics.&lt;/p&gt;
+
+&lt;p&gt;Team player and problem-solver with very good communication and interpersonal skills.&lt;/p&gt;
+
+&lt;!-- break --&gt;
+
+&lt;h1 style=&quot;clear: none;&quot;&gt;FAMILY&lt;/h1&gt;
+
+&lt;div style=&quot;margin-left: 1em; padding: 0; float: right; width: 75pt;&quot;&gt;
+  &lt;p style=&quot;text-align: right; margin-bottom: 0;margin-right: 0.5em; font-size: 10pt;&quot;&gt;&lt;a class=&quot;hvr-buzz-out&quot; style=&quot;color: #bbb;&quot; href=&quot;javascript:showhide( 'motherID', 'fatherID', 'vigyorID', 'wifeID', 'annaID', 'gergoID', 'andrasID', 'familypics' );&quot;&gt;more / less &lt;i class=&quot;icon-plus&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;mohács-baranya--hungary&quot;&gt;&lt;a href=&quot;https://hu.wikipedia.org/wiki/Moh%C3%A1cs&quot;&gt;Mohács&lt;/a&gt;, &lt;a href=&quot;https://hu.wikipedia.org/wiki/Baranya_megye&quot;&gt;Baranya&lt;/a&gt; • &lt;a href=&quot;https://en.wikipedia.org/wiki/Hungary&quot;&gt;HUNGARY&lt;/a&gt;&lt;/h2&gt;
+&lt;div id=&quot;motherID&quot; style=&quot;display:none;&quot;&gt;&lt;span title=&quot;1937-2014&quot;&gt;37-14&lt;/span&gt; • &lt;a href=&quot;http://anyuka.fleischmann.hu/&quot;&gt;mother, Zsuzsanna&lt;/a&gt; • &lt;span id=&quot;motherBirthDiff&quot;&gt;&lt;/span&gt; ✟&lt;/div&gt;
+&lt;div id=&quot;fatherID&quot; style=&quot;display:none;&quot;&gt;&lt;span title=&quot;1945-&quot;&gt;45-na&lt;/span&gt; • &lt;a href=&quot;http://apuka.fleischmann.hu/&quot;&gt;father, György&lt;/a&gt; • &lt;span id=&quot;fatherBirthDiff&quot;&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div id=&quot;vigyorID&quot; style=&quot;display:none;&quot;&gt;&lt;span title=&quot;1957-&quot;&gt;57-na&lt;/span&gt; • stepbrother, István • &lt;span id=&quot;vigyorBirthDiff&quot;&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div id=&quot;flexID&quot; style=&quot;display:block;&quot;&gt;&lt;span title=&quot;1970-&quot;&gt;&lt;b&gt;70-na&lt;/b&gt;&lt;/span&gt; • &lt;span id=&quot;flexBirthDiff&quot;&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div id=&quot;wifeID&quot; style=&quot;display:none;&quot;&gt;&lt;span title=&quot;1974-&quot;&gt;74-na&lt;/span&gt; • &lt;a href=&quot;http://hajnalka.fleischmann.hu/&quot;&gt;wife, Hajnalka&lt;/a&gt; • &lt;span id=&quot;wifeBirthDiff&quot;&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div id=&quot;annaID&quot; style=&quot;display:none;&quot;&gt;&lt;span title=&quot;2001-&quot;&gt;01-na&lt;/span&gt; • &lt;a href=&quot;http://anna.fleischmann.hu/&quot;&gt;Anna&lt;/a&gt; • &lt;span id=&quot;annaBirthDiff&quot;&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div id=&quot;gergoID&quot; style=&quot;display:none;&quot;&gt;&lt;span title=&quot;2005-&quot;&gt;05-na&lt;/span&gt; • &lt;a href=&quot;http://gergo.fleischmann.hu/&quot;&gt;Gergő&lt;/a&gt; • &lt;span id=&quot;gergoBirthDiff&quot;&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div id=&quot;andrasID&quot; style=&quot;display:none;&quot;&gt;&lt;span title=&quot;2017-&quot;&gt;17-na&lt;/span&gt; • &lt;a href=&quot;http://andras.fleischmann.hu/&quot;&gt;András&lt;/a&gt; • &lt;span id=&quot;andrasBirthDiff&quot;&gt;&lt;/span&gt;&lt;/div&gt;
+
+&lt;h1 id=&quot;work&quot;&gt;WORK&lt;/h1&gt;
+&lt;p class=&quot;phototext&quot; style=&quot;margin-top: -1.6em;&quot;&gt;References are available upon request, alternatively contact directly the companies listed below.&lt;/p&gt;
+
+&lt;div style=&quot;margin-left: 1em; padding: 0; float: right; width: 75pt;&quot;&gt;
+  &lt;p style=&quot;text-align: right; margin-bottom: 0;margin-right: 0.5em; font-size: 10pt;&quot;&gt;&lt;a class=&quot;hvr-buzz-out&quot; style=&quot;color: #bbb;&quot; href=&quot;javascript:showhide( 'egID', 'userID', 'schneiderID', 'sgID', 'clID', 'mofaID' );&quot;&gt;more / less &lt;i class=&quot;icon-plus&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;budapest-pest--hungary&quot;&gt;&lt;a href=&quot;https://hu.wikipedia.org/wiki/Budapest&quot;&gt;Budapest&lt;/a&gt;, &lt;a href=&quot;https://hu.wikipedia.org/wiki/Pest_megye&quot;&gt;Pest&lt;/a&gt; • &lt;a href=&quot;https://en.wikipedia.org/wiki/Hungary&quot;&gt;HUNGARY&lt;/a&gt;&lt;/h2&gt;
+
+&lt;table class=&quot;blockheader&quot;&gt;
+  &lt;tr&gt;
+    &lt;th width=&quot;1%;&quot; valign=&quot;top&quot; style=&quot;padding-right: 0.3em;&quot;&gt;&lt;nobr&gt;&lt;span title=&quot;2015-&quot;&gt;&lt;b&gt;15-na&lt;/b&gt;&lt;/span&gt; •&lt;/nobr&gt;&lt;/th&gt;
+    &lt;th&gt;&lt;div class=&quot;rightbox&quot; style=&quot;width: 15%;&quot;&gt;&lt;a href=&quot;http://effectivegroup.hu/&quot;&gt;&lt;img class=&quot;&quot; src=&quot;images/cv/EG_logo.png&quot; alt=&quot;Effective Group Informatika Zrt.&quot; title=&quot;Effective Group Informatika Zrt.&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;System engineer, &lt;a href=&quot;http://www.ibm.com/&quot;&gt;IBM&lt;/a&gt; &lt;a href=&quot;http://www-03.ibm.com/software/products/en/spectrum-protect&quot;&gt;Spectrum Protect&lt;/a&gt; (Tivoli Storage Manager) specialist • &lt;a href=&quot;http://www.scss.hu/&quot;&gt;SCSS Informatikai, Kereskedelmi és Szolgáltató Kft.&lt;/a&gt;, &lt;a href=&quot;http://effectivegroup.hu/&quot;&gt;Effective Group Informatika Zrt.&lt;/a&gt;&lt;/p&gt;&lt;/th&gt; 
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;div id=&quot;egID&quot; style=&quot;display:none; margin-left: 3.5em; margin-bottom: 1em;&quot;&gt;
+
+&lt;ul style=&quot;list-style-type:disc&quot;&gt;
+&lt;li&gt;Supporting a dozen large IBM TSM, SP customers in Hungary&lt;/li&gt;
+&lt;li&gt;Supporting IBM GPFS, Spectrum Scale cutomers with TSM / SP HSM&lt;/li&gt;
+&lt;li&gt;TSM Symposium, 15 (Dresden)&lt;/li&gt;
+&lt;li&gt;Speaker of &lt;a href=&quot;http://systemsday.momartmail.hu/Home/Program&quot;&gt;IBM, RRC Systems Day&lt;/a&gt; (Effective storage usage in backup environments, real implementation experiences), 17&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;b&gt;Main projects and references:&lt;/b&gt;&lt;br /&gt;
+
+&lt;ul style=&quot;list-style-type:disc&quot;&gt;
+&lt;li&gt;7/24 high availability TSM v6, v7, v8 support for:&lt;/li&gt;
+
+&lt;ul style=&quot;list-style-type:circle&quot;&gt;
+&lt;li&gt;MKB Bank (&amp;gt;3Y): 4 TSM servers on a HP-UX cluster environment with library manager configuration and other 2 TSM servers (IBM AIX) for document archiving systems&lt;/li&gt;
+&lt;li&gt;Generali Biztosító (&amp;gt;2Y): 2 general TSM servers on Microsoft Windows and other 2 TSM (IBM AIX) servers for document store systems&lt;/li&gt;
+&lt;li&gt;MTVA (&amp;gt;3Y): TSM on a Microsoft Windows cluster, node replication, container pool deduplication environments and TSM on Linux with GPFS filesystems&lt;/li&gt;
+&lt;li&gt;MVMI, NAK(Nemzeti Agrárgazdasági Kamara), Diákhitel, EOS, FGSZ, FPH&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;table class=&quot;blockheader&quot;&gt;
+  &lt;tr&gt;
+    &lt;th width=&quot;1%;&quot; valign=&quot;top&quot; style=&quot;padding-right: 0.3em;&quot;&gt;&lt;nobr&gt;&lt;span title=&quot;2004-2014&quot;&gt;&lt;b&gt;04-14&lt;/b&gt;&lt;/span&gt; •&lt;/nobr&gt;&lt;/th&gt;
+    &lt;th&gt;&lt;div class=&quot;rightbox&quot; style=&quot;width: 8%;&quot;&gt;&lt;a href=&quot;http://www.userrendszerhaz.hu/&quot;&gt;&lt;img class=&quot;&quot; src=&quot;images/cv/USER_logo.png&quot; alt=&quot;USER Rendszerház Kft.&quot; title=&quot;USER Rendszerház Kft.&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;System engineer, &lt;a href=&quot;http://www.ibm.com/&quot;&gt;IBM&lt;/a&gt; &lt;a href=&quot;http://www-03.ibm.com/software/products/en/spectrum-protect&quot;&gt;Tivoli Storage Manager&lt;/a&gt; specialist • &lt;a href=&quot;http://www.user.hu/&quot;&gt;USER Tanácsadó Kft.&lt;/a&gt;, &lt;a href=&quot;http://www.userrendszerhaz.hu/&quot;&gt;USER Rendszerház Kft.&lt;/a&gt; (IBM Tivoli Awards, &lt;span title=&quot;2012&quot;&gt;12&lt;/span&gt; • IBM AAA-level Tivoli Deployment Accreditation, &lt;span title=&quot;2013&quot;&gt;13&lt;/span&gt;)&lt;/p&gt;&lt;/th&gt; 
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;div id=&quot;userID&quot; style=&quot;display:none; margin-left: 3.5em; margin-bottom: 1em;&quot;&gt;
+
+&lt;ul style=&quot;list-style-type:disc&quot;&gt;
+&lt;li&gt;Supporting a dozen large IBM TSM customers in Hungary&lt;/li&gt;
+&lt;li&gt;Participation the biggest IBM TSM related events (IBM C&amp;amp;SI EMEA Technical Academy, 14 (Madrid) • IBM Tivoli Technical Academy, 13 (Reading) • TSM Symposium, 11 (Dresden))&lt;/li&gt;
+&lt;li&gt;Architect / integrate big IBM TSM configurations&lt;/li&gt;
+&lt;li&gt;Troubleshoot / consult performance, backup, restore issues&lt;/li&gt;
+&lt;li&gt;Member of several IBM TSM API based development&lt;/li&gt;
+&lt;li&gt;Health check, operate, maintain big IBM TSM environments&lt;/li&gt;
+&lt;li&gt;Speaker of &lt;a href=&quot;http://cloudday.momart.hu/&quot;&gt;VMware Cloud Day&lt;/a&gt; (Backing up VMware with IBM technology), 13&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;b&gt;Main projects and references:&lt;/b&gt;&lt;br /&gt;
+
+&lt;ul style=&quot;list-style-type:disc&quot;&gt;
+&lt;li&gt;7/24 high availability TSM v5, v6 support for:&lt;/li&gt;
+&lt;ul style=&quot;list-style-type:circle&quot;&gt;
+&lt;li&gt;MKB Bank (&amp;gt;10Y): 4 TSM servers on a HP-UX cluster environment with library manager configuration and other 2 TSM servers (IBM AIX) for document archiving systems&lt;/li&gt;
+&lt;li&gt;Allianz Biztosító (&amp;gt;10Y): TSM on a HA AIX environment with library manager configuration and other 2 TSM servers for document store systems&lt;/li&gt;  
+&lt;li&gt;Generali Biztosító (&amp;gt;10Y): 4 general TSM servers on Microsoft Windows for the region and other 2 TSM servers on IBM AIX for document store systems&lt;/li&gt;
+&lt;li&gt;FHB Bank (&amp;gt;2Y): TSM on a AIX HA environment&lt;/li&gt;
+&lt;li&gt;Budapest Bank (&amp;gt;10Y): 2 TSM servers on a HA AIX environment&lt;/li&gt;
+&lt;li&gt;Chello Central Europe (&amp;gt;8Y): biggest TSM based video media archiving environment implementation and support&lt;/li&gt;
+&lt;li&gt;HVB/UniCredit Bank (&amp;gt;10Y): the first v5 –&amp;gt; v6 migrated AIX TSM systems on an IBM PureFlex system in the region&lt;/li&gt;
+&lt;/ul&gt;
+&lt;li&gt;TSM v5 -&amp;gt; v6 migration (TSM DB &amp;gt; 300GB) (OEP, UniCredit Bank, Generali Biztosító, MKB Bank)&lt;/li&gt;
+&lt;li&gt;v6 TSM based backup solutions for IBM PureFlex based environments and support (iCell, NISZ)&lt;/li&gt;
+&lt;li&gt;TSM v5 -&amp;gt; v6 migration consultation at HSBC Turkey (Istanbul)&lt;/li&gt;
+&lt;li&gt;Dealt with IBM SoftLayer fundamentals (Infrastructure-as-a-Service (IaaS))&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;table class=&quot;blockheader&quot;&gt;
+  &lt;tr&gt;
+    &lt;th width=&quot;1%;&quot; valign=&quot;top&quot; style=&quot;padding-right: 0.3em;&quot;&gt;&lt;nobr&gt;&lt;span title=&quot;2001-2003&quot;&gt;&lt;b&gt;01-03&lt;/b&gt;&lt;/span&gt; •&lt;/nobr&gt;&lt;/th&gt;
+    &lt;th&gt;&lt;div class=&quot;rightbox&quot; style=&quot;width: 15%;&quot;&gt;&lt;a href=&quot;http://www.schneider-electric.hu/&quot;&gt;&lt;img class=&quot;&quot; src=&quot;images/cv/Schneider_Electric_logo.png&quot; alt=&quot;Schneider Electric Hungária Villamossági Rt.&quot; title=&quot;Schneider Electric Hungária Villamossági Rt.&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;Network / &lt;a href=&quot;http://www.ibm.com/&quot;&gt;IBM&lt;/a&gt; &lt;a href=&quot;http://www-03.ibm.com/software/products/en/ibmdomino&quot;&gt;Lotus Notes / Domino&lt;/a&gt; administrator • &lt;a href=&quot;http://www.schneider-electric.hu/&quot;&gt;Schneider Electric Hungária Villamossági Rt.&lt;/a&gt;&lt;/p&gt;&lt;/th&gt; 
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;div id=&quot;schneiderID&quot; style=&quot;display:none; margin-left: 3.5em; margin-bottom: 1em; margin-top: 0em;&quot;&gt;
+
+&lt;ul style=&quot;list-style-type:disc&quot;&gt;
+&lt;li class=&quot;small&quot;&gt;IBM Lotus Notes administrator (450 users; Austria, Slovak Republic, Slovenia, Croatia, Yugoslavia) and developer&lt;/li&gt;
+&lt;li class=&quot;small&quot;&gt;operating the whole network&lt;/li&gt;
+&lt;li class=&quot;small&quot;&gt;work in S.A.P. R3 environment (COMPAQ/Digital, True64 UNIX)&lt;/li&gt;
+&lt;li class=&quot;small&quot;&gt;organised and successfully started the new logistics center of Schneider Electric Hungária Villamossági Rt. in Harbor Park (Frame Relay connection to the center, phone network, computer network, wireless phone (DECT), wireless network (based on Cisco Aironet 340, 350 series), Novell Netware, ...)&lt;/li&gt;
+&lt;li class=&quot;small&quot;&gt;working with the following systems and equipments: CheckPoint firewall, Netscape iPlanet Web server, Netscape CMS server, Netscape Proxy server, Novell Netware 5.x, Intel Shiva + Radius, Nortel network equipments (switches, routers, hubs), ntp, ...&lt;/li&gt;
+&lt;li class=&quot;small&quot;&gt;prepared: SMS gateway (Linux + perl + Nokia 6210), webcamera (Linux + V4L + bttv)&lt;/li&gt;
+&lt;li class=&quot;small&quot;&gt;started the intranet in Hungary (based on IBM Lotus Notes, WIB)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;table class=&quot;blockheader&quot;&gt;
+  &lt;tr&gt;
+    &lt;th width=&quot;1%;&quot; valign=&quot;top&quot; style=&quot;padding-right: 0.3em;&quot;&gt;&lt;nobr&gt;&lt;span title=&quot;1998-2001&quot;&gt;&lt;b&gt;98-01&lt;/b&gt;&lt;/span&gt; •&lt;/nobr&gt;&lt;/th&gt;
+    &lt;th&gt;&lt;div class=&quot;rightbox&quot; style=&quot;width: 15%;&quot;&gt;&lt;a href=&quot;&quot;&gt;&lt;img class=&quot;http://www.societegenerale.fr/&quot; src=&quot;images/cv/SG_logo.png&quot; alt=&quot;Société Générale Hungária Bank Inc.&quot; title=&quot;Société Générale Hungária Bank Inc.&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;Office Automation Officer • &lt;a href=&quot;http://www.societegenerale.fr/&quot;&gt;Société Générale Hungária Bank Inc.&lt;/a&gt;&lt;/p&gt;&lt;/th&gt; 
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;div id=&quot;sgID&quot; style=&quot;display:none; margin-left: 3.5em; margin-bottom: 1em; margin-top: 0em;&quot;&gt;
+
+&lt;ul style=&quot;list-style-type:disc&quot;&gt;
+&lt;li class=&quot;small&quot;&gt;we built up the whole information system of this new bank (with two of my colleagues) from the ground&lt;/li&gt;
+&lt;li class=&quot;small&quot;&gt;Lotus Notes administrator and developer&lt;/li&gt;
+&lt;li class=&quot;small&quot;&gt;working with GIRO, SWIFT and the local accounting system&lt;/li&gt;
+&lt;li class=&quot;small&quot;&gt;installing and supporting SogeCash (MultiCash based) remote bank system&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;table class=&quot;blockheader&quot;&gt;
+  &lt;tr&gt;
+    &lt;th width=&quot;1%;&quot; valign=&quot;top&quot; style=&quot;padding-right: 0.3em;&quot;&gt;&lt;nobr&gt;&lt;span title=&quot;1997-1998&quot;&gt;&lt;b&gt;97-98&lt;/b&gt;&lt;/span&gt; •&lt;/nobr&gt;&lt;/th&gt;
+    &lt;th&gt;&lt;div class=&quot;rightbox&quot; style=&quot;width: 15%;&quot;&gt;&lt;a href=&quot;http://www.ca-cib.com/&quot;&gt;&lt;img class=&quot;&quot; src=&quot;images/cv/CL_logo.png&quot; alt=&quot;Crédit Lyonnais Bank Hungary Inc.&quot; title=&quot;Crédit Lyonnais Bank Hungary Inc.&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;EDP assistent • &lt;a href=&quot;http://www.ca-cib.com/&quot;&gt;Crédit Lyonnais Bank Hungary Inc.&lt;/a&gt;&lt;/p&gt;&lt;/th&gt; 
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;div id=&quot;clID&quot; style=&quot;display:none; margin-left: 3.5em; margin-bottom: 1em; margin-top: 0em;&quot;&gt;
+
+&lt;ul style=&quot;list-style-type:disc&quot;&gt;
+&lt;li class=&quot;smallest&quot;&gt;learning to use and operate the new systems (HP-UX, HP PCs, Microsoft WindowsNT network, SQL, TCP/IP)&lt;/li&gt;
+&lt;li class=&quot;smallest&quot;&gt;worked with GIRO, SWIFT, Lotus Notes and the local accounting system&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&quot;mohács-baranya--hungary-1&quot;&gt;&lt;a href=&quot;https://hu.wikipedia.org/wiki/Moh%C3%A1cs&quot;&gt;Mohács&lt;/a&gt;, &lt;a href=&quot;https://hu.wikipedia.org/wiki/Baranya_megye&quot;&gt;Baranya&lt;/a&gt; • &lt;a href=&quot;https://en.wikipedia.org/wiki/Hungary&quot;&gt;HUNGARY&lt;/a&gt;&lt;/h2&gt;
+
+&lt;table class=&quot;blockheader&quot;&gt;
+  &lt;tr&gt;
+    &lt;th width=&quot;1%;&quot; valign=&quot;top&quot; style=&quot;padding-right: 0.3em;&quot;&gt;&lt;nobr&gt;&lt;span title=&quot;1991-1997&quot;&gt;&lt;b&gt;91-97&lt;/b&gt;&lt;/span&gt; •&lt;/nobr&gt;&lt;/th&gt;
+    &lt;th&gt;&lt;div class=&quot;rightbox&quot; style=&quot;width: 15%;&quot;&gt;&lt;a href=&quot;http://kronospan-mofa.hu/&quot;&gt;&lt;img class=&quot;&quot; src=&quot;images/cv/Kronospan-mofa_logo.png&quot; alt=&quot;Fibreboard Factory (M.O.F.A.) Inc.&quot; title=&quot;Fibreboard Factory (M.O.F.A.) Inc.&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;System engineer • &lt;a href=&quot;http://kronospan-mofa.hu/&quot;&gt;Fibreboard Factory (M.O.F.A.) Inc.&lt;/a&gt;&lt;/p&gt;&lt;/th&gt; 
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;div id=&quot;mofaID&quot; style=&quot;display:none; margin-left: 3.5em; margin-bottom: 1em;&quot;&gt;
+
+&lt;ul style=&quot;list-style-type:disc&quot;&gt;
+&lt;li class=&quot;smallest&quot;&gt;learned to use i8048 and i8051 microcontrollers&lt;/li&gt;
+&lt;li class=&quot;smallest&quot;&gt;December 1991 - August 1992 programmer assistant, computer technology collaborator&lt;/li&gt;
+&lt;li class=&quot;smallest&quot;&gt;learned to use the local network, programmed in C language&lt;/li&gt;
+&lt;li class=&quot;smallest&quot;&gt;March 1994 - March 1997 computer technology organizer&lt;/li&gt;
+&lt;li class=&quot;smallest&quot;&gt;extended the network of the company, connected its existing systems, worked independently, maintained and controlled the whole system&lt;/li&gt;
+&lt;li class=&quot;smallest&quot;&gt;formed new concepts in the information technology system of the company, established the e-mail system and the DIAL-IN accessibility of the network, developed ONLINE systems and established these systems on the existing network&lt;/li&gt;
+&lt;li class=&quot;smallest&quot;&gt;software legalization&lt;/li&gt;
+&lt;li class=&quot;smallest&quot;&gt;established and maintained several Novell NetWare based networks in Mohács city&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h1 id=&quot;education&quot;&gt;EDUCATION&lt;/h1&gt;
+
+&lt;h2 id=&quot;kecskemét-bács-kiskun--hungary&quot;&gt;&lt;a href=&quot;https://hu.wikipedia.org/wiki/Kecskem%C3%A9t&quot;&gt;Kecskemét&lt;/a&gt;, &lt;a href=&quot;https://hu.wikipedia.org/wiki/B%C3%A1cs-Kiskun_megye&quot;&gt;Bács-Kiskun&lt;/a&gt; • &lt;a href=&quot;https://en.wikipedia.org/wiki/Hungary&quot;&gt;HUNGARY&lt;/a&gt;&lt;/h2&gt;
+
+&lt;table class=&quot;blockheader&quot;&gt;
+  &lt;tr&gt;
+    &lt;th width=&quot;1%;&quot; valign=&quot;top&quot; style=&quot;padding-right: 0.3em;&quot;&gt;&lt;nobr&gt;&lt;span title=&quot;1988-1991&quot;&gt;&lt;b&gt;88-91&lt;/b&gt;&lt;/span&gt; •&lt;/nobr&gt;&lt;/th&gt;
+    &lt;th&gt;&lt;div class=&quot;rightbox&quot; style=&quot;width: 5%;&quot;&gt;&lt;a href=&quot;http://gamf.uni-pae.hu/&quot;&gt;&lt;img class=&quot;&quot; src=&quot;images/cv/GAMF_logo.png&quot; alt=&quot;Technical College of Machine Industry and Automation (G.A.M.F.)&quot; title=&quot;Technical College of Machine Industry and Automation (G.A.M.F.)&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;&lt;a href=&quot;http://gamf.uni-pae.hu/&quot;&gt;Technical College of Machine Industry and Automation (G.A.M.F.)&lt;/a&gt; • specialization: computer technology&lt;/p&gt;&lt;/th&gt; 
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;mohács-baranya--hungary-2&quot;&gt;&lt;a href=&quot;https://hu.wikipedia.org/wiki/Moh%C3%A1cs&quot;&gt;Mohács&lt;/a&gt;, &lt;a href=&quot;https://hu.wikipedia.org/wiki/Baranya_megye&quot;&gt;Baranya&lt;/a&gt; • &lt;a href=&quot;https://en.wikipedia.org/wiki/Hungary&quot;&gt;HUNGARY&lt;/a&gt;&lt;/h2&gt;
+
+&lt;table class=&quot;blockheader&quot;&gt;
+  &lt;tr&gt;
+    &lt;th width=&quot;1%;&quot; valign=&quot;top&quot; style=&quot;padding-right: 0.3em;&quot;&gt;&lt;nobr&gt;&lt;span title=&quot;1984-1988&quot;&gt;&lt;b&gt;84-88&lt;/b&gt;&lt;/span&gt; •&lt;/nobr&gt;&lt;/th&gt;
+    &lt;th&gt;&lt;div class=&quot;rightbox&quot; style=&quot;width: 5%;&quot;&gt;&lt;a href=&quot;http://mohacsikisfaludy.hu/&quot;&gt;&lt;img class=&quot;&quot; src=&quot;images/cv/Kisfaludy_logo.png&quot; alt=&quot;Kisfaludy Károly Secondary School&quot; title=&quot;Kisfaludy Károly Secondary School&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;&lt;a href=&quot;http://mohacsikisfaludy.hu/&quot;&gt;Kisfaludy Károly Secondary School&lt;/a&gt; • faculties: mathematics, physics&lt;/p&gt;&lt;/th&gt; 
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h1 id=&quot;technical-skills&quot;&gt;TECHNICAL SKILLS&lt;/h1&gt;
+
+&lt;h2 id=&quot;operating-systems&quot;&gt;Operating systems&lt;/h2&gt;
+
+&lt;p&gt;UNIX • Microsoft Windows • Apple macOS (OS X)&lt;/p&gt;
+
+&lt;h2 id=&quot;programming-languages&quot;&gt;Programming languages&lt;/h2&gt;
+
+&lt;p&gt;Objective-C (applications with Core Location framework, 13 and BLE, 17) • C (kernel mode device driver on Linux, TSM API) • 80x86 assembly (direct IPX protocol programming) • ATMEL AVR assembly, C (GSM based home automation, 09) • Epson S1C88 assembly (code breaker game, 04) • CA Clipper • DataFlex • perl (tsmadm.pl, 13) • awk • UNIX shell • Psion OPL (PhotoPal, 01) • Lotus Formula • Lotus Script (incident log system) • JavaScript&lt;/p&gt;
+
+&lt;h2 id=&quot;hardware&quot;&gt;Hardware&lt;/h2&gt;
+
+&lt;p&gt;IBM tape libraries (LTO, 3592 drives); IBM, HPE, Oracle High-End machines and storage systems&lt;/p&gt;
+
+&lt;h2 id=&quot;ibm-tsm--spectrum-protect-related&quot;&gt;IBM TSM / Spectrum Protect related&lt;/h2&gt;
+
+&lt;p&gt;Daily TSM administration and 7/24 support for banks, insurance companies, broadcasting companies and state sector • Co-author of the tsmadmin.com blog • Founder of the &lt;a href=&quot;http://tsmadm.pl.fleischmann.hu&quot;&gt;tsmadm.pl&lt;/a&gt; free IBM TSM administration tool • The person who opens / closes the most tickets (IBM &lt;a href=&quot;https://www-01.ibm.com/support/docview.wss?uid=swg21507643&quot;&gt;PMR&lt;/a&gt;, &lt;a href=&quot;https://www-01.ibm.com/support/docview.wss?uid=swg21507643&quot;&gt;Problem Management Report&lt;/a&gt;) each year in Hungary • Took IBM TSM / Spectrum Protect (implementation, operation, administration, advanced administration) trainings (&amp;gt;30, on behalf of IBM, &lt;a href=&quot;http://iqjb.hu/&quot;&gt;IQSOFT - John Bryce Oktatóközpont Kft.&lt;/a&gt; and &lt;a href=&quot;https://www.training360.com/&quot;&gt;Training 360 Kft.&lt;/a&gt;)&lt;/p&gt;
+
+&lt;h1 id=&quot;professional-certifications&quot;&gt;Professional Certifications&lt;/h1&gt;
+
+&lt;div class=&quot;rightbox&quot; style=&quot;width: 7%;&quot;&gt;&lt;img class=&quot;&quot; src=&quot;images/cv/IBM_Sectrum_Protect_v8.1.png&quot; alt=&quot;IBM Sectrum Protect v8.1 Deployment Professional&quot; title=&quot;IBM Sectrum Protect v8.1 Deployment Professional&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;rightbox&quot; style=&quot;width: 7%;&quot;&gt;&lt;img class=&quot;&quot; src=&quot;images/cv/Veeam_Availability_Suite_VMTSP_v9.5.png&quot; alt=&quot;Veeam Availability Suite VMTSP v9.5&quot; title=&quot;Veeam Availability Suite VMTSP v9.5&quot; /&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Veeam Technical Sales Professional (VMTSP) - Veeam Availability Suite v9.5 • 09/28/2017&lt;/li&gt;
+  &lt;li&gt;IBM Certified Deployment Professional - Spectrum Protect V8.1 • 07/28/2017&lt;/li&gt;
+  &lt;li&gt;IBM Certified Deployment Professional - Tivoli Storage Manager V7.1 • 05/18/2015&lt;/li&gt;
+  &lt;li&gt;IBM Certified Deployment Professional - Tivoli Storage Productivity Center v5.1 •06/04/2013&lt;/li&gt;
+  &lt;li&gt;IBM Certified Deployment Professional - Tivoli Storage Manager v6.3 • 02/01/2013&lt;/li&gt;
+  &lt;li&gt;IBM Certified Solution Advisor - Tivoli Storage Solutions v3 • 03/22/2012&lt;/li&gt;
+  &lt;li&gt;IBM Certified Solution Advisor - Tivoli Storage Solutions v2 • 03/30/2011&lt;/li&gt;
+  &lt;li&gt;IBM Certified Deployment Professional - Tivoli Storage Manager v6.1 • 12/01/2009&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;hobby-projects-worth-to-mention&quot;&gt;HOBBY PROJECTS WORTH TO MENTION&lt;/h1&gt;
+
+&lt;div class=&quot;rightbox&quot; style=&quot;width: 12%;&quot;&gt;
+&lt;a href=&quot;http://old.fleischmann.hu/geocities.com/&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/geominihp20040407.jpg&quot; alt=&quot;geocities.com from 2004.&quot; title=&quot;geocities.com from 2004.&quot; /&gt;&lt;/a&gt;
+&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://old.fleischmann.hu/geocities.com/&quot;&gt;geocities.com&lt;/a&gt; from 2004.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;rightbox&quot; style=&quot;width: 15%;&quot;&gt;
+&lt;a href=&quot;http://old.fleischmann.hu/photo/contents/index.htm&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/FLEISCHMANN.HU_Tartalom-Contents_(20100518).png&quot; alt=&quot;fleischmann.hu from 2010.&quot; title=&quot;fleischmann.hu from 2010.&quot; /&gt;&lt;/a&gt;
+&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://old.fleischmann.hu/photo/contents/index.htm&quot;&gt;fleischmann.hu&lt;/a&gt; from 2010.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;rightbox&quot; style=&quot;width: 15%;&quot;&gt;
+&lt;a href=&quot;http://tsmadm.pl.fleischmann.hu&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/tsmadm.pl.jpg&quot; alt=&quot;tsmadm.pl&quot; title=&quot;tsmadm.pl&quot; /&gt;&lt;/a&gt;
+&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://tsmadm.pl.fleischmann.hu&quot;&gt;tsmadm.pl&lt;/a&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;img class=&quot;shadow&quot; src=&quot;images/html/SpeedLimit.png&quot; alt=&quot;SpeedLimit&quot; title=&quot;SpeedLimit&quot; align=&quot;right&quot; /&gt;
+&lt;p class=&quot;phototext&quot;&gt;SpeedLimit on iOS&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;span title=&quot;2018&quot;&gt;&lt;b&gt;18&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;spadmin.pl (perl)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span title=&quot;2017&quot;&gt;&lt;b&gt;17&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.fleischmann.hu/&quot;&gt;Family pages (GitHub, jekyll, HTML5, CSS3)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/FleXoft/HuTUG&quot;&gt;Hu-TUG storage newsletters 1-5&lt;/a&gt; (Google Docs)&lt;/li&gt;
+  &lt;li&gt;Simple Heart Rate monitoring macOS application based on Polar H7 BLE device with Xcode and Swift &lt;a href=&quot;https://github.com/FleXoft/Polar-H7-HRM&quot;&gt;project on GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span title=&quot;2015&quot;&gt;&lt;b&gt;15&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;recorded for a year what I did and what I looked like&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style=&quot;width: 49.33%; margin-left: 1.3em;&quot;&gt;&lt;div class=&quot;videocontainer&quot; style=&quot;padding-bottom: 31%;&quot;&gt;&lt;iframe class=&quot;iframeshadow&quot; src=&quot;https://player.vimeo.com/video/249302002&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;span title=&quot;2013&quot;&gt;&lt;b&gt;13&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://tsmadm.pl.fleischmann.hu/&quot;&gt;tsmadm.pl&lt;/a&gt; (perl) &lt;a href=&quot;https://github.com/FleXoft/tsmadm.pl&quot;&gt;project on GitHub&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;SpeedLimit for iOS (Objective-C)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span title=&quot;-2010&quot;&gt;&lt;b&gt;-10&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Active photoblogger (+ photoblog site generator perl script)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;rightbox&quot; style=&quot;width: 17%;&quot;&gt;
+&lt;a href=&quot;https://www.flickr.com/photos/fleischmann/sets/72157622129419487/&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/flickr_thumb.png&quot; alt=&quot;BKV Photostream&quot; title=&quot;BKV Photostream&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;https://www.flickr.com/photos/fleischmann/sets/72157622129419487/&quot;&gt;BKV Photostream&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;span title=&quot;2009&quot;&gt;&lt;b&gt;09&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;div class=&quot;rightbox&quot; style=&quot;width: 13%;&quot;&gt;
+&lt;a href=&quot;https://www.olimex.com/Products/AVR/Development/AVR-GSM/&quot;&gt;&lt;img class=&quot;&quot; src=&quot;https://www.olimex.com/Products/AVR/Development/AVR-GSM/images/thumbs/310x230/AVR-GSM-01.jpg&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;https://www.olimex.com/Products/AVR/Development/AVR-GSM/&quot;&gt;AVR-GSM&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.olimex.com/Products/AVR/Development/AVR-GSM/&quot;&gt;AVR-GSM&lt;/a&gt; based Home Automation Project (AVR C, I²C, LM75, HD44780, SIM300D)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.flickr.com/photos/fleischmann/sets/72157622129419487/&quot;&gt;BKV Photostream&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;social-part&quot;&gt;SOCIAL PART&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/FleXoft&quot;&gt;&lt;i class=&quot;icon-twitter&quot; style=&quot;margin-right: -1px;&quot;&gt;&lt;/i&gt;twitter&lt;/a&gt;
+ •&lt;a href=&quot;https://www.facebook.com/fleischmann.gy&quot;&gt;&lt;i class=&quot;icon-facebook&quot; style=&quot;margin-left: -5px; margin-right: -6px;&quot;&gt;&lt;/i&gt;facebook&lt;/a&gt; •&lt;a href=&quot;http://fleischmann.tumblr.com/&quot;&gt;&lt;i class=&quot;icon-tumblr&quot; style=&quot;margin-left: -4px; margin-right: -4px;&quot;&gt;&lt;/i&gt;tumblr&lt;/a&gt; •&lt;a href=&quot;https://www.flickr.com/photos/fleischmann/sets/72157622129419487/&quot;&gt;&lt;i class=&quot;icon-flickr&quot; style=&quot;margin-right: 0px;&quot;&gt;&lt;/i&gt;flickr&lt;/a&gt; •&lt;a href=&quot;https://plus.google.com/111227740573593478868&quot;&gt;&lt;i class=&quot;icon-gplus&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Google+&lt;/a&gt; •&lt;a href=&quot;skype://Flexoft/&quot;&gt;&lt;i class=&quot;icon-skype&quot; style=&quot;margin-right: -1px;&quot;&gt;&lt;/i&gt;Skype&lt;/a&gt; • &lt;a href=&quot;https://www.linkedin.com/in/fleischmanngyorgy/&quot;&gt;linked&lt;i class=&quot;icon-linkedin-squared&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;others&quot;&gt;OTHERS&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;working knowledge of everyday English&lt;/li&gt;
+  &lt;li&gt;good knowledge of technical English&lt;/li&gt;
+  &lt;li&gt;experienced driver (“B” category driving licence)&lt;/li&gt;
+  &lt;li&gt;compulsory military service completed&lt;/li&gt;
+  &lt;li&gt;free time activities: football, cinema, reading, music, photography&lt;/li&gt;
+  &lt;li&gt;I do not smoke&lt;/li&gt;
+  &lt;li&gt;last update: 01/29/2018&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;others-ii&quot;&gt;OTHERS II.&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;gender: male&lt;/li&gt;
+  &lt;li&gt;length, weight: average&lt;/li&gt;
+  &lt;li&gt;Blood type: O Rh negative&lt;/li&gt;
+  &lt;li&gt;sexual orientation: straight&lt;/li&gt;
+  &lt;li&gt;religion: none (but if I really need to choose: &lt;a href=&quot;https://en.wikipedia.org/wiki/Buddhism&quot;&gt;Buddhism&lt;/a&gt; or &lt;a href=&quot;https://en.wikipedia.org/wiki/International_Society_for_Krishna_Consciousness&quot;&gt;Krishna Consciousness&lt;/a&gt; are the closest), I believe in science&lt;/li&gt;
+  &lt;li&gt;political views: undecided&lt;/li&gt;
+  &lt;li&gt;intelligence: normal&lt;/li&gt;
+  &lt;li&gt;civil status: married, 3 kids (&lt;a href=&quot;http://anna.fleischmann.hu/&quot;&gt;Anna&lt;/a&gt; • &lt;a href=&quot;http://gergo.fleischmann.hu/&quot;&gt;Gergő&lt;/a&gt; • &lt;a href=&quot;http://andras.fleischmann.hu/&quot;&gt;András&lt;/a&gt;) and a &lt;a href=&quot;http://tofi.fleischmann.hu/&quot;&gt;dog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;economy: good&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!-- my Javascript Helpers --&gt;
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+    
+    // main()
+    
+	today = new Date();
+    diff  = new Date();
+	
+  	function dateDiff2 ( fromDate, toDate ) {
+    
+    	var returnString = &quot;&quot;;
+    	var tmpdiff;
+    
+		var one_day = 1000 * 60 * 60 * 24;
+
+    	diff.setTime( new Date( fromDate.getFullYear(), fromDate.getMonth(), fromDate.getDate(), fromDate.getHours(), fromDate.getMinutes() ) - toDate );
+
+    	tmpdiff = diff.getFullYear() - 1970; 	
+		if ( tmpdiff != 0 ) {
+			returnString += tmpdiff + &quot; &quot; + ( ( tmpdiff != 1 ) ? &quot;years&quot; : &quot;year&quot; );
+		}
+   	  
+		if ( tmpdiff != 0 &amp;&amp; ( diff.getMonth() != 0 || ( diff.getDate() - 1 ) != 0 ) ) returnString += &quot;, &quot;; 
+
+   	    tmpdiff = diff.getMonth();
+   	 	if ( tmpdiff != 0 ) {
+   			returnString += tmpdiff + &quot; &quot; + ( ( tmpdiff != 1 ) ? &quot;months&quot; : &quot;month&quot; );
+   		}
+   		if ( tmpdiff != 0 &amp;&amp; ( ( diff.getDate() - 1 ) != 0 ) ) returnString += &quot; and &quot;;
+   	
+   	    tmpdiff = diff.getDate() - 1;
+   	  	if ( tmpdiff != 0 ) {
+   	 		returnString += tmpdiff + &quot; &quot; + ( ( tmpdiff != 1 ) ? &quot;days&quot; : &quot;day&quot; );
+   	  	}
+  
+		return returnString; 
+  
+  	}
+ 
+    function myTimer () {
+     	document.getElementById ( 'motherBirthDiff' ).innerHTML = dateDiff ( new Date( 2014, 03 - 1, 08, 12, 00 ), new Date( 1937, 09 - 1, 07, 12, 00 ) );
+     	document.getElementById ( 'fatherBirthDiff' ).innerHTML = dateDiff ( today, new Date( 1945, 11 - 1, 16, 12, 00 ) );
+    	document.getElementById ( 'vigyorBirthDiff' ).innerHTML = dateDiff ( today, new Date( 1957, 01 - 1, 23, 12, 00 ) );
+    	document.getElementById ( 'flexBirthDiff'   ).innerHTML = dateDiff ( today, new Date( 1970, 05 - 1, 05, 23, 00 ) );
+    	document.getElementById ( 'wifeBirthDiff'   ).innerHTML = dateDiff ( today, new Date( 1974, 11 - 1, 24, 22, 00 ) );
+    	document.getElementById ( 'annaBirthDiff'   ).innerHTML = dateDiff ( today, new Date( 2001, 11 - 1, 05, 13, 20 ) );
+    	document.getElementById ( 'gergoBirthDiff'  ).innerHTML = dateDiff ( today, new Date( 2005, 11 - 1, 11, 10, 45 ) );
+    	document.getElementById ( 'andrasBirthDiff' ).innerHTML = dateDiff ( today, new Date( 2017, 09 - 1, 30, 22, 20 ) );
+
+    	document.getElementById ( 'workTSM' ).innerHTML = &quot;(&quot; + dateDiff ( today, new Date( 2004, 05 - 1, 1, 09, 00 ) ) + &quot;)&quot;;
+    }
+    setInterval ( myTimer, 1000 );
+    
+    function showhide ( id ) {
+    
+    	var len = arguments.length;
+        if ( len == 0 ) return;
+       
+        for( var i = 0; i &lt; len; i++ ) {
+  
+    		var e = document.getElementById( arguments[i] );
+        	e.style.display = ( e.style.display == 'block' ) ? 'none' : 'block';
+        
+     	}
+     }
+     	
+     function enabledisableMouse ( id ) {
+       
+     	var len = arguments.length;
+        if ( len == 0 ) return;
+          
+        for( var i = 0; i &lt; len; i++ ) {
+     
+       		var e = document.getElementById( arguments[i] );
+           	e.style.pointerEvents = ( e.style.pointerEvents == 'none' ) ? 'auto' : 'none';
+           
+        }	
+     	
+     }
+
+	/*
+	 * Function to calculate the absolute difference in days, months and years between 2 days taking into account variable month lengths and leap years
+	 * It ignores any time component (ie hours, minutes and seconds)
+	 *
+	 * https://gist.github.com/clecuona/2945438
+	 */
+	function dateDiff(dt1, dt2)
+	{
+	    /*
+	     * setup 'empty' return object
+	     */
+	    var ret = {days:0, months:0, years:0};
+
+	    /*
+	     * If the dates are equal, return the 'empty' object
+	     */
+	    if (dt1 == dt2) return ret;
+
+	    /*
+	     * ensure dt2 &gt; dt1
+	     */
+	    if (dt1 &gt; dt2)
+	    {
+	        var dtmp = dt2;
+	        dt2 = dt1;
+	        dt1 = dtmp;
+	    }
+
+	    /*
+	     * First get the number of full years
+	     */
+
+	    var year1 = dt1.getFullYear();
+	    var year2 = dt2.getFullYear();
+
+	    var month1 = dt1.getMonth();
+	    var month2 = dt2.getMonth();
+
+	    var day1 = dt1.getDate();
+	    var day2 = dt2.getDate();
+
+	    /*
+	     * Set initial values bearing in mind the months or days may be negative
+	     */
+
+	    ret['years'] = year2 - year1;
+	    ret['months'] = month2 - month1;
+	    ret['days'] = day2 - day1;
+
+	    /*
+	     * Now we deal with the negatives
+	     */
+
+	    /*
+	     * First if the day difference is negative
+	     * eg dt2 = 13 oct, dt1 = 25 sept
+	     */
+	    if (ret['days'] &lt; 0)
+	    {
+	        /*
+	         * Use temporary dates to get the number of days remaining in the month
+	         */
+	        var dtmp1 = new Date(dt1.getFullYear(), dt1.getMonth() + 1, 1, 0, 0, -1);
+
+	        var numDays = dtmp1.getDate();
+
+	        ret['months'] -= 1;
+	        ret['days'] += numDays;
+
+	    }
+
+	    /*
+	     * Now if the month difference is negative
+	     */
+	    if (ret['months'] &lt; 0)
+	    {
+	        ret['months'] += 12;
+	        ret['years'] -= 1;
+	    }
+
+	    // Add string conversion
+	    var returnString = &quot;&quot;;
+
+		if ( ret['years'] != 0 ) {
+	    	returnString += ret['years'] + &quot; &quot; + ( ( ret['years'] != 1 ) ? &quot;years&quot; : &quot;year&quot; );
+		}
+		
+		if ( ret['years'] != 0 &amp;&amp; ret['months'] != 0 ) returnString += &quot;, &quot;;
+
+	 	if ( ret['months'] != 0 ) {
+			returnString += ret['months'] + &quot; &quot; + ( ( ret['months'] != 1 ) ? &quot;months&quot; : &quot;month&quot; );
+	 	}
+	 	
+		if ( (ret['years'] != 0 || ret['months'] != 0 ) &amp;&amp; ret['days'] != 0 ) returnString += &quot; and &quot;;
+
+	  	if ( ret['days'] != 0 ) {
+	 	  	returnString += ret['days'] + &quot; &quot; +( ( ret['days'] != 1 ) ? &quot;days&quot; : &quot;day&quot; );
+	  	}
+
+	    return returnString;
+	}
+
+&lt;/script&gt;
+
+&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/three.js/86/three.min.js&quot;&gt;&lt;/script&gt;
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+  
+ /* https://codepen.io/thebabydino/pen/dvFcz */
+
+  var scene = new THREE.Scene(), 
+    w = window.innerWidth, h = window.innerHeight/2, 
+    camera = new THREE.PerspectiveCamera(
+      50   /* field of view, the lower, the closer it appears */, 
+      w/h  /* aspect ratio of view */, 
+      .1   /* near clipping plane */, 
+      100 /* far clipping plane */), 
+    renderer = new THREE.WebGLRenderer() /* renderer draws on screen what the camera sees */, 
+    
+    /* threejs.org/docs/#Reference/Extras.Geometries/BoxGeometry */
+    geometry = new THREE.BoxGeometry(2, 2, 2), 
+    
+    /* threejs.org/docs/#Reference/Materials/MeshBasicMaterial */
+    material = new THREE.MeshBasicMaterial({ color: 0x000000, wireframe: true }), 
+    cube = new THREE.Mesh(geometry, material);
+
+    var geo = new THREE.EdgesGeometry( geometry ); // or WireframeGeometry( geometry )
+    var mat = new THREE.LineBasicMaterial( { color: 0x000000, linewidth: 1 } );
+    cube = new THREE.LineSegments( geo, mat );
+
+    renderer.setClearColor( 0xffffff );
+
+var animate = function() {
+  
+  renderer.render(scene, camera); /* this is enough to render cube if not animated */
+  
+  /* keep increasing rotation around the y-axis */
+  cube.rotation.y += .02; /* the higher the value, the faster it rotates */
+  cube.rotation.x += .01;
+  //cube.rotation.z += .02;
+
+  requestAnimationFrame(animate);
+};
+
+renderer.setSize(w, h);
+document.body.appendChild(renderer.domElement); /* add our renderer to the body element */
+
+scene.add(cube); /* cube added at coordinates (0, 0, 0) */
+
+/* move the cube from inside the camera, the higher the value, the further away it goes */
+camera.position.z = 5;
+
+animate();
+
+&lt;/script&gt;
+
 </content>
   </entry>
   
@@ -1055,15 +1647,6 @@ Levin, Ira: A brazíliai fiúk (Rakéta regényújság 137., 1987, 20-26. szám)
     <link href="http://0.0.0.0:4000/muzaxCD.html"/>
     <updated>2018-01-28T19:36:21+01:00</updated>
     <id>http://0.0.0.0:4000/muzaxCD</id>
-    <content type="html">
-</content>
-  </entry>
-  
-  <entry>
-    <title>Gadgets /  [2018]</title>
-    <link href="http://0.0.0.0:4000/gadgets.html"/>
-    <updated>2018-01-28T19:32:17+01:00</updated>
-    <id>http://0.0.0.0:4000/gadgets</id>
     <content type="html">
 </content>
   </entry>
