@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    👫 Friends / barátok [2018]
+title:    👫 Friends / barátok
 author:   flex
 comments: true
 category: Friends / barátok

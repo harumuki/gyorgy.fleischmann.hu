@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    Gadgets /  [2018]
+title:    👍 Gadgets / kütyük
 author:   flex
 comments: true
 category: Gadgets / 

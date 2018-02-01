@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    🖥 macOSApps / macOSApps [2018]
+title:    🖥 macOSApps
 author:   flex
 comments: true
 category: macOSApps / macOSApps

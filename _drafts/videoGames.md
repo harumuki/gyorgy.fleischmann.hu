@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    🎮 Video games / videojátékok [2018]
+title:    🎮 Video games / videojátékok
 author:   flex
 comments: true
 category: Video games / videojátékok

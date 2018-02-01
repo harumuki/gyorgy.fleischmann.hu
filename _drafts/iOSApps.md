@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    📱 iOS / iOS [2018]
+title:    📱 iOS
 author:   flex
 comments: true
 category: iOS / iOS

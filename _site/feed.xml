@@ -3,7 +3,7 @@
   <title>News 'n' Updates | gyorgy.fleischmann.hu</title>
   <link href="http://0.0.0.0:4000/feed.xml" rel="self"/>
   <link href="http://0.0.0.0:4000/"/>
-  <updated>2018-01-29T19:53:12+01:00</updated>
+  <updated>2018-02-01T14:08:54+01:00</updated>
   <id>http://0.0.0.0:4000/</id>
   <author>
     <name></name>
@@ -12,1134 +12,44 @@
 
   
   <entry>
-    <title>🎧 Muzax</title>
-    <link href="http://0.0.0.0:4000/muzax.html"/>
-    <updated>2018-01-29T09:50:18+01:00</updated>
-    <id>http://0.0.0.0:4000/muzax</id>
-    <content type="html">&lt;p&gt;Ahogyan &lt;a href=&quot;timeline.html&quot;&gt;itt&lt;/a&gt; már leírtam szépen lassan gyerekkoromtól beépült az életembe a zene. Ezen az oldalon összeszedem azokat, amik a legkedvesebbek nekem.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Laurie Anderson&lt;/strong&gt;: Home Of The Brave (1986)&lt;/p&gt;
-
-&lt;div class=&quot;videocontainer&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/mua8Pr6uRso&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; class=&quot;iframeshadow&quot; width=&quot;1024&quot; height=&quot;576&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
+    <title>👍 Gadgets / kütyük</title>
+    <link href="http://0.0.0.0:4000/gadgets.html"/>
+    <updated>2018-01-29T20:36:00+01:00</updated>
+    <id>http://0.0.0.0:4000/gadgets</id>
+    <content type="html">
 </content>
   </entry>
   
   <entry>
-    <title>🎬 Movies / filmek</title>
-    <link href="http://0.0.0.0:4000/movies.html"/>
-    <updated>2018-01-29T09:49:12+01:00</updated>
-    <id>http://0.0.0.0:4000/movies</id>
-    <content type="html">&lt;!-- break --&gt;
-
-&lt;div class=&quot;leftbox&quot; style=&quot;width: 15% ;&quot;&gt;&lt;a href=&quot;https://port.hu/adatlap/film/mozi/thelma-thelma/movie-196009#video-983530&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;http://t2.gstatic.com/images?q=tbn:ANd9GcSaKPgvVW33At9xYgW3PXplfAiwQxGnPkqeHhCaG6B5TCUDlB72&quot; alt=&quot;Thelma&quot; title=&quot;Thelma&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Thelma&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;“Thelma, egy vallásos háttérrel rendelkező norvég diáklány Oslóba költözik, ahol beleszeret egy másik lányba. S miközben szégyenérzettel terhelt szexuális ébredését éli meg, Thelma felfedezi, hogy természetfeletti képességgel és erővel rendelkezik.”&lt;/p&gt;
-
-&lt;hr style=&quot;clear: both;&quot; /&gt;
-
-&lt;div class=&quot;leftbox&quot; style=&quot;width: 15% ;&quot;&gt;&lt;a href=&quot;https://port.hu/adatlap/film/mozi/lady-bird-lady-bird/movie-191843#video-969510&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;http://t2.gstatic.com/images?q=tbn:ANd9GcT0Yf7_FepQU9VEbNsZ7824_2nvdFKOlogCo-yvJhSjuRA22aYg&quot; alt=&quot;Lady Bird&quot; title=&quot;Lady Bird&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Lady Bird&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;“Greta Gerwig első önálló rendezése merész, új hangot üt meg, bravúrosan tárja fel a humort és a pátoszt, amit egy anya és tinédzser lánya közti viharos viszony rejt.
-Christine “Lady Bird” McPherson (Saoirse Ronan) teljesen olyan, mint a szeretettől túláradó, megrögzötten makacs és határozott anyja, Marion (Laurie Metcalf), akivel örökös harcban áll. Marion nővér, és fáradhatatlanul dolgozik, hogy ellássa családját, miután Lady Bird apja elveszíti az állását. A kaliforniai Sacramentóban vagyunk 2002-ben, az amerikai gazdaság szeszélyesen változásai közepette játszódó történet érzékeny tükröt tart a kapcsolatoknak, melyek formálnak minket, a hiteknek, melyek meghatároznak minket, és a páratlan szépségű helynek, amelyet otthonnak nevezünk. “&lt;/p&gt;
-
-&lt;hr style=&quot;clear: both;&quot; /&gt;
-
-&lt;div class=&quot;leftbox&quot; style=&quot;width: 15% ;&quot;&gt;&lt;a href=&quot;https://port.hu/adatlap/film/mozi/szolits-a-neveden-call-me-by-your-name/movie-197412&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;http://t1.gstatic.com/images?q=tbn:ANd9GcRDtqzFejuwWDwGc41npRohO8lsVRfwzGXkjpinHQ3ZRuEvZWKH&quot; alt=&quot;Szólíts a neveden /Call Me by Your Name/&quot; title=&quot;Szólíts a neveden /Call Me by Your Name/&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Szólíts a neveden /Call Me by Your Name/&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;“Egy nyár Észak-Olaszországban. Elio (Timothée Chalamet), a 17 éves amerikai srác számára maga a paradicsom. A szüleivel együtt minden évben ugyanabban az ódon villában meg kertben tölti a vakációt, és ugyanazok a régi barátok veszik körül. Buliznak, strandolnak, zenét hallgatnak, beszélgetnek, és persze szerelemesek?
-Elio apja művészettörténész, aki minden évben befogadja néhány hétre egy tanítványát. Ezúttal a doktori disszertációján dolgozó Oliver (Armie Hammer) érkezik, aki megzavarja a boldog harmóniát. Nem illik ide. Túl laza, túl szép, nem tudni mit akar.
-Ez a nyár más, mint a korábbiak. Boldog és furcsa, szerelemmel és bánattal teli. És mire véget ér, már semmi nem lehet ugyanolyan, mint addig volt. “&lt;/p&gt;
-
-&lt;hr style=&quot;clear: both;&quot; /&gt;
-
-&lt;div class=&quot;leftbox&quot; style=&quot;width: 15% ;&quot;&gt;&lt;a href=&quot;https://port.hu/adatlap/film/mozi/szarnyas-fejvadasz-2049-blade-runner-2049/movie-176846#video-963594&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://upload.wikimedia.org/wikipedia/en/9/9b/Blade_Runner_2049_poster.png&quot; alt=&quot;Szárnyas fejvadász 2049 /Blade Runner 2049/&quot; title=&quot;Szárnyas fejvadász 2049 /Blade Runner 2049/&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Szárnyas fejvadász 2049 /Blade Runner 2049/&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;“Bár az alkotók az új történetet hét lakat alatt tartják, azt már tudjuk, hogy minden idők talán legnagyobb legendájú sci-fi/akciófilmje jó kezekben van: a producer az első rész rendezője, Ridley Scott, a rendező pedig az utóbbi évek legnagyobb meglepetéseit készítő kanadai Denis Villeneuve. Már maga a sztárszereposztás is fantasztikus filmmé teszi az új Szárnyas fejvadászt: minden esély megvan rá, hogy a Budapesten forgatott új rész felnő az elsőhöz, és maga is legendává válik.”&lt;/p&gt;
-
-&lt;!-- break --&gt;
-
-&lt;hr style=&quot;clear: both;&quot; /&gt;
-
-&lt;div class=&quot;leftbox&quot; style=&quot;width: 15% ;&quot;&gt;&lt;a href=&quot;https://port.hu/adatlap/film/tv/a-kigyo-olelese-el-abrazo-de-la-serpiente/movie-168036?section=mozi&amp;amp;title=a-kigyo-olelese-el-abrazo-de-la-serpiente&amp;amp;id=movie-168036#video-916198&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;http://www.amoiralcine.com/wp-content/uploads/2016/02/Poster-Oficial-El-Abrazo-de-la-Serpiente-Venezuela-1-717x1024.jpg&quot; alt=&quot;A kígyó ölelése /El abrazo de la serpiente/&quot; title=&quot;A kígyó ölelése /El abrazo de la serpiente/&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;A kígyó ölelése /El abrazo de la serpiente/&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;“Karamakate, a nagyhatalmú amazóniai sámán, törzsének utolsó képviselője a világtól elvonultan, a dzsungel mélyén él. A magány évtizedei chullachaqui-vá változtatták, olyan emberré, aki emlékek és érzelmek nélküli üres kéregként létezik. Életét azonban felrázza egy amerikai etnobotanikus érkezése, aki a Yakrunát, a szent varázsnövényt keresi, amely megtanít álmodni. Együtt indulnak Amazónia szívébe, és utazásuk során a múlt, a jelen és a jövő egybeolvad, Karamakate pedig lassan visszanyeri elveszett emlékeit.
-A történet a sámán és a két megszállott fehér ember road movie-ján túl a kolumbiai rendező kezében az őstermészet és a globalizáció örökös küzdelméről szóló gigantikus parabolává nemesül. A film egy őslakos szemével láttatja a gyarmatosítás groteszkségét, a hittérítés bornírtságát, és egy valódi ayahuasca-szeánsz után nekünk szegezi a kérdést: vajon elég bölcsek vagyunk ahhoz, hogy örökségünket ne játsszuk ki mohó anyagi érdekeknek?”&lt;/p&gt;
-
-&lt;hr style=&quot;clear: both;&quot; /&gt;
-
-&lt;div class=&quot;leftbox&quot; style=&quot;width: 15% ;&quot;&gt;&lt;a href=&quot;https://port.hu/adatlap/film/tv/mustang-mustang/movie-169772#video-921046&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;http://t1.gstatic.com/images?q=tbn:ANd9GcTXW5ECjwVJt3CsEm1aphgMqCGtBGUBoX50a8-WkV43Vg_V_MlI&quot; alt=&quot;Mustang&quot; title=&quot;Mustang&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Mustang&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;“Öt lánytestvér egy török faluban él nagybátyjukkal és nagyanyjukkal. A kamaszlányok felhőtlen boldogságban vágnak neki a nyári szünetnek, de a bigott török közeg a legkisebb kilengést sem tűri: az egyik szomszédasszony jelenti a lányok erkölcseire vigyázó nagymamának, hogy azok együtt fürödtek a tengerben a falubeli fiúkkal. A nyári vakáció a lányok számára nem azt a szabadságot hozza, amire számítottak, éppen ellenkezőleg, nevelőik egyre drasztikusabb módszerekkel próbálják betörni őket és megakadályozni, hogy az ezeréves tradíciók ellenében viselkedjenek. Az öt lány öt különböző választ ad az elnyomásra.”&lt;/p&gt;
-
-&lt;hr style=&quot;clear: both;&quot; /&gt;
-
-&lt;h1 id=&quot;movies&quot;&gt;Movies&lt;/h1&gt;
-
-&lt;p&gt;Magyar
-Isteni műszak&lt;/p&gt;
-
-&lt;p&gt;45 év / 45 Years (2015)
-Jelenetek egy házasságból
-Up in the air
-Betty Blue 
-A Pont-Neuf szerelmesei
-A nagy kékség
-Blue Is the Warmest Color
-Fish Tank
-Headhunters [Hodejegerne]
-Bikanyak (Bullhead) magyar előzetes
-A Generalis
-Rust and Broken
-All.About.My.Mother
-Europa
-Avatar
-A világ végéig ~ A Trilógia - Until The End Of The World
-Az utolsó mohikán
-Before Sunrise
-Blade Runner
-Boyhood (2014) [1080p]
-Brazil 1985
-Breaking Away
-Broken.Embraces.2009.HUN.DVDRiP.XviD-Legacy
-Cafe.de.Flore.2011.CUSTOM.BDRip.XviD.Hungarian-HuSync
-Casablanca 1942
-Castillos De Carton
-Deadpool
-Hamam
-Hair
-Forrest.Gump
-Flashdance
-9 és 1/2 hét
-Ghost.in.the.Shell
-Ive.Loved.You.So.Long
-Jesus Christ Superstar
-Kolya
-Mommy.2014
-Monty Python and the Holy Grail 1975
-Top.Gun
-Volt egyszer egy vadnyugat
-Vörös Sárkány (Red Dragon)
-The.Magnificent.Seven
-The Fault in Our Stars
-The.Man.From.U.N.C.L.E.
-Starship Troopers
-Scott Pilgrim
-Sicario
-The Best Exotic
-The.Brand.New.Testament
-Office Space
-Night on Earth
-Kill Bill	
-New York bandái
-Short cuts
-Less Than Zero 
-remeny rabjai&lt;/p&gt;
-
-&lt;p&gt;20th.Century.Women.2016.HUN.BDRiP.XviD-Gianni
-45.ev.2015.HUN.ENG.CUSTOM.BDRip.x264-PLAN9
-A Generalis.m4v
-A Generalis.m4v.vsmeta
-A.Gun.in.Each.Hand.[Una.Pistola.en.Cada.Mano].DVDRip.2012.XviD.HORiZON-ArtSubs
-A hét mesterlövész 1960
-All.About.My.Mother.1999.BDRip.XviD.HUN-CRW
-Allegiant.2016.BDRiP.x264.HuN-HyperX
-A.martfui.rem.2016.720p.HDTV.DD5.1.x264.HuN-CRLS
-American.Made.2017.BDRip.X264-DEFLATE
-Annie Hall 1977
-Avatar Extended Collectors Edition
-A világ végéig ~ A Trilógia - Until The End Of The World (Wim Wenders 1991)
-A Woman Under the Influence 1974
-Az ajánlat 2005
-Az.ajanlat.2005.DVDRip.XviD.Hun.AC3.5.1-Timba
-Az utolsó mohikán (The Last Of The Mohicans) 1992
-Bartali.2006.DVDRiP.x264.HuN-ClunkyChip
-Batman.v.Superman.Dawn.of.Justice.2016.EXTENDED.BDRip.x264-SPARKS
-Before Midnight 2013
-Before Sunrise.1995.DVDRip.x264.480p.YIFY.mkv
-Before.Sunset.200.7BrRip.720p.x264.YIFY.mkv
-Berlin felett az ég 1987
-Beszelj.Hozza.2002.BDRip.XviD.HUN-1st
-Blade Runner
-Blade Runner 2049.720p.WEB-DL.H264.AC3-EVO
-Blancanieves 2012
-Blue Is the Warmest Color 2013
-Blue.Jasmine.2013.BDRip.x264.HuN-No1
-Boyhood (2014)
-Boyhood (2014) [1080p]
-Brazil 1985
-Breaking Away 1979
-Bridge.of.Spies.2015.BDRip.x264-SPARKS
-Broken.Embraces.2009.HUN.DVDRiP.XviD-Legacy
-Cafe.de.Flore.2011.CUSTOM.BDRip.XviD.Hungarian-HuSync
-Casablanca 1942
-Castillos De Carton
-Chinatown [1974] Eng 720p
-Colossus - The Forbin Project (1970)
-Criminal.2016.BDRiP.x264.HuN-HyperX
-Cross Of Iron 1977
-Deadpool.2016.BDRiP.x264.HuN-HyperX
-Deepwater.Horizon.2016.720p.BluRay.DTS.x264.HuN-HyperX
-Demolition.2015.BDRip.x264-GECKOS
-Diary Of A Country Priest 1951.m4v
-Dilisek vacsorája 1998
-Dirty Dancing 1987
-Dirty Dancing 2 2004
-Doctor.Strange.2016.720p.BluRay.DTS.x264-VietHD
-Dunkirk.2017.BDRip.x264-SPARKS
-@eaDir
-Elet.vagy.valami.hasonlo.2002.HUN.DVDRiP.XviD-seven
-Elle.2016.720p.BluRay.DTS.x264-VietHD
-Embrace.of.the.Serpent.2015.LIMITED.BDRip.x264-DEPTH
-Enemy.at.the.Gates.2001.HUN.BDRip.Xvid-ZHR
-E.T. A  Földönkívüli
-Eye.in.the.Sky.2015.BDRiP.x264.HuN-HyperX
-Eyes Wide Shut 1999
-Fantomas BOXSET
-Felon.2008.BDrip.Custom.HUN.x264-DenZo
-Final Cut - Hölgyeim és Uraim.avi
-Final.Fantasy.Advent.Children.Complete.2009.720p.BluRay.DTS.x264-THORA
-Flashdance 1983
-Forrest.Gump.1994.720p.BluRay.DTS.x264.Hungarian-BW
-Full Metal Jacket 1987
-Get.Out.2017.720p.BluRay.DTS.x264.HuN-No1
-Ghost.in.the.Shell.2017.720p.BluRay.DD-EX.x264-BabyRed
-Gifted.2017.BDRip.x264-GECKOS
-Goodfellas.1990.Special.Edition.DVDRip.XviD.INTERNAL
-Hair 1979
-Hamam (1997)
-Hannah.and.Her.Sisters.1986.HUN.DVDRiP.XviD-Legacy
-Harry Potter
-Headhunters [Hodejegerne] [2011] 720p ReRip BRRip H264 AC3 - CODY
-Hell.or.High.Water.2016.BDRip.x264-DiAMOND
-Hervadó virágok (Broken Flowers) 2005
-Hidden.Figures..2016.DVDSCR-P2P
-Homefront.2013.BDRip.x264-R4Z3R
-Incendies.LIMITED.DVDRip.XviD-DoNE
-Indiana.Jones.and.the.Last.Crusade.1989.iNT.CUSTOM.HUN.DVDRiP.XviD-DWP
-Indiana.Jones.and.The.Raiders.of.The.Lost.Ark.1981.BDrip.Custom.HUN.x264-DenZo
-Indiana.Jones.And.The.Temple.Of.Doom.1984.BDrip.Custom.HUN.x264-DenZo
-In Search of a Midnight Kiss
-Into.The.Wild.2007.DVDRip.XviD-FLAiTE
-In.Your.Eyes.2014.DVDRip.x264-BiPOLAR
-Ip.Man.3.2015.CUSTOM.BDRip.x264.HUN-SLN
-Ive.Loved.You.So.Long.2008.LiMiTED.DVDRip.XviD-NODLABS
-Jack.Reacher.Never.Go.Back.2016.720p.WEB-DL.H264.AC3-EVO
-Jamesbond.ULTiMATE.Collection.HUN.PAL.DVDR-Zso
-Jesus Christ Superstar - Jézus Krisztus Szupersztár 1973
-Julieta.2016.LIMITED.BDRip.x264-BiPOLAR
-Jurassic.World.2015.BDRip.x264.HuN-HRT
-Kedi (2017) 1080p x264
-Kikepzes.2001.DVDRip.XviD.HUN-BOSS
-Kill Bill
-Kill Bill The Whole Bloody Affair 2012
-Kill.Command.2016.BDRiP.x264.HuN-HyperX
-King.Arthur.Legend.of.the.Sword.2017.BluRay.720p.DD5.1.x264.HuN-TRiNiTY
-Kingsglaive.Final.Fantasy.XV.2016.BDRiP.x264.HuN-HyperX
-Kolya 1996 Jan Sverak
-Komputerkémek 1992
-La Grande Bellezza [The Great Beauty] 2013
-La.La.Land.2016.DVDScr.XVID.AC3.HQ.Hive-CM8
-La.mala.educacion.2004.720p.BluRay.x264.HuN-TRiNiTY
-La.Meglio.Gioventu.Atto.Primo.2003.iTALIAN.DVDRip.XviD-TRL
-Lélekszakadva 2002.avi
-Lion.2016.1080p.WEB-DL.DD5.1.H264-FGT
-Live.Flesh.1997.HUN.CUSTOM.DVDRip.XviD-deadinside
-Logan.2017.BDRiP.x264.HuN-HyperX
-Lost.in.Translation.2003.DVDRip.HUN.Xvid-EVOlution
-Louis.De.Funes.A.Csendor.Es.A.Csendorlanyok.DVDRip.XviD.Hun-NoGrp
-Louis.De.Funes.A.Csendor.Es.A.Foldonkivuliek.DVDRip.XviD.Hun-NoGrp
-Louis.De.Funes.A.Csendor.Nosul.DVDRip.XviD.Hun-NoGrp
-Louis.De.Funes.A.Csendor.Nyugdijba.Megy.DVDRip.XviD.Hun-NoGrp
-Louis.De.Funes.A.Fosveny.DVDRip.XviD.Hun-NoGrp
-Louis.De.Funes.A.Saint.Tropezi.Csendor.DVDRip.XviD.Hun-NoGrp
-Majdnem.Hires.2000.Custom.Hun.Pal.DVDR-NBTIMI
-Manchester.by.the.Sea.2016.BDRip.x264-GECKOS
-Manhattan.1979.DVDRiP.XViD.Hun-WebShit
-Martin.Scorsese.Movie.Pack.DVDRip.XviD.ArenaBG
-Match.Point[2005]DvDrip[Eng]-aXXo
-Me.Before.You.2016.BDRiP.x264.HuN-HyperX
-Mechanic.Resurrection.2016.BDRiP.x264.HuN-HyperX
-Mission.Impossible.Trilogy
-Miss.Sloane.2016.HUN.BDRiP.XviD-Gianni
-Modern Times 1936
-Mommy.2014.720p.BluRay.x264-PSYCHD
-Monty Python and the Holy Grail 1975
-Monty Python Live At The Hollywood Bowl 1982
-Mr.and.Mrs.Smith.2008.RETAIL.DVDRiP.XviD.HUN-DynamicLife
-Mustang.2015.BDRip.x264.HuN-Nimphas
-Night on Earth
-Nincs.bocsanat.1992.DUAL.DVDRiP.XviD-seven
-Nine.And.A.Half.Weeks.1986.HUN.DVDRip.XviD-pocokmaster
-Nocturnal.Animals.2016.720p.BluRay.DTS.x264.HuN-TRiNiTY
-Office Space1999 720p
-Office Space [Special Edition] 1999
-Óz, a csodák csodája (The Wizard of Oz) 1939.avi
-Oz the Great and Powerful 2013 1080p 3D
-Palackposta.2016.BDRip.x264.HuN-BaKeR
-Passengers (2016) x264 AAC 2.0 HDCAM (Deflickered) -DDR
-Paterson.2016.BDRip.X264-AMIABLE[rarbg]
-Paterson.2016.DVDScr.XVID.AC3.HQ.Hive-CM8[oscars]
-Persepolis 2007
-Phoenix.2014.BRRip.XviD.AC3-EVO
-Pirates.of.the.Caribbean.Dead.Men.Tell.No.Tales.2017.HUN.BDRiP.XviD-Gianni
-Pirates.Of.The.Caribbean.II.Dead.Mans.Chest.2006
-Pirates.of.the.Caribbean.The.Curse.of.the.Black.Pearl.2003
-Pitkin
-Pour.La.Peau.D’un.Flic.1981.720p.BluRay.AC3.x264.HuN-AMBiLiGHT
-Proof.2005.HUN.BDRiP.x264-ARROW
-Pulp Fiction 1994
-Rope 1948.mkv
-Saturday Night Fever - Szombat esti láz 1977
-Scott Pilgrim vs the World 2010
-Shot.Caller.2017.HUN.BDRiP.XviD-Gianni
-Sicario.2015.BDRip.x264-SPARKS
-Solaris
-Spartacus 2 disc edition 1960
-Starship Troopers (1997)
-Starship.Troopers.Invasion.2012.DVDRip.XviD-DiSPOSABLE
-Starship.Troopers.Traitor.of.Mars.2017.HUN.720p.BluRay.DTS.x264-DeeMoN
-Suicide.Squad.2016.TC.WEBRiP.x264.HuN-HyperX
-Szabadeses.2014.RETAiL.DVDRip.x264.HuN-No1
-Sztalker
-The.Accountant.2016.BDRiP.x264.HuN-HyperX
-The Best Exotic Marigold Hotel
-The Big Lebowski 1998
-The.Big.Short.2015.BDRiP.x264.HuN-HyperX
-The.Brand.New.Testament.2015.CUSTOM.BDRip.x264.HUN-HTH
-The.Bridge.on.the.River.Kwai.1957.HUN.BDRip.XviD-HDEvo
-The.Drop.2014.720p.WEB-DL.DD5.1.H264-RARBG
-The Fault in Our Stars 2014
-The.Garage.1920.REMASTERED.BDRip.x264-GHOULS
-The.Girl.on.the.Train.2016.BDRiP.x264.HuN-HyperX
-The Gold Rush 1925
-The.Great.Escape.1963.iNT.CUSTOM.DVDRip.XviD.Hungarian-AlienSExist
-The.Kid.1921
-The.Magnificent.Seven.2016.HUN.BDRiP.x264-ARROW
-The.Man.From.U.N.C.L.E.(8.Movies.Collection)480p.DVDRip.H264(BINGOWINGZ-UKB-RG)
-The.Man.Who.Knew.Infinity.2015.BDRiP.x264.HuN-HyperX
-The.Matrix.Trilogy.ReTaiL.BDRip.XviD.DuaL-PpB
-The.Notebook.2004.Custom.BDRip.x264.HUN-MDC
-The Secret Life of Walter Mitty 2013
-The.Shallows.2016.BDRip.x264-GECKOS
-The Shawshank Redemption 1994
-The.Twilight.Saga.Eclipse.2010.iNT.BDRip.XviD.HUN-PpB
-The Unbearable Lightness of Being 1988
-The.Wizard.of.Lies.2017.HUN.BDRiP.XviD-Gianni
-Titanic.1997.HUN.BDRiP.x264-DWP
-Toni.Erdmann.2016.720p.BluRay.x264-SADPANDA
-Top.Gun.1986.REPACK.2xHUN.720p.BluRay.x264-TOXI
-Top.Secret.1984.DVDrip.Hun-FegRa
-Trance
-Tükör által homályosan.ISO
-Twilight 01 - Twilight.epub
-Under Fire 1983
-Under Fire 1983 hun
-Űrgolyhók (Spaceballs)
-Volt egyszer egy vadnyugat - Cera Una Volta Il West 1968
-Vörös Sárkány (Red Dragon) 2002
-Wild Tales 2014
-Wind.River.2017.720p.BluRay.x264-GECKOS
-Women.on.the.Verge.of.a.Nervous.Breakdown.1988.BDRip.x264.HUN-CRW
-Youth.2015.BDRip.x264-PHOBOS
-Zabriskie Point 1970
-Zelig
-Zodiac.2007.DC.BDrip.Custom.HUN.x264-DenZo&lt;/p&gt;
+    <title>👫 Friends / barátok</title>
+    <link href="http://0.0.0.0:4000/friends.html"/>
+    <updated>2018-01-29T20:30:53+01:00</updated>
+    <id>http://0.0.0.0:4000/friends</id>
+    <content type="html">
 </content>
   </entry>
   
   <entry>
-    <title>📚 Books / könyvek</title>
-    <link href="http://0.0.0.0:4000/books.html"/>
-    <updated>2018-01-29T09:48:53+01:00</updated>
-    <id>http://0.0.0.0:4000/books</id>
-    <content type="html">&lt;p&gt;Ezen az oldalon tervezem összeszedni az általam kedvelt (e vagy papír alapú) könyveket. Jelenleg ezeket olvasom/&lt;del&gt;tam&lt;/del&gt; mostanában.&lt;/p&gt;
+    <title>📱 iOS</title>
+    <link href="http://0.0.0.0:4000/iOSApps.html"/>
+    <updated>2018-01-29T20:30:29+01:00</updated>
+    <id>http://0.0.0.0:4000/iOSApps</id>
+    <content type="html">&lt;h1 id=&quot;apple-ios-apps&quot;&gt;Apple iOS apps&lt;/h1&gt;
 
-&lt;!-- break --&gt;
+&lt;p&gt;I have an iPhone 6 16GB. Here is a list of the ones that I love and use the most of my day to day life, sorted by their importance:&lt;/p&gt;
 
-&lt;h2 id=&quot;de-előtte-jöjjön-a-lényeg-az-én-aktuális-könyv-toplistám&quot;&gt;De előtte jöjjön a lényeg az én aktuális könyv TOPlistám:&lt;/h2&gt;
-
-&lt;p&gt;&lt;span&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://moly.hu/system/covers/big/covers_370521.jpg&quot; alt=&quot;&quot; style=&quot;width: 12%;&quot; /&gt;&lt;/span&gt;
-&lt;span&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://moly.hu/system/covers/big/covers_434886.jpg?1490173019&quot; alt=&quot;&quot; style=&quot;width: 12%; margin-left: -4em;&quot; /&gt;&lt;/span&gt;
-&lt;span&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://moly.hu/system/covers/big/covers_35427.jpg?1395354721&quot; alt=&quot;&quot; style=&quot;width: 12%;&quot; /&gt;&lt;/span&gt;
-&lt;span&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://moly.hu/system/covers/big/covers_37727.jpg&quot; alt=&quot;&quot; style=&quot;width: 12%;&quot; /&gt;&lt;/span&gt;
-&lt;span&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://s04.static.libri.hu/cover/8d/1/3277407_5.jpg&quot; alt=&quot;&quot; style=&quot;width: 12%;&quot; /&gt;&lt;/span&gt;
-&lt;span&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://s03.static.libri.hu/cover/1a/8/4039575_5.jpg&quot; alt=&quot;&quot; style=&quot;width: 12%;&quot; /&gt;&lt;/span&gt;
-&lt;span&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://www.book24.hu/thumbnails/215/0/img/boritok/agave/csomag_john-scalzi-venek-haboruja-1-4-promo.png&quot; alt=&quot;&quot; style=&quot;width: 12%;&quot; /&gt;&lt;/span&gt;
-&lt;span&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://s06.static.libri.hu/cover/69/e/817799_5.jpg&quot; alt=&quot;&quot; style=&quot;width: 12%;&quot; /&gt;&lt;/span&gt;
-&lt;span&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://s01.static.libri.hu/cover/e6/6/3201999_4.jpg&quot; alt=&quot;&quot; style=&quot;width: 12%;&quot; /&gt;&lt;/span&gt;
-&lt;span&gt;&lt;img class=&quot;shadow&quot; src=&quot;http://nagysandor.eu/images/objects/books/brosnan.jpg&quot; alt=&quot;&quot; style=&quot;width: 12%;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr style=&quot;clear: both;&quot; /&gt;
-
-&lt;!-- Folyamatban --&gt;
-&lt;div class=&quot;rightbox rightboxborders&quot; style=&quot;width: 35%;&quot;&gt;
-&lt;h2&gt;Folyamatban:&lt;/h2&gt;
-
-&lt;ul&gt;
-	&lt;li&gt;Popper Péter: Felnőtnek lenni&lt;/li&gt;
-	&lt;li&gt;Taylor, Dennis E.: MI, Bob&lt;/li&gt;
-	&lt;li&gt;Parti Nagy Lajos: Fülkefor ​és vidéke, Fülkefória és vidéke (II)&lt;/li&gt;
-	&lt;li&gt;Moldova György: Keserű ​Pohár I-III.&lt;/li&gt;
-	&lt;li&gt;Kellerman, Faye: Szemfényvesztés&lt;/li&gt;
-	&lt;li&gt;Zoltán Gábor: Orgia&lt;/li&gt;
-	&lt;li&gt;Bolano(Bolaño), Roberto: 2666&lt;/li&gt;
-	&lt;li&gt;Szabó T. Anna: Törésteszt&lt;/li&gt;
-	&lt;li&gt;Chiang, Ted: Életed törtenete&lt;/li&gt;
-	&lt;li&gt;Eggers, Dave: A Kör &lt;/li&gt;
-	&lt;li&gt;Kelly, Scott: Endurance (angol)&lt;/li&gt;
-	&lt;li&gt;Radnóti Miklósné Gyarmati Fanni: Napló 1935-1946 I-II.&lt;/li&gt;
-	&lt;li&gt;Joyce, James: Ulysses&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;/div&gt;
-&lt;p&gt;&lt;!-- Folyamatban --&gt;&lt;/p&gt;
-
-&lt;div class=&quot;leftbox&quot; style=&quot;width: 15%;&quot;&gt;&lt;a href=&quot;https://moly.hu/konyvek/jared-diamond-haboruk-jarvanyok-technikak&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://moly.hu/system/covers/big/covers_262501.jpg?1395465817&quot; alt=&quot;Diamond, Jared - Háborúk, ​járványok, technikák&quot; title=&quot;Diamond, Jared - Háborúk, ​járványok, technikák&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Diamond, Jared - Háborúk, ​járványok, technikák&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;“A „háborúk járványok technikák” a világtörténelem alapvető kérdésére keresi a választ: „miért az európai civilizáció hódította meg a világot, miért nem másként történt ez?” Így is fogalmazhatunk: Miért Pisaro maroknyi csapata győzte le Atahualpa inka fejedelmet és hatalmas hadseregét, miért nem ő kényszerítette térdre I. Károly spanyol királyt (és egyben Német-Római császárt)? Vagy ahogy az új-guineai Yali – a szerző barátja – vetette fel: Miért van az, hogy ti fehérek olyan sok árut termeltetek és hoztatok Új-Guineába, míg nekünk feketéknek, oly kevés saját árunk van? A provokatív kérdésekre rendhagyó, nagyívű válasz születik, nemcsak a történelem, hanem a földrajz, a biológia, a régészet, a nyelvészet, a járványtan és antropológia, valamint a tudomány- és technikatörténet alapján, mintegy 13 ezer éves időskálán mozogva új összefüggések rajzolódtak ki.”&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;div class=&quot;leftbox&quot; style=&quot;width: 15%;&quot;&gt;&lt;a href=&quot;https://www.agavekonyvek.hu/konyvek/ready-player-one&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://www.book24.hu/thumbnails/215/0/img/boritok/agave/ernest_cline_ready_player_one_b1_72pi.jpg&quot; alt=&quot;Cline, Ernest: Ready Player One&quot; title=&quot;Cline, Ernest: Ready Player One&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Cline, Ernest: Ready Player One&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;“2044-et írunk, és a valóság elég ronda egy hely. Az emberiség nagy részéhez hasonlóan a gimnazista Wade Watts is azt a kiutat látja zord környezetéből, hogy bejelentkezik az OASIS-ba, a világméretű virtuális utópiába, ahol az avatárján keresztül mindenki szabadon tanulhat, dolgozhat, és szórakozhat. Ugyancsak az emberiség nagy részéhez hasonlóan Wade is arról álmodozik, hogy ő találja meg elsőként a virtuális világ elrejtett kincsét. A szimuláció tervezőjeként ismert James Halliday ugyanis ördögi feladványt hagyott maga után, amelynek leggyorsabb megfejtője szédületes vagyonra és hatalomra tehet szert.&lt;/p&gt;
-
-&lt;p&gt;A Halliday által kifundált feladatok sikeres teljesítéséhez a popkultúra megszállott ismeretére van szükség, Wade pedig éppúgy otthon van a Gyalog galoppban, mint a Pac-Manben, a Rush életművében vagy az animékben. Amikor a tizennyolc éves srác hosszú évek kitartó munkája után megoldja az első feladványt, hirtelen a figyelem középpontjába kerül, és ez életveszélybe sodorja. Egyes játékosok ugyanis még a gyilkosságig is hajlandóak elmenni a mesés nyeremény megszerzéséért.&lt;/p&gt;
-
-&lt;p&gt;Ernest Cline első regénye a 2011-es megjelenését követően megkapta a rangos Prometheus-díjat, és mostanra a popkulturális irodalom egyik legfontosabb kortárs művévé vált. Több millió példányban adták el, világszerte óriási rajongótábora van, és készül belőle már a nagyköltségvetésű film is: Steven Spielberg rendezésében 2018 márciusában mutatják be a mozik.”&lt;/p&gt;
-
-&lt;hr style=&quot;clear: both;&quot; /&gt;
-
-&lt;div class=&quot;leftbox&quot; style=&quot;width: 15%;&quot;&gt;&lt;a href=&quot;http://fumax.hu/termek/andy_weir_artemis.html&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://s01.static.libri.hu/cover/79/4/4189827_5.jpg&quot; alt=&quot;Weir, Andy: Artemis&quot; title=&quot;Weir, Andy: Artemis&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Weir, Andy: Artemis&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;“Jazz Bashara bűnöző.&lt;/p&gt;
-
-&lt;p&gt;Vagy valami olyasmi. Az élet ugyanis elég kemény Artemisen, a Hold első és egyetlen városában, hacsak nem vagy gazdag turista vagy excentrikus milliárdos. Némi ártalmatlan, de tiltott áru becsempészése nem egetverő bűn, ugyebár? Főleg, ha különböző adósságokat kell törlesztened, mivel a hordári munkádért kapott fizetés a lakbért is alig fedezi.&lt;/p&gt;
-
-&lt;p&gt;A dolgok akkor kezdenek megváltozni, amikor Jazznek páratlan lehetősége adódik a tökéletes bűntény elkövetésére, amely akkora nyereséggel kecsegtet, hogy képtelenség lenne visszautasítani. A lehetetlen végrehajtása azonban még csak a kezdet: ráébred, hogy egyenesen egy összeesküvés kellős közepébe csöppent, amelynek célja nem kevesebb, mint átvenni a hatalmat egész Artemis fölött.&lt;/p&gt;
-
-&lt;p&gt;Ha pedig túl akarja élni, bele kell mennie élete legbrutálisabb játszmájába, olyan tétekkel, amelyek már egyáltalán nincsenek az ínyére.&lt;/p&gt;
-
-&lt;p&gt;A marsi sikerlista-vezető szerzője, Andy Weir újabb lenyűgöző főszereplőt alkotott, Jazz történetét pedig a rá jellemző humorral és tudományos alapossággal írta meg. Az Artemis filmes jogai már a könyv bejelentésének napján elkeltek, a 20th Century Fox és a New Regency máris dolgozik az adaptáción.”&lt;/p&gt;
-
-&lt;hr style=&quot;clear: both;&quot; /&gt;
-
-&lt;div class=&quot;leftbox&quot; style=&quot;width: 15%;&quot;&gt;&lt;a href=&quot;https://bookline.hu/product/home.action?_v=Yuval_Noah_Harari_Sapiens&amp;amp;id=20822&amp;amp;type=250&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://moly.hu/system/covers/big/covers_370521.jpg&quot; alt=&quot;Harari, Yuval Noah: Sapiens - Az emberiség rövid története&quot; title=&quot;Harari, Yuval Noah: Sapiens - Az emberiség rövid története&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
-
-&lt;div class=&quot;leftbox&quot; style=&quot;width: 15%;&quot;&gt;&lt;a href=&quot;https://bookline.hu/product/home.action?_v=Yuval_Noah_Harari_Homo_Deus&amp;amp;id=32396&amp;amp;type=250&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://moly.hu/system/covers/big/covers_434886.jpg?1490173019&quot; alt=&quot;Harari, Yuval Noah: Homo ​Deus - A holnap rövid története&quot; title=&quot;Harari, Yuval Noah: Homo ​Deus - A holnap rövid története&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Harari, Yuval Noah: Sapiens - Az emberiség rövid története és Homo ​Deus - A holnap rövid története&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;“A tűz tett minket veszedelmessé. A pletyka együttműködővé. A mezőgazdaság még éhesebbé. A mitológia tartotta fenn a törvényt és a rendet. A pénz adott valamit, amiben mind bízhatunk. Az ellentmondások teremtették meg a kultúrát. A tudomány tett minket a teremtés urává. De egyik sem tett boldoggá…&lt;/p&gt;
-
-&lt;p&gt;A világhírű jeruzsálemi egyetemi tanár szerint így foglalható össze annak története, ahogyan jelentéktelen majmokból a világ uraivá váltunk.”&lt;/p&gt;
-
-&lt;p&gt;“Legyőztük a pusztító éhínséget. Megfékeztük a gyilkos járványokat. Véget vetettünk az öldöklő háborúknak. De mihez kezdjünk ezek után? Kíséreljük meg legyőzni az öregedést? Próbáljuk meg kicselezni a halált? Tegyük az embert istenné?&lt;/p&gt;
-
-&lt;p&gt;A világhírű jeruzsálemi egyetemi tanár, Yuval Noah Harari elgondolkodtatóan és világosan vázolja fel az emberiség lehetséges jövőit, és hogy miként válhat a Homo sapiens Homo deusszá.”&lt;/p&gt;
-
-&lt;hr style=&quot;clear: both;&quot; /&gt;
-
-&lt;div class=&quot;leftbox&quot; style=&quot;width: 15%;&quot;&gt;&lt;a href=&quot;https://www.agavekonyvek.hu/konyvek/voros-lazadas&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://dopvn1uhjjonw.cloudfront.net/thumbnails/215/0/img/boritok/agave/pierce-brown-voros-lazadas-b1_k.jpg&quot; alt=&quot;Brown, Pierce: Vörös lázadás&quot; title=&quot;Brown, Pierce: Vörös lázadás&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
-
-&lt;div class=&quot;leftbox&quot; style=&quot;width: 15%;&quot;&gt;&lt;a href=&quot;https://www.agavekonyvek.hu/konyvek/arany-haboru-voros-lazadas-trilogia-2&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://www.book24.hu/thumbnails/215/0/img/boritok/agave/pierce-brown-arany-haboru-b1.jpg&quot; alt=&quot;Brown, Pierce: Arany Háború&quot; title=&quot;Brown, Pierce: Arany Háború&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Brown, Pierce: Vörös lázadás, Arany Háború,&lt;/strong&gt; &lt;strong&gt;Hajnalcsillag&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;“&lt;strong&gt;Vörös lázadás:&lt;/strong&gt; A fiatal Darrow a Marson él, bányász, és Vörösnek született, a színekről elnevezett kasztokra épülő társadalom legalacsonyabb rétegébe. Fáradtságot nem ismerve kockáztatja az életét a beomló alagutak és lándzsaviperák közt abban a hitben, hogy sorstársaival lakhatóvá teszi a bolygó felszínét a jövő generációi számára. Darrow még sosem látta a szabad égboltot, ám a kötelességét mégis teljesíti, mert reméli, hogy emberfeletti munkájával a saját gyermekeinek is jobb életet teremt. Egy nap azonban megtudja, hogy a Vörösök elől eltitkolják az igazságot, ugyanis a Mars felszíne már alkalmas az emberi életre. Méghozzá nem is akármilyenre.&lt;/p&gt;
-
-&lt;p&gt;Igazságot követelve a kasztjának és bosszúra szomjazva meggyilkolt szerelme miatt Darrow csatlakozik a földalatti ellenálláshoz, hogy megdöntse az Aranyak zsarnoki uralmát. S céljának elérésében semmi sem gátolhatja meg… Még az sem, hogy olyanná kell válnia, mint gyűlölt ellenségei.”&lt;/p&gt;
-
-&lt;p&gt;“&lt;strong&gt;Arany háború:&lt;/strong&gt; Az Arany háborúban folytatódik Darrow tragédia kovácsolta bosszúhadjárata: eltökélten vezeti harcba elnyomott népét a szabadságért egy hazugságokra épült elitista utópiában. Arannyá vált ő is, és belülről tervezi megdönteni a Társadalmat. Azonban nem csak leggyűlöltebb ellenségeit kell legyőznie, hanem a benne lakozó bosszúvágyat is, hogy végül erőszakos polgárháború helyett világa újjászületését hozza el.&lt;/p&gt;
-
-&lt;p&gt;Ha a Vörös lázadás egy letehetetlenül olvasmányos, folyamatosan pörgő, végig lebilincselő kezdet volt, akkor az Arany háború egy még brutálisabb adrenalinlöket: az olvasó fék nélkül száguld a szereplőkkel a folyamatos akciójelenetek, űrharcok és politikai intrikák közt. Helyenként kegyetlen, máskor nagyon is emberi élet-halál történet a bosszúról egy felejthetetlen főszereplővel – Pierce Brownt joggal tartják az akció sci-fik egyik legnagyobb reményű új szerzőjének.”&lt;/p&gt;
-
-&lt;p&gt;“&lt;strong&gt;Hajnalcsillag:&lt;/strong&gt; Darrow békében élt, de az ellenségei háborúba kényszerítették. Az Arany uralkodók felakasztották a feleségét és rabszolgasorba taszították a népét. Ő azonban nem törődött bele a sorsába, nem adta fel: mindent kockáztatva beépült az Aranyak közé, és lehetetlent nem ismerve harcolt és élt túl mindent, hogy végül elindíthassa a forradalmat, ami darabjaira szedi a marsi rendszert.&lt;/p&gt;
-
-&lt;p&gt;Most eljött az idő, a forradalom kezdetét veszi.&lt;/p&gt;
-
-&lt;p&gt;Pierce Brown a Vörös lázadás-trilógiával robbant be 2014-ben a sci-fibe, és a hirtelen sikerének köszönhetően mára olvasók milliói rajonganak érte a világ minden táján. A Hajnalcsillag a megkoronázása e diadalmenetnek, egyben méltó befejezése az utóbbi évek legnépszerűbb sci-fi sorozatának.”&lt;/p&gt;
-
-&lt;hr style=&quot;clear: both;&quot; /&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;div class=&quot;rightbox&quot; style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/books/konyvespolc.jpg&quot; alt=&quot;Könyvespolc 20171104&quot; title=&quot;Könyvespolc 20171104&quot; /&gt;&lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Scalzi, John: Az összeomló birodalom&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Földes András: Erőss Zsolt - A Himalájánál magasabbra&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Shafak(Şafak), Elif: Becsület&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Ebershoff, David: A dán lány&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Crouch, Blake: Sötét anyag&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Árpa Attila: Holtomiglan&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Vance, Ashlee: Elon Musk - Tesla, SpaceX és a fantasztikus jövő&lt;/del&gt;‎&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Hertzfeld, Andy: Revolution in The Valley: The Insanely Great Story of How the Mac Was Made (angol)&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Merchant, Brian: The One Device: The Secret History of the iPhone (angol)&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;del&gt;Hosseini, Khaled: Papírsárkányok&lt;/del&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Frei Tamás: A Bankár, A Megmentő, Agrárbárók, 2015: A káosz éve és a magyar elit háborúja&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Moldova György: Titkos Záradék&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Enders, Giulie: Bélügyek&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Csabai László: Szindbád szibériában&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Leslie L. Lawrence: Sindzse ​szeme&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;M. R. Carey: Kiéhezettek&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Moldova György: A ​végtelen vonal&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Hosszú Katinka: A magyar Iron Lady&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Blake Crouch: Wayward Pines trilógia&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;dos Santos, José Rodrigues: A hetedik pecsét - A világvége elkezdődött, Isten haragja&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;Howey, Hugh: A siló&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Banks, Iain M.: A játékmester&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Cussler, Clive: A jéghegy&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Chase, James Hadley: A gyilkos hajsza&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Cronin, Justin: A szabadulás&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Kolozsi László: Ki köpött a krémesbe, Mi van a reverenda alatt?&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;VanderMeer, Jeff: Expedíció&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Vermes, Timur: Nezd ki van itt!&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Kent, Steven: The Ultimate History of Video Games&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Harris, Thomas: A Vörös Sárkány (Rakéta regényújság 129., 1986, 24-33. szám)&lt;/li&gt;
-  &lt;li&gt;Merle, Robert: Mesterségem a halál
-Levin, Ira: A brazíliai fiúk (Rakéta regényújság 137., 1987, 20-26. szám)&lt;/li&gt;
-  &lt;li&gt;Shafak(Şafak), Elif: Szerelem&lt;/li&gt;
-  &lt;li&gt;Szabó Magda: Für Elise, Ajtó, Az őz, Abigél&lt;/li&gt;
-  &lt;li&gt;Simmel, Johannes Mario: Nem kell mindig kaviár&lt;/li&gt;
-&lt;/ul&gt;
+&lt;ol&gt;
+  &lt;li&gt;Waze&lt;/li&gt;
+  &lt;li&gt;Hipstamatic&lt;/li&gt;
+  &lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
 </content>
   </entry>
   
   <entry>
-    <title>👨🏻‍🎓 CV</title>
-    <link href="http://0.0.0.0:4000/cv.html"/>
-    <updated>2018-01-29T00:00:00+01:00</updated>
-    <id>http://0.0.0.0:4000/cv</id>
-    <content type="html">&lt;p style=&quot;margin-top: 1.5em; text-align: left;&quot;&gt;&lt;a href=&quot;http://gyorgy.fleischmann.hu/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;b style=&quot;font-size: 2em;&quot;&gt;FLEISCHMANN György&lt;/b&gt;&lt;/a&gt; &lt;nobr&gt;• nick names: flex, gyurci, FleXoft&lt;/nobr&gt;&lt;/p&gt;
-
-&lt;p style=&quot;text-align: left;&quot;&gt;&lt;a href=&quot;https://twitter.com/flexoft&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;i class=&quot;icon-twitter&quot; style=&quot;margin-left: -4px; margin-right: -4px;&quot;&gt;&lt;/i&gt;@flexoft&lt;/a&gt; •&lt;nobr&gt;&lt;i class=&quot;icon-mobile&quot; style=&quot;margin-left: -4px; margin-right: -5px;&quot;&gt;&lt;/i&gt;+36 30 979 1403&lt;/nobr&gt; &lt;nobr&gt;• &lt;a href=&quot;mailto:gyorgy@fleischmann.hu&quot; target=&quot;_top&quot;&gt;gyorgy@fleischmann.hu&lt;/a&gt;&lt;/nobr&gt; • &lt;nobr&gt;&lt;a href=&quot;https://www.google.hu/maps/place/Budapest,+Ungv%C3%A1r+u.+33,+1185/@47.4337246,19.2123318,17z/data=!3m1!4b1!4m5!3m4!1s0x4741c18a7203082b:0x62593567a50ce394!8m2!3d47.433721!4d19.2145258?hl=hu&quot;&gt;&lt;i class=&quot;icon-home&quot; style=&quot;margin-left: -5px; margin-right: 0px;&quot;&gt;&lt;/i&gt;H-1185, Budapest, Ungvár utca 33/1., HUNGARY&lt;/a&gt;&lt;/nobr&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;summary&quot;&gt;SUMMARY&lt;/h1&gt;
-
-&lt;div class=&quot;rightbox&quot; style=&quot;width: 30%;&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;photos/flex.jpg&quot; alt=&quot;Fleischmann György&quot; title=&quot;Fleischmann György&quot; /&gt;
-  &lt;p class=&quot;phototext&quot;&gt;Photo by me, 2016.11.11., Minolta Dynax 7D, 50mm&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Highly qualified certified systems engineer / architect / consultant with more than 13 years &lt;span id=&quot;workTSM&quot;&gt;&lt;/span&gt; of experience in designing, building and supporting complex &lt;a href=&quot;https://www.ibm.com/&quot;&gt;&lt;img class=&quot;inline&quot; src=&quot;http://m.fooyoh.com/files/attach/images/3004/195/251/014/logos4.jpg&quot; alt=&quot;IBM Logo&quot; style=&quot;width: 55px;&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;https://www.ibm.com/us-en/marketplace/data-protection-and-recovery&quot;&gt;&lt;img class=&quot;inline&quot; src=&quot;https://www-03.ibm.com/systems/uk/resources/storage_spectrum_modernize_placeholder2.png&quot; alt=&quot;IBM Spectrum Protect Logo&quot; style=&quot;width: 20px;&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;https://www.ibm.com/us-en/marketplace/data-protection-and-recovery&quot;&gt;Spectrum Protect&lt;/a&gt; (aka: &lt;a href=&quot;https://www.ibm.com/&quot;&gt;&lt;img class=&quot;inline&quot; src=&quot;https://s-media-cache-ak0.pinimg.com/originals/f2/c2/e2/f2c2e2b63af6ffe5ddfff5a2557bfee6.jpg&quot; alt=&quot;IBM Logo&quot; style=&quot;width: 55px;&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;https://en.wikipedia.org/wiki/IBM_Tivoli_Storage_Manager&quot;&gt;Tivoli Storage Manager&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/IBM_Tivoli_Storage_Manager&quot;&gt;TSM&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/IBM_Tivoli_Storage_Manager&quot;&gt;ADSTAR Distributed Storage Manager&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/IBM_Tivoli_Storage_Manager&quot;&gt;ADSM&lt;/a&gt;) at the biggest Hungarian companies.&lt;/p&gt;
-
-&lt;p&gt;One of the well-known IBM TSM / Spectrum Protect experts / evangelists in &lt;a href=&quot;https://en.wikipedia.org/wiki/Hungary&quot;&gt;Hungary&lt;/a&gt;. Enthusiastic member of the &lt;a href=&quot;https://www.imwuc.org/hutug&quot;&gt;Hungarian Tivoli User Group&lt;/a&gt; (&lt;a href=&quot;https://www.imwuc.org/hutug&quot;&gt;Hu-TUG&lt;/a&gt;). Regular speaker at biannual events in IBM TSM / Spectrum Protect related topics.&lt;/p&gt;
-
-&lt;p&gt;Team player and problem-solver with very good communication and interpersonal skills.&lt;/p&gt;
-
-&lt;!-- break --&gt;
-
-&lt;h1 style=&quot;clear: none;&quot;&gt;FAMILY&lt;/h1&gt;
-
-&lt;div style=&quot;margin-left: 1em; padding: 0; float: right; width: 75pt;&quot;&gt;
-  &lt;p style=&quot;text-align: right; margin-bottom: 0;margin-right: 0.5em; font-size: 10pt;&quot;&gt;&lt;a class=&quot;hvr-buzz-out&quot; style=&quot;color: #bbb;&quot; href=&quot;javascript:showhide( 'motherID', 'fatherID', 'vigyorID', 'wifeID', 'annaID', 'gergoID', 'andrasID', 'familypics' );&quot;&gt;more / less &lt;i class=&quot;icon-plus&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&quot;mohács-baranya--hungary&quot;&gt;&lt;a href=&quot;https://hu.wikipedia.org/wiki/Moh%C3%A1cs&quot;&gt;Mohács&lt;/a&gt;, &lt;a href=&quot;https://hu.wikipedia.org/wiki/Baranya_megye&quot;&gt;Baranya&lt;/a&gt; • &lt;a href=&quot;https://en.wikipedia.org/wiki/Hungary&quot;&gt;HUNGARY&lt;/a&gt;&lt;/h2&gt;
-&lt;div id=&quot;motherID&quot; style=&quot;display:none;&quot;&gt;&lt;span title=&quot;1937-2014&quot;&gt;37-14&lt;/span&gt; • &lt;a href=&quot;http://anyuka.fleischmann.hu/&quot;&gt;mother, Zsuzsanna&lt;/a&gt; • &lt;span id=&quot;motherBirthDiff&quot;&gt;&lt;/span&gt; ✟&lt;/div&gt;
-&lt;div id=&quot;fatherID&quot; style=&quot;display:none;&quot;&gt;&lt;span title=&quot;1945-&quot;&gt;45-na&lt;/span&gt; • &lt;a href=&quot;http://apuka.fleischmann.hu/&quot;&gt;father, György&lt;/a&gt; • &lt;span id=&quot;fatherBirthDiff&quot;&gt;&lt;/span&gt;&lt;/div&gt;
-&lt;div id=&quot;vigyorID&quot; style=&quot;display:none;&quot;&gt;&lt;span title=&quot;1957-&quot;&gt;57-na&lt;/span&gt; • stepbrother, István • &lt;span id=&quot;vigyorBirthDiff&quot;&gt;&lt;/span&gt;&lt;/div&gt;
-&lt;div id=&quot;flexID&quot; style=&quot;display:block;&quot;&gt;&lt;span title=&quot;1970-&quot;&gt;&lt;b&gt;70-na&lt;/b&gt;&lt;/span&gt; • &lt;span id=&quot;flexBirthDiff&quot;&gt;&lt;/span&gt;&lt;/div&gt;
-&lt;div id=&quot;wifeID&quot; style=&quot;display:none;&quot;&gt;&lt;span title=&quot;1974-&quot;&gt;74-na&lt;/span&gt; • &lt;a href=&quot;http://hajnalka.fleischmann.hu/&quot;&gt;wife, Hajnalka&lt;/a&gt; • &lt;span id=&quot;wifeBirthDiff&quot;&gt;&lt;/span&gt;&lt;/div&gt;
-&lt;div id=&quot;annaID&quot; style=&quot;display:none;&quot;&gt;&lt;span title=&quot;2001-&quot;&gt;01-na&lt;/span&gt; • &lt;a href=&quot;http://anna.fleischmann.hu/&quot;&gt;Anna&lt;/a&gt; • &lt;span id=&quot;annaBirthDiff&quot;&gt;&lt;/span&gt;&lt;/div&gt;
-&lt;div id=&quot;gergoID&quot; style=&quot;display:none;&quot;&gt;&lt;span title=&quot;2005-&quot;&gt;05-na&lt;/span&gt; • &lt;a href=&quot;http://gergo.fleischmann.hu/&quot;&gt;Gergő&lt;/a&gt; • &lt;span id=&quot;gergoBirthDiff&quot;&gt;&lt;/span&gt;&lt;/div&gt;
-&lt;div id=&quot;andrasID&quot; style=&quot;display:none;&quot;&gt;&lt;span title=&quot;2017-&quot;&gt;17-na&lt;/span&gt; • &lt;a href=&quot;http://andras.fleischmann.hu/&quot;&gt;András&lt;/a&gt; • &lt;span id=&quot;andrasBirthDiff&quot;&gt;&lt;/span&gt;&lt;/div&gt;
-
-&lt;h1 id=&quot;work&quot;&gt;WORK&lt;/h1&gt;
-&lt;p class=&quot;phototext&quot; style=&quot;margin-top: -1.6em;&quot;&gt;References are available upon request, alternatively contact directly the companies listed below.&lt;/p&gt;
-
-&lt;div style=&quot;margin-left: 1em; padding: 0; float: right; width: 75pt;&quot;&gt;
-  &lt;p style=&quot;text-align: right; margin-bottom: 0;margin-right: 0.5em; font-size: 10pt;&quot;&gt;&lt;a class=&quot;hvr-buzz-out&quot; style=&quot;color: #bbb;&quot; href=&quot;javascript:showhide( 'egID', 'userID', 'schneiderID', 'sgID', 'clID', 'mofaID' );&quot;&gt;more / less &lt;i class=&quot;icon-plus&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&quot;budapest-pest--hungary&quot;&gt;&lt;a href=&quot;https://hu.wikipedia.org/wiki/Budapest&quot;&gt;Budapest&lt;/a&gt;, &lt;a href=&quot;https://hu.wikipedia.org/wiki/Pest_megye&quot;&gt;Pest&lt;/a&gt; • &lt;a href=&quot;https://en.wikipedia.org/wiki/Hungary&quot;&gt;HUNGARY&lt;/a&gt;&lt;/h2&gt;
-
-&lt;table class=&quot;blockheader&quot;&gt;
-  &lt;tr&gt;
-    &lt;th width=&quot;1%;&quot; valign=&quot;top&quot; style=&quot;padding-right: 0.3em;&quot;&gt;&lt;nobr&gt;&lt;span title=&quot;2015-&quot;&gt;&lt;b&gt;15-na&lt;/b&gt;&lt;/span&gt; •&lt;/nobr&gt;&lt;/th&gt;
-    &lt;th&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;System engineer, &lt;a href=&quot;http://www.ibm.com/&quot;&gt;IBM&lt;/a&gt; &lt;a href=&quot;http://www-03.ibm.com/software/products/en/spectrum-protect&quot;&gt;Spectrum Protect&lt;/a&gt; (Tivoli Storage Manager) specialist • &lt;a href=&quot;http://www.scss.hu/&quot;&gt;SCSS Informatikai, Kereskedelmi és Szolgáltató Kft.&lt;/a&gt;, &lt;a href=&quot;http://effectivegroup.hu/&quot;&gt;Effective Group Informatika Zrt.&lt;/a&gt;&lt;/p&gt;&lt;/th&gt;
-    &lt;th width=&quot;1%&quot;&gt;&lt;/th&gt;
-    &lt;th width=&quot;15%&quot; valign=&quot;top&quot;&gt;&lt;a href=&quot;http://effectivegroup.hu/&quot;&gt;&lt;img class=&quot;&quot; src=&quot;images/cv/EG_logo.png&quot; alt=&quot;Effective Group Informatika Zrt.&quot; title=&quot;Effective Group Informatika Zrt.&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;div id=&quot;egID&quot; style=&quot;display:none; margin-left: 3.5em; margin-bottom: 1em;&quot;&gt;
-
-&lt;ul style=&quot;list-style-type:disc&quot;&gt;
-&lt;li&gt;Supporting a dozen large IBM TSM, SP customers in Hungary&lt;/li&gt;
-&lt;li&gt;Supporting IBM GPFS, Spectrum Scale cutomers with TSM / SP HSM&lt;/li&gt;
-&lt;li&gt;TSM Symposium, 15 (Dresden)&lt;/li&gt;
-&lt;li&gt;Speaker of &lt;a href=&quot;http://systemsday.momartmail.hu/Home/Program&quot;&gt;IBM, RRC Systems Day&lt;/a&gt; (Effective storage usage in backup environments, real implementation experiences), 17&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;b&gt;Main projects and references:&lt;/b&gt;&lt;br /&gt;
-
-&lt;ul style=&quot;list-style-type:disc&quot;&gt;
-&lt;li&gt;7/24 high availability TSM v6, v7, v8 support for:&lt;/li&gt;
-
-&lt;ul style=&quot;list-style-type:circle&quot;&gt;
-&lt;li&gt;MKB Bank (&amp;gt;3Y): 4 TSM servers on a HP-UX cluster environment with library manager configuration and other 2 TSM servers (IBM AIX) for document archiving systems&lt;/li&gt;
-&lt;li&gt;Generali Biztosító (&amp;gt;2Y): 2 general TSM servers on Microsoft Windows and other 2 TSM (IBM AIX) servers for document store systems&lt;/li&gt;
-&lt;li&gt;MTVA (&amp;gt;3Y): TSM on a Microsoft Windows cluster, node replication, container pool deduplication environments and TSM on Linux with GPFS filesystems&lt;/li&gt;
-&lt;li&gt;MVMI, NAK(Nemzeti Agrárgazdasági Kamara), Diákhitel, EOS, FGSZ, FPH&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/ul&gt;
-
-&lt;/div&gt;
-
-&lt;table class=&quot;blockheader&quot;&gt;
-  &lt;tr&gt;
-    &lt;th width=&quot;1%;&quot; valign=&quot;top&quot; style=&quot;padding-right: 0.3em;&quot;&gt;&lt;nobr&gt;&lt;span title=&quot;2004-2014&quot;&gt;&lt;b&gt;04-14&lt;/b&gt;&lt;/span&gt; •&lt;/nobr&gt;&lt;/th&gt;
-    &lt;th valign=&quot;top&quot;&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;System engineer, &lt;a href=&quot;http://www.ibm.com/&quot;&gt;IBM&lt;/a&gt; &lt;a href=&quot;http://www-03.ibm.com/software/products/en/spectrum-protect&quot;&gt;Tivoli Storage Manager&lt;/a&gt; specialist • &lt;a href=&quot;http://www.user.hu/&quot;&gt;USER Tanácsadó Kft.&lt;/a&gt;, &lt;a href=&quot;http://www.userrendszerhaz.hu/&quot;&gt;USER Rendszerház Kft.&lt;/a&gt; (IBM Tivoli Awards, &lt;span title=&quot;2012&quot;&gt;12&lt;/span&gt; • IBM AAA-level Tivoli Deployment Accreditation, &lt;span title=&quot;2013&quot;&gt;13&lt;/span&gt;)&lt;/p&gt;&lt;/th&gt;
-    &lt;th width=&quot;1%&quot;&gt;&lt;/th&gt;
-    &lt;th width=&quot;15%&quot; valign=&quot;top&quot; align=&quot;right&quot;&gt;&lt;a href=&quot;http://www.userrendszerhaz.hu/&quot;&gt;&lt;img class=&quot;&quot; style=&quot;width: 50%&quot; src=&quot;images/cv/USER_logo.png&quot; alt=&quot;USER Rendszerház Kft.&quot; title=&quot;USER Rendszerház Kft.&quot; /&gt;&lt;/a&gt;&lt;/th&gt; 
-  &lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;div id=&quot;userID&quot; style=&quot;display:none; margin-left: 3.5em; margin-bottom: 1em;&quot;&gt;
-
-&lt;ul style=&quot;list-style-type:disc&quot;&gt;
-&lt;li&gt;Supporting a dozen large IBM TSM customers in Hungary&lt;/li&gt;
-&lt;li&gt;Participation the biggest IBM TSM related events (IBM C&amp;amp;SI EMEA Technical Academy, 14 (Madrid) • IBM Tivoli Technical Academy, 13 (Reading) • TSM Symposium, 11 (Dresden))&lt;/li&gt;
-&lt;li&gt;Architect / integrate big IBM TSM configurations&lt;/li&gt;
-&lt;li&gt;Troubleshoot / consult performance, backup, restore issues&lt;/li&gt;
-&lt;li&gt;Member of several IBM TSM API based development&lt;/li&gt;
-&lt;li&gt;Health check, operate, maintain big IBM TSM environments&lt;/li&gt;
-&lt;li&gt;Speaker of &lt;a href=&quot;http://cloudday.momart.hu/&quot;&gt;VMware Cloud Day&lt;/a&gt; (Backing up VMware with IBM technology), 13&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;b&gt;Main projects and references:&lt;/b&gt;&lt;br /&gt;
-
-&lt;ul style=&quot;list-style-type:disc&quot;&gt;
-&lt;li&gt;7/24 high availability TSM v5, v6 support for:&lt;/li&gt;
-&lt;ul style=&quot;list-style-type:circle&quot;&gt;
-&lt;li&gt;MKB Bank (&amp;gt;10Y): 4 TSM servers on a HP-UX cluster environment with library manager configuration and other 2 TSM servers (IBM AIX) for document archiving systems&lt;/li&gt;
-&lt;li&gt;Allianz Biztosító (&amp;gt;10Y): TSM on a HA AIX environment with library manager configuration and other 2 TSM servers for document store systems&lt;/li&gt;  
-&lt;li&gt;Generali Biztosító (&amp;gt;10Y): 4 general TSM servers on Microsoft Windows for the region and other 2 TSM servers on IBM AIX for document store systems&lt;/li&gt;
-&lt;li&gt;FHB Bank (&amp;gt;2Y): TSM on a AIX HA environment&lt;/li&gt;
-&lt;li&gt;Budapest Bank (&amp;gt;10Y): 2 TSM servers on a HA AIX environment&lt;/li&gt;
-&lt;li&gt;Chello Central Europe (&amp;gt;8Y): biggest TSM based video media archiving environment implementation and support&lt;/li&gt;
-&lt;li&gt;HVB/UniCredit Bank (&amp;gt;10Y): the first v5 –&amp;gt; v6 migrated AIX TSM systems on an IBM PureFlex system in the region&lt;/li&gt;
-&lt;/ul&gt;
-&lt;li&gt;TSM v5 -&amp;gt; v6 migration (TSM DB &amp;gt; 300GB) (OEP, UniCredit Bank, Generali Biztosító, MKB Bank)&lt;/li&gt;
-&lt;li&gt;v6 TSM based backup solutions for IBM PureFlex based environments and support (iCell, NISZ)&lt;/li&gt;
-&lt;li&gt;TSM v5 -&amp;gt; v6 migration consultation at HSBC Turkey (Istanbul)&lt;/li&gt;
-&lt;li&gt;Dealt with IBM SoftLayer fundamentals (Infrastructure-as-a-Service (IaaS))&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;/div&gt;
-
-&lt;table class=&quot;blockheader&quot;&gt;
-  &lt;tr&gt;
-    &lt;th width=&quot;1%;&quot; valign=&quot;top&quot; style=&quot;padding-right: 0.3em;&quot;&gt;&lt;nobr&gt;&lt;span title=&quot;2001-2003&quot;&gt;&lt;b&gt;01-03&lt;/b&gt;&lt;/span&gt; •&lt;/nobr&gt;&lt;/th&gt;
-    &lt;th valign=&quot;top&quot;&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;Network / &lt;a href=&quot;http://www.ibm.com/&quot;&gt;IBM&lt;/a&gt; &lt;a href=&quot;http://www-03.ibm.com/software/products/en/ibmdomino&quot;&gt;Lotus Notes / Domino&lt;/a&gt; administrator • &lt;a href=&quot;http://www.schneider-electric.hu/&quot;&gt;Schneider Electric Hungária Villamossági Rt.&lt;/a&gt;&lt;/p&gt;&lt;/th&gt;
-    &lt;th width=&quot;1%&quot;&gt;&lt;/th&gt;
-    &lt;th width=&quot;15%&quot; valign=&quot;top&quot; align=&quot;right&quot;&gt;&lt;a href=&quot;http://www.schneider-electric.hu/&quot;&gt;&lt;img class=&quot;&quot; src=&quot;images/cv/Schneider_Electric_logo.png&quot; alt=&quot;Schneider Electric Hungária Villamossági Rt.&quot; title=&quot;Schneider Electric Hungária Villamossági Rt.&quot; /&gt;&lt;/a&gt;&lt;/th&gt; 
-  &lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;div id=&quot;schneiderID&quot; style=&quot;display:none; margin-left: 3.5em; margin-bottom: 1em; margin-top: 0em;&quot;&gt;
-
-&lt;ul style=&quot;list-style-type:disc&quot;&gt;
-&lt;li class=&quot;small&quot;&gt;IBM Lotus Notes administrator (450 users; Austria, Slovak Republic, Slovenia, Croatia, Yugoslavia) and developer&lt;/li&gt;
-&lt;li class=&quot;small&quot;&gt;operating the whole network&lt;/li&gt;
-&lt;li class=&quot;small&quot;&gt;work in S.A.P. R3 environment (COMPAQ/Digital, True64 UNIX)&lt;/li&gt;
-&lt;li class=&quot;small&quot;&gt;organised and successfully started the new logistics center of Schneider Electric Hungária Villamossági Rt. in Harbor Park (Frame Relay connection to the center, phone network, computer network, wireless phone (DECT), wireless network (based on Cisco Aironet 340, 350 series), Novell Netware, ...)&lt;/li&gt;
-&lt;li class=&quot;small&quot;&gt;working with the following systems and equipments: CheckPoint firewall, Netscape iPlanet Web server, Netscape CMS server, Netscape Proxy server, Novell Netware 5.x, Intel Shiva + Radius, Nortel network equipments (switches, routers, hubs), ntp, ...&lt;/li&gt;
-&lt;li class=&quot;small&quot;&gt;prepared: SMS gateway (Linux + perl + Nokia 6210), webcamera (Linux + V4L + bttv)&lt;/li&gt;
-&lt;li class=&quot;small&quot;&gt;started the intranet in Hungary (based on IBM Lotus Notes, WIB)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;/div&gt;
-
-&lt;table class=&quot;blockheader&quot;&gt;
-  &lt;tr&gt;
-    &lt;th width=&quot;1%;&quot; valign=&quot;top&quot; style=&quot;padding-right: 0.3em;&quot;&gt;&lt;nobr&gt;&lt;span title=&quot;1998-2001&quot;&gt;&lt;b&gt;98-01&lt;/b&gt;&lt;/span&gt; •&lt;/nobr&gt;&lt;/th&gt;
-    &lt;th valign=&quot;top&quot;&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;Office Automation Officer • &lt;a href=&quot;http://www.societegenerale.fr/&quot;&gt;Société Générale Hungária Bank Inc.&lt;/a&gt;&lt;/p&gt;&lt;/th&gt;
-    &lt;th width=&quot;1%&quot;&gt;&lt;/th&gt;
-    &lt;th width=&quot;15%&quot; valign=&quot;top&quot;&gt;&lt;a href=&quot;http://www.societegenerale.fr/&quot;&gt;&lt;img class=&quot;&quot; src=&quot;images/cv/SG_logo.png&quot; alt=&quot;Société Générale Hungária Bank Inc.&quot; title=&quot;Société Générale Hungária Bank Inc.&quot; /&gt;&lt;/a&gt;&lt;/th&gt; 
-  &lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;div id=&quot;sgID&quot; style=&quot;display:none; margin-left: 3.5em; margin-bottom: 1em; margin-top: 0em;&quot;&gt;
-
-&lt;ul style=&quot;list-style-type:disc&quot;&gt;
-&lt;li class=&quot;small&quot;&gt;we built up the whole information system of this new bank (with two of my colleagues) from the ground&lt;/li&gt;
-&lt;li class=&quot;small&quot;&gt;Lotus Notes administrator and developer&lt;/li&gt;
-&lt;li class=&quot;small&quot;&gt;working with GIRO, SWIFT and the local accounting system&lt;/li&gt;
-&lt;li class=&quot;small&quot;&gt;installing and supporting SogeCash (MultiCash based) remote bank system&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;/div&gt;
-
-&lt;table class=&quot;blockheader&quot;&gt;
-  &lt;tr&gt;
-    &lt;th width=&quot;1%;&quot; valign=&quot;top&quot; style=&quot;padding-right: 0.3em;&quot;&gt;&lt;nobr&gt;&lt;span title=&quot;1997-1998&quot;&gt;&lt;b&gt;97-98&lt;/b&gt;&lt;/span&gt; •&lt;/nobr&gt;&lt;/th&gt;
-    &lt;th valign=&quot;top&quot;&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;EDP assistent • &lt;a href=&quot;http://www.ca-cib.com/&quot;&gt;Crédit Lyonnais Bank Hungary Inc.&lt;/a&gt;&lt;/p&gt;&lt;/th&gt;
-    &lt;th width=&quot;1%&quot;&gt;&lt;/th&gt;
-    &lt;th width=&quot;15%&quot; valign=&quot;top&quot;&gt;&lt;a href=&quot;http://www.ca-cib.com/&quot;&gt;&lt;img class=&quot;&quot; src=&quot;images/cv/CL_logo.png&quot; alt=&quot;Crédit Lyonnais Bank Hungary Inc.&quot; title=&quot;Crédit Lyonnais Bank Hungary Inc.&quot; /&gt;&lt;/a&gt;&lt;/th&gt; 
-  &lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;div id=&quot;clID&quot; style=&quot;display:none; margin-left: 3.5em; margin-bottom: 1em; margin-top: 0em;&quot;&gt;
-
-&lt;ul style=&quot;list-style-type:disc&quot;&gt;
-&lt;li class=&quot;smallest&quot;&gt;learning to use and operate the new systems (HP-UX, HP PCs, Microsoft WindowsNT network, SQL, TCP/IP)&lt;/li&gt;
-&lt;li class=&quot;smallest&quot;&gt;worked with GIRO, SWIFT, Lotus Notes and the local accounting system&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;/div&gt;
-
-&lt;h2 id=&quot;mohács-baranya--hungary-1&quot;&gt;&lt;a href=&quot;https://hu.wikipedia.org/wiki/Moh%C3%A1cs&quot;&gt;Mohács&lt;/a&gt;, &lt;a href=&quot;https://hu.wikipedia.org/wiki/Baranya_megye&quot;&gt;Baranya&lt;/a&gt; • &lt;a href=&quot;https://en.wikipedia.org/wiki/Hungary&quot;&gt;HUNGARY&lt;/a&gt;&lt;/h2&gt;
-
-&lt;table class=&quot;blockheader&quot;&gt;
-  &lt;tr&gt;
-    &lt;th width=&quot;1%;&quot; valign=&quot;top&quot; style=&quot;padding-right: 0.3em;&quot;&gt;&lt;nobr&gt;&lt;span title=&quot;1991-1997&quot;&gt;&lt;b&gt;91-97&lt;/b&gt;&lt;/span&gt; •&lt;/nobr&gt;&lt;/th&gt;
-    &lt;th valign=&quot;top&quot;&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;System engineer • &lt;a href=&quot;http://kronospan-mofa.hu/&quot;&gt;Fibreboard Factory (M.O.F.A.) Inc.&lt;/a&gt;&lt;/p&gt;&lt;/th&gt;
-    &lt;th width=&quot;1%&quot;&gt;&lt;/th&gt;
-    &lt;th width=&quot;15%&quot; valign=&quot;top&quot;&gt;&lt;a href=&quot;http://kronospan-mofa.hu/&quot;&gt;&lt;img class=&quot;&quot; src=&quot;images/cv/Kronospan-mofa_logo.png&quot; alt=&quot;Fibreboard Factory (M.O.F.A.) Inc.&quot; title=&quot;Fibreboard Factory (M.O.F.A.) Inc.&quot; /&gt;&lt;/a&gt;&lt;/th&gt; 
-  &lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;div id=&quot;mofaID&quot; style=&quot;display:none; margin-left: 3.5em; margin-bottom: 1em;&quot;&gt;
-
-&lt;ul style=&quot;list-style-type:disc&quot;&gt;
-&lt;li class=&quot;smallest&quot;&gt;learned to use i8048 and i8051 microcontrollers&lt;/li&gt;
-&lt;li class=&quot;smallest&quot;&gt;December 1991 - August 1992 programmer assistant, computer technology collaborator&lt;/li&gt;
-&lt;li class=&quot;smallest&quot;&gt;learned to use the local network, programmed in C language&lt;/li&gt;
-&lt;li class=&quot;smallest&quot;&gt;March 1994 - March 1997 computer technology organizer&lt;/li&gt;
-&lt;li class=&quot;smallest&quot;&gt;extended the network of the company, connected its existing systems, worked independently, maintained and controlled the whole system&lt;/li&gt;
-&lt;li class=&quot;smallest&quot;&gt;formed new concepts in the information technology system of the company, established the e-mail system and the DIAL-IN accessibility of the network, developed ONLINE systems and established these systems on the existing network&lt;/li&gt;
-&lt;li class=&quot;smallest&quot;&gt;software legalization&lt;/li&gt;
-&lt;li class=&quot;smallest&quot;&gt;established and maintained several Novell NetWare based networks in Mohács city&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;/div&gt;
-
-&lt;h1 id=&quot;education&quot;&gt;EDUCATION&lt;/h1&gt;
-
-&lt;h2 id=&quot;kecskemét-bács-kiskun--hungary&quot;&gt;&lt;a href=&quot;https://hu.wikipedia.org/wiki/Kecskem%C3%A9t&quot;&gt;Kecskemét&lt;/a&gt;, &lt;a href=&quot;https://hu.wikipedia.org/wiki/B%C3%A1cs-Kiskun_megye&quot;&gt;Bács-Kiskun&lt;/a&gt; • &lt;a href=&quot;https://en.wikipedia.org/wiki/Hungary&quot;&gt;HUNGARY&lt;/a&gt;&lt;/h2&gt;
-
-&lt;table class=&quot;blockheader&quot;&gt;
-  &lt;tr&gt;
-    &lt;th width=&quot;1%;&quot; valign=&quot;top&quot; style=&quot;padding-right: 0.3em;&quot;&gt;&lt;nobr&gt;&lt;span title=&quot;1988-1991&quot;&gt;&lt;b&gt;88-91&lt;/b&gt;&lt;/span&gt; •&lt;/nobr&gt;&lt;/th&gt;
-    &lt;th valign=&quot;top&quot;&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;&lt;a href=&quot;http://gamf.uni-pae.hu/&quot;&gt;Technical College of Machine Industry and Automation (G.A.M.F.)&lt;/a&gt; • specialization: computer technology&lt;/p&gt;&lt;/th&gt;
-    &lt;th width=&quot;1%&quot;&gt;&lt;/th&gt;
-    &lt;th width=&quot;15%&quot; valign=&quot;top&quot; align=&quot;right&quot;&gt;&lt;a href=&quot;http://gamf.uni-pae.hu/&quot;&gt;&lt;img class=&quot;&quot; style=&quot;width: 30%&quot; src=&quot;images/cv/GAMF_logo.png&quot; alt=&quot;Technical College of Machine Industry and Automation (G.A.M.F.)&quot; title=&quot;Technical College of Machine Industry and Automation (G.A.M.F.)&quot; /&gt;&lt;/a&gt;&lt;/th&gt; 
-  &lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&quot;mohács-baranya--hungary-2&quot;&gt;&lt;a href=&quot;https://hu.wikipedia.org/wiki/Moh%C3%A1cs&quot;&gt;Mohács&lt;/a&gt;, &lt;a href=&quot;https://hu.wikipedia.org/wiki/Baranya_megye&quot;&gt;Baranya&lt;/a&gt; • &lt;a href=&quot;https://en.wikipedia.org/wiki/Hungary&quot;&gt;HUNGARY&lt;/a&gt;&lt;/h2&gt;
-
-&lt;table class=&quot;blockheader&quot;&gt;
-  &lt;tr&gt;
-    &lt;th width=&quot;1%;&quot; valign=&quot;top&quot; style=&quot;padding-right: 0.3em;&quot;&gt;&lt;nobr&gt;&lt;span title=&quot;1984-1988&quot;&gt;&lt;b&gt;84-88&lt;/b&gt;&lt;/span&gt; •&lt;/nobr&gt;&lt;/th&gt;
-    &lt;th valign=&quot;top&quot;&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;&lt;a href=&quot;http://mohacsikisfaludy.hu/&quot;&gt;Kisfaludy Károly Secondary School&lt;/a&gt; • faculties: mathematics, physics&lt;/p&gt;&lt;/th&gt;
-    &lt;th width=&quot;1%&quot;&gt;&lt;/th&gt;
-    &lt;th width=&quot;15%&quot; valign=&quot;top&quot; align=&quot;right&quot;&gt;&lt;a href=&quot;http://mohacsikisfaludy.hu/&quot;&gt;&lt;img class=&quot;&quot; style=&quot;width: 30%&quot; src=&quot;images/cv/Kisfaludy_logo.png&quot; alt=&quot;Kisfaludy Károly Secondary School&quot; title=&quot;Kisfaludy Károly Secondary School&quot; /&gt;&lt;/a&gt;&lt;/th&gt; 
-  &lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;h1 id=&quot;technical-skills&quot;&gt;TECHNICAL SKILLS&lt;/h1&gt;
-
-&lt;h2 id=&quot;operating-systems&quot;&gt;Operating systems&lt;/h2&gt;
-
-&lt;p&gt;UNIX • Microsoft Windows • Apple macOS (OS X)&lt;/p&gt;
-
-&lt;h2 id=&quot;programming-languages&quot;&gt;Programming languages&lt;/h2&gt;
-
-&lt;p&gt;Objective-C (applications with Core Location framework, 13 and BLE, 17) • C (kernel mode device driver on Linux, TSM API) • 80x86 assembly (direct IPX protocol programming) • ATMEL AVR assembly, C (GSM based home automation, 09) • Epson S1C88 assembly (code breaker game, 04) • CA Clipper • DataFlex • perl (tsmadm.pl, 13) • awk • UNIX shell • Psion OPL (PhotoPal, 01) • Lotus Formula • Lotus Script (incident log system) • JavaScript&lt;/p&gt;
-
-&lt;h2 id=&quot;hardware&quot;&gt;Hardware&lt;/h2&gt;
-
-&lt;p&gt;IBM tape libraries (LTO, 3592 drives); IBM, HPE, Oracle High-End machines and storage systems&lt;/p&gt;
-
-&lt;h2 id=&quot;ibm-tsm--spectrum-protect-related&quot;&gt;IBM TSM / Spectrum Protect related&lt;/h2&gt;
-
-&lt;p&gt;Daily TSM administration and 7/24 support for banks, insurance companies, broadcasting companies and state sector • Co-author of the tsmadmin.com blog • Founder of the &lt;a href=&quot;http://tsmadm.pl.fleischmann.hu&quot;&gt;tsmadm.pl&lt;/a&gt; free IBM TSM administration tool • The person who opens / closes the most tickets (IBM &lt;a href=&quot;https://www-01.ibm.com/support/docview.wss?uid=swg21507643&quot;&gt;PMR&lt;/a&gt;, &lt;a href=&quot;https://www-01.ibm.com/support/docview.wss?uid=swg21507643&quot;&gt;Problem Management Report&lt;/a&gt;) each year in Hungary • Took IBM TSM / Spectrum Protect (implementation, operation, administration, advanced administration) trainings (&amp;gt;30, on behalf of IBM, &lt;a href=&quot;http://iqjb.hu/&quot;&gt;IQSOFT - John Bryce Oktatóközpont Kft.&lt;/a&gt; and &lt;a href=&quot;https://www.training360.com/&quot;&gt;Training 360 Kft.&lt;/a&gt;)&lt;/p&gt;
-
-&lt;h1 id=&quot;professional-certifications&quot;&gt;Professional Certifications&lt;/h1&gt;
-
-&lt;div class=&quot;rightbox&quot; style=&quot;width: 7%;&quot;&gt;&lt;img class=&quot;&quot; src=&quot;images/cv/IBM_Sectrum_Protect_v8.1.png&quot; alt=&quot;IBM Sectrum Protect v8.1 Deployment Professional&quot; title=&quot;IBM Sectrum Protect v8.1 Deployment Professional&quot; /&gt;&lt;/div&gt;
-&lt;div class=&quot;rightbox&quot; style=&quot;width: 7%;&quot;&gt;&lt;img class=&quot;&quot; src=&quot;images/cv/Veeam_Availability_Suite_VMTSP_v9.5.png&quot; alt=&quot;Veeam Availability Suite VMTSP v9.5&quot; title=&quot;Veeam Availability Suite VMTSP v9.5&quot; /&gt;&lt;/div&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Veeam Technical Sales Professional (VMTSP) - Veeam Availability Suite v9.5 • 09/28/2017&lt;/li&gt;
-  &lt;li&gt;IBM Certified Deployment Professional - Spectrum Protect V8.1 • 07/28/2017&lt;/li&gt;
-  &lt;li&gt;IBM Certified Deployment Professional - Tivoli Storage Manager V7.1 • 05/18/2015&lt;/li&gt;
-  &lt;li&gt;IBM Certified Deployment Professional - Tivoli Storage Productivity Center v5.1 •06/04/2013&lt;/li&gt;
-  &lt;li&gt;IBM Certified Deployment Professional - Tivoli Storage Manager v6.3 • 02/01/2013&lt;/li&gt;
-  &lt;li&gt;IBM Certified Solution Advisor - Tivoli Storage Solutions v3 • 03/22/2012&lt;/li&gt;
-  &lt;li&gt;IBM Certified Solution Advisor - Tivoli Storage Solutions v2 • 03/30/2011&lt;/li&gt;
-  &lt;li&gt;IBM Certified Deployment Professional - Tivoli Storage Manager v6.1 • 12/01/2009&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;hobby-projects-worth-to-mention&quot;&gt;HOBBY PROJECTS WORTH TO MENTION&lt;/h1&gt;
-
-&lt;div class=&quot;rightbox&quot; style=&quot;width: 12%;&quot;&gt;
-&lt;a href=&quot;http://old.fleischmann.hu/geocities.com/&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/geominihp20040407.jpg&quot; alt=&quot;geocities.com from 2004.&quot; title=&quot;geocities.com from 2004.&quot; /&gt;&lt;/a&gt;
-&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://old.fleischmann.hu/geocities.com/&quot;&gt;geocities.com&lt;/a&gt; from 2004.&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;rightbox&quot; style=&quot;width: 15%;&quot;&gt;
-&lt;a href=&quot;http://old.fleischmann.hu/photo/contents/index.htm&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/FLEISCHMANN.HU_Tartalom-Contents_(20100518).png&quot; alt=&quot;fleischmann.hu from 2010.&quot; title=&quot;fleischmann.hu from 2010.&quot; /&gt;&lt;/a&gt;
-&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://old.fleischmann.hu/photo/contents/index.htm&quot;&gt;fleischmann.hu&lt;/a&gt; from 2010.&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;rightbox&quot; style=&quot;width: 15%;&quot;&gt;
-&lt;a href=&quot;http://tsmadm.pl.fleischmann.hu&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/tsmadm.pl.jpg&quot; alt=&quot;tsmadm.pl&quot; title=&quot;tsmadm.pl&quot; /&gt;&lt;/a&gt;
-&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://tsmadm.pl.fleischmann.hu&quot;&gt;tsmadm.pl&lt;/a&gt;&lt;/p&gt;
-&lt;br /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;images/html/SpeedLimit.png&quot; alt=&quot;SpeedLimit&quot; title=&quot;SpeedLimit&quot; align=&quot;right&quot; /&gt;
-&lt;p class=&quot;phototext&quot;&gt;SpeedLimit on iOS&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;span title=&quot;2018&quot;&gt;&lt;b&gt;18&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;spadmin.pl (perl)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span title=&quot;2017&quot;&gt;&lt;b&gt;17&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.fleischmann.hu/&quot;&gt;Family pages (GitHub, jekyll, HTML5, CSS3)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/FleXoft/HuTUG&quot;&gt;Hu-TUG storage newsletters 1-5&lt;/a&gt; (Google Docs)&lt;/li&gt;
-  &lt;li&gt;Simple Heart Rate monitoring macOS application based on Polar H7 BLE device with Xcode and Swift &lt;a href=&quot;https://github.com/FleXoft/Polar-H7-HRM&quot;&gt;project on GitHub&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span title=&quot;2015&quot;&gt;&lt;b&gt;15&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;recorded for a year what I did and what I looked like&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div style=&quot;width: 49.33%; margin-left: 1.3em;&quot;&gt;&lt;div class=&quot;videocontainer&quot; style=&quot;padding-bottom: 31%;&quot;&gt;&lt;iframe class=&quot;iframeshadow&quot; src=&quot;https://player.vimeo.com/video/249302002&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;span title=&quot;2013&quot;&gt;&lt;b&gt;13&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://tsmadm.pl.fleischmann.hu/&quot;&gt;tsmadm.pl&lt;/a&gt; (perl) &lt;a href=&quot;https://github.com/FleXoft/tsmadm.pl&quot;&gt;project on GitHub&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;SpeedLimit for iOS (Objective-C)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span title=&quot;-2010&quot;&gt;&lt;b&gt;-10&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Active photoblogger (+ photoblog site generator perl script)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;rightbox&quot; style=&quot;width: 17%;&quot;&gt;
-&lt;a href=&quot;https://www.flickr.com/photos/fleischmann/sets/72157622129419487/&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/flickr_thumb.png&quot; alt=&quot;BKV Photostream&quot; title=&quot;BKV Photostream&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;https://www.flickr.com/photos/fleischmann/sets/72157622129419487/&quot;&gt;BKV Photostream&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;span title=&quot;2009&quot;&gt;&lt;b&gt;09&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;div class=&quot;rightbox&quot; style=&quot;width: 13%;&quot;&gt;
-&lt;a href=&quot;https://www.olimex.com/Products/AVR/Development/AVR-GSM/&quot;&gt;&lt;img class=&quot;&quot; src=&quot;https://www.olimex.com/Products/AVR/Development/AVR-GSM/images/thumbs/310x230/AVR-GSM-01.jpg&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;https://www.olimex.com/Products/AVR/Development/AVR-GSM/&quot;&gt;AVR-GSM&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.olimex.com/Products/AVR/Development/AVR-GSM/&quot;&gt;AVR-GSM&lt;/a&gt; based Home Automation Project (AVR C, I²C, LM75, HD44780, SIM300D)&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.flickr.com/photos/fleischmann/sets/72157622129419487/&quot;&gt;BKV Photostream&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;social-part&quot;&gt;SOCIAL PART&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/FleXoft&quot;&gt;&lt;i class=&quot;icon-twitter&quot; style=&quot;margin-right: -1px;&quot;&gt;&lt;/i&gt;twitter&lt;/a&gt;
- •&lt;a href=&quot;https://www.facebook.com/fleischmann.gy&quot;&gt;&lt;i class=&quot;icon-facebook&quot; style=&quot;margin-left: -5px; margin-right: -6px;&quot;&gt;&lt;/i&gt;facebook&lt;/a&gt; •&lt;a href=&quot;http://fleischmann.tumblr.com/&quot;&gt;&lt;i class=&quot;icon-tumblr&quot; style=&quot;margin-left: -4px; margin-right: -4px;&quot;&gt;&lt;/i&gt;tumblr&lt;/a&gt; •&lt;a href=&quot;https://www.flickr.com/photos/fleischmann/sets/72157622129419487/&quot;&gt;&lt;i class=&quot;icon-flickr&quot; style=&quot;margin-right: 0px;&quot;&gt;&lt;/i&gt;flickr&lt;/a&gt; •&lt;a href=&quot;https://plus.google.com/111227740573593478868&quot;&gt;&lt;i class=&quot;icon-gplus&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Google+&lt;/a&gt; •&lt;a href=&quot;skype://Flexoft/&quot;&gt;&lt;i class=&quot;icon-skype&quot; style=&quot;margin-right: -1px;&quot;&gt;&lt;/i&gt;Skype&lt;/a&gt; • &lt;a href=&quot;https://www.linkedin.com/in/fleischmanngyorgy/&quot;&gt;linked&lt;i class=&quot;icon-linkedin-squared&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;others&quot;&gt;OTHERS&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;working knowledge of everyday English&lt;/li&gt;
-  &lt;li&gt;good knowledge of technical English&lt;/li&gt;
-  &lt;li&gt;experienced driver (“B” category driving licence)&lt;/li&gt;
-  &lt;li&gt;compulsory military service completed&lt;/li&gt;
-  &lt;li&gt;free time activities: football, cinema, reading, music, photography&lt;/li&gt;
-  &lt;li&gt;I do not smoke&lt;/li&gt;
-  &lt;li&gt;last update: 01/29/2018&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;others-ii&quot;&gt;OTHERS II.&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;gender: male&lt;/li&gt;
-  &lt;li&gt;length, weight: average&lt;/li&gt;
-  &lt;li&gt;Blood type: O Rh negative&lt;/li&gt;
-  &lt;li&gt;sexual orientation: straight&lt;/li&gt;
-  &lt;li&gt;religion: none (but if I really need to choose: &lt;a href=&quot;https://en.wikipedia.org/wiki/Buddhism&quot;&gt;Buddhism&lt;/a&gt; or &lt;a href=&quot;https://en.wikipedia.org/wiki/International_Society_for_Krishna_Consciousness&quot;&gt;Krishna Consciousness&lt;/a&gt; are the closest), I believe in science&lt;/li&gt;
-  &lt;li&gt;political views: undecided&lt;/li&gt;
-  &lt;li&gt;intelligence: normal&lt;/li&gt;
-  &lt;li&gt;civil status: married, 3 kids (&lt;a href=&quot;http://anna.fleischmann.hu/&quot;&gt;Anna&lt;/a&gt; • &lt;a href=&quot;http://gergo.fleischmann.hu/&quot;&gt;Gergő&lt;/a&gt; • &lt;a href=&quot;http://andras.fleischmann.hu/&quot;&gt;András&lt;/a&gt;) and a &lt;a href=&quot;http://tofi.fleischmann.hu/&quot;&gt;dog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;economy: good&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;!-- my Javascript Helpers --&gt;
-
-&lt;script type=&quot;text/javascript&quot;&gt;
-    
-    // main()
-    
-	today = new Date();
-    diff  = new Date();
-	
-  	function dateDiff2 ( fromDate, toDate ) {
-    
-    	var returnString = &quot;&quot;;
-    	var tmpdiff;
-    
-		var one_day = 1000 * 60 * 60 * 24;
-
-    	diff.setTime( new Date( fromDate.getFullYear(), fromDate.getMonth(), fromDate.getDate(), fromDate.getHours(), fromDate.getMinutes() ) - toDate );
-
-    	tmpdiff = diff.getFullYear() - 1970; 	
-		if ( tmpdiff != 0 ) {
-			returnString += tmpdiff + &quot; &quot; + ( ( tmpdiff != 1 ) ? &quot;years&quot; : &quot;year&quot; );
-		}
-   	  
-		if ( tmpdiff != 0 &amp;&amp; ( diff.getMonth() != 0 || ( diff.getDate() - 1 ) != 0 ) ) returnString += &quot;, &quot;; 
-
-   	    tmpdiff = diff.getMonth();
-   	 	if ( tmpdiff != 0 ) {
-   			returnString += tmpdiff + &quot; &quot; + ( ( tmpdiff != 1 ) ? &quot;months&quot; : &quot;month&quot; );
-   		}
-   		if ( tmpdiff != 0 &amp;&amp; ( ( diff.getDate() - 1 ) != 0 ) ) returnString += &quot; and &quot;;
-   	
-   	    tmpdiff = diff.getDate() - 1;
-   	  	if ( tmpdiff != 0 ) {
-   	 		returnString += tmpdiff + &quot; &quot; + ( ( tmpdiff != 1 ) ? &quot;days&quot; : &quot;day&quot; );
-   	  	}
-  
-		return returnString; 
-  
-  	}
- 
-    function myTimer () {
-     	document.getElementById ( 'motherBirthDiff' ).innerHTML = dateDiff ( new Date( 2014, 03 - 1, 08, 12, 00 ), new Date( 1937, 09 - 1, 07, 12, 00 ) );
-     	document.getElementById ( 'fatherBirthDiff' ).innerHTML = dateDiff ( today, new Date( 1945, 11 - 1, 16, 12, 00 ) );
-    	document.getElementById ( 'vigyorBirthDiff' ).innerHTML = dateDiff ( today, new Date( 1957, 01 - 1, 23, 12, 00 ) );
-    	document.getElementById ( 'flexBirthDiff'   ).innerHTML = dateDiff ( today, new Date( 1970, 05 - 1, 05, 23, 00 ) );
-    	document.getElementById ( 'wifeBirthDiff'   ).innerHTML = dateDiff ( today, new Date( 1974, 11 - 1, 24, 22, 00 ) );
-    	document.getElementById ( 'annaBirthDiff'   ).innerHTML = dateDiff ( today, new Date( 2001, 11 - 1, 05, 13, 20 ) );
-    	document.getElementById ( 'gergoBirthDiff'  ).innerHTML = dateDiff ( today, new Date( 2005, 11 - 1, 11, 10, 45 ) );
-    	document.getElementById ( 'andrasBirthDiff' ).innerHTML = dateDiff ( today, new Date( 2017, 09 - 1, 30, 22, 20 ) );
-
-    	document.getElementById ( 'workTSM' ).innerHTML = &quot;(&quot; + dateDiff ( today, new Date( 2004, 05 - 1, 1, 09, 00 ) ) + &quot;)&quot;;
-    }
-    setInterval ( myTimer, 1000 );
-    
-    function showhide ( id ) {
-    
-    	var len = arguments.length;
-        if ( len == 0 ) return;
-       
-        for( var i = 0; i &lt; len; i++ ) {
-  
-    		var e = document.getElementById( arguments[i] );
-        	e.style.display = ( e.style.display == 'block' ) ? 'none' : 'block';
-        
-     	}
-     }
-     	
-     function enabledisableMouse ( id ) {
-       
-     	var len = arguments.length;
-        if ( len == 0 ) return;
-          
-        for( var i = 0; i &lt; len; i++ ) {
-     
-       		var e = document.getElementById( arguments[i] );
-           	e.style.pointerEvents = ( e.style.pointerEvents == 'none' ) ? 'auto' : 'none';
-           
-        }	
-     	
-     }
-
-	/*
-	 * Function to calculate the absolute difference in days, months and years between 2 days taking into account variable month lengths and leap years
-	 * It ignores any time component (ie hours, minutes and seconds)
-	 *
-	 * https://gist.github.com/clecuona/2945438
-	 */
-	function dateDiff(dt1, dt2)
-	{
-	    /*
-	     * setup 'empty' return object
-	     */
-	    var ret = {days:0, months:0, years:0};
-
-	    /*
-	     * If the dates are equal, return the 'empty' object
-	     */
-	    if (dt1 == dt2) return ret;
-
-	    /*
-	     * ensure dt2 &gt; dt1
-	     */
-	    if (dt1 &gt; dt2)
-	    {
-	        var dtmp = dt2;
-	        dt2 = dt1;
-	        dt1 = dtmp;
-	    }
-
-	    /*
-	     * First get the number of full years
-	     */
-
-	    var year1 = dt1.getFullYear();
-	    var year2 = dt2.getFullYear();
-
-	    var month1 = dt1.getMonth();
-	    var month2 = dt2.getMonth();
-
-	    var day1 = dt1.getDate();
-	    var day2 = dt2.getDate();
-
-	    /*
-	     * Set initial values bearing in mind the months or days may be negative
-	     */
-
-	    ret['years'] = year2 - year1;
-	    ret['months'] = month2 - month1;
-	    ret['days'] = day2 - day1;
-
-	    /*
-	     * Now we deal with the negatives
-	     */
-
-	    /*
-	     * First if the day difference is negative
-	     * eg dt2 = 13 oct, dt1 = 25 sept
-	     */
-	    if (ret['days'] &lt; 0)
-	    {
-	        /*
-	         * Use temporary dates to get the number of days remaining in the month
-	         */
-	        var dtmp1 = new Date(dt1.getFullYear(), dt1.getMonth() + 1, 1, 0, 0, -1);
-
-	        var numDays = dtmp1.getDate();
-
-	        ret['months'] -= 1;
-	        ret['days'] += numDays;
-
-	    }
-
-	    /*
-	     * Now if the month difference is negative
-	     */
-	    if (ret['months'] &lt; 0)
-	    {
-	        ret['months'] += 12;
-	        ret['years'] -= 1;
-	    }
-
-	    // Add string conversion
-	    var returnString = &quot;&quot;;
-
-		if ( ret['years'] != 0 ) {
-	    	returnString += ret['years'] + &quot; &quot; + ( ( ret['years'] != 1 ) ? &quot;years&quot; : &quot;year&quot; );
-		}
-		
-		if ( ret['years'] != 0 &amp;&amp; ret['months'] != 0 ) returnString += &quot;, &quot;;
-
-	 	if ( ret['months'] != 0 ) {
-			returnString += ret['months'] + &quot; &quot; + ( ( ret['months'] != 1 ) ? &quot;months&quot; : &quot;month&quot; );
-	 	}
-	 	
-		if ( (ret['years'] != 0 || ret['months'] != 0 ) &amp;&amp; ret['days'] != 0 ) returnString += &quot; and &quot;;
-
-	  	if ( ret['days'] != 0 ) {
-	 	  	returnString += ret['days'] + &quot; &quot; +( ( ret['days'] != 1 ) ? &quot;days&quot; : &quot;day&quot; );
-	  	}
-
-	    return returnString;
-	}
-
-&lt;/script&gt;
-
-&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/three.js/86/three.min.js&quot;&gt;&lt;/script&gt;
-
-&lt;script type=&quot;text/javascript&quot;&gt;
-  
- /* https://codepen.io/thebabydino/pen/dvFcz */
-
-  var scene = new THREE.Scene(), 
-    w = window.innerWidth, h = window.innerHeight/2, 
-    camera = new THREE.PerspectiveCamera(
-      50   /* field of view, the lower, the closer it appears */, 
-      w/h  /* aspect ratio of view */, 
-      .1   /* near clipping plane */, 
-      100 /* far clipping plane */), 
-    renderer = new THREE.WebGLRenderer() /* renderer draws on screen what the camera sees */, 
-    
-    /* threejs.org/docs/#Reference/Extras.Geometries/BoxGeometry */
-    geometry = new THREE.BoxGeometry(2, 2, 2), 
-    
-    /* threejs.org/docs/#Reference/Materials/MeshBasicMaterial */
-    material = new THREE.MeshBasicMaterial({ color: 0x000000, wireframe: true }), 
-    cube = new THREE.Mesh(geometry, material);
-
-    var geo = new THREE.EdgesGeometry( geometry ); // or WireframeGeometry( geometry )
-    var mat = new THREE.LineBasicMaterial( { color: 0x000000, linewidth: 1 } );
-    cube = new THREE.LineSegments( geo, mat );
-
-    renderer.setClearColor( 0xffffff );
-
-var animate = function() {
-  
-  renderer.render(scene, camera); /* this is enough to render cube if not animated */
-  
-  /* keep increasing rotation around the y-axis */
-  cube.rotation.y += .02; /* the higher the value, the faster it rotates */
-  cube.rotation.x += .01;
-  //cube.rotation.z += .02;
-
-  requestAnimationFrame(animate);
-};
-
-renderer.setSize(w, h);
-document.body.appendChild(renderer.domElement); /* add our renderer to the body element */
-
-scene.add(cube); /* cube added at coordinates (0, 0, 0) */
-
-/* move the cube from inside the camera, the higher the value, the further away it goes */
-camera.position.z = 5;
-
-animate();
-
-&lt;/script&gt;
-
-</content>
-  </entry>
-  
-  <entry>
-    <title>🖥 macOSApps / macOSApps [2018]</title>
+    <title>🖥 macOSApps</title>
     <link href="http://0.0.0.0:4000/macOSApps.html"/>
-    <updated>2018-01-28T21:00:14+01:00</updated>
+    <updated>2018-01-29T20:30:21+01:00</updated>
     <id>http://0.0.0.0:4000/macOSApps</id>
     <content type="html">&lt;h1 id=&quot;awesome-macos-aka-os-x&quot;&gt;Awesome macOS (aka OS X)&lt;/h1&gt;
 
@@ -1615,55 +525,389 @@ animate();
   </entry>
   
   <entry>
-    <title>🎮 Video games / videojátékok [2018]</title>
-    <link href="http://0.0.0.0:4000/videoGames.html"/>
-    <updated>2018-01-28T20:48:07+01:00</updated>
-    <id>http://0.0.0.0:4000/videoGames</id>
+    <title>💿 CDs / CD-k</title>
+    <link href="http://0.0.0.0:4000/muzaxCD.html"/>
+    <updated>2018-01-29T20:30:09+01:00</updated>
+    <id>http://0.0.0.0:4000/muzaxCD</id>
     <content type="html">
 </content>
   </entry>
   
   <entry>
-    <title>👫 Friends / barátok [2018]</title>
-    <link href="http://0.0.0.0:4000/friends.html"/>
-    <updated>2018-01-28T20:47:47+01:00</updated>
-    <id>http://0.0.0.0:4000/friends</id>
-    <content type="html">
-</content>
-  </entry>
-  
-  <entry>
-    <title>📱 iOS / iOS [2018]</title>
-    <link href="http://0.0.0.0:4000/iOSApps.html"/>
-    <updated>2018-01-28T20:44:41+01:00</updated>
-    <id>http://0.0.0.0:4000/iOSApps</id>
-    <content type="html">&lt;h1 id=&quot;apple-ios-apps&quot;&gt;Apple iOS apps&lt;/h1&gt;
-
-&lt;p&gt;I have an iPhone 6 16GB. Here is a list of the ones that I love and use the most of my day to day life, sorted by their importance:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Waze&lt;/li&gt;
-  &lt;li&gt;Hipstamatic&lt;/li&gt;
-  &lt;li&gt;&lt;/li&gt;
-&lt;/ol&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>🎵 LPs / LP-k [2018]</title>
+    <title>🎵 LPs / LP-k</title>
     <link href="http://0.0.0.0:4000/muzaxLP.html"/>
-    <updated>2018-01-28T19:38:09+01:00</updated>
+    <updated>2018-01-29T20:30:06+01:00</updated>
     <id>http://0.0.0.0:4000/muzaxLP</id>
     <content type="html">
 </content>
   </entry>
   
   <entry>
-    <title>💿 CDs / CD-k [2018]</title>
-    <link href="http://0.0.0.0:4000/muzaxCD.html"/>
-    <updated>2018-01-28T19:36:21+01:00</updated>
-    <id>http://0.0.0.0:4000/muzaxCD</id>
+    <title>🎮 Video games / videojátékok</title>
+    <link href="http://0.0.0.0:4000/videoGames.html"/>
+    <updated>2018-01-29T20:30:00+01:00</updated>
+    <id>http://0.0.0.0:4000/videoGames</id>
     <content type="html">
+</content>
+  </entry>
+  
+  <entry>
+    <title>🌍 Document series / Dokumentumfilm sorozatok</title>
+    <link href="http://0.0.0.0:4000/documentSeries.html"/>
+    <updated>2018-01-29T20:29:54+01:00</updated>
+    <id>http://0.0.0.0:4000/documentSeries</id>
+    <content type="html">&lt;h2&gt;TV Series&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/The_Day_the_Universe_Changed&quot;&gt;James Burke: The Day the Universe Changed&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>🎧 Muzax</title>
+    <link href="http://0.0.0.0:4000/muzax.html"/>
+    <updated>2018-01-29T09:50:18+01:00</updated>
+    <id>http://0.0.0.0:4000/muzax</id>
+    <content type="html">&lt;p&gt;Ahogyan &lt;a href=&quot;timeline.html&quot;&gt;itt&lt;/a&gt; már leírtam szépen lassan gyerekkoromtól beépült az életembe a zene. Ezen az oldalon összeszedem azokat, amik a legkedvesebbek nekem.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Laurie Anderson&lt;/strong&gt;: Home Of The Brave (1986)&lt;/p&gt;
+
+&lt;div class=&quot;videocontainer&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/mua8Pr6uRso&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; class=&quot;iframeshadow&quot; width=&quot;1024&quot; height=&quot;576&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+</content>
+  </entry>
+  
+  <entry>
+    <title>🎬 Movies / filmek</title>
+    <link href="http://0.0.0.0:4000/movies.html"/>
+    <updated>2018-01-29T09:49:12+01:00</updated>
+    <id>http://0.0.0.0:4000/movies</id>
+    <content type="html">&lt;!-- break --&gt;
+
+&lt;div class=&quot;leftbox&quot; style=&quot;width: 15% ;&quot;&gt;&lt;a href=&quot;https://port.hu/adatlap/film/mozi/thelma-thelma/movie-196009#video-983530&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;http://t2.gstatic.com/images?q=tbn:ANd9GcSaKPgvVW33At9xYgW3PXplfAiwQxGnPkqeHhCaG6B5TCUDlB72&quot; alt=&quot;Thelma&quot; title=&quot;Thelma&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Thelma&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;“Thelma, egy vallásos háttérrel rendelkező norvég diáklány Oslóba költözik, ahol beleszeret egy másik lányba. S miközben szégyenérzettel terhelt szexuális ébredését éli meg, Thelma felfedezi, hogy természetfeletti képességgel és erővel rendelkezik.”&lt;/p&gt;
+
+&lt;hr style=&quot;clear: both;&quot; /&gt;
+
+&lt;div class=&quot;leftbox&quot; style=&quot;width: 15% ;&quot;&gt;&lt;a href=&quot;https://port.hu/adatlap/film/mozi/lady-bird-lady-bird/movie-191843#video-969510&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;http://t2.gstatic.com/images?q=tbn:ANd9GcT0Yf7_FepQU9VEbNsZ7824_2nvdFKOlogCo-yvJhSjuRA22aYg&quot; alt=&quot;Lady Bird&quot; title=&quot;Lady Bird&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Lady Bird&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;“Greta Gerwig első önálló rendezése merész, új hangot üt meg, bravúrosan tárja fel a humort és a pátoszt, amit egy anya és tinédzser lánya közti viharos viszony rejt.
+Christine “Lady Bird” McPherson (Saoirse Ronan) teljesen olyan, mint a szeretettől túláradó, megrögzötten makacs és határozott anyja, Marion (Laurie Metcalf), akivel örökös harcban áll. Marion nővér, és fáradhatatlanul dolgozik, hogy ellássa családját, miután Lady Bird apja elveszíti az állását. A kaliforniai Sacramentóban vagyunk 2002-ben, az amerikai gazdaság szeszélyesen változásai közepette játszódó történet érzékeny tükröt tart a kapcsolatoknak, melyek formálnak minket, a hiteknek, melyek meghatároznak minket, és a páratlan szépségű helynek, amelyet otthonnak nevezünk. “&lt;/p&gt;
+
+&lt;hr style=&quot;clear: both;&quot; /&gt;
+
+&lt;div class=&quot;leftbox&quot; style=&quot;width: 15% ;&quot;&gt;&lt;a href=&quot;https://port.hu/adatlap/film/mozi/szolits-a-neveden-call-me-by-your-name/movie-197412&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;http://t1.gstatic.com/images?q=tbn:ANd9GcRDtqzFejuwWDwGc41npRohO8lsVRfwzGXkjpinHQ3ZRuEvZWKH&quot; alt=&quot;Szólíts a neveden /Call Me by Your Name/&quot; title=&quot;Szólíts a neveden /Call Me by Your Name/&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Szólíts a neveden /Call Me by Your Name/&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;“Egy nyár Észak-Olaszországban. Elio (Timothée Chalamet), a 17 éves amerikai srác számára maga a paradicsom. A szüleivel együtt minden évben ugyanabban az ódon villában meg kertben tölti a vakációt, és ugyanazok a régi barátok veszik körül. Buliznak, strandolnak, zenét hallgatnak, beszélgetnek, és persze szerelemesek?
+Elio apja művészettörténész, aki minden évben befogadja néhány hétre egy tanítványát. Ezúttal a doktori disszertációján dolgozó Oliver (Armie Hammer) érkezik, aki megzavarja a boldog harmóniát. Nem illik ide. Túl laza, túl szép, nem tudni mit akar.
+Ez a nyár más, mint a korábbiak. Boldog és furcsa, szerelemmel és bánattal teli. És mire véget ér, már semmi nem lehet ugyanolyan, mint addig volt. “&lt;/p&gt;
+
+&lt;hr style=&quot;clear: both;&quot; /&gt;
+
+&lt;div class=&quot;leftbox&quot; style=&quot;width: 15% ;&quot;&gt;&lt;a href=&quot;https://port.hu/adatlap/film/mozi/szarnyas-fejvadasz-2049-blade-runner-2049/movie-176846#video-963594&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://upload.wikimedia.org/wikipedia/en/9/9b/Blade_Runner_2049_poster.png&quot; alt=&quot;Szárnyas fejvadász 2049 /Blade Runner 2049/&quot; title=&quot;Szárnyas fejvadász 2049 /Blade Runner 2049/&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Szárnyas fejvadász 2049 /Blade Runner 2049/&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;“Bár az alkotók az új történetet hét lakat alatt tartják, azt már tudjuk, hogy minden idők talán legnagyobb legendájú sci-fi/akciófilmje jó kezekben van: a producer az első rész rendezője, Ridley Scott, a rendező pedig az utóbbi évek legnagyobb meglepetéseit készítő kanadai Denis Villeneuve. Már maga a sztárszereposztás is fantasztikus filmmé teszi az új Szárnyas fejvadászt: minden esély megvan rá, hogy a Budapesten forgatott új rész felnő az elsőhöz, és maga is legendává válik.”&lt;/p&gt;
+
+&lt;!-- break --&gt;
+
+&lt;hr style=&quot;clear: both;&quot; /&gt;
+
+&lt;div class=&quot;leftbox&quot; style=&quot;width: 15% ;&quot;&gt;&lt;a href=&quot;https://port.hu/adatlap/film/tv/a-kigyo-olelese-el-abrazo-de-la-serpiente/movie-168036?section=mozi&amp;amp;title=a-kigyo-olelese-el-abrazo-de-la-serpiente&amp;amp;id=movie-168036#video-916198&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;http://www.amoiralcine.com/wp-content/uploads/2016/02/Poster-Oficial-El-Abrazo-de-la-Serpiente-Venezuela-1-717x1024.jpg&quot; alt=&quot;A kígyó ölelése /El abrazo de la serpiente/&quot; title=&quot;A kígyó ölelése /El abrazo de la serpiente/&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;A kígyó ölelése /El abrazo de la serpiente/&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;“Karamakate, a nagyhatalmú amazóniai sámán, törzsének utolsó képviselője a világtól elvonultan, a dzsungel mélyén él. A magány évtizedei chullachaqui-vá változtatták, olyan emberré, aki emlékek és érzelmek nélküli üres kéregként létezik. Életét azonban felrázza egy amerikai etnobotanikus érkezése, aki a Yakrunát, a szent varázsnövényt keresi, amely megtanít álmodni. Együtt indulnak Amazónia szívébe, és utazásuk során a múlt, a jelen és a jövő egybeolvad, Karamakate pedig lassan visszanyeri elveszett emlékeit.
+A történet a sámán és a két megszállott fehér ember road movie-ján túl a kolumbiai rendező kezében az őstermészet és a globalizáció örökös küzdelméről szóló gigantikus parabolává nemesül. A film egy őslakos szemével láttatja a gyarmatosítás groteszkségét, a hittérítés bornírtságát, és egy valódi ayahuasca-szeánsz után nekünk szegezi a kérdést: vajon elég bölcsek vagyunk ahhoz, hogy örökségünket ne játsszuk ki mohó anyagi érdekeknek?”&lt;/p&gt;
+
+&lt;hr style=&quot;clear: both;&quot; /&gt;
+
+&lt;div class=&quot;leftbox&quot; style=&quot;width: 15% ;&quot;&gt;&lt;a href=&quot;https://port.hu/adatlap/film/tv/mustang-mustang/movie-169772#video-921046&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;http://t1.gstatic.com/images?q=tbn:ANd9GcTXW5ECjwVJt3CsEm1aphgMqCGtBGUBoX50a8-WkV43Vg_V_MlI&quot; alt=&quot;Mustang&quot; title=&quot;Mustang&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Mustang&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;“Öt lánytestvér egy török faluban él nagybátyjukkal és nagyanyjukkal. A kamaszlányok felhőtlen boldogságban vágnak neki a nyári szünetnek, de a bigott török közeg a legkisebb kilengést sem tűri: az egyik szomszédasszony jelenti a lányok erkölcseire vigyázó nagymamának, hogy azok együtt fürödtek a tengerben a falubeli fiúkkal. A nyári vakáció a lányok számára nem azt a szabadságot hozza, amire számítottak, éppen ellenkezőleg, nevelőik egyre drasztikusabb módszerekkel próbálják betörni őket és megakadályozni, hogy az ezeréves tradíciók ellenében viselkedjenek. Az öt lány öt különböző választ ad az elnyomásra.”&lt;/p&gt;
+
+&lt;hr style=&quot;clear: both;&quot; /&gt;
+
+&lt;h1 id=&quot;movies&quot;&gt;Movies&lt;/h1&gt;
+
+&lt;p&gt;Magyar
+Isteni műszak&lt;/p&gt;
+
+&lt;p&gt;45 év / 45 Years (2015)
+Jelenetek egy házasságból
+Up in the air
+Betty Blue 
+A Pont-Neuf szerelmesei
+A nagy kékség
+Blue Is the Warmest Color
+Fish Tank
+Headhunters [Hodejegerne]
+Bikanyak (Bullhead) magyar előzetes
+A Generalis
+Rust and Broken
+All.About.My.Mother
+Europa
+Avatar
+A világ végéig ~ A Trilógia - Until The End Of The World
+Az utolsó mohikán
+Before Sunrise
+Blade Runner
+Boyhood (2014) [1080p]
+Brazil 1985
+Breaking Away
+Broken.Embraces.2009.HUN.DVDRiP.XviD-Legacy
+Cafe.de.Flore.2011.CUSTOM.BDRip.XviD.Hungarian-HuSync
+Casablanca 1942
+Castillos De Carton
+Deadpool
+Hamam
+Hair
+Forrest.Gump
+Flashdance
+9 és 1/2 hét
+Ghost.in.the.Shell
+Ive.Loved.You.So.Long
+Jesus Christ Superstar
+Kolya
+Mommy.2014
+Monty Python and the Holy Grail 1975
+Top.Gun
+Volt egyszer egy vadnyugat
+Vörös Sárkány (Red Dragon)
+The.Magnificent.Seven
+The Fault in Our Stars
+The.Man.From.U.N.C.L.E.
+Starship Troopers
+Scott Pilgrim
+Sicario
+The Best Exotic
+The.Brand.New.Testament
+Office Space
+Night on Earth
+Kill Bill	
+New York bandái
+Short cuts
+Less Than Zero 
+remeny rabjai&lt;/p&gt;
+
+&lt;p&gt;20th.Century.Women.2016.HUN.BDRiP.XviD-Gianni
+45.ev.2015.HUN.ENG.CUSTOM.BDRip.x264-PLAN9
+A Generalis.m4v
+A Generalis.m4v.vsmeta
+A.Gun.in.Each.Hand.[Una.Pistola.en.Cada.Mano].DVDRip.2012.XviD.HORiZON-ArtSubs
+A hét mesterlövész 1960
+All.About.My.Mother.1999.BDRip.XviD.HUN-CRW
+Allegiant.2016.BDRiP.x264.HuN-HyperX
+A.martfui.rem.2016.720p.HDTV.DD5.1.x264.HuN-CRLS
+American.Made.2017.BDRip.X264-DEFLATE
+Annie Hall 1977
+Avatar Extended Collectors Edition
+A világ végéig ~ A Trilógia - Until The End Of The World (Wim Wenders 1991)
+A Woman Under the Influence 1974
+Az ajánlat 2005
+Az.ajanlat.2005.DVDRip.XviD.Hun.AC3.5.1-Timba
+Az utolsó mohikán (The Last Of The Mohicans) 1992
+Bartali.2006.DVDRiP.x264.HuN-ClunkyChip
+Batman.v.Superman.Dawn.of.Justice.2016.EXTENDED.BDRip.x264-SPARKS
+Before Midnight 2013
+Before Sunrise.1995.DVDRip.x264.480p.YIFY.mkv
+Before.Sunset.200.7BrRip.720p.x264.YIFY.mkv
+Berlin felett az ég 1987
+Beszelj.Hozza.2002.BDRip.XviD.HUN-1st
+Blade Runner
+Blade Runner 2049.720p.WEB-DL.H264.AC3-EVO
+Blancanieves 2012
+Blue Is the Warmest Color 2013
+Blue.Jasmine.2013.BDRip.x264.HuN-No1
+Boyhood (2014)
+Boyhood (2014) [1080p]
+Brazil 1985
+Breaking Away 1979
+Bridge.of.Spies.2015.BDRip.x264-SPARKS
+Broken.Embraces.2009.HUN.DVDRiP.XviD-Legacy
+Cafe.de.Flore.2011.CUSTOM.BDRip.XviD.Hungarian-HuSync
+Casablanca 1942
+Castillos De Carton
+Chinatown [1974] Eng 720p
+Colossus - The Forbin Project (1970)
+Criminal.2016.BDRiP.x264.HuN-HyperX
+Cross Of Iron 1977
+Deadpool.2016.BDRiP.x264.HuN-HyperX
+Deepwater.Horizon.2016.720p.BluRay.DTS.x264.HuN-HyperX
+Demolition.2015.BDRip.x264-GECKOS
+Diary Of A Country Priest 1951.m4v
+Dilisek vacsorája 1998
+Dirty Dancing 1987
+Dirty Dancing 2 2004
+Doctor.Strange.2016.720p.BluRay.DTS.x264-VietHD
+Dunkirk.2017.BDRip.x264-SPARKS
+@eaDir
+Elet.vagy.valami.hasonlo.2002.HUN.DVDRiP.XviD-seven
+Elle.2016.720p.BluRay.DTS.x264-VietHD
+Embrace.of.the.Serpent.2015.LIMITED.BDRip.x264-DEPTH
+Enemy.at.the.Gates.2001.HUN.BDRip.Xvid-ZHR
+E.T. A  Földönkívüli
+Eye.in.the.Sky.2015.BDRiP.x264.HuN-HyperX
+Eyes Wide Shut 1999
+Fantomas BOXSET
+Felon.2008.BDrip.Custom.HUN.x264-DenZo
+Final Cut - Hölgyeim és Uraim.avi
+Final.Fantasy.Advent.Children.Complete.2009.720p.BluRay.DTS.x264-THORA
+Flashdance 1983
+Forrest.Gump.1994.720p.BluRay.DTS.x264.Hungarian-BW
+Full Metal Jacket 1987
+Get.Out.2017.720p.BluRay.DTS.x264.HuN-No1
+Ghost.in.the.Shell.2017.720p.BluRay.DD-EX.x264-BabyRed
+Gifted.2017.BDRip.x264-GECKOS
+Goodfellas.1990.Special.Edition.DVDRip.XviD.INTERNAL
+Hair 1979
+Hamam (1997)
+Hannah.and.Her.Sisters.1986.HUN.DVDRiP.XviD-Legacy
+Harry Potter
+Headhunters [Hodejegerne] [2011] 720p ReRip BRRip H264 AC3 - CODY
+Hell.or.High.Water.2016.BDRip.x264-DiAMOND
+Hervadó virágok (Broken Flowers) 2005
+Hidden.Figures..2016.DVDSCR-P2P
+Homefront.2013.BDRip.x264-R4Z3R
+Incendies.LIMITED.DVDRip.XviD-DoNE
+Indiana.Jones.and.the.Last.Crusade.1989.iNT.CUSTOM.HUN.DVDRiP.XviD-DWP
+Indiana.Jones.and.The.Raiders.of.The.Lost.Ark.1981.BDrip.Custom.HUN.x264-DenZo
+Indiana.Jones.And.The.Temple.Of.Doom.1984.BDrip.Custom.HUN.x264-DenZo
+In Search of a Midnight Kiss
+Into.The.Wild.2007.DVDRip.XviD-FLAiTE
+In.Your.Eyes.2014.DVDRip.x264-BiPOLAR
+Ip.Man.3.2015.CUSTOM.BDRip.x264.HUN-SLN
+Ive.Loved.You.So.Long.2008.LiMiTED.DVDRip.XviD-NODLABS
+Jack.Reacher.Never.Go.Back.2016.720p.WEB-DL.H264.AC3-EVO
+Jamesbond.ULTiMATE.Collection.HUN.PAL.DVDR-Zso
+Jesus Christ Superstar - Jézus Krisztus Szupersztár 1973
+Julieta.2016.LIMITED.BDRip.x264-BiPOLAR
+Jurassic.World.2015.BDRip.x264.HuN-HRT
+Kedi (2017) 1080p x264
+Kikepzes.2001.DVDRip.XviD.HUN-BOSS
+Kill Bill
+Kill Bill The Whole Bloody Affair 2012
+Kill.Command.2016.BDRiP.x264.HuN-HyperX
+King.Arthur.Legend.of.the.Sword.2017.BluRay.720p.DD5.1.x264.HuN-TRiNiTY
+Kingsglaive.Final.Fantasy.XV.2016.BDRiP.x264.HuN-HyperX
+Kolya 1996 Jan Sverak
+Komputerkémek 1992
+La Grande Bellezza [The Great Beauty] 2013
+La.La.Land.2016.DVDScr.XVID.AC3.HQ.Hive-CM8
+La.mala.educacion.2004.720p.BluRay.x264.HuN-TRiNiTY
+La.Meglio.Gioventu.Atto.Primo.2003.iTALIAN.DVDRip.XviD-TRL
+Lélekszakadva 2002.avi
+Lion.2016.1080p.WEB-DL.DD5.1.H264-FGT
+Live.Flesh.1997.HUN.CUSTOM.DVDRip.XviD-deadinside
+Logan.2017.BDRiP.x264.HuN-HyperX
+Lost.in.Translation.2003.DVDRip.HUN.Xvid-EVOlution
+Louis.De.Funes.A.Csendor.Es.A.Csendorlanyok.DVDRip.XviD.Hun-NoGrp
+Louis.De.Funes.A.Csendor.Es.A.Foldonkivuliek.DVDRip.XviD.Hun-NoGrp
+Louis.De.Funes.A.Csendor.Nosul.DVDRip.XviD.Hun-NoGrp
+Louis.De.Funes.A.Csendor.Nyugdijba.Megy.DVDRip.XviD.Hun-NoGrp
+Louis.De.Funes.A.Fosveny.DVDRip.XviD.Hun-NoGrp
+Louis.De.Funes.A.Saint.Tropezi.Csendor.DVDRip.XviD.Hun-NoGrp
+Majdnem.Hires.2000.Custom.Hun.Pal.DVDR-NBTIMI
+Manchester.by.the.Sea.2016.BDRip.x264-GECKOS
+Manhattan.1979.DVDRiP.XViD.Hun-WebShit
+Martin.Scorsese.Movie.Pack.DVDRip.XviD.ArenaBG
+Match.Point[2005]DvDrip[Eng]-aXXo
+Me.Before.You.2016.BDRiP.x264.HuN-HyperX
+Mechanic.Resurrection.2016.BDRiP.x264.HuN-HyperX
+Mission.Impossible.Trilogy
+Miss.Sloane.2016.HUN.BDRiP.XviD-Gianni
+Modern Times 1936
+Mommy.2014.720p.BluRay.x264-PSYCHD
+Monty Python and the Holy Grail 1975
+Monty Python Live At The Hollywood Bowl 1982
+Mr.and.Mrs.Smith.2008.RETAIL.DVDRiP.XviD.HUN-DynamicLife
+Mustang.2015.BDRip.x264.HuN-Nimphas
+Night on Earth
+Nincs.bocsanat.1992.DUAL.DVDRiP.XviD-seven
+Nine.And.A.Half.Weeks.1986.HUN.DVDRip.XviD-pocokmaster
+Nocturnal.Animals.2016.720p.BluRay.DTS.x264.HuN-TRiNiTY
+Office Space1999 720p
+Office Space [Special Edition] 1999
+Óz, a csodák csodája (The Wizard of Oz) 1939.avi
+Oz the Great and Powerful 2013 1080p 3D
+Palackposta.2016.BDRip.x264.HuN-BaKeR
+Passengers (2016) x264 AAC 2.0 HDCAM (Deflickered) -DDR
+Paterson.2016.BDRip.X264-AMIABLE[rarbg]
+Paterson.2016.DVDScr.XVID.AC3.HQ.Hive-CM8[oscars]
+Persepolis 2007
+Phoenix.2014.BRRip.XviD.AC3-EVO
+Pirates.of.the.Caribbean.Dead.Men.Tell.No.Tales.2017.HUN.BDRiP.XviD-Gianni
+Pirates.Of.The.Caribbean.II.Dead.Mans.Chest.2006
+Pirates.of.the.Caribbean.The.Curse.of.the.Black.Pearl.2003
+Pitkin
+Pour.La.Peau.D’un.Flic.1981.720p.BluRay.AC3.x264.HuN-AMBiLiGHT
+Proof.2005.HUN.BDRiP.x264-ARROW
+Pulp Fiction 1994
+Rope 1948.mkv
+Saturday Night Fever - Szombat esti láz 1977
+Scott Pilgrim vs the World 2010
+Shot.Caller.2017.HUN.BDRiP.XviD-Gianni
+Sicario.2015.BDRip.x264-SPARKS
+Solaris
+Spartacus 2 disc edition 1960
+Starship Troopers (1997)
+Starship.Troopers.Invasion.2012.DVDRip.XviD-DiSPOSABLE
+Starship.Troopers.Traitor.of.Mars.2017.HUN.720p.BluRay.DTS.x264-DeeMoN
+Suicide.Squad.2016.TC.WEBRiP.x264.HuN-HyperX
+Szabadeses.2014.RETAiL.DVDRip.x264.HuN-No1
+Sztalker
+The.Accountant.2016.BDRiP.x264.HuN-HyperX
+The Best Exotic Marigold Hotel
+The Big Lebowski 1998
+The.Big.Short.2015.BDRiP.x264.HuN-HyperX
+The.Brand.New.Testament.2015.CUSTOM.BDRip.x264.HUN-HTH
+The.Bridge.on.the.River.Kwai.1957.HUN.BDRip.XviD-HDEvo
+The.Drop.2014.720p.WEB-DL.DD5.1.H264-RARBG
+The Fault in Our Stars 2014
+The.Garage.1920.REMASTERED.BDRip.x264-GHOULS
+The.Girl.on.the.Train.2016.BDRiP.x264.HuN-HyperX
+The Gold Rush 1925
+The.Great.Escape.1963.iNT.CUSTOM.DVDRip.XviD.Hungarian-AlienSExist
+The.Kid.1921
+The.Magnificent.Seven.2016.HUN.BDRiP.x264-ARROW
+The.Man.From.U.N.C.L.E.(8.Movies.Collection)480p.DVDRip.H264(BINGOWINGZ-UKB-RG)
+The.Man.Who.Knew.Infinity.2015.BDRiP.x264.HuN-HyperX
+The.Matrix.Trilogy.ReTaiL.BDRip.XviD.DuaL-PpB
+The.Notebook.2004.Custom.BDRip.x264.HUN-MDC
+The Secret Life of Walter Mitty 2013
+The.Shallows.2016.BDRip.x264-GECKOS
+The Shawshank Redemption 1994
+The.Twilight.Saga.Eclipse.2010.iNT.BDRip.XviD.HUN-PpB
+The Unbearable Lightness of Being 1988
+The.Wizard.of.Lies.2017.HUN.BDRiP.XviD-Gianni
+Titanic.1997.HUN.BDRiP.x264-DWP
+Toni.Erdmann.2016.720p.BluRay.x264-SADPANDA
+Top.Gun.1986.REPACK.2xHUN.720p.BluRay.x264-TOXI
+Top.Secret.1984.DVDrip.Hun-FegRa
+Trance
+Tükör által homályosan.ISO
+Twilight 01 - Twilight.epub
+Under Fire 1983
+Under Fire 1983 hun
+Űrgolyhók (Spaceballs)
+Volt egyszer egy vadnyugat - Cera Una Volta Il West 1968
+Vörös Sárkány (Red Dragon) 2002
+Wild Tales 2014
+Wind.River.2017.720p.BluRay.x264-GECKOS
+Women.on.the.Verge.of.a.Nervous.Breakdown.1988.BDRip.x264.HUN-CRW
+Youth.2015.BDRip.x264-PHOBOS
+Zabriskie Point 1970
+Zelig
+Zodiac.2007.DC.BDrip.Custom.HUN.x264-DenZo&lt;/p&gt;
 </content>
   </entry>
   
