@@ -13,16 +13,16 @@ Ezen az oldalon tervezem összeszedni az általam kedvelt (e vagy papír alapú)
 
 ## De előtte jöjjön a lényeg az én aktuális könyv TOPlistám:
 
-<span><img class="shadow" src="https://moly.hu/system/covers/big/covers_370521.jpg" alt="" style="width: 12%;" alt=""></span>
-<span><img class="shadow" src="https://moly.hu/system/covers/big/covers_434886.jpg?1490173019" alt="" style="width: 12%; margin-left: -4em;" alt=""></span>
-<span><img class="shadow" src="https://moly.hu/system/covers/big/covers_35427.jpg?1395354721" alt="" style="width: 12%;" alt=""></span>
-<span><img class="shadow" src="https://moly.hu/system/covers/big/covers_37727.jpg" alt="" style="width: 12%;" alt=""></span>
-<span><img class="shadow" src="https://s04.static.libri.hu/cover/8d/1/3277407_5.jpg" alt="" style="width: 12%;" alt=""></span>
-<span><img class="shadow" src="https://s03.static.libri.hu/cover/1a/8/4039575_5.jpg" alt="" style="width: 12%;" alt=""></span>
-<span><img class="shadow" src="https://www.book24.hu/thumbnails/215/0/img/boritok/agave/csomag_john-scalzi-venek-haboruja-1-4-promo.png" alt="" style="width: 12%;" alt=""></span>
-<span><img class="shadow" src="https://s06.static.libri.hu/cover/69/e/817799_5.jpg" alt="" style="width: 12%;" alt=""></span>
-<span><img class="shadow" src="https://s01.static.libri.hu/cover/e6/6/3201999_4.jpg" alt="" style="width: 12%;" alt=""></span>
-<span><img class="shadow" src="http://nagysandor.eu/images/objects/books/brosnan.jpg" alt="" style="width: 12%;" alt=""></span>
+<span><a href="https://bookline.hu/product/home.action?_v=Yuval_Noah_Harari_Sapiens&id=20822&type=250"><img class="shadow" src="https://moly.hu/system/covers/big/covers_370521.jpg" alt="" style="width: 12%;" alt=""></a></span>
+<span><a href="https://bookline.hu/product/home.action?_v=Yuval_Noah_Harari_Homo_Deus&id=32396&type=250"><img class="shadow" src="https://moly.hu/system/covers/big/covers_434886.jpg?1490173019" alt="" style="width: 12%; margin-left: -4em;" alt=""></a></span>
+<span><a href="https://moly.hu/konyvek/thomas-harris-a-voros-sarkany"><img class="shadow" src="https://moly.hu/system/covers/big/covers_35427.jpg?1395354721" alt="" style="width: 12%;" alt=""></a></span>
+<span><a href="https://moly.hu/konyvek/johannes-mario-simmel-nem-kell-mindig-kaviar"><img class="shadow" src="https://moly.hu/system/covers/big/covers_37727.jpg" alt="" style="width: 12%;" alt=""></a></span>
+<span><a href="https://www.libri.hu/konyv/berta_zsolt.recept.html"><img class="shadow" src="https://s04.static.libri.hu/cover/8d/1/3277407_5.jpg" alt="" style="width: 12%;" alt=""></a></span>
+<span><a href="https://moly.hu/konyvek/moldova-gyorgy-titkos-zaradek"><img class="shadow" src="https://s03.static.libri.hu/cover/1a/8/4039575_5.jpg" alt="" style="width: 12%;" alt=""></a></span>
+<span><a href="https://www.agavekonyvek.hu/konyvek/venek-haboruja-1-4-csomag"><img class="shadow" src="https://www.book24.hu/thumbnails/215/0/img/boritok/agave/csomag_john-scalzi-venek-haboruja-1-4-promo.png" alt="" style="width: 12%;" alt=""></a></span>
+<span><a href="https://moly.hu/konyvek/j-r-dos-santos-az-isteni-formula"><img class="shadow" src="https://s06.static.libri.hu/cover/69/e/817799_5.jpg" alt="" style="width: 12%;" alt=""></a></span>
+<span><a href="https://moly.hu/konyvek/marc-elsberg-blackout"><img class="shadow" src="https://s01.static.libri.hu/cover/e6/6/3201999_4.jpg" alt="" style="width: 12%;" alt=""></a></span>
+<span><a href="http://nagysandor.eu/miegymas/skylords.htm"><img class="shadow" src="http://nagysandor.eu/images/objects/books/brosnan.jpg" alt="" style="width: 12%;" alt=""></a></span>
 	
 <hr style="clear: both;">
 

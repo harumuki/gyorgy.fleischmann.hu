@@ -343,3 +343,15 @@ Youth.2015.BDRip.x264-PHOBOS
 Zabriskie Point 1970
 Zelig
 Zodiac.2007.DC.BDrip.Custom.HUN.x264-DenZo
+
+
+Pont Neuf
+Rosencrantz and guildenstern are dead
+Shop Stop
+Ofice Space
+Brazil
+Short cuts
+Gyalog Galop
+Up in the air
+
+
