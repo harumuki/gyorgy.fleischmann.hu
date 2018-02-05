@@ -490,7 +490,7 @@ pre code {
 blockquote {
   position: relative;
   margin: 0 0 0em;
-  padding: 0.75em 1.5em 0.75em;
+  padding: 0.75em 0em 0.3em 0.75em;
   color: #3B3D40;
   clear: left;
 }
@@ -510,8 +510,9 @@ blockquote:before {
 }
 
 blockquote:hover:before {
-  width: 10px;
+  width: 8px;
   background: #2292F1;
+  border-radius: 3px;
 }
 
 table {
