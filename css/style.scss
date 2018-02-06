@@ -242,7 +242,7 @@ hr.gradientstyle {
     color: #0f4065
 }
 
-.toc ul li>a {
+.toc ul li a {
     font-size: 1.1em;
     font-weight: 500;
     background-image: none;
@@ -263,6 +263,12 @@ hr.gradientstyle {
 
   font-family: 'andale mono',courier,sans-serif;
 
+  margin-bottom: 0.5em;
+}
+
+.post pre.terminal a, .post pre.terminal a:hover, .post pre.terminal a:visited {
+  background-color: #333;
+  color: #17ff00;
 }
 
 //<pre class="terminal">Text <b>skdslksd</b></pre>
@@ -384,6 +390,12 @@ pre {
 
 .highlight {        
   padding-left: 0.5em;
+
+  white-space: pre-wrap;       /* Since CSS 2.1 */
+  white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+  white-space: -pre-wrap;      /* Opera 4-6 */
+  white-space: -o-pre-wrap;    /* Opera 7 */
+  word-wrap: break-word;       /* Internet Explorer 5.5+ */
 }
 
 .highlight pre:after {

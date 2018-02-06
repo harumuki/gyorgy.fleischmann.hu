@@ -9,6 +9,8 @@ tags:     [listák, awesome]
 
 Európa /Europa/, Pont neuf, Hamam, Blue is the warmest clolor, Szárnyas Fifi, Pitkin, Hal neve Wanda, Sekély sírhant
 
+Cinema Paradiso  /Nuovo cinema Paradiso/
+
 <!-- break -->
 
 {% include movie_cover.html 
