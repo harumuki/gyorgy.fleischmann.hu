@@ -230,6 +230,170 @@
 
   <article class='post' style="">
 
+    <h1 class='post-title'><a href="/jekyll_scheduled_post.html" class="hvr-buzz-out">&nbsp;⏰ Időzített Jekyll bejegyzés</a></h1>
+
+    <div class="post-date"><i class="icon-calendar"></i> 2018., február 7.,
+
+    <!-- Source: https://sacha.me/articles/jekyll-word-counts/ -->
+    |
+
+    <i class="icon-user"></i>
+    
+      <a href="mailto:gyorgy@fleischmann.hu">_flex</a>
+    
+    <img src="http://www.gravatar.com/avatar/645917b1946117c27a6ee9bbd02240e1?s=40" style="width: 12px;"> | 
+
+    <i class="icon-list"></i>
+    [<a href="categories.html#development / fejlesztés">development / fejlesztés</a>]
+    <i class="icon-tags"></i>
+    
+      <span class=""><a href="tags.html#jekyll">#jekyll</a></span>
+    
+      <span class=""><a href="tags.html#web">#web</a></span>
+    
+      <span class=""><a href="tags.html#development">#development</a></span>
+    
+
+    </div><!-- .post-date -->
+
+    <!-- Read more part 1. -->
+    <!-- https://gist.github.com/mikeygee/2626538 -->
+    <!-- https://stackoverflow.com/questions/16528783/check-for-existence-of-file-using-jekyll -->
+    
+
+    <!-- Read more part 2. -->
+    <p>A legegyszerűbb, leghasználhatóbb választ ez a poszt adja + erre a problémára: <a href="http://code.alxmjo.com/how-to-schedule-posts-with-jekyll/">http://code.alxmjo.com/how-to-schedule-posts-with-jekyll/</a></p>
+
+<p>A megoldáshoz kell majd egy olyan gép, ami időről, időre meg tudja hívni én konkrét Jekyll oldalamhoz ezt a parancsot:</p>
+
+<pre class="terminal">curl "https://api.github.com/repos/FleXoft/gyorgy.fleischmann.hu/pages/builds" \
+-X POST \
+-H 'Authorization: token 7a65376e4b10e090037b4c82338c4ef5031ab408' \
+-H "Accept: application/vnd.github.mister-fantastic-preview"</pre>
+
+<p>/* Ez a bejegyzés is már ezzel élesedett. */</p>
+
+
+    <div style="clear: both;">
+    <!-- Disqus counter -->
+    
+      <script id="dsq-count-scr" src="//gyorgy-fleischmann-hu.disqus.com/count.js" async></script>
+      <nobr><a href="/jekyll_scheduled_post.html#disqus_thread">Disqus counter</a></nobr>
+    
+
+    
+    </div>
+
+    <br>
+
+  </article>
+
+
+  
+
+  <article class='post' style="">
+
+    <h1 class='post-title'><a href="/iTunes_daap_access.html" class="hvr-buzz-out">&nbsp;📢 Otthoni megosztott Apple iTunes elérése VPN-en keresztül</a></h1>
+
+    <div class="post-date"><i class="icon-calendar"></i> 2018., február 7.,
+
+    <!-- Source: https://sacha.me/articles/jekyll-word-counts/ -->
+    372 szó, elolvasásához kb.: 2 perc kell|
+
+    <i class="icon-user"></i>
+    
+      <a href="mailto:gyorgy@fleischmann.hu">_flex</a>
+    
+    <img src="http://www.gravatar.com/avatar/645917b1946117c27a6ee9bbd02240e1?s=40" style="width: 12px;"> | 
+
+    <i class="icon-list"></i>
+    [<a href="categories.html#development / fejlesztés">development / fejlesztés</a>]
+    <i class="icon-tags"></i>
+    
+      <span class=""><a href="tags.html#iTunes">#iTunes</a></span>
+    
+      <span class=""><a href="tags.html#vpn">#vpn</a></span>
+    
+      <span class=""><a href="tags.html#development">#development</a></span>
+    
+      <span class=""><a href="tags.html#OS X">#OS X</a></span>
+    
+      <span class=""><a href="tags.html#macOS">#macOS</a></span>
+    
+      <span class=""><a href="tags.html#DAAP">#DAAP</a></span>
+    
+
+    </div><!-- .post-date -->
+
+    <!-- Read more part 1. -->
+    <!-- https://gist.github.com/mikeygee/2626538 -->
+    <!-- https://stackoverflow.com/questions/16528783/check-for-existence-of-file-using-jekyll -->
+    
+
+    <!-- Read more part 2. -->
+    <p>A feladat most az lenne, hogy bárhonnan elérehető legyen az otthoni (iTunes, DAAP, Digital Audio Access Protocol) megosztott zenearzenál is VPN-en keresztül.</p>
+
+<p>Sok más megoldás (<a href="http://theriom.com/Access-your-Bonjour-printer-over-VPN-from-your-iOS-device">link1</a>) közül nekem végül ez a cikk tetszett meg a legjobban az 1szerűsége miatt: <a href="https://www.joshcurry.co.uk/posts/using-itunes-library-sharing-over-a-vpn-or-the-internet">Using iTunes Library Sharing over a VPN or the Internet</a>.</p>
+
+<p>Lefuttatva még otthon ezt a parancsot:</p>
+
+<pre class="terminal">dns-sd -Z _daap._tcp</pre>
+
+<p>megkapjuk az <a href="https://developer.apple.com/library/content/qa/qa1312/_index.html">elérhető szolgáltatások</a> listáját. Jelen példában csak a Digital Audio Access Protocol szolgáltatásokat szeretnénk összeszedni és én erre a lekérdezésre ezt a listát kaptam:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Browsing for _daap._tcp
+DATE: ---Tue 06 Feb 2018---
+ 6:58:23.812  ...STARTING...
+
+; To direct clients to browse a different domain, substitute that domain in place of '@'
+lb._dns-sd._udp                                 PTR     @
+
+; In the list of services below, the SRV records will typically reference dot-local Multicast DNS names.
+; When transferring this zone file data to your unicast DNS server, you'll need to replace those dot-local
+; names with the correct fully-qualified (unicast) domain name of the target host offering the service.
+
+_daap._tcp                                      PTR     MUZAX._daap._tcp
+MUZAX._daap._tcp                                SRV     0 0 3689 BLACKHOLE.local. ; Replace with unicast FQDN of target host
+MUZAX._daap._tcp                                TXT     "txtvers=1" "Database ID=" "Machine ID=" "Machine Name=MUZAX" "mtd-version=0.2.4.1" "iTSh Version=131073" "Version=196610" "Password=false"
+
+_daap._tcp                                      PTR     flex’s\032MacBook\032Pro\032Library_PW._daap._tcp
+flex’s\032MacBook\032Pro\032Library_PW._daap._tcp SRV     0 0 3689 flexs-MacBook-Pro.local. ; Replace with unicast FQDN of target host
+flex’s\032MacBook\032Pro\032Library_PW._daap._tcp TXT     "txtvers=1" "Version=196621" "MID=0x712648C4C2B6BBB" "Database ID=6658B926016842AE" "Machine ID=5973179E8FBB" "dmv=131085" "OSsi=0x1F5" "Media Kinds Shared=1025" "iTSh Version=196622" "Password=1" "Machine Name=flex’s MacBook Pro Library"
+
+_daap._tcp                                      PTR     flex’s\032iMac\032Library_PW._daap._tcp
+flex’s\032iMac\032Library_PW._daap._tcp       SRV     0 0 3689 Fleischmanns-iMac.local. ; Replace with unicast FQDN of target host
+flex’s\032iMac\032Library_PW._daap._tcp       TXT     "txtvers=1" "Version=196621" "MID=0x23C2D711F8740F6D" "Database ID=7C219A41B9C26D48" "Machine ID=B2483356245F" "dmv=131085" "OSsi=0x1F8" "Media Kinds Shared=1048655" "iTSh Version=196622" "Password=1" "Machine Name=flex’s iMac Library"
+</code></pre></div></div>
+
+<p>Ebből az látszik, hogy nekem a futtatás pillanatában épp három ilyen forrásom volt aktív.</p>
+
+<p>Ezen lista alapján és a gépek DNS nevének + az eszközök IP címének ismeretében, amikor nem vagyok otthon és a VPN kapcsolat felépítése után, ezt a parancsot kiadva:</p>
+
+<pre class="terminal">dns-sd -P "Music on server" _daap._tcp local 3689 BLACKHOLE.fleischmann.local. \
+    192.168.1.2 "Password=false" "Version=196610" "iTSh Version=131073" "mtd-version=0.2.4.1" "Machine Name=MUZAX" "Machine ID=" "Database ID=" "txtvers=1"</pre>
+
+<p>már azonnal elérhetővé is válik a kiszemelt (a konkrét példában ez épp 1 Synology NAS) eszközünk az iTunes-ban és már lehet is hallgatni az otthonról megosztott zenéket.</p>
+
+
+    <div style="clear: both;">
+    <!-- Disqus counter -->
+    
+      <script id="dsq-count-scr" src="//gyorgy-fleischmann-hu.disqus.com/count.js" async></script>
+      <nobr><a href="/iTunes_daap_access.html#disqus_thread">Disqus counter</a></nobr>
+    
+
+    
+    </div>
+
+    <br>
+
+  </article>
+
+
+  
+
+  <article class='post' style="">
+
     <h1 class='post-title'><a href="/movies.html" class="hvr-buzz-out">&nbsp;🎬 Movies / filmek</a></h1>
 
     <div class="post-date"><i class="icon-calendar"></i> 2018., február 6.,
@@ -744,118 +908,6 @@ SUN</p>
     
       <script id="dsq-count-scr" src="//gyorgy-fleischmann-hu.disqus.com/count.js" async></script>
       <nobr><a href="/gadgets.html#disqus_thread">Disqus counter</a></nobr>
-    
-
-    
-    </div>
-
-    <br>
-
-  </article>
-
-
-  
-
-  <article class='post' style="">
-
-    <h1 class='post-title'><a href="/friends.html" class="hvr-buzz-out">&nbsp;👫 Friends / barátok</a></h1>
-
-    <div class="post-date"><i class="icon-calendar"></i> 2018., január 29.,
-
-    <!-- Source: https://sacha.me/articles/jekyll-word-counts/ -->
-    |
-
-    <i class="icon-user"></i>
-    
-      <a href="mailto:gyorgy@fleischmann.hu">_flex</a>
-    
-    <img src="http://www.gravatar.com/avatar/645917b1946117c27a6ee9bbd02240e1?s=40" style="width: 12px;"> | 
-
-    <i class="icon-list"></i>
-    [<a href="categories.html#Friends / barátok">Friends / barátok</a>]
-    <i class="icon-tags"></i>
-    
-      <span class=""><a href="tags.html#listák">#listák</a></span>
-    
-      <span class=""><a href="tags.html#awesome">#awesome</a></span>
-    
-
-    </div><!-- .post-date -->
-
-    <!-- Read more part 1. -->
-    <!-- https://gist.github.com/mikeygee/2626538 -->
-    <!-- https://stackoverflow.com/questions/16528783/check-for-existence-of-file-using-jekyll -->
-    
-
-    <!-- Read more part 2. -->
-    
-
-
-    <div style="clear: both;">
-    <!-- Disqus counter -->
-    
-      <script id="dsq-count-scr" src="//gyorgy-fleischmann-hu.disqus.com/count.js" async></script>
-      <nobr><a href="/friends.html#disqus_thread">Disqus counter</a></nobr>
-    
-
-    
-    </div>
-
-    <br>
-
-  </article>
-
-
-  
-
-  <article class='post' style="">
-
-    <h1 class='post-title'><a href="/iOSApps.html" class="hvr-buzz-out">&nbsp;📱 iOS</a></h1>
-
-    <div class="post-date"><i class="icon-calendar"></i> 2018., január 29.,
-
-    <!-- Source: https://sacha.me/articles/jekyll-word-counts/ -->
-    |
-
-    <i class="icon-user"></i>
-    
-      <a href="mailto:gyorgy@fleischmann.hu">_flex</a>
-    
-    <img src="http://www.gravatar.com/avatar/645917b1946117c27a6ee9bbd02240e1?s=40" style="width: 12px;"> | 
-
-    <i class="icon-list"></i>
-    [<a href="categories.html#iOS / iOS">iOS / iOS</a>]
-    <i class="icon-tags"></i>
-    
-      <span class=""><a href="tags.html#listák">#listák</a></span>
-    
-      <span class=""><a href="tags.html#awesome">#awesome</a></span>
-    
-
-    </div><!-- .post-date -->
-
-    <!-- Read more part 1. -->
-    <!-- https://gist.github.com/mikeygee/2626538 -->
-    <!-- https://stackoverflow.com/questions/16528783/check-for-existence-of-file-using-jekyll -->
-    
-
-    <!-- Read more part 2. -->
-    <h1 id="apple-ios-apps">Apple iOS apps</h1>
-
-<p>I have an iPhone 6 16GB. Here is a list of the ones that I love and use the most of my day to day life, sorted by their importance:</p>
-
-<ol>
-  <li>Waze</li>
-  <li>Hipstamatic</li>
-  <li></li>
-</ol>
-
-
-    <div style="clear: both;">
-    <!-- Disqus counter -->
-    
-      <script id="dsq-count-scr" src="//gyorgy-fleischmann-hu.disqus.com/count.js" async></script>
-      <nobr><a href="/iOSApps.html#disqus_thread">Disqus counter</a></nobr>
     
 
     

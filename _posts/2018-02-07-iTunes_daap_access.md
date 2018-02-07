@@ -7,7 +7,7 @@ category: development / fejlesztés
 tags:     [iTunes, vpn, development, OS X, macOS, DAAP]
 ---
 
-A feladat az, hogy elérehető legyen az otthoni (iTunes, DAAP, Digital Audio Access Protocol) zenearzenál is VPN-en keresztül. 
+A feladat most az lenne, hogy bárhonnan elérehető legyen az otthoni (iTunes, DAAP, Digital Audio Access Protocol) megosztott zenearzenál is VPN-en keresztül. 
 
 Sok más megoldás ([link1](http://theriom.com/Access-your-Bonjour-printer-over-VPN-from-your-iOS-device)) közül nekem végül ez a cikk tetszett meg a legjobban az 1szerűsége miatt: [Using iTunes Library Sharing over a VPN or the Internet](https://www.joshcurry.co.uk/posts/using-itunes-library-sharing-over-a-vpn-or-the-internet).
 
@@ -15,7 +15,7 @@ Lefuttatva még otthon ezt a parancsot:
 
 <pre class="terminal">dns-sd -Z _daap._tcp</pre>
 
-megkapjuk az [elérhető szolgáltatások](https://developer.apple.com/library/content/qa/qa1312/_index.html) listáját. Jelen esetben csak a Digital Audio Access Protocol szolgáltatásokat szeretnénk összeszedni és én ezt a listát kaptam:
+megkapjuk az [elérhető szolgáltatások](https://developer.apple.com/library/content/qa/qa1312/_index.html) listáját. Jelen példában csak a Digital Audio Access Protocol szolgáltatásokat szeretnénk összeszedni és én erre a lekérdezésre ezt a listát kaptam:
 
 ```
 Browsing for _daap._tcp
@@ -44,9 +44,9 @@ flex’s\032iMac\032Library_PW._daap._tcp       TXT     "txtvers=1" "Version=196
 
 Ebből az látszik, hogy nekem a futtatás pillanatában épp három ilyen forrásom volt aktív. 
 
-Ezen lista alapján és a gépek, eszközök IP címének ismeretében, amikor nem vagyok otthon, akkor a VPN kapcsolat felépítése utána kiadva mondjuk ezt a parancsot:
+Ezen lista alapján és a gépek DNS nevének + az eszközök IP címének ismeretében, amikor nem vagyok otthon és a VPN kapcsolat felépítése után, ezt a parancsot kiadva:
 
 <pre class="terminal">dns-sd -P "Music on server" _daap._tcp local 3689 BLACKHOLE.fleischmann.local. \
     192.168.1.2 "Password=false" "Version=196610" "iTSh Version=131073" "mtd-version=0.2.4.1" "Machine Name=MUZAX" "Machine ID=" "Database ID=" "txtvers=1"</pre>
 
-azonnal elérhetővé is válik a kiszemelt (jelen példában ez épp 1 Synology NAS) eszközünk az iTunes-ban és már lehet is hallgatni az ott megosztott zenéket.
+már azonnal elérhetővé is válik a kiszemelt (a konkrét példában ez épp 1 Synology NAS) eszközünk az iTunes-ban és már lehet is hallgatni az otthonról megosztott zenéket.
