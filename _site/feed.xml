@@ -3,7 +3,7 @@
   <title>News 'n' Updates | gyorgy.fleischmann.hu</title>
   <link href="http://0.0.0.0:4000/feed.xml" rel="self"/>
   <link href="http://0.0.0.0:4000/"/>
-  <updated>2018-02-07T07:07:24+01:00</updated>
+  <updated>2018-02-08T10:27:12+01:00</updated>
   <id>http://0.0.0.0:4000/</id>
   <author>
     <name></name>
@@ -18,12 +18,16 @@
     <id>http://0.0.0.0:4000/jekyll_scheduled_post</id>
     <content type="html">&lt;p&gt;A legegyszerűbb, leghasználhatóbb választ ez a poszt adja + erre a problémára: &lt;a href=&quot;http://code.alxmjo.com/how-to-schedule-posts-with-jekyll/&quot;&gt;http://code.alxmjo.com/how-to-schedule-posts-with-jekyll/&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;A megoldáshoz kell majd egy olyan gép, ami időről, időre meg tudja hívni én konkrét Jekyll oldalamhoz ezt a parancsot:&lt;/p&gt;
+&lt;!-- break --&gt;
+
+&lt;p&gt;A megoldáshoz kell majd egy olyan gép, ami időről időre meg tudja hívni én konkrét Jekyll oldalamhoz / repository-hoz ezt a parancsot:&lt;/p&gt;
 
 &lt;pre class=&quot;terminal&quot;&gt;curl &quot;https://api.github.com/repos/FleXoft/gyorgy.fleischmann.hu/pages/builds&quot; \
 -X POST \
 -H 'Authorization: token 7a65376e4b10e090037b4c82338c4ef5031ab408' \
 -H &quot;Accept: application/vnd.github.mister-fantastic-preview&quot;&lt;/pre&gt;
+
+&lt;p&gt;Az API token-t a &lt;a href=&quot;https://github.com/settings/tokens/&quot;&gt;Settings → Personal access tokens&lt;/a&gt; linken lehet generálni.&lt;/p&gt;
 
 &lt;p&gt;/* Ez a bejegyzés is már ezzel élesedett. */&lt;/p&gt;
 </content>
