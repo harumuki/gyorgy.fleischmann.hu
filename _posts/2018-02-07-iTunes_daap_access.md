@@ -11,6 +11,8 @@ A feladat most az lenne, hogy bárhonnan elérehető legyen az otthoni (iTunes, 
 
 Sok más megoldás ([link1](http://theriom.com/Access-your-Bonjour-printer-over-VPN-from-your-iOS-device)) közül nekem végül ez a cikk tetszett meg a legjobban az 1szerűsége miatt: [Using iTunes Library Sharing over a VPN or the Internet](https://www.joshcurry.co.uk/posts/using-itunes-library-sharing-over-a-vpn-or-the-internet).
 
+<!-- break -->
+
 Lefuttatva még otthon ezt a parancsot: 
 
 <pre class="terminal">dns-sd -Z _daap._tcp</pre>

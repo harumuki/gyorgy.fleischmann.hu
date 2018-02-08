@@ -3,7 +3,7 @@
   <title>News 'n' Updates | gyorgy.fleischmann.hu</title>
   <link href="http://0.0.0.0:4000/feed.xml" rel="self"/>
   <link href="http://0.0.0.0:4000/"/>
-  <updated>2018-02-08T10:27:12+01:00</updated>
+  <updated>2018-02-08T11:12:18+01:00</updated>
   <id>http://0.0.0.0:4000/</id>
   <author>
     <name></name>
@@ -41,6 +41,8 @@
     <content type="html">&lt;p&gt;A feladat most az lenne, hogy bárhonnan elérehető legyen az otthoni (iTunes, DAAP, Digital Audio Access Protocol) megosztott zenearzenál is VPN-en keresztül.&lt;/p&gt;
 
 &lt;p&gt;Sok más megoldás (&lt;a href=&quot;http://theriom.com/Access-your-Bonjour-printer-over-VPN-from-your-iOS-device&quot;&gt;link1&lt;/a&gt;) közül nekem végül ez a cikk tetszett meg a legjobban az 1szerűsége miatt: &lt;a href=&quot;https://www.joshcurry.co.uk/posts/using-itunes-library-sharing-over-a-vpn-or-the-internet&quot;&gt;Using iTunes Library Sharing over a VPN or the Internet&lt;/a&gt;.&lt;/p&gt;
+
+&lt;!-- break --&gt;
 
 &lt;p&gt;Lefuttatva még otthon ezt a parancsot:&lt;/p&gt;
 
