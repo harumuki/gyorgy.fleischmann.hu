@@ -3,8 +3,8 @@ layout:   post
 title:    ⏰ Időzített Jekyll bejegyzés
 author:   flex
 comments: true
-category: development / fejlesztés
-tags:     [jekyll, web, development]
+category: How to guides, tips and tricks / útmutatók, tippek és trükkök
+tags:     [jekyll, web, how to]
 ---
 
 A legegyszerűbb, leghasználhatóbb választ ez a poszt adja + erre a problémára: [http://code.alxmjo.com/how-to-schedule-posts-with-jekyll/](http://code.alxmjo.com/how-to-schedule-posts-with-jekyll/)

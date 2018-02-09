@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    🚀 Speedtest
+title:    🚀 Speedtest [Invitel]
 author:   flex
 comments: true
 category: Internet

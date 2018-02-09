@@ -3,7 +3,7 @@
   <title>News 'n' Updates | gyorgy.fleischmann.hu</title>
   <link href="http://0.0.0.0:4000/feed.xml" rel="self"/>
   <link href="http://0.0.0.0:4000/"/>
-  <updated>2018-02-08T11:12:18+01:00</updated>
+  <updated>2018-02-09T12:11:38+01:00</updated>
   <id>http://0.0.0.0:4000/</id>
   <author>
     <name></name>
@@ -763,8 +763,8 @@ Up in the air&lt;/p&gt;
 &lt;h1 id=&quot;hobby-projects-worth-to-mention&quot;&gt;HOBBY PROJECTS WORTH TO MENTION&lt;/h1&gt;
 
 &lt;div class=&quot;rightbox&quot; style=&quot;width: 12%;&quot;&gt;
-&lt;a href=&quot;http://old.fleischmann.hu/geocities.com/&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/geominihp20040407.jpg&quot; alt=&quot;geocities.com from 2004.&quot; title=&quot;geocities.com from 2004.&quot; /&gt;&lt;/a&gt;
-&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://old.fleischmann.hu/geocities.com/&quot;&gt;geocities.com&lt;/a&gt; from 2004.&lt;/p&gt;
+&lt;a href=&quot;http://fleischmann.hu/&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/fleischmann.hu_(2018-02-01).png&quot; alt=&quot;fleischmann.hu from 2018.&quot; title=&quot;fleischmann.hu from 2018.&quot; /&gt;&lt;/a&gt;
+&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://fleischmann.hu/&quot;&gt;fleischmann.hu&lt;/a&gt; from 2018.&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;rightbox&quot; style=&quot;width: 15%;&quot;&gt;
@@ -1111,7 +1111,7 @@ animate();
   </entry>
   
   <entry>
-    <title>🚀 Speedtest</title>
+    <title>🚀 Speedtest [Invitel]</title>
     <link href="http://0.0.0.0:4000/speedtest-invitel.html"/>
     <updated>2018-02-05T00:00:00+01:00</updated>
     <id>http://0.0.0.0:4000/speedtest-invitel</id>
