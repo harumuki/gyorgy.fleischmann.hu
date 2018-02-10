@@ -7,6 +7,27 @@ category: movies / filmek
 tags:     [listák, awesome]
 ---
 
+Iron Sky: Támad a Hold  /Iron Sky/ https://port.hu/adatlap/film/tv/iron-sky-tamad-a-hold-iron-sky/movie-130173#video-900344
+Black Swan
+We need to talk about Kevin
+Speeping beauty
+Away we go
+True Grit
+‘Castillos de cartón’
+No Country for Old Men 
+Once
+Amelie
+Gattaca
+American Beauty
+Fight club
+Million Dollar baby
+3szín
+Piano
+From dusk till dawn
+Seven
+Delicatessen
+Dangerous Liaisons
+
 Európa /Europa/ https://port.hu/adatlap/film/tv/europa-europa/movie-657
 A Pont-Neuf szerelmesei /Les amants du Pont-Neuf/ https://port.hu/adatlap/film/tv/a-pont-neuf-szerelmesei-les-amants-du-pont-neuf/movie-2029
 Törökfürdő /Hamam/ https://port.hu/adatlap/film/tv/torokfurdo-hamam/movie-2503
@@ -408,8 +429,6 @@ Zabriskie Point 1970
 Zelig
 Zodiac.2007.DC.BDrip.Custom.HUN.x264-DenZo
 
-
-Pont Neuf
 Rosencrantz and guildenstern are dead
 Shop Stop
 Ofice Space
