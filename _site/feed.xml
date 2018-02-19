@@ -3,13 +3,26 @@
   <title>News 'n' Updates | gyorgy.fleischmann.hu</title>
   <link href="http://0.0.0.0:4000/feed.xml" rel="self"/>
   <link href="http://0.0.0.0:4000/"/>
-  <updated>2018-02-18T21:34:02+01:00</updated>
+  <updated>2018-02-19T07:46:21+01:00</updated>
   <id>http://0.0.0.0:4000/</id>
   <author>
     <name></name>
   </author>
   <generator>Jekyll v3.6.0</generator>
 
+  
+  <entry>
+    <title>⏯ iOS Airplay headphone</title>
+    <link href="http://0.0.0.0:4000/ios_airplay.html"/>
+    <updated>2018-02-19T00:00:00+01:00</updated>
+    <id>http://0.0.0.0:4000/ios_airplay</id>
+    <content type="html">&lt;p&gt;Tegnap az a “probléma” merült fel itthon, hogy milyen jó lenne az AppleTV-n futó film hangját valahogy drótnélküli hallgatni, és így miközben a család zajong mellettem a nappaliban, be tudnám fejezni a korábban elkezdtett filmet. Mivel itthon nincs semmi olyan technika, amit hirtelen erre fel lehetett volna használni, az internet segítségével gyorsan ezt a megoldást próbáltam meg: &lt;a href=&quot;https://github.com/trenskow/AirFloat&quot;&gt;https://github.com/trenskow/AirFloat&lt;/a&gt; és lássunk csodát működött. Az AppleTV-n beállítottam, hogy mostantól a hang a telefonomra (az ott frissen telepített AirFloat alkalmazásra) menjen és oda is ment.&lt;/p&gt;
+
+&lt;!-- break --&gt;
+
+&lt;p&gt;Micsoda más világunk lehetne, ha minden alkalmazás forrásprogramja (minden más szellemi termékkel együtt) elérhető lenne valahol az interneten és mindenki szabadon letölthetné, módosíthatná, lefordíthatná és felhasználhatná!&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <title>🍔 Food / kaják</title>
@@ -3422,32 +3435,6 @@ Levin, Ira: A brazíliai fiúk (Rakéta regényújság 137., 1987, 20-26. szám)
     <updated>2018-02-02T14:31:33+01:00</updated>
     <id>http://0.0.0.0:4000/blogsvlog</id>
     <content type="html">
-</content>
-  </entry>
-  
-  <entry>
-    <title>🌍 Places / helyek</title>
-    <link href="http://0.0.0.0:4000/places.html"/>
-    <updated>2018-02-02T14:16:53+01:00</updated>
-    <id>http://0.0.0.0:4000/places</id>
-    <content type="html">&lt;p&gt;Mohács
-Dávod
-Lánycsók
-Pécs
-Tamási
-Paks
-Kecskemét
-Szeged
-Győr
-Debrecen
-Baja
-Balatonboglár&lt;/p&gt;
-
-&lt;p&gt;Eszék
-Trencsén / Trenčín
-Bécs
-Friedrichshafen&lt;/p&gt;
-
 </content>
   </entry>
   
