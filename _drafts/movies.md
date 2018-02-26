@@ -84,6 +84,15 @@ Back to the future
 
 <!-- break -->
 
+Három óriásplakát Ebbing határában /Three Billboards Outside Ebbing, Missouri/
+https://port.hu/adatlap/film/mozi/harom-oriasplakat-ebbing-hataraban-three-billboards-outside-ebbing-missouri/movie-186665#video-980373
+"Hónapok teltek el Mildred Hayes (az Oscar-díjas Frances McDormand) lányának meggyilkolása óta, ám a tettes azóta sem került elő. A nő most vakmerő lépésre szánja el magát: kibérel három óriásplakátot, melyeken provokatív üzenetet címez William Willoughby rendőrfőnöknek (az Oscar-díjra jelölt Woody Harrelson). Miután egy másik rendőr, az egyszerű és erőszakra hajlamos Jason Dixon (Sam Rockwell) is beleártja magát az ügybe, a viszony Mildred és az ebbingi hatóság közötti egyre inkább elmérgesedik. "
+
+
+Wind River - Gyilkos nyomon  /Wind River/
+https://port.hu/adatlap/film/mozi/wind-river-gyilkos-nyomon-wind-river/movie-188472#video-964878
+"Holttestet találnak a Wind River indiánrezervátumban. A világtól elzárt térségbe hamarosan egy FBI ügynök érkezik, aki megállapítja, hogy a tinédzser lány gyilkosság áldozata lett. A holttestre rátaláló tapasztalt nyomkövető és az ügynök együtt próbál a bűnügy végére járni, ám a zárkózott, bizalmatlan helyiek nem segítik az ügy felgöngyölítését. Ráadásul az Egyesült Államok egyik legelszigeteltebb térségében a legtöbb gyilkossági ügyet sosem oldják meg, a legtöbb bűnözőt sosem fogják el. "
+
 {% include movie_cover.html 
 	href="https://port.hu/adatlap/film/tv/sushialmok-jiro-dreams-of-sushi/movie-136599" 
 	src="https://www.mafab.hu/static/2014/266/01/8481_5.jpg" 

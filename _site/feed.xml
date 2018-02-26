@@ -3,7 +3,7 @@
   <title>News 'n' Updates | gyorgy.fleischmann.hu</title>
   <link href="http://0.0.0.0:4000/feed.xml" rel="self"/>
   <link href="http://0.0.0.0:4000/"/>
-  <updated>2018-02-19T07:46:21+01:00</updated>
+  <updated>2018-02-26T10:36:49+01:00</updated>
   <id>http://0.0.0.0:4000/</id>
   <author>
     <name></name>
@@ -12,31 +12,9 @@
 
   
   <entry>
-    <title>⏯ iOS Airplay headphone</title>
-    <link href="http://0.0.0.0:4000/ios_airplay.html"/>
-    <updated>2018-02-19T00:00:00+01:00</updated>
-    <id>http://0.0.0.0:4000/ios_airplay</id>
-    <content type="html">&lt;p&gt;Tegnap az a “probléma” merült fel itthon, hogy milyen jó lenne az AppleTV-n futó film hangját valahogy drótnélküli hallgatni, és így miközben a család zajong mellettem a nappaliban, be tudnám fejezni a korábban elkezdtett filmet. Mivel itthon nincs semmi olyan technika, amit hirtelen erre fel lehetett volna használni, az internet segítségével gyorsan ezt a megoldást próbáltam meg: &lt;a href=&quot;https://github.com/trenskow/AirFloat&quot;&gt;https://github.com/trenskow/AirFloat&lt;/a&gt; és lássunk csodát működött. Az AppleTV-n beállítottam, hogy mostantól a hang a telefonomra (az ott frissen telepített AirFloat alkalmazásra) menjen és oda is ment.&lt;/p&gt;
-
-&lt;!-- break --&gt;
-
-&lt;p&gt;Micsoda más világunk lehetne, ha minden alkalmazás forrásprogramja (minden más szellemi termékkel együtt) elérhető lenne valahol az interneten és mindenki szabadon letölthetné, módosíthatná, lefordíthatná és felhasználhatná!&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>🍔 Food / kaják</title>
-    <link href="http://0.0.0.0:4000/food.html"/>
-    <updated>2018-02-18T19:18:54+01:00</updated>
-    <id>http://0.0.0.0:4000/food</id>
-    <content type="html">
-</content>
-  </entry>
-  
-  <entry>
     <title>🎬 Movies / filmek</title>
     <link href="http://0.0.0.0:4000/movies.html"/>
-    <updated>2018-02-09T14:13:59+01:00</updated>
+    <updated>2018-02-25T16:06:07+01:00</updated>
     <id>http://0.0.0.0:4000/movies</id>
     <content type="html">&lt;p&gt;Iron Sky: Támad a Hold  /Iron Sky/ https://port.hu/adatlap/film/tv/iron-sky-tamad-a-hold-iron-sky/movie-130173#video-900344
 Black Swan
@@ -113,6 +91,14 @@ Back to the future
 9 1/2 hét&lt;/p&gt;
 
 &lt;!-- break --&gt;
+
+&lt;p&gt;Három óriásplakát Ebbing határában /Three Billboards Outside Ebbing, Missouri/
+https://port.hu/adatlap/film/mozi/harom-oriasplakat-ebbing-hataraban-three-billboards-outside-ebbing-missouri/movie-186665#video-980373
+“Hónapok teltek el Mildred Hayes (az Oscar-díjas Frances McDormand) lányának meggyilkolása óta, ám a tettes azóta sem került elő. A nő most vakmerő lépésre szánja el magát: kibérel három óriásplakátot, melyeken provokatív üzenetet címez William Willoughby rendőrfőnöknek (az Oscar-díjra jelölt Woody Harrelson). Miután egy másik rendőr, az egyszerű és erőszakra hajlamos Jason Dixon (Sam Rockwell) is beleártja magát az ügybe, a viszony Mildred és az ebbingi hatóság közötti egyre inkább elmérgesedik. “&lt;/p&gt;
+
+&lt;p&gt;Wind River - Gyilkos nyomon  /Wind River/
+https://port.hu/adatlap/film/mozi/wind-river-gyilkos-nyomon-wind-river/movie-188472#video-964878
+“Holttestet találnak a Wind River indiánrezervátumban. A világtól elzárt térségbe hamarosan egy FBI ügynök érkezik, aki megállapítja, hogy a tinédzser lány gyilkosság áldozata lett. A holttestre rátaláló tapasztalt nyomkövető és az ügynök együtt próbál a bűnügy végére járni, ám a zárkózott, bizalmatlan helyiek nem segítik az ügy felgöngyölítését. Ráadásul az Egyesült Államok egyik legelszigeteltebb térségében a legtöbb gyilkossági ügyet sosem oldják meg, a legtöbb bűnözőt sosem fogják el. “&lt;/p&gt;
 
 &lt;div class=&quot;leftbox&quot; style=&quot;width: 15% ;&quot;&gt;&lt;a href=&quot;https://port.hu/adatlap/film/tv/sushialmok-jiro-dreams-of-sushi/movie-136599&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://www.mafab.hu/static/2014/266/01/8481_5.jpg&quot; alt=&quot;Sushiálmok  /Jiro Dreams of Sushi/&quot; title=&quot;Sushiálmok  /Jiro Dreams of Sushi/&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
 
@@ -461,6 +447,61 @@ Up in the air&lt;/p&gt;
   </entry>
   
   <entry>
+    <title>👫 Friends / barátok</title>
+    <link href="http://0.0.0.0:4000/friends.html"/>
+    <updated>2018-02-22T22:06:27+01:00</updated>
+    <id>http://0.0.0.0:4000/friends</id>
+    <content type="html">&lt;p&gt;Akikkel valamilyen formában megmaradt kapcsolat:&lt;/p&gt;
+
+&lt;p&gt;Borza Zoltán
+Zábó Károly
+Klátyik Zoltán&lt;/p&gt;
+
+&lt;p&gt;Soós Zoltán&lt;/p&gt;
+
+&lt;p&gt;Szende Béla
+Pápa Sándorné Zsuzsi
+Zalka Ernő&lt;/p&gt;
+
+&lt;p&gt;Tajthy Tamás
+Gács István
+Róma András
+Beke Lajos
+Mohos Zoltán
+Burgman Róbert&lt;/p&gt;
+
+&lt;p&gt;Bődi Zoltán
+Csizmadia László&lt;/p&gt;
+
+&lt;p&gt;Fügedi Zoltán
+Polik György
+Szabó Marcell&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>⏯ iOS Airplay headphone</title>
+    <link href="http://0.0.0.0:4000/ios_airplay.html"/>
+    <updated>2018-02-19T00:00:00+01:00</updated>
+    <id>http://0.0.0.0:4000/ios_airplay</id>
+    <content type="html">&lt;p&gt;Tegnap az a “probléma” merült fel itthon, hogy milyen jó lenne az AppleTV-n futó film hangját valahogy drótnélküli hallgatni, és így miközben a család zajong mellettem a nappaliban, be tudnám fejezni a korábban elkezdtett filmet. Mivel itthon nincs semmi olyan technika, amit hirtelen erre fel lehetett volna használni, az internet segítségével gyorsan ezt a megoldást próbáltam meg: &lt;a href=&quot;https://github.com/trenskow/AirFloat&quot;&gt;https://github.com/trenskow/AirFloat&lt;/a&gt; és lássunk csodát működött. Az AppleTV-n beállítottam, hogy mostantól a hang a telefonomra (az ott frissen telepített AirFloat alkalmazásra) menjen és oda is ment.&lt;/p&gt;
+
+&lt;!-- break --&gt;
+
+&lt;p&gt;Micsoda más világunk lehetne, ha minden alkalmazás forrásprogramja (minden más szellemi termékkel együtt) elérhető lenne valahol az interneten és mindenki szabadon letölthetné, módosíthatná, lefordíthatná és felhasználhatná!&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>🍔 Food / kaják</title>
+    <link href="http://0.0.0.0:4000/food.html"/>
+    <updated>2018-02-18T19:18:54+01:00</updated>
+    <id>http://0.0.0.0:4000/food</id>
+    <content type="html">
+</content>
+  </entry>
+  
+  <entry>
     <title>⏰ Időzített Jekyll bejegyzés</title>
     <link href="http://0.0.0.0:4000/jekyll_scheduled_post.html"/>
     <updated>2018-02-07T00:00:00+01:00</updated>
@@ -565,14 +606,22 @@ flex’s\032iMac\032Library_PW._daap._tcp       TXT     &quot;txtvers=1&quot; &q
 &lt;h1 style=&quot;clear: none;&quot;&gt;FAMILY&lt;/h1&gt;
 
 &lt;div style=&quot;margin-left: 1em; padding: 0; float: right; width: 75pt;&quot;&gt;
-  &lt;p style=&quot;text-align: right; margin-bottom: 0;margin-right: 0.5em; font-size: 10pt;&quot;&gt;&lt;a class=&quot;hvr-buzz-out&quot; style=&quot;color: #bbb;&quot; href=&quot;javascript:showhide( 'motherID', 'fatherID', 'vigyorID', 'wifeID', 'annaID', 'gergoID', 'andrasID', 'familypics' );&quot;&gt;more / less &lt;i class=&quot;icon-plus&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+  &lt;p style=&quot;text-align: right; margin-bottom: 0;margin-right: 0.5em; font-size: 10pt;&quot;&gt;&lt;a class=&quot;hvr-buzz-out&quot; style=&quot;color: #bbb;&quot; href=&quot;javascript:showhide( 'motherID', 'fatherID', 'vigyorID', 'wifeID', 'annaID', 'gergoID', 'andrasID', 'hideBP', 'familypics' );&quot;&gt;more / less &lt;i class=&quot;icon-plus&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;h2 id=&quot;mohács-baranya--hungary&quot;&gt;&lt;a href=&quot;https://hu.wikipedia.org/wiki/Moh%C3%A1cs&quot;&gt;Mohács&lt;/a&gt;, &lt;a href=&quot;https://hu.wikipedia.org/wiki/Baranya_megye&quot;&gt;Baranya&lt;/a&gt; • &lt;a href=&quot;https://en.wikipedia.org/wiki/Hungary&quot;&gt;HUNGARY&lt;/a&gt;&lt;/h2&gt;
+
+&lt;div class=&quot;rightbox&quot; style=&quot;width: 5%;&quot;&gt;&lt;a href=&quot;http://www.mohacs.hu/&quot;&gt;&lt;img src=&quot;http://www.parku-mohacs.sulinet.hu/t%C3%A1mop_files/Moh%C3%A1csCimer.png&quot; alt=&quot;Mohács&quot; title=&quot;Mohács&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
 &lt;div id=&quot;motherID&quot; style=&quot;display:none;&quot;&gt;&lt;span title=&quot;1937-2014&quot;&gt;37-14&lt;/span&gt; • &lt;a href=&quot;http://anyuka.fleischmann.hu/&quot;&gt;mother, Zsuzsanna&lt;/a&gt; • &lt;span id=&quot;motherBirthDiff&quot;&gt;&lt;/span&gt; ✟&lt;/div&gt;
 &lt;div id=&quot;fatherID&quot; style=&quot;display:none;&quot;&gt;&lt;span title=&quot;1945-&quot;&gt;45-na&lt;/span&gt; • &lt;a href=&quot;http://apuka.fleischmann.hu/&quot;&gt;father, György&lt;/a&gt; • &lt;span id=&quot;fatherBirthDiff&quot;&gt;&lt;/span&gt;&lt;/div&gt;
 &lt;div id=&quot;vigyorID&quot; style=&quot;display:none;&quot;&gt;&lt;span title=&quot;1957-&quot;&gt;57-na&lt;/span&gt; • stepbrother, István • &lt;span id=&quot;vigyorBirthDiff&quot;&gt;&lt;/span&gt;&lt;/div&gt;
+
 &lt;div id=&quot;flexID&quot; style=&quot;display:block;&quot;&gt;&lt;span title=&quot;1970-&quot;&gt;&lt;b&gt;70-na&lt;/b&gt;&lt;/span&gt; • &lt;span id=&quot;flexBirthDiff&quot;&gt;&lt;/span&gt;&lt;/div&gt;
+
+&lt;div id=&quot;hideBP&quot; style=&quot;display:none;&quot;&gt;&lt;div class=&quot;rightbox&quot; style=&quot;width: 5%;&quot;&gt;&lt;a href=&quot;http://www.budapest.hu/&quot;&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Coa_Hungary_Town_Budapest_big.svg/1200px-Coa_Hungary_Town_Budapest_big.svg.png&quot; alt=&quot;Budapest&quot; title=&quot;Budapest&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h2&gt;&lt;a href=&quot;https://hu.wikipedia.org/wiki/Budapest&quot;&gt;Budapest&lt;/a&gt;, &lt;a href=&quot;https://hu.wikipedia.org/wiki/Pest_megye&quot;&gt;Pest&lt;/a&gt; • &lt;a href=&quot;https://en.wikipedia.org/wiki/Hungary&quot;&gt;HUNGARY&lt;/a&gt;&lt;/h2&gt;&lt;/div&gt;
+
 &lt;div id=&quot;wifeID&quot; style=&quot;display:none;&quot;&gt;&lt;span title=&quot;1974-&quot;&gt;74-na&lt;/span&gt; • &lt;a href=&quot;http://hajnalka.fleischmann.hu/&quot;&gt;wife, Hajnalka&lt;/a&gt; • &lt;span id=&quot;wifeBirthDiff&quot;&gt;&lt;/span&gt;&lt;/div&gt;
 &lt;div id=&quot;annaID&quot; style=&quot;display:none;&quot;&gt;&lt;span title=&quot;2001-&quot;&gt;01-na&lt;/span&gt; • &lt;a href=&quot;http://anna.fleischmann.hu/&quot;&gt;Anna&lt;/a&gt; • &lt;span id=&quot;annaBirthDiff&quot;&gt;&lt;/span&gt;&lt;/div&gt;
 &lt;div id=&quot;gergoID&quot; style=&quot;display:none;&quot;&gt;&lt;span title=&quot;2005-&quot;&gt;05-na&lt;/span&gt; • &lt;a href=&quot;http://gergo.fleischmann.hu/&quot;&gt;Gergő&lt;/a&gt; • &lt;span id=&quot;gergoBirthDiff&quot;&gt;&lt;/span&gt;&lt;/div&gt;
@@ -890,7 +939,7 @@ flex’s\032iMac\032Library_PW._daap._tcp       TXT     &quot;txtvers=1&quot; &q
   &lt;li&gt;compulsory military service completed&lt;/li&gt;
   &lt;li&gt;free time activities: football, cinema, reading, music, photography&lt;/li&gt;
   &lt;li&gt;I do not smoke&lt;/li&gt;
-  &lt;li&gt;last update: 02/06/2018&lt;/li&gt;
+  &lt;li&gt;last update: &lt;strong&gt;02/26/2018&lt;/strong&gt; &lt;sub&gt;&lt;sup&gt;(DD/MM/YYYY)&lt;/sup&gt;&lt;/sub&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&quot;others-ii&quot;&gt;OTHERS II.&lt;/h1&gt;
@@ -3426,15 +3475,6 @@ Levin, Ira: A brazíliai fiúk (Rakéta regényújság 137., 1987, 20-26. szám)
   &lt;li&gt;Szabó Magda: Für Elise, Ajtó, Az őz, Abigél&lt;/li&gt;
   &lt;li&gt;Simmel, Johannes Mario: Nem kell mindig kaviár&lt;/li&gt;
 &lt;/ul&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>📒 📹 Blogs / vlogs</title>
-    <link href="http://0.0.0.0:4000/blogsvlog.html"/>
-    <updated>2018-02-02T14:31:33+01:00</updated>
-    <id>http://0.0.0.0:4000/blogsvlog</id>
-    <content type="html">
 </content>
   </entry>
   
