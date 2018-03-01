@@ -3,13 +3,617 @@
   <title>News 'n' Updates | gyorgy.fleischmann.hu</title>
   <link href="http://0.0.0.0:4000/feed.xml" rel="self"/>
   <link href="http://0.0.0.0:4000/"/>
-  <updated>2018-02-26T10:36:49+01:00</updated>
+  <updated>2018-03-01T09:34:15+01:00</updated>
   <id>http://0.0.0.0:4000/</id>
   <author>
     <name></name>
   </author>
   <generator>Jekyll v3.6.0</generator>
 
+  
+  <entry>
+    <title>🖥 macOSApps</title>
+    <link href="http://0.0.0.0:4000/macOSApps.html"/>
+    <updated>2018-02-26T12:19:15+01:00</updated>
+    <id>http://0.0.0.0:4000/macOSApps</id>
+    <content type="html">&lt;h1 id=&quot;awesome-macos-aka-os-x&quot;&gt;Awesome macOS (aka OS X)&lt;/h1&gt;
+
+&lt;!-- break --&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/sindresorhus/awesome&quot;&gt;&lt;img src=&quot;https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg&quot; alt=&quot;Awesome&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A curated list of awesome applications, softwares, tools and shiny things for macOS.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;Items marked with &lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg&quot; alt=&quot;Open-Source Software&quot; /&gt; are open-source software and link to the source code. Items marked with &lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg&quot; alt=&quot;Freeware&quot; /&gt; are free (as in free beer).&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;CrossPack-AVR
+IBM Spectrum Protect
+Machinarium
+Myth II
+PICO-8
+Send to Kindle
+teleport
+Visual Boy Advance
+Voxatron
+Zen Puzzle Garden
+1Password 6&lt;/p&gt;
+
+&lt;p&gt;Acorn
+Alfred 3
+Arduino
+Audio Hijack&lt;/p&gt;
+
+&lt;p&gt;Backup and Sync
+Bonjour Browser&lt;/p&gt;
+
+&lt;p&gt;Chess
+Cisco Powerline AV Utility
+ClipGrab
+Comic Life 3
+DOSBox
+Dropbox
+Enjoy2
+Espresso
+Evernote
+Expressions
+EyeTV
+Firefox
+Fuse for Mac OS X
+Google Chrome
+HandBrake
+Hex Fiend
+IBM Spectrum Protect
+ImageOptim
+Isolator
+Kaleidoscope
+LightBlue
+LimeChat
+Linksys Powerline AV Utility
+LittleSnapper
+Liya
+MacDown
+Machinarium
+Mactracker
+Max
+Microsoft Excel.app
+Microsoft Office 2011
+Microsoft Outlook
+Microsoft PowerPoint
+Microsoft Remote Desktop
+Microsoft Teams
+Microsoft Word&lt;/p&gt;
+
+&lt;p&gt;Myth II&lt;/p&gt;
+
+&lt;p&gt;OneDrive
+OpenEmu
+Osmos
+PICO-8
+Paparazzi!
+PhoneView
+Pola
+PolaSettings
+Poladroid 9.6&lt;/p&gt;
+
+&lt;p&gt;Pulse Secure.app&lt;/p&gt;
+
+&lt;p&gt;Room EQ Wizard.app
+SSHFS GUI&lt;/p&gt;
+
+&lt;p&gt;Send to Kindle
+Simple Comic&lt;/p&gt;
+
+&lt;p&gt;Skype for Business
+Skype
+Spotifree
+Spotify
+Steam&lt;/p&gt;
+
+&lt;p&gt;Stockfish
+Subler
+Sublime Text 3&lt;/p&gt;
+
+&lt;p&gt;Tayasui Sketches Pro
+TeamViewer
+Telegram&lt;/p&gt;
+
+&lt;p&gt;The Unarchiver.app&lt;/p&gt;
+
+&lt;p&gt;Translate Tab
+Transmission
+Transmit
+Tunnelblick
+Tuxera Disk Manager
+Twitter
+Type2Phone
+Typinator
+Ukelele
+UnRarX
+VLC
+VMware Fusion
+Vado Central
+Visual Boy Advance
+VitalSource Bookshelf
+Voxatron
+WJoy
+Wireshark
+World of Goo
+XLD&lt;/p&gt;
+
+&lt;p&gt;Zen Pinball 2
+Zen Puzzle Garden
+Zenmap
+calibre&lt;/p&gt;
+
+&lt;p&gt;iConvert Icons&lt;/p&gt;
+
+&lt;p&gt;iStumbler.app
+iTerm&lt;/p&gt;
+
+&lt;p&gt;teleport&lt;/p&gt;
+
+&lt;h2 id=&quot;table-of-contents&quot;&gt;Table of Contents&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#applications&quot;&gt;Applications&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#audio&quot;&gt;Audio&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#backup&quot;&gt;Backup&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#chat-clients&quot;&gt;Chat Clients&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#developers&quot;&gt;Developers&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#e-book-utilities&quot;&gt;E-Book Utilities&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#editors&quot;&gt;Editors&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#email-utilities&quot;&gt;Email Utilities&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#finder&quot;&gt;Finder&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#games&quot;&gt;Games&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#graphics&quot;&gt;Graphics&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#productivity&quot;&gt;Productivity&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#sharing-files&quot;&gt;Sharing Files&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#terminal&quot;&gt;Terminal&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#utilities&quot;&gt;Utilities&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#video&quot;&gt;Video&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#window-management&quot;&gt;Window Management&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#others&quot;&gt;Others&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#command-line-utilities&quot;&gt;Command Line Utilities&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#macos-utilities&quot;&gt;macOS Utilities&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#security&quot;&gt;Security&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;applications&quot;&gt;Applications&lt;/h2&gt;
+
+&lt;h3 id=&quot;audio&quot;&gt;Audio&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.rogueamoeba.com/audiohijack/&quot;&gt;Audio Hijack&lt;/a&gt; - Record audio from any application like iTunes, Skype or Safari, or from hardware devices like microphones and mixers.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://tmkk.undo.jp/xld/index_e.html&quot;&gt;XLD&lt;/a&gt; - Rip/Decode/convert/play various “lossless” audio files. &lt;a href=&quot;https://code.google.com/archive/p/xld/source&quot;&gt;&lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg&quot; alt=&quot;Open-Source Software&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg&quot; alt=&quot;Freeware&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;backup&quot;&gt;Backup&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://bombich.com&quot;&gt;Carbon Copy Cloner&lt;/a&gt; - Create incremental and fully bootable backups of your Mac to external storage.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;bookmark-utilities&quot;&gt;Bookmark Utilities&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://readkitapp.com/&quot;&gt;ReadKit&lt;/a&gt; - Have all your Instapaper, Pocket, etc. feeds in one place even when you’re offline.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;chat-clients&quot;&gt;Chat Clients&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/telegram/id747648890?mt=12&quot;&gt;Telegram&lt;/a&gt; - A messaging app with a focus on speed and security, it’s super fast, simple and free. &lt;a href=&quot;https://github.com/overtake/telegram&quot;&gt;&lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg&quot; alt=&quot;Open-Source Software&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg&quot; alt=&quot;Freeware&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;data-recovery&quot;&gt;Data Recovery&lt;/h3&gt;
+
+&lt;h3 id=&quot;developers&quot;&gt;Developers&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://desktop.github.com/&quot;&gt;GitHub Desktop&lt;/a&gt; - A GUI for using GitHub. &lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg&quot; alt=&quot;Freeware&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://gitup.co/&quot;&gt;GitUp&lt;/a&gt; - A simple but powerful Git&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;e-book-utilities&quot;&gt;E-Book Utilities&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.amazon.com/gp/help/customer/display.html?nodeId=201246110&quot;&gt;Kindle App&lt;/a&gt; - Amazon Kindle App for macOS.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;editors&quot;&gt;Editors&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.sublimetext.com/&quot;&gt;Sublime Text 3&lt;/a&gt; - The sophisticated text editor.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;email-utilities&quot;&gt;Email Utilities&lt;/h3&gt;
+
+&lt;h3 id=&quot;finder&quot;&gt;Finder&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/forklift-file-manager-ftp/id412448059&quot;&gt;ForkLift&lt;/a&gt; - File Manager and FTP/SFTP/WebDAV/Amazon S3 client.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;games&quot;&gt;Games&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://boxerapp.com/&quot;&gt;Boxer&lt;/a&gt; - The DOS game emulator that’s fit for your Mac. &lt;a href=&quot;https://github.com/alunbestor/Boxer&quot;&gt;&lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg&quot; alt=&quot;Open-Source Software&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg&quot; alt=&quot;Freeware&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dolphin-emu.org&quot;&gt;Dolphin&lt;/a&gt; - A powerful, Open Source emulator for Nintendo GameCube and Wii games. &lt;a href=&quot;https://github.com/dolphin-emu/dolphin&quot;&gt;&lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg&quot; alt=&quot;Open-Source Software&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg&quot; alt=&quot;Freeware&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://openemu.org/&quot;&gt;OpenEmu&lt;/a&gt; - Multiple Video Game System. &lt;a href=&quot;https://github.com/OpenEmu/OpenEmu&quot;&gt;&lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg&quot; alt=&quot;Open-Source Software&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg&quot; alt=&quot;Freeware&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://stockfishchess.org/mac/&quot;&gt;Stockfish&lt;/a&gt; - Beautiful, powerful chess application. &lt;a href=&quot;https://github.com/daylen/stockfish-mac&quot;&gt;&lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg&quot; alt=&quot;Open-Source Software&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg&quot; alt=&quot;Freeware&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;graphics&quot;&gt;Graphics&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://secure.flyingmeat.com/acorn/&quot;&gt;Acorn&lt;/a&gt; - A very Mac-like image editor with a comprehensive feature set.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;productivity&quot;&gt;Productivity&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.alfredapp.com/&quot;&gt;Alfred&lt;/a&gt; - Boosts your efficiency and productivity.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;sharing-files&quot;&gt;Sharing Files&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.transmissionbt.com/&quot;&gt;Transmission&lt;/a&gt; - Simple, lightweight, multi-platform torrent client. &lt;a href=&quot;https://github.com/transmission/transmission&quot;&gt;&lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg&quot; alt=&quot;Open-Source Software&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg&quot; alt=&quot;Freeware&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;terminal&quot;&gt;Terminal&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.iterm2.com/&quot;&gt;iTerm 2&lt;/a&gt; - A terminal emulator. &lt;a href=&quot;https://github.com/gnachman/iTerm2&quot;&gt;&lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg&quot; alt=&quot;Open-Source Software&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg&quot; alt=&quot;Freeware&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;utilities&quot;&gt;Utilities&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itunes.apple.com/in/app/1password-password-manager/id443987910?mt=12&quot;&gt;1Password&lt;/a&gt; - Password Manager and Secure Wallet.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cheatsheetapp.com/CheatSheet/&quot;&gt;CheatSheet&lt;/a&gt; - Know your short cuts. &lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg&quot; alt=&quot;Freeware&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://heliumfloats.com/&quot;&gt;Helium&lt;/a&gt; - A floating browser window that allows you to watch media while you work. &lt;a href=&quot;https://github.com/JadenGeller/Helium&quot;&gt;&lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg&quot; alt=&quot;Open-Source Software&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg&quot; alt=&quot;Freeware&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://monodraw.helftone.com/&quot;&gt;Monodraw&lt;/a&gt; - A powerful ASCII art editor.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://derailer.org/paparazzi/&quot;&gt;Paparazzi&lt;/a&gt; - A small utility that makes screenshots of webpages. &lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg&quot; alt=&quot;Freeware&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/microsoft-remote-desktop/id715768417&quot;&gt;Microsoft Remote Desktop Connection Client&lt;/a&gt; - Remote Desktop Connection Client lets you connect from your Macintosh computer to a Windows-based computer.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codinn.com/products/ssh-tunnel/&quot;&gt;SSH Tunnel&lt;/a&gt; - Manage your SSH tunnels, tightly integrated with macOS Keychain, secure and intuitive.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.teamviewer.com/en-us/index.aspx&quot;&gt;TeamViewer&lt;/a&gt; - Remotely control another computer.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&amp;amp;id=ukelele&quot;&gt;Ukelele&lt;/a&gt; - Unicode Keyboard Layout Editor. &lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg&quot; alt=&quot;Freeware&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://theunarchiver.com/&quot;&gt;The Unarchiver&lt;/a&gt; - Unarchive many different kinds of archive files. &lt;a href=&quot;https://bitbucket.org/kosovan/theunarchiver&quot;&gt;&lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg&quot; alt=&quot;Open-Source Software&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg&quot; alt=&quot;Freeware&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;video&quot;&gt;Video&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://handbrake.fr/&quot;&gt;HandBrake&lt;/a&gt; - High performance video encoding and conversion tools with a nice GUI. &lt;a href=&quot;https://github.com/HandBrake/HandBrake&quot;&gt;&lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg&quot; alt=&quot;Open-Source Software&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bitbucket.org/galad87/subler/wiki/Home&quot;&gt;Subler&lt;/a&gt; - Mux and tag MP4 files. &lt;a href=&quot;https://bitbucket.org/galad87/subler/wiki/Home&quot;&gt;&lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg&quot; alt=&quot;Open-Source Software&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg&quot; alt=&quot;Freeware&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://lucija.frkovic.me/Subtitlr/&quot;&gt;Subtitlr&lt;/a&gt; - Drag and drop subititle download utility. &lt;a href=&quot;https://github.com/spilja/Subtitlr/tree/master&quot;&gt;&lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg&quot; alt=&quot;Open-Source Software&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;window-management&quot;&gt;Window Management&lt;/h3&gt;
+
+&lt;h3 id=&quot;others&quot;&gt;Others&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/JohnCoates/Aerial&quot;&gt;Aerial&lt;/a&gt; - Apple TV Aerial Screensaver for Mac. &lt;a href=&quot;https://github.com/JohnCoates/Aerial&quot;&gt;&lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg&quot; alt=&quot;Open-Source Software&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg&quot; alt=&quot;Freeware&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://panic.com/transmit/&quot;&gt;Transmit&lt;/a&gt; - A FTP client.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;command-line-utilities&quot;&gt;Command Line Utilities&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/herrbischoff/awesome-osx-command-line&quot;&gt;Awesome macOS Command Line&lt;/a&gt; - Use your macOS terminal shell to do awesome things.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/rgcr/m-cli&quot;&gt;m-cli&lt;/a&gt; -  Swiss Army Knife for macOS.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/guarinogabriel/Mac-CLI&quot;&gt;Mac-CLI&lt;/a&gt; -  macOS command line tools for developers.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/&quot;&gt;Mac macOS Manual Pages&lt;/a&gt; - Apple’s official man page reference which lists all general commands in Section 1.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/mas-cli/mas&quot;&gt;mas&lt;/a&gt; - A CLI for the Mac App Store. &lt;a href=&quot;https://github.com/mas-cli/mas&quot;&gt;&lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg&quot; alt=&quot;Open-Source Software&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg&quot; alt=&quot;Freeware&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;macos-utilities&quot;&gt;macOS Utilities&lt;/h2&gt;
+
+&lt;h2 id=&quot;security&quot;&gt;Security&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tunnelblick.net&quot;&gt;Tunnelblick&lt;/a&gt; - Easy to use OpenVPN client and GUI. &lt;a href=&quot;https://github.com/Tunnelblick/Tunnelblick&quot;&gt;&lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg&quot; alt=&quot;Open-Source Software&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg&quot; alt=&quot;Freeware&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;miscellaneous&quot;&gt;Miscellaneous&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;#table-of-contents&quot;&gt;⬆ back to top&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;license&quot;&gt;License&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://creativecommons.org/licenses/by/4.0/&quot;&gt;&lt;img src=&quot;http://i.creativecommons.org/l/by/4.0/88x31.png&quot; alt=&quot;Creative Commons License&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This work is licensed under a &lt;a href=&quot;http://creativecommons.org/licenses/by/4.0/&quot;&gt;Creative Commons Attribution 4.0 International License&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;apple-macos-aka-os-x&quot;&gt;Apple macOS (aka OS X)&lt;/h1&gt;
+
+&lt;p&gt;I use a lot of applications on our macs. Here is a list of the ones that I love and use the most of my day to day life, sorted by their importance:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.alfredapp.com/&quot;&gt;Alfred&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;this is by far my favourite application that I have. It saved me &lt;a href=&quot;http://i.imgur.com/eavekiX.png&quot;&gt;a lot of time&lt;/a&gt; in my life and has a really great &lt;a href=&quot;http://www.alfredforum.com/&quot;&gt;community&lt;/a&gt; and &lt;a href=&quot;http://www.packal.org/&quot;&gt;very powerful workflows&lt;/a&gt; that you can use&lt;/li&gt;
+      &lt;li&gt;I have attached the ones I use the most to &lt;a href=&quot;https://github.com/learn-anything/alfred-workflows&quot;&gt;this repo&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;feel free to use any that you like&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.iterm2.com/&quot;&gt;iTerm&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;recently moved completely to using the command line for all my development needs, this is probably the best terminal emulator out there that exists, have it assigned to &lt;a href=&quot;https://my.mindnode.com/c7EmmKvaxCyCEuTzcpkGB4MGeLpWdR8nsJK4rjDh&quot;&gt;w + j&lt;/a&gt; and can open it on demand at any time that I want&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://gist.github.com/nikitavoloboev/3fbe13ce427132d0297f411b62f49034&quot;&gt;here&lt;/a&gt; are all the &lt;a href=&quot;http://brew.sh/index.html&quot;&gt;homebrew&lt;/a&gt; packages I like and use&lt;/li&gt;
+      &lt;li&gt;I also really love using &lt;a href=&quot;https://github.com/isometry/alfred-tty&quot;&gt;this workflow&lt;/a&gt; to quickly &lt;a href=&quot;http://i.imgur.com/RNLb5wj.png&quot;&gt;switch between iTerm tabs&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://1password.com&quot;&gt;1Password&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;my password manager of choice, recently started to generate all of my passwords with it and keep everything in a secured and encrypted vault kept secure by my one master password&lt;/li&gt;
+      &lt;li&gt;no longer need to remember passwords and I now have a unique password for every website that I am signed up on whilist activating two factor authentication wherever possible&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.wikiwand.com/en/Dictionary_(software)&quot;&gt;Dictionary&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;comes natively with macOS and I started to love using it for exploring and searching through wikipedia&lt;/li&gt;
+      &lt;li&gt;it is incredibly fast to make the searches and it also gives &lt;a href=&quot;http://i.imgur.com/BPOmjkZ.png&quot;&gt;quick autosuggestions&lt;/a&gt; for any query I type that I can then select with up and down arrows&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.panic.com/transmit/&quot;&gt;Transmit&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;I often use this app to quickly send files from my local file system to the cloud (either S3 or dropbox) and get a shareable link I can send to people&lt;/li&gt;
+      &lt;li&gt;I use &lt;a href=&quot;https://www.dropbox.com/s/6y1lwy7lq9njdv6/Transmit.alfredworkflow?dl=1&quot;&gt;this alfred workflow&lt;/a&gt; to &lt;a href=&quot;http://i.imgur.com/RkkcdvA.png&quot;&gt;quickly open&lt;/a&gt; the cloud storage I need&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.transmissionbt.com/&quot;&gt;Transmission&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;a torrent client that I use, very minimal in its UI but is very powerful and has all the features that I need without the bloat that &lt;a href=&quot;http://www.utorrent.com/intl/en/&quot;&gt;uTorrent&lt;/a&gt; and other clients have&lt;/li&gt;
+      &lt;li&gt;have all my torrents downloaded into their specific folders&lt;/li&gt;
+      &lt;li&gt;I also want to set up a seedbox with my raspberry pie in the future as I have a bad tendency of not seeding the torrents that I downloaded&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www..com/acorn/&quot;&gt;Acorn&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;probably the best image editor out there on Mac, is packed with very powerful features and is very simple in its UI&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;browser&quot;&gt;Browser&lt;/h1&gt;
+
+&lt;p&gt;My browser of choice is &lt;a href=&quot;http://www.apple.com/safari/&quot;&gt;Safari&lt;/a&gt;. Chrome just kills the battery and Safari is really well optimised for macOS plus I have tried both and I really do find Safari a lot more ‘snappier’ to use. One powerful plus that chrome does have over safari is the amount of chrome extensions that you can get. Fortunately the ones most needed for me do exist on Safari.&lt;/p&gt;
+
+&lt;p&gt;Extensions:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Push to Kindle&lt;/li&gt;
+  &lt;li&gt;1Password&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.download-station-extension.com/?utm_source=extension&amp;amp;utm_medium=Chrome&amp;amp;utm_campaign=settings&quot;&gt;Synology Download Station extension&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;command-line-apps&quot;&gt;Command Line Apps&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://brew.sh&quot;&gt;Homebrew&lt;/a&gt; is a really wonderful and user friendly package manager for macOS.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://gist.github.com/nikitavoloboev/3fbe13ce427132d0297f411b62f49034&quot;&gt;Here&lt;/a&gt; are all the packages I use from it.&lt;/p&gt;
+
+&lt;p&gt;And here are some more command line tools I use and love :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/nvbn/thefuck&quot;&gt;thefuck&lt;/a&gt; : corrects your previous console command&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jingweno/ccat&quot;&gt;ccat&lt;/a&gt; : &lt;a href=&quot;http://www.linfo.org/cat.html&quot;&gt;cat&lt;/a&gt; command with colours&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;alfred-workflows&quot;&gt;Alfred Workflows&lt;/h1&gt;
+
+&lt;p&gt;I find &lt;a href=&quot;https://www.alfredapp.com&quot;&gt;Alfred&lt;/a&gt; with its ability to create custom workflows for it to bring me the most value.&lt;/p&gt;
+
+&lt;p&gt;I keep a list of my favourite workflows and why I love them in a GitHub repository &lt;a href=&quot;https://github.com/learn-anything/alfred-workflows&quot;&gt;here&lt;/a&gt;. Feel free to contribute to it if you wish.&lt;/p&gt;
+
+&lt;h1 id=&quot;awesome-mac&quot;&gt;Awesome Mac&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;LICENSE&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/license-CC0%201.0%20Universal-brightgreen.svg?style=flat-square&quot; alt=&quot;Software License&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://github.com/sindresorhus/awesome&quot;&gt;&lt;img src=&quot;https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg&quot; alt=&quot;Awesome&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Note: This repository isn’t finished yet. It will be updated from time to time, stay tuned!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;table-of-contents-1&quot;&gt;Table of Contents&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#cloud-storages&quot;&gt;Cloud Storages&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#developer-tools&quot;&gt;Developer Tools&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#e-mail&quot;&gt;E-Mail&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#ftp-clients&quot;&gt;FTP Clients&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#finance&quot;&gt;Finance&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#games&quot;&gt;Games&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#ide-integrated-development-environment&quot;&gt;IDE (Integrated development environment)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#messaging&quot;&gt;Messaging&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#organisational&quot;&gt;Organisational&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#photo-and-video&quot;&gt;Photo and Video&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#music&quot;&gt;Music&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#productivity&quot;&gt;Productivity&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#utilities&quot;&gt;Utilities&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#security&quot;&gt;Security&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#text-editors&quot;&gt;Text Editors&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;cloud-storages&quot;&gt;Cloud Storages&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Several data providers who stores your data in the cloud&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.google.com/intl/de_de/drive&quot;&gt;Google Drive&lt;/a&gt; - A file storage and synchronization service created by Google.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.icloud.com/&quot;&gt;iCloud&lt;/a&gt; - A file storage and synchronization service powered by Apple.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://onedrive.live.com/about/en-us&quot;&gt;OneDrive&lt;/a&gt; - OneDrive is a file hosting service that allows users to sync files and later access them from a web browser or mobile device from Microsoft.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;developer-tools&quot;&gt;Developer Tools&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Several tools to support the work of a developer&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://luckymarmot.com/paw&quot;&gt;Paw&lt;/a&gt; - The ultimative REST client for Mac.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.getpostman.com&quot;&gt;Postman&lt;/a&gt; - Postman helps you develop APIs faster.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.psequel.com&quot;&gt;PSequel&lt;/a&gt; - A PostgreSQL GUI Tool for Mac OS X.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.sequelpro.com&quot;&gt;Sequel Pro&lt;/a&gt; - MySQL database management for Mac OS X.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;e-mail&quot;&gt;E-Mail&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Programs which are used to access and manage a user’s email&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://airmailapp.com&quot;&gt;Airmail&lt;/a&gt; - Lightning Fast Mail Client for Mac and iPhone.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nylas.com/n1&quot;&gt;N1&lt;/a&gt; - The extensible, open source mail client.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.postbox-inc.com&quot;&gt;Postbox&lt;/a&gt; - Another powerful Mail Client for Mac.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ftp-clients&quot;&gt;FTP Clients&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Applications to connect via several protocols to a server.&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cyberduck.io&quot;&gt;Cyberduck&lt;/a&gt; - Libre FTP, SFTP, WebDAV, S3 &amp;amp; OpenStack Swift client.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://filezilla-project.org&quot;&gt;FileZilla&lt;/a&gt; - A fast and reliable cross-platform FTP, FTPS and SFTP client.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://fivedetails.com/flow/&quot;&gt;Flow&lt;/a&gt; - The Mac’s Best FTP + SFTP Client.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.panic.com/transmit/&quot;&gt;Transmit&lt;/a&gt; - The ultimate Mac OS X FTP + SFTP + S3 app.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.yummysoftware.com&quot;&gt;Yummy FTP&lt;/a&gt; - Pro-level, Fast, Reliable FTP Client.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;finance&quot;&gt;Finance&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Applications to keep an eye on your costs&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://subsembly.com/de/banking.html&quot;&gt;Banking 4&lt;/a&gt; - Your banking software for OS X.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;games-1&quot;&gt;Games&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;A list of awesome games which are running smoothly under Mac OS X&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://eu.battle.net/heroes&quot;&gt;Heroes of the Storm&lt;/a&gt; - A MOBA video game developed by Blizzard Entertainment.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ide-integrated-development-environment&quot;&gt;IDE (Integrated development environment)&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Software Applications that provides comprehensive facilities for software development.&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developer.android.com/studio/index.html&quot;&gt;Android Studio&lt;/a&gt; - Android Studio is the official integrated development environment (IDE) for Android platform development.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.jetbrains.com/objc/&quot;&gt;AppCode&lt;/a&gt; - Swift execution of your bright ideas.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.jetbrains.com/clion/&quot;&gt;CLion&lt;/a&gt; - intelligent cross-platform C/C++ IDE.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.eclipse.org&quot;&gt;Eclipse&lt;/a&gt; - A project aiming to provide a universal toolset for development.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.jetbrains.com/idea/&quot;&gt;Intellij IDEA&lt;/a&gt; - The Most Intelligent Java IDE.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.jetbrains.com/phpstorm/&quot;&gt;PhpStorm&lt;/a&gt; - The Most Intelligent PHP IDE.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.jetbrains.com/pycharm/&quot;&gt;PyCharm&lt;/a&gt; - The Most Intelligent Python IDE.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.jetbrains.com/ruby/&quot;&gt;RubyMine&lt;/a&gt; - The Most Intelligent Ruby and Rails IDE.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.jetbrains.com/webstorm/&quot;&gt;WebStorm&lt;/a&gt; - The smartest JavaScript IDE.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.visualstudio.com/&quot;&gt;VS Code&lt;/a&gt; - Excellent multipurpose IDE.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;messaging&quot;&gt;Messaging&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Apps to communicate with other human beings&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/stonesam92/ChitChat&quot;&gt;ChitChat&lt;/a&gt; - Unofficial Desktop client for WhatsApp.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jnordberg/irccloudapp&quot;&gt;Nimbus&lt;/a&gt; - Standalone IRCCloud client for OS X.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.skype.com&quot;&gt;Skype&lt;/a&gt; - Share, message and call across Platforms.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://slack.com/&quot;&gt;Slack&lt;/a&gt; - A messaging app for teams.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://desktop.telegram.org&quot;&gt;Telegram&lt;/a&gt; - A new era of messaging.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.codeux.com/textual&quot;&gt;Textual&lt;/a&gt; - The world’s most popular application for interacting with IRC on OS X.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;organisational&quot;&gt;Organisational&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Apps to organize your life like calendars or task lists&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://calendar.sunrise.am/&quot;&gt;Sunrise Calendar&lt;/a&gt; - A beautifully designed calendar experience for your Mac.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;photo-and-video&quot;&gt;Photo and Video&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Apps for you to be more creative&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://zoommyapp.com&quot;&gt;Zoommy&lt;/a&gt; - Find awesome free stock photos.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;music&quot;&gt;Music&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Apps for listen to your favourite music&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.soundnodeapp.com&quot;&gt;Soundnode&lt;/a&gt; - An opensource SoundCloud app for desktop.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;productivity-1&quot;&gt;Productivity&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Apps to improve your productivity during your day&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.cerebroapp.com&quot;&gt;Cerebro&lt;/a&gt; - One-input productivity booster.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wunderlist.com&quot;&gt;Wunderlist&lt;/a&gt; - Wunderlist is the easistest way to get stuff done. Keep your life in sync.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;utilities-1&quot;&gt;Utilities&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;A list of tools to ease up your work with Mac OS X&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.alfredapp.com/&quot;&gt;Alfred&lt;/a&gt; - Search your Mac and the web effortlessly, and control your Mac using customised actions with the Alfred.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itunes.apple.com/de/app/amphetamine/id937984704?mt=12&quot;&gt;Amphetamine&lt;/a&gt; - Don’t let you mac sleep.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.android.com/filetransfer&quot;&gt;Android File Transfer&lt;/a&gt; - Browse and transfer files upto 4 GB between Mac and Android device.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.freemacsoft.net/appcleaner/&quot;&gt;AppCleaner&lt;/a&gt; - A small application to thoroughly uninstall unwanted apps.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.dssw.co.uk/batteryguardian&quot;&gt;Battery Guardian&lt;/a&gt; - Battery Guardian offers an easy way to remember to deplete your MacBook battery. Depleting your battery helps extend the battery’s life.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://cleanmymac.com&quot;&gt;CleanMyMac&lt;/a&gt; - CleanMyMac can helps you to clean your Mac, monitor its health, optimize it for speed, and more.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://fluidapp.com&quot;&gt;Fluid&lt;/a&gt; - Turn Your Favorite Web Apps into Real Mac Apps.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.macupdate.com/app/mac/47923/garbage-truck&quot;&gt;Garbage Truck&lt;/a&gt; - Automate emptying of trash on your Mac.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bahoom.com/hyperdock/&quot;&gt;HyperDock&lt;/a&gt; - Windows 7 style preview of open windows/applications and more.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.iterm2.com&quot;&gt;iTerm2&lt;/a&gt; - A terminal emulator for Mac OS X that does amazing things.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.knocktounlock.com&quot;&gt;Knock&lt;/a&gt; - Unlock your Mac faster and more securely than ever.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://macid.co&quot;&gt;MacID&lt;/a&gt; - Unlock your Mac with just your fingerprint.™&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.titanium.free.fr/onyx.html&quot;&gt;Onyx&lt;/a&gt; - The multifunction Utility.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://pasteapp.me/&quot;&gt;Paste&lt;/a&gt; - Keep track of your clipboard.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://spectacleapp.com&quot;&gt;Spectacle&lt;/a&gt; - Window control with simple and customizable keyboard shortcuts.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://getkap.co/&quot;&gt;Kap&lt;/a&gt; - Kap. Capture your screen&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;security-1&quot;&gt;Security&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Encryption, Password Manager and other tools for your safety&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://agilebits.com/onepassword/mac&quot;&gt;1Password&lt;/a&gt; - A comprehensive password manager.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.boxcryptor.com&quot;&gt;Boxcryptor&lt;/a&gt; - A tool to encript your sensitive files in your cloud storage.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.dashlane.com/&quot;&gt;Dashlane&lt;/a&gt; - An another password manager &amp;amp; secure digital wallet.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;text-editors&quot;&gt;Text Editors&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;A type of program used for editing plain text files.&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://atom.io&quot;&gt;Atom&lt;/a&gt; - A hackable text editor for the 21st Century.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.barebones.com/products/bbedit/&quot;&gt;BBEdit&lt;/a&gt; - It doesn’t suck.®&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://panic.com/coda&quot;&gt;Coda2&lt;/a&gt; - Your code for the web.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.emacswiki.org/emacs/EmacsForMacOS&quot;&gt;Emacs&lt;/a&gt; - Emacs is console based editor and highly customizable.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.sublimetext.com/3&quot;&gt;Sublime Text 3&lt;/a&gt; - A sophisticated text editor for code, markup and prose.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://macromates.com&quot;&gt;TextMate&lt;/a&gt; - The Missing Editor for Mac OS X.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.vim.org/&quot;&gt;Vim&lt;/a&gt; - Vim is a highly configurable console based editor aimed at efficient text creation and modification.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;authors&quot;&gt;Authors&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Philipp Bräutigam&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/xyNNN&quot;&gt;github/xyNNN&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://twitter.com/pbraeutigam&quot;&gt;twitter/pbraeutigam&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;… and &lt;a href=&quot;https://github.com/xyNNN/awesome-mac/graphs/contributors&quot;&gt;Contributors&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&quot;license-1&quot;&gt;License&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://creativecommons.org/publicdomain/zero/1.0/&quot;&gt;&lt;img src=&quot;http://i.creativecommons.org/p/zero/1.0/88x31.png&quot; alt=&quot;CC0&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;To the extent possible under law, &lt;a href=&quot;http://www.philipp-braeutigam.de&quot;&gt;Philipp Bräutigam&lt;/a&gt; has waived all copyright and related or neighboring rights to this work.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <title>🎬 Movies / filmek</title>
@@ -488,7 +1092,7 @@ Szabó Marcell&lt;/p&gt;
 
 &lt;!-- break --&gt;
 
-&lt;p&gt;Micsoda más világunk lehetne, ha minden alkalmazás forrásprogramja (minden más szellemi termékkel együtt) elérhető lenne valahol az interneten és mindenki szabadon letölthetné, módosíthatná, lefordíthatná és felhasználhatná!&lt;/p&gt;
+&lt;p&gt;Micsoda más világunk lehetne, ha minden alkalmazás forrásprogramja (minden más egyébb szellemi termékkel együtt) elérhető lenne valahol az interneteken és mindenki szabadon letölthetné, módosíthatná, lefordíthatná és felhasználhatná!&lt;/p&gt;
 </content>
   </entry>
   
@@ -506,7 +1110,7 @@ Szabó Marcell&lt;/p&gt;
     <link href="http://0.0.0.0:4000/jekyll_scheduled_post.html"/>
     <updated>2018-02-07T00:00:00+01:00</updated>
     <id>http://0.0.0.0:4000/jekyll_scheduled_post</id>
-    <content type="html">&lt;p&gt;A legegyszerűbb, leghasználhatóbb választ ez a poszt adja + erre a problémára: &lt;a href=&quot;http://code.alxmjo.com/how-to-schedule-posts-with-jekyll/&quot;&gt;http://code.alxmjo.com/how-to-schedule-posts-with-jekyll/&lt;/a&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;A legegyszerűbb és számomra a leghasználhatóbb választ ez a poszt adta + erre a problémára: &lt;a href=&quot;http://code.alxmjo.com/how-to-schedule-posts-with-jekyll/&quot;&gt;http://code.alxmjo.com/how-to-schedule-posts-with-jekyll/&lt;/a&gt;&lt;/p&gt;
 
 &lt;!-- break --&gt;
 
@@ -515,14 +1119,14 @@ Szabó Marcell&lt;/p&gt;
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;future: false
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;opción kívül a megoldáshoz kell majd még egy olyan gép, ami időről időre meg tudja hívni én konkrét Jekyll oldalamhoz / repository-mhoz ezt a parancsot:&lt;/p&gt;
+&lt;p&gt;opción kívül a megoldáshoz kell majd még egy olyan gép, ami időről időre meg tudja hívni, az én konkrét Jekyll oldalamhoz / repository-mhoz ezt a parancsot:&lt;/p&gt;
 
 &lt;pre class=&quot;terminal&quot;&gt;curl &quot;https://api.github.com/repos/FleXoft/gyorgy.fleischmann.hu/pages/builds&quot; \
 -X POST \
 -H 'Authorization: token 7a65376e4b10e090037b4c82338c4ef5031ab408' \
 -H &quot;Accept: application/vnd.github.mister-fantastic-preview&quot;&lt;/pre&gt;
 
-&lt;p&gt;Az API token-t a &lt;a href=&quot;https://github.com/settings/tokens/&quot;&gt;Settings → Personal access tokens&lt;/a&gt; linken lehet generálni a GitHub-on, fentebb csak egy példa szerepel.&lt;/p&gt;
+&lt;p&gt;Az API token-t a &lt;a href=&quot;https://github.com/settings/tokens/&quot;&gt;Settings → Personal access tokens&lt;/a&gt; linken lehet generálni a GitHub-on, fentebb csak egy példa szerepel!&lt;/p&gt;
 
 &lt;p&gt;/* Ez a bejegyzés is már ezzel élesedett. */&lt;/p&gt;
 </content>
@@ -3307,174 +3911,6 @@ animate();
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>📚 Books / könyvek</title>
-    <link href="http://0.0.0.0:4000/books.html"/>
-    <updated>2018-02-02T14:31:39+01:00</updated>
-    <id>http://0.0.0.0:4000/books</id>
-    <content type="html">&lt;p&gt;Ezen az oldalon tervezem összeszedni az általam kedvelt (e vagy papír alapú) könyveket. Jelenleg ezeket olvasom/&lt;del&gt;tam&lt;/del&gt; mostanában.&lt;/p&gt;
-
-&lt;!-- break --&gt;
-
-&lt;h2 id=&quot;de-előtte-jöjjön-a-lényeg-az-én-aktuális-könyv-toplistám&quot;&gt;De előtte jöjjön a lényeg az én aktuális könyv TOPlistám:&lt;/h2&gt;
-
-&lt;p&gt;&lt;span&gt;&lt;a href=&quot;https://bookline.hu/product/home.action?_v=Yuval_Noah_Harari_Sapiens&amp;amp;id=20822&amp;amp;type=250&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://moly.hu/system/covers/big/covers_370521.jpg&quot; alt=&quot;&quot; style=&quot;width: 12%;&quot; /&gt;&lt;/a&gt;&lt;/span&gt;
-&lt;span&gt;&lt;a href=&quot;https://bookline.hu/product/home.action?_v=Yuval_Noah_Harari_Homo_Deus&amp;amp;id=32396&amp;amp;type=250&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://moly.hu/system/covers/big/covers_434886.jpg?1490173019&quot; alt=&quot;&quot; style=&quot;width: 12%; margin-left: -4em;&quot; /&gt;&lt;/a&gt;&lt;/span&gt;
-&lt;span&gt;&lt;a href=&quot;https://moly.hu/konyvek/thomas-harris-a-voros-sarkany&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://moly.hu/system/covers/big/covers_35427.jpg?1395354721&quot; alt=&quot;&quot; style=&quot;width: 12%;&quot; /&gt;&lt;/a&gt;&lt;/span&gt;
-&lt;span&gt;&lt;a href=&quot;https://moly.hu/konyvek/johannes-mario-simmel-nem-kell-mindig-kaviar&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://moly.hu/system/covers/big/covers_37727.jpg&quot; alt=&quot;&quot; style=&quot;width: 12%;&quot; /&gt;&lt;/a&gt;&lt;/span&gt;
-&lt;span&gt;&lt;a href=&quot;https://www.libri.hu/konyv/berta_zsolt.recept.html&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://s04.static.libri.hu/cover/8d/1/3277407_5.jpg&quot; alt=&quot;&quot; style=&quot;width: 12%;&quot; /&gt;&lt;/a&gt;&lt;/span&gt;
-&lt;span&gt;&lt;a href=&quot;https://moly.hu/konyvek/moldova-gyorgy-titkos-zaradek&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://s03.static.libri.hu/cover/1a/8/4039575_5.jpg&quot; alt=&quot;&quot; style=&quot;width: 12%;&quot; /&gt;&lt;/a&gt;&lt;/span&gt;
-&lt;span&gt;&lt;a href=&quot;https://www.agavekonyvek.hu/konyvek/venek-haboruja-1-4-csomag&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://www.book24.hu/thumbnails/215/0/img/boritok/agave/csomag_john-scalzi-venek-haboruja-1-4-promo.png&quot; alt=&quot;&quot; style=&quot;width: 12%;&quot; /&gt;&lt;/a&gt;&lt;/span&gt;
-&lt;span&gt;&lt;a href=&quot;https://moly.hu/konyvek/j-r-dos-santos-az-isteni-formula&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://s06.static.libri.hu/cover/69/e/817799_5.jpg&quot; alt=&quot;&quot; style=&quot;width: 12%;&quot; /&gt;&lt;/a&gt;&lt;/span&gt;
-&lt;span&gt;&lt;a href=&quot;https://moly.hu/konyvek/marc-elsberg-blackout&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://s01.static.libri.hu/cover/e6/6/3201999_4.jpg&quot; alt=&quot;&quot; style=&quot;width: 12%;&quot; /&gt;&lt;/a&gt;&lt;/span&gt;
-&lt;span&gt;&lt;a href=&quot;http://nagysandor.eu/miegymas/skylords.htm&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;http://nagysandor.eu/images/objects/books/brosnan.jpg&quot; alt=&quot;&quot; style=&quot;width: 12%;&quot; /&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr style=&quot;clear: both;&quot; /&gt;
-
-&lt;!-- Folyamatban --&gt;
-&lt;div class=&quot;rightbox rightboxborders&quot; style=&quot;width: 35%;&quot;&gt;
-&lt;h2&gt;Folyamatban:&lt;/h2&gt;
-
-&lt;ul&gt;
-	&lt;li&gt;Popper Péter: Felnőtnek lenni&lt;/li&gt;
-	&lt;li&gt;Taylor, Dennis E.: MI, Bob&lt;/li&gt;
-	&lt;li&gt;Parti Nagy Lajos: Fülkefor ​és vidéke, Fülkefória és vidéke (II)&lt;/li&gt;
-	&lt;li&gt;Moldova György: Keserű ​Pohár I-III.&lt;/li&gt;
-	&lt;li&gt;Kellerman, Faye: Szemfényvesztés&lt;/li&gt;
-	&lt;li&gt;Zoltán Gábor: Orgia&lt;/li&gt;
-	&lt;li&gt;Bolano(Bolaño), Roberto: 2666&lt;/li&gt;
-	&lt;li&gt;Szabó T. Anna: Törésteszt&lt;/li&gt;
-	&lt;li&gt;Chiang, Ted: Életed törtenete&lt;/li&gt;
-	&lt;li&gt;Eggers, Dave: A Kör &lt;/li&gt;
-	&lt;li&gt;Kelly, Scott: Endurance (angol)&lt;/li&gt;
-	&lt;li&gt;Radnóti Miklósné Gyarmati Fanni: Napló 1935-1946 I-II.&lt;/li&gt;
-	&lt;li&gt;Joyce, James: Ulysses&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;/div&gt;
-&lt;p&gt;&lt;!-- Folyamatban --&gt;&lt;/p&gt;
-
-&lt;div class=&quot;leftbox&quot; style=&quot;width: 15%;&quot;&gt;&lt;a href=&quot;https://moly.hu/konyvek/jared-diamond-haboruk-jarvanyok-technikak&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://moly.hu/system/covers/big/covers_262501.jpg?1395465817&quot; alt=&quot;Diamond, Jared - Háborúk, ​járványok, technikák&quot; title=&quot;Diamond, Jared - Háborúk, ​járványok, technikák&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Diamond, Jared - Háborúk, ​járványok, technikák&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;“A „háborúk járványok technikák” a világtörténelem alapvető kérdésére keresi a választ: „miért az európai civilizáció hódította meg a világot, miért nem másként történt ez?” Így is fogalmazhatunk: Miért Pisaro maroknyi csapata győzte le Atahualpa inka fejedelmet és hatalmas hadseregét, miért nem ő kényszerítette térdre I. Károly spanyol királyt (és egyben Német-Római császárt)? Vagy ahogy az új-guineai Yali – a szerző barátja – vetette fel: Miért van az, hogy ti fehérek olyan sok árut termeltetek és hoztatok Új-Guineába, míg nekünk feketéknek, oly kevés saját árunk van? A provokatív kérdésekre rendhagyó, nagyívű válasz születik, nemcsak a történelem, hanem a földrajz, a biológia, a régészet, a nyelvészet, a járványtan és antropológia, valamint a tudomány- és technikatörténet alapján, mintegy 13 ezer éves időskálán mozogva új összefüggések rajzolódtak ki.”&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;div class=&quot;leftbox&quot; style=&quot;width: 15%;&quot;&gt;&lt;a href=&quot;https://www.agavekonyvek.hu/konyvek/ready-player-one&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://www.book24.hu/thumbnails/215/0/img/boritok/agave/ernest_cline_ready_player_one_b1_72pi.jpg&quot; alt=&quot;Cline, Ernest: Ready Player One&quot; title=&quot;Cline, Ernest: Ready Player One&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Cline, Ernest: Ready Player One&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;“2044-et írunk, és a valóság elég ronda egy hely. Az emberiség nagy részéhez hasonlóan a gimnazista Wade Watts is azt a kiutat látja zord környezetéből, hogy bejelentkezik az OASIS-ba, a világméretű virtuális utópiába, ahol az avatárján keresztül mindenki szabadon tanulhat, dolgozhat, és szórakozhat. Ugyancsak az emberiség nagy részéhez hasonlóan Wade is arról álmodozik, hogy ő találja meg elsőként a virtuális világ elrejtett kincsét. A szimuláció tervezőjeként ismert James Halliday ugyanis ördögi feladványt hagyott maga után, amelynek leggyorsabb megfejtője szédületes vagyonra és hatalomra tehet szert.&lt;/p&gt;
-
-&lt;p&gt;A Halliday által kifundált feladatok sikeres teljesítéséhez a popkultúra megszállott ismeretére van szükség, Wade pedig éppúgy otthon van a Gyalog galoppban, mint a Pac-Manben, a Rush életművében vagy az animékben. Amikor a tizennyolc éves srác hosszú évek kitartó munkája után megoldja az első feladványt, hirtelen a figyelem középpontjába kerül, és ez életveszélybe sodorja. Egyes játékosok ugyanis még a gyilkosságig is hajlandóak elmenni a mesés nyeremény megszerzéséért.&lt;/p&gt;
-
-&lt;p&gt;Ernest Cline első regénye a 2011-es megjelenését követően megkapta a rangos Prometheus-díjat, és mostanra a popkulturális irodalom egyik legfontosabb kortárs művévé vált. Több millió példányban adták el, világszerte óriási rajongótábora van, és készül belőle már a nagyköltségvetésű film is: Steven Spielberg rendezésében 2018 márciusában mutatják be a mozik.”&lt;/p&gt;
-
-&lt;hr style=&quot;clear: both;&quot; /&gt;
-
-&lt;div class=&quot;leftbox&quot; style=&quot;width: 15%;&quot;&gt;&lt;a href=&quot;http://fumax.hu/termek/andy_weir_artemis.html&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://s01.static.libri.hu/cover/79/4/4189827_5.jpg&quot; alt=&quot;Weir, Andy: Artemis&quot; title=&quot;Weir, Andy: Artemis&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Weir, Andy: Artemis&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;“Jazz Bashara bűnöző.&lt;/p&gt;
-
-&lt;p&gt;Vagy valami olyasmi. Az élet ugyanis elég kemény Artemisen, a Hold első és egyetlen városában, hacsak nem vagy gazdag turista vagy excentrikus milliárdos. Némi ártalmatlan, de tiltott áru becsempészése nem egetverő bűn, ugyebár? Főleg, ha különböző adósságokat kell törlesztened, mivel a hordári munkádért kapott fizetés a lakbért is alig fedezi.&lt;/p&gt;
-
-&lt;p&gt;A dolgok akkor kezdenek megváltozni, amikor Jazznek páratlan lehetősége adódik a tökéletes bűntény elkövetésére, amely akkora nyereséggel kecsegtet, hogy képtelenség lenne visszautasítani. A lehetetlen végrehajtása azonban még csak a kezdet: ráébred, hogy egyenesen egy összeesküvés kellős közepébe csöppent, amelynek célja nem kevesebb, mint átvenni a hatalmat egész Artemis fölött.&lt;/p&gt;
-
-&lt;p&gt;Ha pedig túl akarja élni, bele kell mennie élete legbrutálisabb játszmájába, olyan tétekkel, amelyek már egyáltalán nincsenek az ínyére.&lt;/p&gt;
-
-&lt;p&gt;A marsi sikerlista-vezető szerzője, Andy Weir újabb lenyűgöző főszereplőt alkotott, Jazz történetét pedig a rá jellemző humorral és tudományos alapossággal írta meg. Az Artemis filmes jogai már a könyv bejelentésének napján elkeltek, a 20th Century Fox és a New Regency máris dolgozik az adaptáción.”&lt;/p&gt;
-
-&lt;hr style=&quot;clear: both;&quot; /&gt;
-
-&lt;div class=&quot;leftbox&quot; style=&quot;width: 15%;&quot;&gt;&lt;a href=&quot;https://bookline.hu/product/home.action?_v=Yuval_Noah_Harari_Sapiens&amp;amp;id=20822&amp;amp;type=250&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://moly.hu/system/covers/big/covers_370521.jpg&quot; alt=&quot;Harari, Yuval Noah: Sapiens - Az emberiség rövid története&quot; title=&quot;Harari, Yuval Noah: Sapiens - Az emberiség rövid története&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
-
-&lt;div class=&quot;leftbox&quot; style=&quot;width: 15%;&quot;&gt;&lt;a href=&quot;https://bookline.hu/product/home.action?_v=Yuval_Noah_Harari_Homo_Deus&amp;amp;id=32396&amp;amp;type=250&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://moly.hu/system/covers/big/covers_434886.jpg?1490173019&quot; alt=&quot;Harari, Yuval Noah: Homo ​Deus - A holnap rövid története&quot; title=&quot;Harari, Yuval Noah: Homo ​Deus - A holnap rövid története&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Harari, Yuval Noah: Sapiens - Az emberiség rövid története és Homo ​Deus - A holnap rövid története&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;“A tűz tett minket veszedelmessé. A pletyka együttműködővé. A mezőgazdaság még éhesebbé. A mitológia tartotta fenn a törvényt és a rendet. A pénz adott valamit, amiben mind bízhatunk. Az ellentmondások teremtették meg a kultúrát. A tudomány tett minket a teremtés urává. De egyik sem tett boldoggá…&lt;/p&gt;
-
-&lt;p&gt;A világhírű jeruzsálemi egyetemi tanár szerint így foglalható össze annak története, ahogyan jelentéktelen majmokból a világ uraivá váltunk.”&lt;/p&gt;
-
-&lt;p&gt;“Legyőztük a pusztító éhínséget. Megfékeztük a gyilkos járványokat. Véget vetettünk az öldöklő háborúknak. De mihez kezdjünk ezek után? Kíséreljük meg legyőzni az öregedést? Próbáljuk meg kicselezni a halált? Tegyük az embert istenné?&lt;/p&gt;
-
-&lt;p&gt;A világhírű jeruzsálemi egyetemi tanár, Yuval Noah Harari elgondolkodtatóan és világosan vázolja fel az emberiség lehetséges jövőit, és hogy miként válhat a Homo sapiens Homo deusszá.”&lt;/p&gt;
-
-&lt;hr style=&quot;clear: both;&quot; /&gt;
-
-&lt;div class=&quot;leftbox&quot; style=&quot;width: 15%;&quot;&gt;&lt;a href=&quot;https://www.agavekonyvek.hu/konyvek/voros-lazadas&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://dopvn1uhjjonw.cloudfront.net/thumbnails/215/0/img/boritok/agave/pierce-brown-voros-lazadas-b1_k.jpg&quot; alt=&quot;Brown, Pierce: Vörös lázadás&quot; title=&quot;Brown, Pierce: Vörös lázadás&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
-
-&lt;div class=&quot;leftbox&quot; style=&quot;width: 15%;&quot;&gt;&lt;a href=&quot;https://www.agavekonyvek.hu/konyvek/arany-haboru-voros-lazadas-trilogia-2&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://www.book24.hu/thumbnails/215/0/img/boritok/agave/pierce-brown-arany-haboru-b1.jpg&quot; alt=&quot;Brown, Pierce: Arany Háború&quot; title=&quot;Brown, Pierce: Arany Háború&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Brown, Pierce: Vörös lázadás, Arany Háború,&lt;/strong&gt; &lt;strong&gt;Hajnalcsillag&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;“&lt;strong&gt;Vörös lázadás:&lt;/strong&gt; A fiatal Darrow a Marson él, bányász, és Vörösnek született, a színekről elnevezett kasztokra épülő társadalom legalacsonyabb rétegébe. Fáradtságot nem ismerve kockáztatja az életét a beomló alagutak és lándzsaviperák közt abban a hitben, hogy sorstársaival lakhatóvá teszi a bolygó felszínét a jövő generációi számára. Darrow még sosem látta a szabad égboltot, ám a kötelességét mégis teljesíti, mert reméli, hogy emberfeletti munkájával a saját gyermekeinek is jobb életet teremt. Egy nap azonban megtudja, hogy a Vörösök elől eltitkolják az igazságot, ugyanis a Mars felszíne már alkalmas az emberi életre. Méghozzá nem is akármilyenre.&lt;/p&gt;
-
-&lt;p&gt;Igazságot követelve a kasztjának és bosszúra szomjazva meggyilkolt szerelme miatt Darrow csatlakozik a földalatti ellenálláshoz, hogy megdöntse az Aranyak zsarnoki uralmát. S céljának elérésében semmi sem gátolhatja meg… Még az sem, hogy olyanná kell válnia, mint gyűlölt ellenségei.”&lt;/p&gt;
-
-&lt;p&gt;“&lt;strong&gt;Arany háború:&lt;/strong&gt; Az Arany háborúban folytatódik Darrow tragédia kovácsolta bosszúhadjárata: eltökélten vezeti harcba elnyomott népét a szabadságért egy hazugságokra épült elitista utópiában. Arannyá vált ő is, és belülről tervezi megdönteni a Társadalmat. Azonban nem csak leggyűlöltebb ellenségeit kell legyőznie, hanem a benne lakozó bosszúvágyat is, hogy végül erőszakos polgárháború helyett világa újjászületését hozza el.&lt;/p&gt;
-
-&lt;p&gt;Ha a Vörös lázadás egy letehetetlenül olvasmányos, folyamatosan pörgő, végig lebilincselő kezdet volt, akkor az Arany háború egy még brutálisabb adrenalinlöket: az olvasó fék nélkül száguld a szereplőkkel a folyamatos akciójelenetek, űrharcok és politikai intrikák közt. Helyenként kegyetlen, máskor nagyon is emberi élet-halál történet a bosszúról egy felejthetetlen főszereplővel – Pierce Brownt joggal tartják az akció sci-fik egyik legnagyobb reményű új szerzőjének.”&lt;/p&gt;
-
-&lt;p&gt;“&lt;strong&gt;Hajnalcsillag:&lt;/strong&gt; Darrow békében élt, de az ellenségei háborúba kényszerítették. Az Arany uralkodók felakasztották a feleségét és rabszolgasorba taszították a népét. Ő azonban nem törődött bele a sorsába, nem adta fel: mindent kockáztatva beépült az Aranyak közé, és lehetetlent nem ismerve harcolt és élt túl mindent, hogy végül elindíthassa a forradalmat, ami darabjaira szedi a marsi rendszert.&lt;/p&gt;
-
-&lt;p&gt;Most eljött az idő, a forradalom kezdetét veszi.&lt;/p&gt;
-
-&lt;p&gt;Pierce Brown a Vörös lázadás-trilógiával robbant be 2014-ben a sci-fibe, és a hirtelen sikerének köszönhetően mára olvasók milliói rajonganak érte a világ minden táján. A Hajnalcsillag a megkoronázása e diadalmenetnek, egyben méltó befejezése az utóbbi évek legnépszerűbb sci-fi sorozatának.”&lt;/p&gt;
-
-&lt;hr style=&quot;clear: both;&quot; /&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;div class=&quot;rightbox&quot; style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/books/konyvespolc.jpg&quot; alt=&quot;Könyvespolc 20171104&quot; title=&quot;Könyvespolc 20171104&quot; /&gt;&lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Scalzi, John: Az összeomló birodalom&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Földes András: Erőss Zsolt - A Himalájánál magasabbra&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Shafak(Şafak), Elif: Becsület&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Ebershoff, David: A dán lány&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Crouch, Blake: Sötét anyag&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Árpa Attila: Holtomiglan&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Vance, Ashlee: Elon Musk - Tesla, SpaceX és a fantasztikus jövő&lt;/del&gt;‎&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Hertzfeld, Andy: Revolution in The Valley: The Insanely Great Story of How the Mac Was Made (angol)&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Merchant, Brian: The One Device: The Secret History of the iPhone (angol)&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;del&gt;Hosseini, Khaled: Papírsárkányok&lt;/del&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Frei Tamás: A Bankár, A Megmentő, Agrárbárók, 2015: A káosz éve és a magyar elit háborúja&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Moldova György: Titkos Záradék&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Enders, Giulie: Bélügyek&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Csabai László: Szindbád szibériában&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Leslie L. Lawrence: Sindzse ​szeme&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;M. R. Carey: Kiéhezettek&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Moldova György: A ​végtelen vonal&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Hosszú Katinka: A magyar Iron Lady&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Blake Crouch: Wayward Pines trilógia&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;dos Santos, José Rodrigues: A hetedik pecsét - A világvége elkezdődött, Isten haragja&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;Howey, Hugh: A siló&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Banks, Iain M.: A játékmester&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Cussler, Clive: A jéghegy&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Chase, James Hadley: A gyilkos hajsza&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Cronin, Justin: A szabadulás&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Kolozsi László: Ki köpött a krémesbe, Mi van a reverenda alatt?&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;VanderMeer, Jeff: Expedíció&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Vermes, Timur: Nezd ki van itt!&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Kent, Steven: The Ultimate History of Video Games&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Harris, Thomas: A Vörös Sárkány (Rakéta regényújság 129., 1986, 24-33. szám)&lt;/li&gt;
-  &lt;li&gt;Merle, Robert: Mesterségem a halál
-Levin, Ira: A brazíliai fiúk (Rakéta regényújság 137., 1987, 20-26. szám)&lt;/li&gt;
-  &lt;li&gt;Shafak(Şafak), Elif: Szerelem&lt;/li&gt;
-  &lt;li&gt;Szabó Magda: Für Elise, Ajtó, Az őz, Abigél&lt;/li&gt;
-  &lt;li&gt;Simmel, Johannes Mario: Nem kell mindig kaviár&lt;/li&gt;
-&lt;/ul&gt;
 </content>
   </entry>
   

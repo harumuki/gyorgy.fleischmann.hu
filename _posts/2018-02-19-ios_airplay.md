@@ -11,4 +11,4 @@ Tegnap az a "probléma" merült fel itthon, hogy milyen jó lenne az AppleTV-n f
 
 <!-- break -->
 
-Micsoda más világunk lehetne, ha minden alkalmazás forrásprogramja (minden más szellemi termékkel együtt) elérhető lenne valahol az interneten és mindenki szabadon letölthetné, módosíthatná, lefordíthatná és felhasználhatná!
+Micsoda más világunk lehetne, ha minden alkalmazás forrásprogramja (minden más egyébb szellemi termékkel együtt) elérhető lenne valahol az interneteken és mindenki szabadon letölthetné, módosíthatná, lefordíthatná és felhasználhatná!

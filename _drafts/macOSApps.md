@@ -17,6 +17,132 @@ tags:     [listák, awesome]
 
 > *Items marked with ![Open-Source Software][OSS Icon] are open-source software and link to the source code. Items marked with ![Freeware][Freeware Icon] are free (as in free beer).*
 
+CrossPack-AVR
+IBM Spectrum Protect
+Machinarium
+Myth II
+PICO-8
+Send to Kindle
+teleport
+Visual Boy Advance
+Voxatron
+Zen Puzzle Garden
+1Password 6
+
+Acorn
+Alfred 3
+Arduino
+Audio Hijack
+
+Backup and Sync
+Bonjour Browser
+
+Chess
+Cisco Powerline AV Utility
+ClipGrab
+Comic Life 3
+DOSBox
+Dropbox
+Enjoy2
+Espresso
+Evernote
+Expressions
+EyeTV
+Firefox
+Fuse for Mac OS X
+Google Chrome
+HandBrake
+Hex Fiend
+IBM Spectrum Protect
+ImageOptim
+Isolator
+Kaleidoscope
+LightBlue
+LimeChat
+Linksys Powerline AV Utility
+LittleSnapper
+Liya
+MacDown
+Machinarium
+Mactracker
+Max
+Microsoft Excel.app
+Microsoft Office 2011
+Microsoft Outlook
+Microsoft PowerPoint
+Microsoft Remote Desktop
+Microsoft Teams
+Microsoft Word
+
+Myth II
+
+OneDrive
+OpenEmu
+Osmos
+PICO-8
+Paparazzi!
+PhoneView
+Pola
+PolaSettings
+Poladroid 9.6
+
+Pulse Secure.app
+
+Room EQ Wizard.app
+SSHFS GUI
+
+Send to Kindle
+Simple Comic
+
+Skype for Business
+Skype
+Spotifree
+Spotify
+Steam
+
+Stockfish
+Subler
+Sublime Text 3
+
+Tayasui Sketches Pro
+TeamViewer
+Telegram
+
+The Unarchiver.app
+
+Translate Tab
+Transmission
+Transmit
+Tunnelblick
+Tuxera Disk Manager
+Twitter
+Type2Phone
+Typinator
+Ukelele
+UnRarX
+VLC
+VMware Fusion
+Vado Central
+Visual Boy Advance
+VitalSource Bookshelf
+Voxatron
+WJoy
+Wireshark
+World of Goo
+XLD
+
+Zen Pinball 2
+Zen Puzzle Garden
+Zenmap
+calibre
+
+iConvert Icons
+
+iStumbler.app
+iTerm
+
+teleport
+
 ## Table of Contents
 
 - [Applications](#applications)
