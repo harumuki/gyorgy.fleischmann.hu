@@ -76,7 +76,7 @@ title:  Welcome to
     <!-- Read more part 1. -->
     <!-- https://gist.github.com/mikeygee/2626538 -->
     <!-- https://stackoverflow.com/questions/16528783/check-for-existence-of-file-using-jekyll -->
-    {% if post.content contains '<!-- break -->' %}{% assign thumbnaillink = post.url | replace: '.html', '_thumbnail.png' %}{% assign thumbnailpercentage = post.thumbnailpercentage | default: '10%' %}{% for static_file in site.static_files %}{% if static_file.path == thumbnaillink %}<div class="rightbox" style="width: {{ thumbnailpercentage }};"><a href="{{ post.url }}"><img class="shadow" src="{{ thumbnaillink }}"></a></div>{% endif %}{% endfor %}{% endif %}
+    {% if post.content contains '<!-- break -->' %}{% assign thumbnaillink = '/images/thumbnails' | append: post.url | replace: '.html', '.png' %}{% assign thumbnailpercentage = post.thumbnailpercentage | default: '10%' %}{% for static_file in site.static_files %}{% if static_file.path == thumbnaillink %}<div class="rightbox" style="width: {{ thumbnailpercentage }};"><a href="{{ post.url }}"><img class="shadow" src="{{ thumbnaillink }}"></a></div>{% endif %}{% endfor %}{% endif %}
 
     <!-- Read more part 2. -->
     {{ post.content | split:'<!-- break -->' | first }}
