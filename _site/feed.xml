@@ -3,7 +3,7 @@
   <title>News 'n' Updates | gyorgy.fleischmann.hu</title>
   <link href="http://0.0.0.0:4000/feed.xml" rel="self"/>
   <link href="http://0.0.0.0:4000/"/>
-  <updated>2018-03-02T14:32:47+01:00</updated>
+  <updated>2018-03-02T15:32:41+01:00</updated>
   <id>http://0.0.0.0:4000/</id>
   <author>
     <name></name>
@@ -743,7 +743,7 @@ animate();
     <link href="http://0.0.0.0:4000/speedtest-invitel.html"/>
     <updated>2018-02-05T00:00:00+01:00</updated>
     <id>http://0.0.0.0:4000/speedtest-invitel</id>
-    <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.speedtest.net/result/7030739623&quot;&gt;&lt;img src=&quot;images/speedtests/Invitel_(2018-02-05).png&quot; alt=&quot;Speedtest: Invitel&quot; title=&quot;Speedtest: Invitel&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.speedtest.net/result/7030739623&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/speedtests/Invitel_(2018-02-05).png&quot; alt=&quot;Speedtest: Invitel&quot; title=&quot;Speedtest: Invitel&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </content>
   </entry>
   
@@ -753,6 +753,8 @@ animate();
     <updated>2018-01-23T00:00:00+01:00</updated>
     <id>http://0.0.0.0:4000/TVSeries</id>
     <content type="html">&lt;p&gt;“I’ve wasted about 42 days, 17 hours, and 21 minutes of my life watching TV shows. Calculate your time: &lt;a href=&quot;http://tiii.me&quot;&gt;http://tiii.me&lt;/a&gt;”&lt;/p&gt;
+
+&lt;p&gt;A &lt;a href=&quot;http://tiii.me&quot;&gt;http://tiii.me&lt;/a&gt; számítása szerint edig körülbelül 42 napot, 17 órát és 21 percet pazaroltam el TV sorozatokra az életemből…&lt;/p&gt;
 
 &lt;!-- break --&gt;
 
