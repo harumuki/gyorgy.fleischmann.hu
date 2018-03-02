@@ -3,7 +3,7 @@
   <title>News 'n' Updates | gyorgy.fleischmann.hu</title>
   <link href="http://0.0.0.0:4000/feed.xml" rel="self"/>
   <link href="http://0.0.0.0:4000/"/>
-  <updated>2018-03-01T09:34:15+01:00</updated>
+  <updated>2018-03-01T13:25:40+01:00</updated>
   <id>http://0.0.0.0:4000/</id>
   <author>
     <name></name>
@@ -1085,9 +1085,9 @@ Szabó Marcell&lt;/p&gt;
   
   <entry>
     <title>⏯ iOS Airplay headphone</title>
-    <link href="http://0.0.0.0:4000/ios_airplay.html"/>
+    <link href="http://0.0.0.0:4000/iOS_AirPlay.html"/>
     <updated>2018-02-19T00:00:00+01:00</updated>
-    <id>http://0.0.0.0:4000/ios_airplay</id>
+    <id>http://0.0.0.0:4000/iOS_AirPlay</id>
     <content type="html">&lt;p&gt;Tegnap az a “probléma” merült fel itthon, hogy milyen jó lenne az AppleTV-n futó film hangját valahogy drótnélküli hallgatni, és így miközben a család zajong mellettem a nappaliban, be tudnám fejezni a korábban elkezdtett filmet. Mivel itthon nincs semmi olyan technika, amit hirtelen erre fel lehetett volna használni, az internet segítségével gyorsan ezt a megoldást próbáltam meg: &lt;a href=&quot;https://github.com/trenskow/AirFloat&quot;&gt;https://github.com/trenskow/AirFloat&lt;/a&gt; és lássunk csodát működött. Az AppleTV-n beállítottam, hogy mostantól a hang a telefonomra (az ott frissen telepített AirFloat alkalmazásra) menjen és oda is ment.&lt;/p&gt;
 
 &lt;!-- break --&gt;
@@ -1106,37 +1106,10 @@ Szabó Marcell&lt;/p&gt;
   </entry>
   
   <entry>
-    <title>⏰ Időzített Jekyll bejegyzés</title>
-    <link href="http://0.0.0.0:4000/jekyll_scheduled_post.html"/>
-    <updated>2018-02-07T00:00:00+01:00</updated>
-    <id>http://0.0.0.0:4000/jekyll_scheduled_post</id>
-    <content type="html">&lt;p&gt;A legegyszerűbb és számomra a leghasználhatóbb választ ez a poszt adta + erre a problémára: &lt;a href=&quot;http://code.alxmjo.com/how-to-schedule-posts-with-jekyll/&quot;&gt;http://code.alxmjo.com/how-to-schedule-posts-with-jekyll/&lt;/a&gt;&lt;/p&gt;
-
-&lt;!-- break --&gt;
-
-&lt;p&gt;Az én Jekyll konfigurációs fájlomban: &lt;a href=&quot;https://github.com/FleXoft/gyorgy.fleischmann.hu/blob/master/_config.yml&quot;&gt;_config.yml&lt;/a&gt; beállított:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;future: false
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;opción kívül a megoldáshoz kell majd még egy olyan gép, ami időről időre meg tudja hívni, az én konkrét Jekyll oldalamhoz / repository-mhoz ezt a parancsot:&lt;/p&gt;
-
-&lt;pre class=&quot;terminal&quot;&gt;curl &quot;https://api.github.com/repos/FleXoft/gyorgy.fleischmann.hu/pages/builds&quot; \
--X POST \
--H 'Authorization: token 7a65376e4b10e090037b4c82338c4ef5031ab408' \
--H &quot;Accept: application/vnd.github.mister-fantastic-preview&quot;&lt;/pre&gt;
-
-&lt;p&gt;Az API token-t a &lt;a href=&quot;https://github.com/settings/tokens/&quot;&gt;Settings → Personal access tokens&lt;/a&gt; linken lehet generálni a GitHub-on, fentebb csak egy példa szerepel!&lt;/p&gt;
-
-&lt;p&gt;/* Ez a bejegyzés is már ezzel élesedett. */&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
     <title>📢 Otthoni megosztott Apple iTunes elérése VPN-en keresztül</title>
-    <link href="http://0.0.0.0:4000/iTunes_daap_access.html"/>
+    <link href="http://0.0.0.0:4000/iTunes_DAAP_access.html"/>
     <updated>2018-02-07T00:00:00+01:00</updated>
-    <id>http://0.0.0.0:4000/iTunes_daap_access</id>
+    <id>http://0.0.0.0:4000/iTunes_DAAP_access</id>
     <content type="html">&lt;p&gt;A feladat most az lenne, hogy bárhonnan elérehető legyen az otthoni (iTunes, DAAP, Digital Audio Access Protocol) megosztott zenearzenál is VPN-en keresztül.&lt;/p&gt;
 
 &lt;p&gt;Sok más megoldás (&lt;a href=&quot;http://theriom.com/Access-your-Bonjour-printer-over-VPN-from-your-iOS-device&quot;&gt;link1&lt;/a&gt;) közül nekem végül ez a cikk tetszett meg a legjobban az 1szerűsége miatt: &lt;a href=&quot;https://www.joshcurry.co.uk/posts/using-itunes-library-sharing-over-a-vpn-or-the-internet&quot;&gt;Using iTunes Library Sharing over a VPN or the Internet&lt;/a&gt;.&lt;/p&gt;
@@ -1181,6 +1154,33 @@ flex’s\032iMac\032Library_PW._daap._tcp       TXT     &quot;txtvers=1&quot; &q
     192.168.1.2 &quot;Password=false&quot; &quot;Version=196610&quot; &quot;iTSh Version=131073&quot; &quot;mtd-version=0.2.4.1&quot; &quot;Machine Name=MUZAX&quot; &quot;Machine ID=&quot; &quot;Database ID=&quot; &quot;txtvers=1&quot;&lt;/pre&gt;
 
 &lt;p&gt;már azonnal elérhetővé is válik a kiszemelt (a konkrét példában ez épp 1 Synology NAS) eszközünk az iTunes-ban és már lehet is hallgatni az otthonról megosztott zenéket.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>⏰ Időzített Jekyll bejegyzés</title>
+    <link href="http://0.0.0.0:4000/Jekyll_scheduled_post.html"/>
+    <updated>2018-02-07T00:00:00+01:00</updated>
+    <id>http://0.0.0.0:4000/Jekyll_scheduled_post</id>
+    <content type="html">&lt;p&gt;A legegyszerűbb és számomra a leghasználhatóbb választ ez a poszt adta + erre a problémára: &lt;a href=&quot;http://code.alxmjo.com/how-to-schedule-posts-with-jekyll/&quot;&gt;http://code.alxmjo.com/how-to-schedule-posts-with-jekyll/&lt;/a&gt;&lt;/p&gt;
+
+&lt;!-- break --&gt;
+
+&lt;p&gt;Az én Jekyll konfigurációs fájlomban: &lt;a href=&quot;https://github.com/FleXoft/gyorgy.fleischmann.hu/blob/master/_config.yml&quot;&gt;_config.yml&lt;/a&gt; beállított:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;future: false
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;opción kívül a megoldáshoz kell majd még egy olyan gép, ami időről időre meg tudja hívni, az én konkrét Jekyll oldalamhoz / repository-mhoz ezt a parancsot:&lt;/p&gt;
+
+&lt;pre class=&quot;terminal&quot;&gt;curl &quot;https://api.github.com/repos/FleXoft/gyorgy.fleischmann.hu/pages/builds&quot; \
+-X POST \
+-H 'Authorization: token 7a65376e4b10e090037b4c82338c4ef5031ab408' \
+-H &quot;Accept: application/vnd.github.mister-fantastic-preview&quot;&lt;/pre&gt;
+
+&lt;p&gt;Az API token-t a &lt;a href=&quot;https://github.com/settings/tokens/&quot;&gt;Settings → Personal access tokens&lt;/a&gt; linken lehet generálni a GitHub-on, fentebb csak egy példa szerepel!&lt;/p&gt;
+
+&lt;p&gt;/* Ez a bejegyzés is már ezzel élesedett. */&lt;/p&gt;
 </content>
   </entry>
   
