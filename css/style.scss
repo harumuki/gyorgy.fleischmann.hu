@@ -96,6 +96,12 @@ hr.gradientstyle {
 
   //overflow: hidden;
 }
+@media screen and (max-device-width: 480px) {
+  .content{
+    margin-left:  1em;
+    margin-right: 1em;
+  }
+}
 
 //////////////
 // Masterhead
