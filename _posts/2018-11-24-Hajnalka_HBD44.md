@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    Hajnalka
+title:    Hajnalka HBD 44
 author:   flex
 category: Hajnalka
 tags:     [family]
@@ -8,11 +8,12 @@ tags:     [family]
 
 Boldog szülinapot!
 
-<div class="videocontainer"><iframe src="https://www.youtube.com/embed/yOGD1WkJJok" frameborder="0" allowfullscreen class="iframeshadow" width="1024" height="576"></iframe></div>
+{% include youtube.html ID="yOGD1WkJJok" %}
 
-**Eurythmics**: Miracle of Love (Official Video) (1986)
+<p><center><b>Eurythmics</b>: Miracle of Love (Official Video) (1986)</center></p>
 
-```
+<center>
+<pre>
 How many sorrows
 Do you try to hide
 In a world of illusion
@@ -42,4 +43,4 @@ Oh I'll show you something good.
 If you open your heart
 You can make a new start
 When your crumbling world falls apart.
-```
+</pre></center>
