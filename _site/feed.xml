@@ -3,7 +3,7 @@
   <title>News 'n' Updates | gyorgy.fleischmann.hu</title>
   <link href="http://0.0.0.0:4000/feed.xml" rel="self"/>
   <link href="http://0.0.0.0:4000/"/>
-  <updated>2018-03-03T11:53:24+01:00</updated>
+  <updated>2018-03-03T12:40:22+01:00</updated>
   <id>http://0.0.0.0:4000/</id>
   <author>
     <name></name>
@@ -117,10 +117,12 @@ When your crumbling world falls apart.
   
   <entry>
     <title>Peter Gabriel: In Your Eyes (Secret World Live)</title>
-    <link href="http://0.0.0.0:4000/PG.html"/>
+    <link href="http://0.0.0.0:4000/PGInYourEyes.html"/>
     <updated>2018-03-03T00:00:00+01:00</updated>
-    <id>http://0.0.0.0:4000/PG</id>
+    <id>http://0.0.0.0:4000/PGInYourEyes</id>
     <content type="html">&lt;div class=&quot;videocontainer&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/evN6DIGPIJM&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; class=&quot;iframeshadow&quot; width=&quot;1024&quot; height=&quot;576&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;!-- break --&gt;
 
 &lt;p&gt;&lt;center&gt;&lt;b&gt;Peter Gabriel&lt;/b&gt;: In Your Eyes (Secret World Live) (1994)&lt;/center&gt;&lt;/p&gt;
 
