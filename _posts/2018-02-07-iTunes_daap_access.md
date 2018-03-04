@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    📢 Otthoni megosztott Apple iTunes elérése VPN-en keresztül
+title:    📢 Megosztott Apple iTunes távoli elérése
 author:   flex
 comments: true
 category: How to guides, tips and tricks / útmutatók, tippek és trükkök
