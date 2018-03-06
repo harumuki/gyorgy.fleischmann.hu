@@ -14,7 +14,7 @@ A mostani feladat az lenne, hogy le kellene cserélni a régi Google Analitics k
 Legyen itt két link segítségnek:
 
 - Itt Regexp kifejezéseket lehet nagyon kényelmes módon tesztelni: https://regexr.com/
-- Itt pedig a perl parancs param;terei találhatóak [http://perldoc.perl.org/perlrun.html#*-0*\[_octal/hexadecimal_\]](http://perldoc.perl.org/perlrun.html#*-0*[_octal/hexadecimal_])
+- Itt pedig a perl parancs paraméterei találhatóak [http://perldoc.perl.org/perlrun.html#*-0*\[_octal/hexadecimal_\]](http://perldoc.perl.org/perlrun.html#*-0*[_octal/hexadecimal_])
 
 És akkor a megoldás két külön parancsban:
 
