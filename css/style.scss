@@ -858,3 +858,29 @@ table.blockheader {
   opacity: 0.5;
   filter: alpha(opacity=50);
 }
+
+// 
+
+.rightfloatingbox {
+  position: fixed;
+  top: 50%;
+  transform: translateY(-50%);
+  right: 0;
+
+  background-color: black;
+
+  z-index:  4;
+  opacity: 0.8;
+  display: none;
+}
+@media screen and ( min-width: 1330px ) {
+  .rightfloatingbox  { display: block; }
+}
+
+.rightfloatingbox p {
+  margin:       10px; 
+  margin-right: 20px;
+  text-align:   center;
+  font-weight:  bold;
+  color:        black;
+}

@@ -12,8 +12,7 @@ tags:     [muzax]
 
 <p><center><b>Peter Gabriel</b>: In Your Eyes (Secret World Live) (1994)</center></p>
 
-<center>
-<pre>
+<center><pre>
 Accepting all I've done and said
 I want to stand and stare again
 'Till there's nothing left out
