@@ -859,7 +859,7 @@ table.blockheader {
   filter: alpha(opacity=50);
 }
 
-// 
+// right box
 
 .rightfloatingbox {
   position: fixed;
@@ -871,10 +871,23 @@ table.blockheader {
 
   z-index:  4;
   opacity: 0.8;
-  display: none;
+  //display: none;
+
+  visibility: hidden;
+  opacity: 0;
+  transition: visibility 0s 1s, opacity 1s linear;
+
+  -webkit-box-shadow: 0px 4px 18px rgba(0,0,0,0.84);          
+  -moz-box-shadow: 0px 4px 18px rgba(0,0,0,0.84);
+  box-shadow: 0px 4px 18px rgba(0,0,0,0.84);
 }
 @media screen and ( min-width: 1330px ) {
-  .rightfloatingbox  { display: block; }
+  .rightfloatingbox  { 
+    //display: block;
+    visibility: visible;
+    opacity: 1;
+    transition: opacity 1s linear; 
+  }
 }
 
 .rightfloatingbox p {
