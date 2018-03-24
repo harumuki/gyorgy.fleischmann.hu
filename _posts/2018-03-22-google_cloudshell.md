@@ -19,7 +19,6 @@ echo '<!doctype html><html><body><h1>Hello World!</h1></body></html>' | sudo tee
 sudo vi /etc/apache2/ports.conf
 
 sudo /etc/init.d/apache2 start
-
 ```
 
 Tadam!
