@@ -3,8 +3,6 @@ layout: default
 title: fleischmann.hu Archive
 ---
 
-<div class="content">
-
 	<h1 class='page-title'><i class="icon-list-numbered" style="font-size: 0.85em;"></i>Tartalomjegyzék</h1>
 
 <table class="toc"><thead><tr>
@@ -15,11 +13,9 @@ title: fleischmann.hu Archive
 {% for post in site.posts %}
 
   <table class="toc"><tr>
-    <td align="left" width="1" style="white-space: nowrap;"><span class='post-title'><a href="{{ site.path }}{{ post.url }}">{{ post.title }}</a></span></td>
+    <td align="left" width="1" style="white-space: nowrap;"><a href="{{ site.path }}{{ post.url }}">{{ post.title }}</a></td>
     <td width="" background="images/toc_dot_bg.png"></td>
     <td align="right" width="1" style="white-space: nowrap;"><a href="{{ site.path }}{{ post.url }}">{% assign m = post.date | date: "%-m" %}{{ post.date | date: "%Y., " }}{% case m %}{% when '1' %}január{% when '2' %}február{% when '3' %}március{% when '4' %}április{% when '5' %}május{% when '6' %}június{% when '7' %}július{% when '8' %}augusztus{% when '9' %}szeptember{% when '10' %}október{% when '11' %}november{% when '12' %}december{% endcase %}{{ post.date | date: " %-d." }}</a></td>
   </tr></table>
 
 {% endfor %}
-       
-</div>
