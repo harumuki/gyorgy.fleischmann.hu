@@ -7,5 +7,5 @@
   <AdultContent>false</AdultContent>
   <InputEncoding>UTF-8</InputEncoding>
   <OutputEncoding>UTF-8</OutputEncoding>
-  <Url method="get" type="text/html" template="http://www.google.com/search?q=site:gyorgy.fleischmann.hu+{searchTerms}&hl=hu" />
+  <Url method="get" type="text/html" template="http://www.google.com/search?q=site%3Agyorgy.fleischmann.hu+{searchTerms}&amp;hl=hu" />
 </OpenSearchDescription>
