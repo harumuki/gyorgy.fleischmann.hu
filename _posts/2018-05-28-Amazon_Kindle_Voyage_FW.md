@@ -6,7 +6,7 @@ category: ebook
 tags:     [amazon, kindle, voyage, firmware]
 ---
 
-Amazon Kindle Voyage 7th Generation Firmware history:
+Amazon Kindle Voyage 7th Generation Firmware történet:
 
 | Firmware verzió | dátum |
 |:-------------:|:---------------:|

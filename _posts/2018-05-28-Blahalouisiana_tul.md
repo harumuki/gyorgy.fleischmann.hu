@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "🎵 BLAHALOUISIANA – Túl távol, elég közel (Official Video)"
+title:    "🎵 BLAHALOUISIANA: Túl távol, elég közel"
 author:   flex
 category: Muzax
 tags:     [muzax]
@@ -12,7 +12,7 @@ tags:     [muzax]
 
 {% include sticky_floating_video.html %}
 
-<p><center><b>BLAHALOUISIANA</b> Túl távol, elég közel (Official Video)</center></p>
+<p><center><b>BLAHALOUISIANA</b>: Túl távol, elég közel (Official Video)</center></p>
 
 <center><pre>
 Válasz, ha nem lesz nem is kell
