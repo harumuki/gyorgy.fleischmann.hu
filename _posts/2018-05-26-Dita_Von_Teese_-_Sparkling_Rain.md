@@ -10,6 +10,8 @@ tags:     [muzax]
 
 <!-- break -->
 
+{% include sticky_floating_video.html %}
+
 <p><center><b>Dita Von Teese</b>: Sparkling Rain (composed by Sébastien Tellier) (Official Video)</center></p>
 
 <center><pre>
