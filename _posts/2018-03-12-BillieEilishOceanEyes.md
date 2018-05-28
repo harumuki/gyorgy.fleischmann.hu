@@ -10,6 +10,8 @@ tags:     [muzax]
 
 <!-- break -->
 
+{% include sticky_floating_video.html %}
+
 <p><center><b>Billie Eilish</b>: Ocean Eyes (Official Music Video)</center></p>
 
 <center><pre>

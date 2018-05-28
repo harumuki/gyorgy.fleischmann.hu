@@ -10,6 +10,8 @@ tags:     [muzax]
 
 <!-- break -->
 
+{% include sticky_floating_video.html %}
+
 <p><center><b>Peter Gabriel</b>: In Your Eyes (Secret World Live) (1994)</center></p>
 
 <center><pre>
