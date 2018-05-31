@@ -15,9 +15,14 @@ $window.on('scroll', function() {
   if (windowScrollTop > videoBottom) {
     $videoWrap.height(videoHeight);
     $video.addClass('stuck');
+
+    document.getElementById( 'lyrics' ).setAttribute( "style","width: 65%" );
+
   } else {
     $videoWrap.height('auto');
     $video.removeClass('stuck');
+
+    document.getElementById( 'lyrics' ).setAttribute( "style","width: 100%" );
   }
 });
 </script>

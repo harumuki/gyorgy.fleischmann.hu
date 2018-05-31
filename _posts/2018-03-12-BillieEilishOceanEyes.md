@@ -12,7 +12,7 @@ tags:     [muzax]
 
 {% include sticky_floating_video.html %}
 
-<p><center><b>Billie Eilish</b>: Ocean Eyes (Official Music Video)</center></p>
+<div id="lyrics"><p><center><b>Billie Eilish</b>: Ocean Eyes (Official Music Video)</center></p>
 
 <center><pre>
 I've been watching you
@@ -48,6 +48,6 @@ I'm scared
 I've never fallen from quite this high
 Falling into your ocean eyes
 Those ocean eyes
-</pre></center>
+</pre></center></div>
 
 [more...](https://down.freemusicdownloads.world/results?search=ocean+eyes+billie+eilish)

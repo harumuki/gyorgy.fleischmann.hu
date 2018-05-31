@@ -12,7 +12,7 @@ tags:     [muzax]
 
 {% include sticky_floating_video.html %}
 
-<p><center><b>Dita Von Teese</b>: Sparkling Rain (composed by Sébastien Tellier) (Official Video)</center></p>
+<div id="lyrics"><p><center><b>Dita Von Teese</b>: Sparkling Rain (composed by Sébastien Tellier) (Official Video)</center></p>
 
 <center><pre>
 I'm on a blue sky
@@ -40,4 +40,4 @@ With delectation
 
 Fly to the rainbow
 I'm in your heart don't you go
-</pre></center>
+</pre></center></div>

@@ -12,7 +12,7 @@ tags:     [muzax]
 
 {% include sticky_floating_video.html %}
 
-<p><center><b>Peter Gabriel</b>: In Your Eyes (Secret World Live) (1994)</center></p>
+<div id="lyrics"><p><center><b>Peter Gabriel</b>: In Your Eyes (Secret World Live) (1994)</center></p>
 
 <center><pre>
 Accepting all I've done and said
@@ -117,4 +117,4 @@ In your eyes
 
 I want to stand and stare again
 Oh, it's in your eyes
-</pre></center>
+</pre></center></div>
