@@ -12,7 +12,7 @@ tags:     [muzax]
 
 {% include sticky_floating_video.html %}
 
-<div id="lyrics"><p><center><b>Billie Eilish</b>: Ocean Eyes (Official Music Video)</center></p>
+<div id="lyrics"><div class="lyricsheader"><p><center><b>Billie Eilish</b>: Ocean Eyes (Official Music Video)</center></p></div>
 
 <center><pre>
 I've been watching you

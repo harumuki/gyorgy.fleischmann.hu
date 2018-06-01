@@ -10,7 +10,7 @@ Boldog szülinapot!
 
 {% include youtube.html ID="yOGD1WkJJok" %}
 
-<p><center><b>Eurythmics</b>: Miracle of Love (Official Video) (1986)</center></p>
+<div id="lyrics"><div class="lyricsheader"><p><center><b>Eurythmics</b>: Miracle of Love (Official Video) (1986)</center></p></div>
 
 <center>
 <pre>
@@ -43,4 +43,4 @@ Oh I'll show you something good.
 If you open your heart
 You can make a new start
 When your crumbling world falls apart.
-</pre></center>
+</pre></center></div>

@@ -12,7 +12,7 @@ tags:     [muzax]
 
 {% include sticky_floating_video.html %}
 
-<div id="lyrics"><p><center><b>Peter Gabriel</b>: In Your Eyes (Secret World Live) (1994)</center></p>
+<div id="lyrics"><div class="lyricsheader"><p><center><b>Peter Gabriel</b>: In Your Eyes (Secret World Live) (1994)</center></p></div>
 
 <center><pre>
 Accepting all I've done and said

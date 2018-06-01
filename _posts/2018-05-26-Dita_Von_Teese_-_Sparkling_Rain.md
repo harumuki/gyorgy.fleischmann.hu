@@ -12,7 +12,7 @@ tags:     [muzax]
 
 {% include sticky_floating_video.html %}
 
-<div id="lyrics"><p><center><b>Dita Von Teese</b>: Sparkling Rain (composed by Sébastien Tellier) (Official Video)</center></p>
+<div id="lyrics"><div class="lyricsheader"><p><center><b>Dita Von Teese</b>: Sparkling Rain (composed by Sébastien Tellier) (Official Video)</center></p></div>
 
 <center><pre>
 I'm on a blue sky
