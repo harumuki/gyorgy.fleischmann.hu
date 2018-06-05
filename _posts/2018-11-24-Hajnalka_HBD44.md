@@ -10,6 +10,10 @@ Boldog szülinapot!
 
 {% include youtube.html ID="yOGD1WkJJok" %}
 
+<!-- break -->
+
+{% include sticky_floating_video.html %}
+
 <div id="lyrics"><div class="lyricsheader"><p><center><b>Eurythmics</b>: Miracle of Love (Official Video) (1986)</center></p></div>
 
 <center>
