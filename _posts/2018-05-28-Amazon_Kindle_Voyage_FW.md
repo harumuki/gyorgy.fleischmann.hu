@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    Amazon Kindle Voyage 7th Generation Firmware
+title:    "📚 Amazon Kindle Voyage 7th Generation Firmware"
 author:   flex
 category: ebook
 tags:     [amazon, kindle, voyage, firmware]
