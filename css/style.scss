@@ -381,6 +381,11 @@ img.shadowthumb100 {
   -webkit-animation: fade-in-up .25s ease forwards;
           animation: fade-in-up .25s ease forwards;
 }
+@media screen and ( min-width: 1330px ) {
+  .video.stuck  {
+  margin-right: 55px; 
+  }
+}
 
 .iframeshadow {
     position: absolute;
