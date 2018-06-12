@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns:moz="https://www.mozilla.org/2006/browser/search/" xmlns="https://a9.com/-/spec/opensearch/1.1/">
+  <Url type="application/opensearchdescription+xml" rel="self" template="/opensearch.xml" />
+  <ShortName>Search</ShortName>
+  <LongName>Search</LongName>
+  <Description>Search gyorgy.fleischmann.hu</Description>
+  <AdultContent>false</AdultContent>
+  <InputEncoding>UTF-8</InputEncoding>
+  <OutputEncoding>UTF-8</OutputEncoding>
+  <Url method="get" type="text/html" template="https://www.google.com/search?q=site%3Agyorgy.fleischmann.hu+{searchTerms}&amp;hl=hu" />
+</OpenSearchDescription>
