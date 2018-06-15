@@ -13,6 +13,8 @@ Ezen az oldalon tervezem összeszedni az általam kedvelt (e vagy papír alapú)
 
 ## De előtte jöjjön a lényeg az én aktuális könyv TOPlistám:
 
+<div class="overridemaxwidthboth">
+
 <span><a href="https://bookline.hu/product/home.action?_v=Yuval_Noah_Harari_Sapiens&id=20822&type=250"><img class="shadow" src="https://moly.hu/system/covers/big/covers_370521.jpg" alt="" style="width: 12%;" alt=""></a></span>
 <span><a href="https://bookline.hu/product/home.action?_v=Yuval_Noah_Harari_Homo_Deus&id=32396&type=250"><img class="shadow" src="https://moly.hu/system/covers/big/covers_434886.jpg?1490173019" alt="" style="width: 12%; margin-left: -4em;" alt=""></a></span>
 <span><a href="https://moly.hu/konyvek/thomas-harris-a-voros-sarkany"><img class="shadow" src="https://moly.hu/system/covers/big/covers_35427.jpg?1395354721" alt="" style="width: 12%;" alt=""></a></span>
@@ -24,10 +26,12 @@ Ezen az oldalon tervezem összeszedni az általam kedvelt (e vagy papír alapú)
 <span><a href="https://moly.hu/konyvek/marc-elsberg-blackout"><img class="shadow" src="https://s01.static.libri.hu/cover/e6/6/3201999_4.jpg" alt="" style="width: 12%;" alt=""></a></span>
 <span><a href="http://nagysandor.eu/miegymas/skylords.htm"><img class="shadow" src="http://nagysandor.eu/images/objects/books/brosnan.jpg" alt="" style="width: 12%;" alt=""></a></span>
 	
+</div>
+
 <hr style="clear: both;">
 
 <!-- Folyamatban -->
-<div class="rightbox rightboxborders" style="width: 35%;">
+<div class="rightbox rightboxborders overridemaxwidthright" style="width: 35%;">
 <h2>Folyamatban:</h2>
 
 <ul>

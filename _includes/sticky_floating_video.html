@@ -3,26 +3,26 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
 <script >
-var $window =     $(window);
-var $videoWrap =  $('.video-wrap');
-var $video =      $('.video');
-var videoHeight = $video.outerHeight();
+  var $window =     $( window );
+  var $videoWrap =  $( '.video-wrap' );
+  var $video =      $( '.video' );
+  var videoHeight = $video.outerHeight();
 
-$window.on('scroll', function() {
-  var windowScrollTop = $window.scrollTop();
-  var videoBottom     = videoHeight + $videoWrap.offset().top;
-  
-  if (windowScrollTop > videoBottom) {
-    $videoWrap.height(videoHeight);
-    $video.addClass('stuck');
+  $window.on( 'scroll', function() {
+    var windowScrollTop = $window.scrollTop();
+    var videoBottom     = videoHeight + $videoWrap.offset().top;
 
-    document.getElementById( 'lyrics' ).setAttribute( "style","width: 63%" );
+    if ( windowScrollTop > videoBottom ) {
+      $videoWrap.height( videoHeight );
+      $video.addClass( 'stuck' );
 
-  } else {
-    $videoWrap.height('auto');
-    $video.removeClass('stuck');
+      document.getElementById( 'lyrics' ).setAttribute( "style", "width: 63%" );
 
-    document.getElementById( 'lyrics' ).setAttribute( "style","width: 100%" );
-  }
-});
+    } else {
+      $videoWrap.height( 'auto' );
+      $video.removeClass( 'stuck' );
+
+      document.getElementById( 'lyrics' ).setAttribute( "style", "width: 100%" );
+    }
+  } );
 </script>
