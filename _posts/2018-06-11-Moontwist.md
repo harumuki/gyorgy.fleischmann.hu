@@ -2,9 +2,9 @@
 layout:   post
 title:    "🎵 Moontwist: Talking About The Weather"
 author:   flex
-category: Dance
+category: Muzax
 comments: true
-tags:     [dance]
+tags:     [muzax]
 ---
 
 {% include youtube.html ID="pKJGe9p63oI" %}
