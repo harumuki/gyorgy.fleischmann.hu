@@ -103,16 +103,18 @@ hr.gradientstyle {
   }
 }
 
-// From: https://css-tricks.com/full-width-containers-limited-width-parents/
-.overridemaxwidthboth {
-  margin-left:  calc( 50% - 50vw );
-  margin-right: calc( 50% - 50vw );
-}
-.overridemaxwidthleft {
-  margin-left:  calc( 50% - 50vw );
-}
-.overridemaxwidthright {
-  margin-right: calc( 50% - 50vw );
+@media screen and ( min-width: 800px ) {
+  // From: https://css-tricks.com/full-width-containers-limited-width-parents/
+  .overridemaxwidthboth {
+    margin-left:  calc( 50% - 50vw );
+    margin-right: calc( 50% - 50vw );
+  }
+  .overridemaxwidthleft {
+    margin-left:  calc( 50% - 50vw );
+  }
+  .overridemaxwidthright {
+    margin-right: calc( 50% - 50vw );
+  }
 }
 
 //////////////
