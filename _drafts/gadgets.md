@@ -7,8 +7,30 @@ category: Gadgets /
 tags:     [listák, awesome]
 ---
 
+Menjünk csak szépen sorban visszafele!
+
+**2018**
+
+Nintendo GAME BOY Advance + Mini SD Supercard
+
+**2017**
+
+Digi Internet
+
+**2016**
+
+Synolgy DS 916+ + 2x3TB Western Digital (WDC WD30EFRX-68EUZN0) Red  
+Sony 
+
+**2015**
+
+Kindle Voyage (7th Generation) 2014
+
+**2013**
+
+Kindle Paperwhite (1st gen) 2012
+
 Elysée
-Kindle
 Adidas
 Nike Air180
 Levis501
