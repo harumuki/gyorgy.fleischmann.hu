@@ -20,7 +20,8 @@ Digi Internet
 **2016**
 
 Synolgy DS 916+ + 2x3TB Western Digital (WDC WD30EFRX-68EUZN0) Red  
-Sony 
+Sony ICF-SW7600
+Garmin vivofit 2
 
 **2015**
 
