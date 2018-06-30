@@ -34,12 +34,12 @@ layout: default
 	{% endif %}
 	{% if author.gravatar %}<img src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=40" style="width: 12px;">{% endif %} |
 
-	<i class="icon-list"></i>
-    [<a href="categories.html#{{ page.category }}">{{ page.category }}</a>]
-    <i class="icon-tags"></i>
+	<nobr><i class="icon-list"></i>
+    [<a href="categories.html#{{ page.category }}">{{ page.category }}</a>]</nobr>
+    <nobr><i class="icon-tags"></i>
     {% for tag in page.tags %}
       <span class=""><a href="tags.html#{{ tag }}">#{{ tag }}</a></span>
-    {% endfor %}
+    {% endfor %}</nobr>
 
     </div><!-- .post-date -->
 
