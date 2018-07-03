@@ -4,7 +4,7 @@ title:    "🎵 YAZOO - Only You (2017)"
 author:   flex
 category: Muzax
 comments: true
-tags:     [muzax]
+tags:     [muzax, video]
 ---
 
 {% include youtube.html ID="7Oa62sU4ONA" %}
