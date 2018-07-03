@@ -3,7 +3,7 @@ layout:   post
 title:    "🎵 Danny Wilson: Mary's Prayer"
 author:   flex
 category: Muzax
-tags:     [muzax]
+tags:     [muzax, video]
 ---
 
 {% include youtube.html ID="7hqgC3W9GUI" %}

@@ -3,7 +3,7 @@ layout:   post
 title:    "🎵 BLAHALOUISIANA: Túl távol, elég közel"
 author:   flex
 category: Muzax
-tags:     [muzax]
+tags:     [muzax, video, hun]
 ---
 
 {% include youtube.html ID="D5LlxPCGMGY" %}

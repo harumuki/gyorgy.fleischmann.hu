@@ -3,7 +3,7 @@ layout:   post
 title:    "🎵 Billie Eilish: Ocean Eyes (Official Music Video)"
 author:   flex
 category: Muzax
-tags:     [muzax]
+tags:     [muzax, video]
 ---
 
 {% include youtube.html ID="viimfQi_pUw" %}

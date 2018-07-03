@@ -4,7 +4,7 @@ title:    📢 Megosztott Apple iTunes távoli elérése
 author:   flex
 comments: true
 category: How to guides, tips and tricks / útmutatók, tippek és trükkök
-tags:     [iTunes, vpn, how to, OS X, macOS, DAAP]
+tags:     [iTunes, vpn, how to, apple, OS X, macOS, DAAP]
 ---
 
 A feladat most az lenne, hogy bárhonnan elérehető legyen az otthoni (iTunes, DAAP, Digital Audio Access Protocol) megosztott zenearzenál is VPN-en keresztül. 

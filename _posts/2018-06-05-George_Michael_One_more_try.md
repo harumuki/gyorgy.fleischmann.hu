@@ -3,7 +3,7 @@ layout:   post
 title:    "🎵 George Michael: One More Try"
 author:   flex
 category: Muzax
-tags:     [muzax]
+tags:     [muzax, video]
 ---
 
 {% include youtube.html ID="bG5N3GC-m20" %}

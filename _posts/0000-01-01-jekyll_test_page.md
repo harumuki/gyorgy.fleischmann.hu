@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Jekyll test page 
-category: teszt
+category: Test / teszt
 comments: false
 tags: [web, jekyll, github]
 ---

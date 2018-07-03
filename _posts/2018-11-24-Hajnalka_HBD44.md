@@ -2,7 +2,7 @@
 layout:   post
 title:    Hajnalka HBD 44
 author:   flex
-category: Hajnalka
+category: Personal / személyes
 tags:     [family]
 ---
 

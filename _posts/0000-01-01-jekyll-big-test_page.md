@@ -2,7 +2,7 @@
 layout: post
 title: Jekyll test page 2
 comments: false
-category: teszt
+category: Test / teszt
 tags: [web, development, html, jekyll]
 ---
 

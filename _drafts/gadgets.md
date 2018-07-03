@@ -3,7 +3,7 @@ layout:   post
 title:    👍 Gadgets / kütyük
 author:   flex
 comments: true
-category: Gadgets / 
+category: Gadget / eszközök
 tags:     [listák, awesome]
 ---
 

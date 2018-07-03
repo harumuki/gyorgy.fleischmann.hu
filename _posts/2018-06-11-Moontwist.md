@@ -4,7 +4,7 @@ title:    "🎵 Moontwist: Talking About The Weather"
 author:   flex
 category: Muzax
 comments: true
-tags:     [muzax]
+tags:     [muzax, video]
 ---
 
 {% include youtube.html ID="pKJGe9p63oI" %}

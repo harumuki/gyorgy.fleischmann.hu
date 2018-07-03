@@ -1,10 +1,10 @@
 ---
 layout:   post
-title:    "🎬 Widows - Official International Trailer #1"
+title:    "🎬 Widows - Official International Trailer #1, SICARIO 2"
 author:   flex
 category: Movie
 comments: true
-tags:     [movie]
+tags:     [movie, trailer]
 ---
 
 Iszonyúan hangulatos kis mozi trailer ez.

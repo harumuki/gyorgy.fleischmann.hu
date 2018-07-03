@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Photo teszt lap
-category: teszt
+category: Test / teszt
 tags: [photo, fotó, poc, teszt, html, css]
 ---
 
