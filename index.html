@@ -58,20 +58,14 @@ title:  Welcome to
     <!-- Source: https://sacha.me/articles/jekyll-word-counts/ -->
     {% capture words %}{{ post.content | number_of_words | minus: 250 }}{% endcapture %}{% unless words contains "-" %}{{ words | plus: 250 | append: " szó, elolvasásához kb.: " }}{% endunless %}{% capture words %}{{ post.content | number_of_words | minus: 250 }}{% endcapture %}{% unless words contains "-" %}{{ words | plus: 250 | divided_by: 180 | append: " perc kell" }}{% endunless %}|{% assign author = site.data.authors[post.author] %}
 
-    <nobr><i class="icon-user"></i>
-    {% if author.display_name and author.email %}
-      <a href="mailto:{{ author.email }}">{{ author.display_name }}</a>
+    <nobr><i class="icon-user"></i>{% if author.display_name and author.email %}<a href="mailto:{{ author.email }}">{{ author.display_name }}</a>
     {% else %}
-      {{ author.name }}
+  {{ author.name }}
     {% endif %}
     {% if author.gravatar %}<img src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=40" style="width: 12px;">{% endif %} | </nobr>
 
-    <nobr><i class="icon-list"></i>
-    [<a href="categories.html#{{ post.category }}">{{ post.category }}</a>]
-    <i class="icon-tags"></i></nobr>
-    {% for tag in post.tags %}
-      <nobr><span class=""><a href="tags.html#{{ tag }}">#{{ tag }}</a></span></nobr>
-    {% endfor %}
+    <nobr><i class="icon-list"></i>[<a href="categories.html#{{ post.category }}">{{ post.category }}</a>]</nobr>
+    <nobr><i class="icon-tags"></i>{% for tag in post.tags %}<a href="tags.html#{{ tag }}">#{{ tag }}</a> {% endfor %}</nobr>
 
     </div><!-- .post-date -->
 

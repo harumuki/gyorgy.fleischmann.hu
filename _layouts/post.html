@@ -26,20 +26,12 @@ layout: default
 	{% endunless %}| 
 
 	{% assign author = site.data.authors[page.author] %}
-	<nobr><i class="icon-user"></i>
-    {% if author.display_name and author.email %}
-	  <a href="mailto:{{ author.email }}">{{ author.display_name }}</a>
-	{% else %}
-	  {{ author.name }}
+	<nobr><i class="icon-user"></i>{% if author.display_name and author.email %}<a href="mailto:{{ author.email }}">{{ author.display_name }}</a>{% else %}{{ author.name }}
 	{% endif %}
 	{% if author.gravatar %}<img src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=40" style="width: 12px;">{% endif %} |</nobr>
 
-	<nobr><i class="icon-list"></i>
-    [<a href="categories.html#{{ page.category }}">{{ page.category }}</a>]</nobr>
-    <nobr><i class="icon-tags"></i>
-    {% for tag in page.tags %}
-      <span class=""><a href="tags.html#{{ tag }}">#{{ tag }}</a></span>
-    {% endfor %}</nobr>
+	<nobr><i class="icon-list"></i>[<a href="categories.html#{{ page.category }}">{{ page.category }}</a>]</nobr>
+    <nobr><i class="icon-tags"></i>{% for tag in page.tags %}<span class=""><a href="tags.html#{{ tag }}">#{{ tag }}</a></span> {% endfor %}</nobr>
 
     </div><!-- .post-date -->
 
