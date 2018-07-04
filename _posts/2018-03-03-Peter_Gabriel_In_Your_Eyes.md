@@ -3,7 +3,7 @@ layout:   post
 title:    "🎵 Peter Gabriel: In Your Eyes (Secret World Live)"
 author:   flex
 category: Muzax
-tags:     [muzax]
+tags:     [muzax, video]
 ---
 
 {% include youtube.html ID="evN6DIGPIJM" %}
