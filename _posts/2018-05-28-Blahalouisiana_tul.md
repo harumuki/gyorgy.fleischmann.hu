@@ -38,7 +38,7 @@ Nézd az emberszárnyak, magukról így ráznának
 Le amíg csak lehet, mindig egy új réteget
 Az emberszárny lerázna egy kis rákövült eget
 
-Válasz, ha nem lesz nem is kell
+Válasz, ma nem lesz nem is kell
 Túl távol, elég közel
 Nem leszek, ha nem leszel
 </pre></center></div>
