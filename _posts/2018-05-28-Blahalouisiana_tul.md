@@ -15,7 +15,7 @@ tags:     [muzax, video, hun]
 <div id="lyrics"><div class="lyricsheader"><p><center><b>BLAHALOUISIANA</b>: Túl távol, elég közel (Official Video)</center></p></div>
 
 <center><pre>
-Válasz, ha nem lesz nem is kell
+Válasz, ma nem lesz nem is kell
 Túl távol, elég közel
 Nem leszek, ha nem leszel
 
@@ -28,7 +28,7 @@ De viselünk jelmezt bátran
 Hogy nálam is találjon magára
 Aki el sem bújt, de játszik
 
-Válasz, ha nem lesz nem is kell
+Válasz, ma nem lesz nem is kell
 Túl távol, elég közel
 Nem leszek, ha nem leszel
 
