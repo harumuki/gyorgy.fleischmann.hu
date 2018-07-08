@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
-  <ShortName>Web Search</ShortName>
-  <Description>Use Example.com to search the Web.</Description>
-  <Tags>example web</Tags>
-  <Contact>admin@example.com</Contact>
-  <Url type="application/rss+xml"
-       template="http://example.com/?q={searchTerms}&amp;pw={startPage?}&amp;format=rss"/>
+<OpenSearchDescription xmlns:moz="http://www.mozilla.org/2006/browser/search/" xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>gyorgy.fleischmann.hu</ShortName>
+  <Description>Search gyorgy.fleischmann.hu</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Url method="get" type="text/html" template="http://www.google.com/search?q={searchTerms}+site%3Agyorgy.fleischmann.hu&amp;hl=hu"/>
 </OpenSearchDescription>
