@@ -3,7 +3,7 @@ layout:   post
 title:    "🎵 Moontwist: Talking About The Weather"
 author:   flex
 category: Muzax
-comments: true
+comments: false
 tags:     [muzax, video]
 ---
 

@@ -3,7 +3,7 @@ layout:   post
 title:    "🎵 YAZOO - Only You (2017)"
 author:   flex
 category: Muzax
-comments: true
+comments: false
 tags:     [muzax, video]
 ---
 
