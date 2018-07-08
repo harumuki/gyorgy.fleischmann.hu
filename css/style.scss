@@ -382,10 +382,13 @@ img.shadowthumb100 {
   position: sticky;
   top: 1px;
   background-color: #ffffff;
-  padding-bottom: 3px;
-  margin-bottom: 0px;
+  padding-bottom: 20px;
   margin-right: 20px;
   margin-left:  20px;
+
+  // ?
+  border-top: 1px solid;
+  border-color: white;
 
   // https://stackoverflow.com/questions/12779776/linear-fade-out-div-content-and-border-solid-at-top-to-transparent-at-bottom
   // background: url(data:image/svg+xml;base64,alotofcodehere);
