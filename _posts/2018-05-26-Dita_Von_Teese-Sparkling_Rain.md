@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "🎵 Dita Von Teese - Sparkling Rain (Official Video)"
+title:    "🎵 Dita Von Teese: Sparkling Rain (Official Video)"
 author:   flex
 category: Muzax
 tags:     [muzax, video]

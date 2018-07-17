@@ -1,38 +1,166 @@
 ---
 layout:   post
-title:    🖥 macOSApps
+title:    🖥 Awesome macOS (aka OS X) apps
 author:   flex
 comments: true
 category: macOSApps / macOSApps
 tags:     [listák, awesome]
 ---
 
-# Awesome macOS (aka OS X)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+A curated list of awesome applications, softwares, tools and shiny things for macOS.
 
 <!-- break -->
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Table of Contents
 
-> A curated list of awesome applications, softwares, tools and shiny things for macOS.
+- [Applications](#applications)
+    - [Audio](#audio)
+    - [Backup](#backup)
+    - [Chat Clients](#chat-clients)
+    - [Developers](#developers)
+    - [E-Book Utilities](#e-book-utilities)
+    - [Editors](#editors)
+    - [Email Utilities](#email-utilities)
+    - [Finder](#finder)
+    - [Games](#games)
+    - [Graphics](#graphics)
+    - [Productivity](#productivity)
+    - [Sharing Files](#sharing-files)
+    - [Terminal](#terminal)
+    - [Utilities](#utilities)
+    - [Video](#video)
+    - [Window Management](#window-management)
+    - [Others](#others)
+- [Command Line Utilities](#command-line-utilities)
+- [macOS Utilities](#macos-utilities)
+- [Security](#security)
 
-> *Items marked with ![Open-Source Software][OSS Icon] are open-source software and link to the source code. Items marked with ![Freeware][Freeware Icon] are free (as in free beer).*
+---
 
-CrossPack-AVR
-IBM Spectrum Protect
-Machinarium
-Myth II
-PICO-8
-Send to Kindle
+# Applications
+
+## Audio
+
+- [Audio Hijack](http://www.rogueamoeba.com/audiohijack/) - Record audio from any application like iTunes, Skype or Safari, or from hardware devices like microphones and mixers.
+- [XLD](http://tmkk.undo.jp/xld/index_e.html) - Rip/Decode/convert/play various "lossless" audio files.
+- Airfoil
+
+## Backup / Data Recovery
+- [IBM Tivoli Storage Manager / Spectrum Protect](https://ibm.com) - Create incremental backups of your Mac to TSM server.
+
+## Bookmark Utilities
+
+- [ReadKit](http://readkitapp.com/) - Have all your Instapaper, Pocket, etc. feeds in one place even when you're offline.
+
+## Chat Clients
+
+- [Telegram](https://itunes.apple.com/us/app/telegram/id747648890?mt=12) - A messaging app with a focus on speed and security, it’s super fast, simple and free.
+
+## Developers
+
+- [GitHub Desktop](https://desktop.github.com/) - A GUI for using GitHub.
+- [GitUp](http://gitup.co/) - A simple but powerful Git GUI client
+- Tower
+- CrossPack-AVR
+- Arduino
+
+## E-Book Utilities
+
+- [Kindle App](http://www.amazon.com/gp/help/customer/display.html?nodeId=201246110) - Amazon Kindle App for macOS.
+- Send to Kindle
+
+## Editors
+
+- [Sublime Text 3](http://www.sublimetext.com/) - The sophisticated text editor.
+
+## Email Utilities
+
+## Finder
+
+- [ForkLift](https://itunes.apple.com/us/app/forklift-file-manager-ftp/id412448059) - File Manager and FTP/SFTP/WebDAV/Amazon S3 client.
+
+## Games
+
+- [Boxer](http://boxerapp.com/) - The DOS game emulator that’s fit for your Mac.
+- [Dolphin](https://dolphin-emu.org) - A powerful, Open Source emulator for Nintendo GameCube and Wii games.
+- [OpenEmu](http://openemu.org/) - Multiple Video Game System.
+- [Stockfish](http://stockfishchess.org/mac/) - Beautiful, powerful chess application.
+- Machinarium
+- Myth II
+- PICO-8
+- Visual Boy Advance
+- Voxatron
+- Zen Puzzle Garden
+- Myth II
+- Osmos
+
+## Graphics
+
+- [Acorn](https://secure.flyingmeat.com/acorn/) - A very Mac-like image editor with a comprehensive feature set.
+
+## Productivity
+
+- [Alfred](https://www.alfredapp.com/) - Boosts your efficiency and productivity.
+
+## Sharing Files
+
+- [Transmission](https://www.transmissionbt.com/) - Simple, lightweight, multi-platform torrent client.
+
+## Terminal
+
+- [iTerm 2](https://www.iterm2.com/) - A terminal emulator.
+
+## Utilities
+
+- [1Password](https://itunes.apple.com/in/app/1password-password-manager/id443987910?mt=12) - Password Manager and Secure Wallet.
+- [CheatSheet](https://www.cheatsheetapp.com/CheatSheet/) - Know your short cuts.
+- [Helium](http://heliumfloats.com/) - A floating browser window that allows you to watch media while you work.
+- [Monodraw](http://monodraw.helftone.com/) - A powerful ASCII art editor.
+- [Paparazzi](http://derailer.org/paparazzi/) - A small utility that makes screenshots of webpages.
+- [Microsoft Remote Desktop Connection Client](https://itunes.apple.com/us/app/microsoft-remote-desktop/id715768417) - Remote Desktop Connection Client lets you connect from your Macintosh computer to a Windows-based computer.
+- [SSH Tunnel](https://codinn.com/products/ssh-tunnel/) - Manage your SSH tunnels, tightly integrated with macOS Keychain, secure and intuitive.
+- [TeamViewer](https://www.teamviewer.com/en-us/index.aspx) - Remotely control another computer.
+- [Ukelele](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele) - Unicode Keyboard Layout Editor. 
+- [The Unarchiver](https://theunarchiver.com/) - Unarchive many different kinds of archive files.
+
+## Video
+
+- [HandBrake](https://handbrake.fr/) - High performance video encoding and conversion tools with a nice GUI.
+- [Subler](https://bitbucket.org/galad87/subler/wiki/Home) - Mux and tag MP4 files.
+- [Subtitlr](http://lucija.frkovic.me/Subtitlr/) - Drag and drop subititle download utility.
+
+## Window Management
+
+## Others
+
+- [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac.
+- [Transmit](https://panic.com/transmit/) - A FTP client.
+
+## Command Line Utilities
+
+- [Awesome macOS Command Line](https://github.com/herrbischoff/awesome-osx-command-line) - Use your macOS terminal shell to do awesome things.
+- [m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS.
+- [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tools for developers.
+- [Mac macOS Manual Pages](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/) - Apple's official man page reference which lists all general commands in Section 1.
+- [mas](https://github.com/mas-cli/mas) - A CLI for the Mac App Store.
+
+## macOS Utilities
+
+## Security
+
+* [Tunnelblick](https://tunnelblick.net) - Easy to use OpenVPN client and GUI.
+
+## Miscellaneous
+
+**[⬆ back to top](#table-of-contents)**
+
+[chitchat]: https://github.com/stonesam92/ChitChat
+[OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
+[Freeware Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg
+
 teleport
-Visual Boy Advance
-Voxatron
-Zen Puzzle Garden
-1Password 6
-
-Acorn
-Alfred 3
-Arduino
-Audio Hijack
 
 Backup and Sync
 Bonjour Browser
@@ -66,7 +194,7 @@ MacDown
 Machinarium
 Mactracker
 Max
-Microsoft Excel.app
+Microsoft Excel
 Microsoft Office 2011
 Microsoft Outlook
 Microsoft PowerPoint
@@ -74,21 +202,19 @@ Microsoft Remote Desktop
 Microsoft Teams
 Microsoft Word
 
-Myth II
+
 
 OneDrive
-OpenEmu
-Osmos
-PICO-8
+
+
 Paparazzi!
 PhoneView
 Pola
-PolaSettings
 Poladroid 9.6
 
-Pulse Secure.app
+Pulse Secure
 
-Room EQ Wizard.app
+Room EQ Wizard
 SSHFS GUI
 
 Send to Kindle
@@ -143,150 +269,12 @@ iTerm
 
 teleport
 
-## Table of Contents
-
-- [Applications](#applications)
-    - [Audio](#audio)
-    - [Backup](#backup)
-    - [Chat Clients](#chat-clients)
-    - [Developers](#developers)
-    - [E-Book Utilities](#e-book-utilities)
-    - [Editors](#editors)
-    - [Email Utilities](#email-utilities)
-    - [Finder](#finder)
-    - [Games](#games)
-    - [Graphics](#graphics)
-    - [Productivity](#productivity)
-    - [Sharing Files](#sharing-files)
-    - [Terminal](#terminal)
-    - [Utilities](#utilities)
-    - [Video](#video)
-    - [Window Management](#window-management)
-    - [Others](#others)
-- [Command Line Utilities](#command-line-utilities)
-- [macOS Utilities](#macos-utilities)
-- [Security](#security)
-
-## Applications
-
-### Audio
-
-- [Audio Hijack](http://www.rogueamoeba.com/audiohijack/) - Record audio from any application like iTunes, Skype or Safari, or from hardware devices like microphones and mixers.
-- [XLD](http://tmkk.undo.jp/xld/index_e.html) - Rip/Decode/convert/play various "lossless" audio files. [![Open-Source Software][OSS Icon]](https://code.google.com/archive/p/xld/source) ![Freeware][Freeware Icon]
-
-### Backup
-- [Carbon Copy Cloner](http://bombich.com) - Create incremental and fully bootable backups of your Mac to external storage.
-
-### Bookmark Utilities
-
-- [ReadKit](http://readkitapp.com/) - Have all your Instapaper, Pocket, etc. feeds in one place even when you're offline.
-
-### Chat Clients
-
-- [Telegram](https://itunes.apple.com/us/app/telegram/id747648890?mt=12) - A messaging app with a focus on speed and security, it’s super fast, simple and free. [![Open-Source Software][OSS Icon]](https://github.com/overtake/telegram) ![Freeware][Freeware Icon]
-
-### Data Recovery
-
-
-### Developers
-
-- [GitHub Desktop](https://desktop.github.com/) - A GUI for using GitHub. ![Freeware][Freeware Icon]
-- [GitUp](http://gitup.co/) - A simple but powerful Git 
-
-### E-Book Utilities
-
-- [Kindle App](http://www.amazon.com/gp/help/customer/display.html?nodeId=201246110) - Amazon Kindle App for macOS.
-
-### Editors
-
-- [Sublime Text 3](http://www.sublimetext.com/) - The sophisticated text editor.
-
-### Email Utilities
-
-### Finder
-
-- [ForkLift](https://itunes.apple.com/us/app/forklift-file-manager-ftp/id412448059) - File Manager and FTP/SFTP/WebDAV/Amazon S3 client.
-
-### Games
-
-- [Boxer](http://boxerapp.com/) - The DOS game emulator that’s fit for your Mac. [![Open-Source Software][OSS Icon]](https://github.com/alunbestor/Boxer) ![Freeware][Freeware Icon]
-- [Dolphin](https://dolphin-emu.org) - A powerful, Open Source emulator for Nintendo GameCube and Wii games. [![Open-Source Software][OSS Icon]](https://github.com/dolphin-emu/dolphin) ![Freeware][Freeware Icon]
-- [OpenEmu](http://openemu.org/) - Multiple Video Game System. [![Open-Source Software][OSS Icon]](https://github.com/OpenEmu/OpenEmu) ![Freeware][Freeware Icon]
-- [Stockfish](http://stockfishchess.org/mac/) - Beautiful, powerful chess application. [![Open-Source Software][OSS Icon]](https://github.com/daylen/stockfish-mac) ![Freeware][Freeware Icon]
-
-### Graphics
-
-- [Acorn](https://secure.flyingmeat.com/acorn/) - A very Mac-like image editor with a comprehensive feature set.
-
-### Productivity
-
-- [Alfred](https://www.alfredapp.com/) - Boosts your efficiency and productivity.
-
-### Sharing Files
-
-- [Transmission](https://www.transmissionbt.com/) - Simple, lightweight, multi-platform torrent client. [![Open-Source Software][OSS Icon]](https://github.com/transmission/transmission) ![Freeware][Freeware Icon]
-
-### Terminal
-
-- [iTerm 2](https://www.iterm2.com/) - A terminal emulator. [![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2) ![Freeware][Freeware Icon]
-
-### Utilities
-
-- [1Password](https://itunes.apple.com/in/app/1password-password-manager/id443987910?mt=12) - Password Manager and Secure Wallet.
-- [CheatSheet](https://www.cheatsheetapp.com/CheatSheet/) - Know your short cuts. ![Freeware][Freeware Icon]
-- [Helium](http://heliumfloats.com/) - A floating browser window that allows you to watch media while you work. [![Open-Source Software][OSS Icon]](https://github.com/JadenGeller/Helium) ![Freeware][Freeware Icon]
-- [Monodraw](http://monodraw.helftone.com/) - A powerful ASCII art editor.
-- [Paparazzi](http://derailer.org/paparazzi/) - A small utility that makes screenshots of webpages. ![Freeware][Freeware Icon]
-- [Microsoft Remote Desktop Connection Client](https://itunes.apple.com/us/app/microsoft-remote-desktop/id715768417) - Remote Desktop Connection Client lets you connect from your Macintosh computer to a Windows-based computer.
-- [SSH Tunnel](https://codinn.com/products/ssh-tunnel/) - Manage your SSH tunnels, tightly integrated with macOS Keychain, secure and intuitive.
-- [TeamViewer](https://www.teamviewer.com/en-us/index.aspx) - Remotely control another computer.
-- [Ukelele](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele) - Unicode Keyboard Layout Editor. ![Freeware][Freeware Icon]
-- [The Unarchiver](https://theunarchiver.com/) - Unarchive many different kinds of archive files. [![Open-Source Software][OSS Icon]](https://bitbucket.org/kosovan/theunarchiver) ![Freeware][Freeware Icon]
-
-### Video
-
-- [HandBrake](https://handbrake.fr/) - High performance video encoding and conversion tools with a nice GUI. [![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake)
-- [Subler](https://bitbucket.org/galad87/subler/wiki/Home) - Mux and tag MP4 files. [![Open-Source Software][OSS Icon]](https://bitbucket.org/galad87/subler/wiki/Home) ![Freeware][Freeware Icon]
-- [Subtitlr](http://lucija.frkovic.me/Subtitlr/) - Drag and drop subititle download utility. [![Open-Source Software][OSS Icon]](https://github.com/spilja/Subtitlr/tree/master)
-
-### Window Management
-
-
-### Others
-
-- [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac. [![Open-Source Software][OSS Icon]](https://github.com/JohnCoates/Aerial) ![Freeware][Freeware Icon]
-- [Transmit](https://panic.com/transmit/) - A FTP client.
-
-## Command Line Utilities
-
-- [Awesome macOS Command Line](https://github.com/herrbischoff/awesome-osx-command-line) - Use your macOS terminal shell to do awesome things.
-- [m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS.
-- [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tools for developers.
-- [Mac macOS Manual Pages](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/) - Apple's official man page reference which lists all general commands in Section 1.
-- [mas](https://github.com/mas-cli/mas) - A CLI for the Mac App Store. [![Open-Source Software][OSS Icon]](https://github.com/mas-cli/mas) ![Freeware][Freeware Icon]
-
-## macOS Utilities
-
-
-## Security
-
-* [Tunnelblick](https://tunnelblick.net) - Easy to use OpenVPN client and GUI. [![Open-Source Software][OSS Icon]](https://github.com/Tunnelblick/Tunnelblick) ![Freeware][Freeware Icon]
-
-## Miscellaneous
-
-
-**[⬆ back to top](#table-of-contents)**
-
 
 ## License
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
-
-[chitchat]: https://github.com/stonesam92/ChitChat
-[OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
-[Freeware Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg
 
 # Apple macOS (aka OS X)
 

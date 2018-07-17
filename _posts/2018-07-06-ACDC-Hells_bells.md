@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "🎵 AC/DC - Hells Bells (Official Video)"
+title:    "🎵 AC/DC: Hells Bells (Official Video)"
 author:   flex
 category: Muzax
 comments: false

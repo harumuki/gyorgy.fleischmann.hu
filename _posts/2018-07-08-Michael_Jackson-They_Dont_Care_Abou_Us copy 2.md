@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "🎵 Michael Jackson - They Don’t Care About Us"
+title:    "🎵 Michael Jackson: They Don’t Care About Us"
 author:   flex
 category: Muzax
 comments: false

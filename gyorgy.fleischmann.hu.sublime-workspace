@@ -1,0 +1,770 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"_",
+				"_ORIGINAL"
+			],
+			[
+				"or",
+				"originalFilename"
+			],
+			[
+				"open",
+				"opensearch"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"s",
+				"src\tAttr"
+			],
+			[
+				"t",
+				"title\tAttr"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"return",
+				"returnString"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"text-col",
+				"text-decoration-color"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"fi",
+				"font-size"
+			],
+			[
+				"he",
+				"height\tAttr"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"size",
+				"font-size"
+			],
+			[
+				"hr",
+				"header\tTag"
+			],
+			[
+				"Fle",
+				"Fleischmann-né"
+			],
+			[
+				"bott",
+				"bottom"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ge",
+				"generalPage"
+			],
+			[
+				"uart_p",
+				"uart_puts_P"
+			],
+			[
+				"tem",
+				"temporary_buffer"
+			],
+			[
+				"mem",
+				"memcpy"
+			],
+			[
+				"emp",
+				"uart_wait_for_empty_buffer"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"em",
+				"uart_wait_for_emty_buffer"
+			],
+			[
+				"uar",
+				"uart_puts"
+			],
+			[
+				"lcd",
+				"lcd_clrscr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "css/style.scss",
+			"settings":
+			{
+				"buffer_size": 21025,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 9677,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 89.0,
+		"last_filter": "Install Package",
+		"selected_items":
+		[
+			[
+				"Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"packh",
+				"Package Control: Add Channel"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"color",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			],
+			[
+				"mat",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/css"
+	],
+	"file_history":
+	[
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/index.html",
+		"/Users/flex/bin/iCaptureDuo.sh",
+		"/Users/flex/Downloads/screenShots2018/iCaptureDuo.sh",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2019-05-05-en.md",
+		"/Users/flex/bin/ds.sh",
+		"/Users/flex/Downloads/Call.Me.by.Your.Name.2017.BDRip.x264-SPARKS (1).srt",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-02-06-cv.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/opensearch.xml",
+		"/Users/flex/Downloads/o.html",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/css/style.scss",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-11-24-Hajnalka_HBD.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/css/_settings.scss",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-11-24-Hajnalka.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_drafts/movies.md",
+		"/Users/flex/Documents/vicc.txt",
+		"/Users/flex/Downloads/vicc.txt",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-01-29-cv.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_layouts/default.html",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_drafts/1970-05-05-timeline.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_drafts/muzaxLP.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_drafts/books.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_drafts/places.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_drafts/blogsvlog.md",
+		"/Users/flex/Downloads/Book1.csv",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/0000-01-01-jekyll_test_page.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_drafts/whats_in_my_bag.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_drafts/2017-09-11-books.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_includes/book_cover.html",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_drafts/iOSApps.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_drafts/videoGames.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_drafts/friends.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_drafts/macOSApps.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_drafts/2017-01-01-muzax.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_drafts/gadgets.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-01-01-cv.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_drafts/documentSeries.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_includes/movie_cover.html",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-01-23-TVSeries.md",
+		"/Users/flex/GitHub/anna.fleischmann.hu/index.html",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_layouts/post.html",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-01-01-html2017.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_drafts/TVSeries.md",
+		"/Users/flex/Downloads/EG2.htm",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2017-09-11-books.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/1970-05-05-timeline.md",
+		"/Users/flex/Downloads/x/2017-01-01-muzax.md",
+		"/Users/flex/bin/mtva_net.sh",
+		"/Users/flex/GitHub/www.fleischmann.hu/index.html",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2017-01-01-cv.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2017-03-03-html2017.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/tableofcontents.html",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/categories.html",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/tags.html",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_layouts/blog_index.html",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2017-11-04-ulloi.md",
+		"/Users/flex/GitHub/anyuka.fleischmann.hu/index.html",
+		"/Users/flex/GitHub/anyuka.fleischmann.hu/anyuka.jpg",
+		"/Users/flex/GitHub/andras.fleischmann.hu/index.html",
+		"/Users/flex/GitHub/gergo.fleischmann.hu/index.html",
+		"/Users/flex/GitHub/anyuka.fleischmann.hu/index.hu",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2017-11-01-whats_in_my_bag.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2017-01-01-muzax.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/0000-01-01-jekyll-big-test_page.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/0000-01-01-foto_teszt.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_config.yml",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_data/authors.yml",
+		"/Users/flex/GitHub/testjekyll/_posts/2017-03-03-html2017.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2017-04-04-jekyll-big-test.md",
+		"/Users/flex/GitHub/jekyll-minimal-theme/_posts/1970-05-05-timeline.md",
+		"/Users/flex/GitHub/jekyll-minimal-theme/_posts/2017-03-03-html2017.md",
+		"/Users/flex/GitHub/jekyll-minimal-theme/tableofcontents.html",
+		"/Users/flex/GitHub/jekyll-minimal-theme/categories.html",
+		"/Users/flex/Downloads/CreativeLinkEffects/css/component.css",
+		"/Users/flex/Downloads/fontello/demo.html",
+		"/Users/flex/GitHub/jekyll-minimal-theme/_posts/2017-04-04-big-test.md",
+		"/Users/flex/GitHub/jekyll-minimal-theme/_posts/0000-01-01-jekyll_test_page.md",
+		"/Users/flex/GitHub/jekyll-minimal-theme/_posts/2017-11-04-ulloi.md",
+		"/Users/flex/GitHub/jekyll-minimal-theme/_posts/2017-09-11-books.md",
+		"/Users/flex/GitHub/jekyll-minimal-theme/tags.html",
+		"/Users/flex/GitHub/jekyll-minimal-theme/_layouts/post.html",
+		"/Users/flex/GitHub/jekyll-minimal-theme/_layouts/photopost.html",
+		"/Users/flex/GitHub/jekyll-minimal-theme/_layouts/photo.html",
+		"/Users/flex/GitHub/jekyll-minimal-theme/_layouts/default.html",
+		"/Users/flex/GitHub/jekyll-minimal-theme/index.html",
+		"/Users/flex/GitHub/jekyll-minimal-theme/css/style.scss",
+		"/Users/flex/GitHub/old.fleischmann.hu/geocities.com/html/news/news01.htm",
+		"/Users/flex/GitHub/old.fleischmann.hu/geocities.com/html/mybook/start.htm",
+		"/Users/flex/GitHub/old.fleischmann.hu/geocities.com/html/mybook/tartalom.htm",
+		"/Users/flex/GitHub/old.fleischmann.hu/geocities.com/html/mybook/macho_grande.htm",
+		"/Users/flex/GitHub/old.fleischmann.hu/geocities.com/html/mybook/idezet.htm",
+		"/Users/flex/GitHub/old.fleischmann.hu/geocities.com/html/mybook/bevezetes.htm",
+		"/Users/flex/GitHub/old.fleischmann.hu/geocities.com/html/mybook/az_uj_gazdasag_regi_szabalya.htm",
+		"/Users/flex/GitHub/old.fleischmann.hu/geocities.com/html/mybook/Panasonic.htm",
+		"/Users/flex/GitHub/old.fleischmann.hu/geocities.com/html/mybook/Anna.htm",
+		"/Users/flex/GitHub/fleischmann.hu [test]/index.html",
+		"/Users/flex/GitHub/jekyll-minimal-theme/_posts/2017-03-03-html.md",
+		"/Users/flex/GitHub/jekyll-minimal-theme/_posts/2017-03-03-more_text.md",
+		"/Users/flex/GitHub/jekyll-minimal-theme/404.html",
+		"/Users/flex/GitHub/jekyll-minimal-theme/_posts/2017-01-01-muzax.md",
+		"/Users/flex/GitHub/jekyll-minimal-theme/archive.html",
+		"/Users/flex/Downloads/CreativeLinkEffects/index.html",
+		"/Users/flex/Downloads/CreativeLinkEffects/css/demo.css",
+		"/Users/flex/GitHub/jekyll-minimal-theme/tag.html",
+		"/Users/flex/GitHub/jekyll-minimal-theme/category.html",
+		"/Users/flex/GitHub/tsmadm.pl/tsmadm.pl/plugins/pogyo_plugin.pl",
+		"/Users/flex/GitHub/tsmadm.pl/docs/index.html",
+		"/Users/flex/GitHub/old.fleischmann.hu/index.html",
+		"/Users/flex/GitHub/anna.fleischmann.hu/docs/index.html",
+		"/Users/flex/GitHub/old.fleischmann.hu/galery/contents/links.htm",
+		"/Users/flex/GitHub/old.fleischmann.hu/galery/contents/index.htm",
+		"/Users/flex/GitHub/www.fleischmann.hu/docs/index.html",
+		"/Users/flex/Downloads/x/index.htm",
+		"/Users/flex/Google Drive/Effective.Group/MVMI Zrt/Dokumentációk [EG]/EG MVMI - IBM Spectrum Protect Bevezetési projekt - Replication.txt",
+		"/Users/flex/Library/Application Support/Alfred 3/Alfred.alfredpreferences/workflows/user.workflow.516E104C-6817-4AA6-A9AE-D0192587E64A/battery.sh",
+		"/Users/flex/Downloads/keys.csv",
+		"/Users/flex/development/AVR/newAVR-GSM-SMS2/AVR-GSM.c",
+		"/Users/flex/development/AVR/newAVR-GSM-SMS2/AVR-GSM-SMS.c",
+		"/Users/flex/Downloads/dsmsched.log",
+		"/Users/flex/Downloads/o.o",
+		"/Users/flex/development/AVR/AVR-GSM-SMS-Reloaded/AVR-GSM.c",
+		"/Users/flex/development/AVR/AVR-GSM-SMS-Reloaded/AVR-GSM-SMS.c",
+		"/Users/flex/Downloads/mtsm.pl/bmailtsm.cmd",
+		"/Users/flex/Downloads/aaaaaaaaaaaaaaaaaaaaaaaaaa/IBM Spectrum Protect - Overview.html",
+		"/opt/local/var/macports/sources/rsync.macports.org/release/tarballs/ports/_resources/port1.0/group/xcode-1.0.tcl",
+		"/Users/flex/Downloads/o.u",
+		"/Users/flex/development/samsung/remote.pl",
+		"/Users/flex/Library/Application Support/Alfred 3/Alfred.alfredpreferences/workflows/user.workflow.325427C4-E7EC-49CF-9AB2-B9DECD7C42C7/keys.xml",
+		"/Users/flex/development/spadmin.pl/spadmin.pl"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"házasság",
+			"OVERHEAD",
+			"media",
+			"pre",
+			"AKG",
+			"Marcell SSL",
+			"\\d. oldal\\nVEGYES .*\\n",
+			"-------------------------------------------------------------------------------*",
+			"-------------------------------------------------------------------------------",
+			"disco",
+			"qout",
+			"õ",
+			" |",
+			" |",
+			"sin",
+			"/",
+			";",
+			"cont",
+			"overflow",
+			"over",
+			"x",
+			"disq",
+			"td",
+			"more /",
+			"sors",
+			"sords",
+			"more",
+			"html5",
+			"famil",
+			"table",
+			"mofa",
+			"nbr",
+			"flick",
+			"video",
+			"videocon",
+			"quote",
+			"newlett",
+			"zyxel",
+			"domin",
+			"notes",
+			"dateDiff",
+			"rightbox",
+			"align",
+			"allign",
+			"left",
+			"leftbox",
+			"tsmadm.pl",
+			"Nép",
+			"népsz",
+			"nép",
+			"thumb",
+			"famil",
+			"hr",
+			"user",
+			"link",
+			"date",
+			"hr",
+			"ger",
+			"lang",
+			"post",
+			"post-date",
+			"clear",
+			"ini",
+			"body, html {\n    height: 100%;\n}\n",
+			"sor",
+			"text",
+			"sors",
+			"phototext",
+			"text",
+			"content",
+			"img",
+			"modell",
+			"peresz",
+			"reszlé",
+			"reszl ;",
+			"left",
+			"Nép",
+			"quot",
+			"qout",
+			"footnote",
+			"table",
+			"fle",
+			"hover",
+			"inline",
+			"Ulloi",
+			"images/",
+			"saved from",
+			"clear",
+			"fix",
+			"h1",
+			"clearfix",
+			"clear",
+			"\n         ",
+			"bold",
+			"strong",
+			"text",
+			"shadow",
+			"code",
+			"foot",
+			"qout",
+			"foot",
+			"decoration",
+			"footnote",
+			"footnote ",
+			"stron",
+			"the-icons",
+			"<img",
+			"block",
+			"cont",
+			"block",
+			"last",
+			"line-height",
+			"height",
+			"CODE",
+			"high",
+			"highlight",
+			"sup",
+			"ini",
+			"init",
+			"h1",
+			"content",
+			"code",
+			"highlight",
+			"content",
+			"pmr",
+			"tsmadm.pl",
+			"alter",
+			"erőd"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"%",
+			"ő",
+			"|",
+			"2017-11-05-Ulloi",
+			"photos/",
+			"saved in",
+			"<img class=\"shadow\"",
+			"\"",
+			",",
+			".",
+			",",
+			"// ??delay_ms",
+			"// ___delay_ms",
+			"// ??_delay_ms",
+			"STEP",
+			",",
+			"_NOLIMIT_",
+			"",
+			"#",
+			"/root/mtsm.pl/txt/",
+			"mtsm.pl",
+			"$_Text2Mail",
+			"",
+			" ",
+			"",
+			" ",
+			"auditold",
+			"",
+			"ts4500",
+			"",
+			"=yes wait=yes",
+			"BFS discard=yes",
+			"delete vol \\\\",
+			"TSMVV",
+			"FASTBACK",
+			"FILESRV",
+			"ADHOC_ARCH",
+			"SHAREPOINT",
+			"DUMP",
+			"ORACLE",
+			"MSSQL",
+			"EXCH",
+			"EXC",
+			"lnx_os",
+			"win_os",
+			"HYPER-V",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "css/style.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 21025,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/cobalt2.tmTheme",
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9677,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "gyorgy.fleischmann.hu.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"export",
+				"define scri export_ceva"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 51.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 378.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
