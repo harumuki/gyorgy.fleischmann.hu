@@ -75,3 +75,5 @@ Be the light in my eyes
 And if I say ten Hail Marys
 Leave a light on in Heaven
 </pre></center></div>
+
+**[⬆ back to top](#lyrics)**

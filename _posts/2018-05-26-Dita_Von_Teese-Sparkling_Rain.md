@@ -41,3 +41,5 @@ With delectation
 Fly to the rainbow
 I'm in your heart don't you go
 </pre></center></div>
+
+**[⬆ back to top](#lyrics)**

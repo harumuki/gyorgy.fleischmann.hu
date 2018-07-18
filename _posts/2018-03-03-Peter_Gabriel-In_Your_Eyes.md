@@ -118,3 +118,5 @@ In your eyes
 I want to stand and stare again
 Oh, it's in your eyes
 </pre></center></div>
+
+**[⬆ back to top](#lyrics)**

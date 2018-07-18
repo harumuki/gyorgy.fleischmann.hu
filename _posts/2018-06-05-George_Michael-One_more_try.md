@@ -79,3 +79,5 @@ I'm so cold
 Inside
 Maybe just one more try
 </pre></center></div>
+
+**[⬆ back to top](#lyrics)**

@@ -62,3 +62,5 @@ Ow, ow, ow, ow
 
 Hell's bells
 </pre></center></div>
+
+**[⬆ back to top](#lyrics)**

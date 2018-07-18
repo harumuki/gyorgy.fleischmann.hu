@@ -13,8 +13,7 @@ tags:     [muzax, video]
 
 {% include sticky_floating_video.html %}
 
-<div id="lyrics"><div class="lyricsheader" style=""><p><center><b>Air</b>: Lucky & Unhappy [The Unofficial Music Video]
-</center></p></div>
+<div id="lyrics"><div class="lyricsheader" style=""><p><center><b>Air</b>: Lucky & Unhappy [The Unofficial Music Video]</center></p></div>
 
 <center><pre>
 Do I need? / Destiny
@@ -50,3 +49,5 @@ Lucky and unhappy
 Lucky and unhappy
 Lucky and unhappy
 </pre></center></div>
+
+**[⬆ back to top](#lyrics)**

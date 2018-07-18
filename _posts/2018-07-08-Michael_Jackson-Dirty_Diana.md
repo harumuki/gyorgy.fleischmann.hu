@@ -107,3 +107,5 @@ Dirty Diana.
 
 Come on!
 </pre></center></div>
+
+**[⬆ back to top](#lyrics)**

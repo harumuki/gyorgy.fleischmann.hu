@@ -42,3 +42,5 @@ Válasz, ma nem lesz nem is kell
 Túl távol, elég közel
 Nem leszek, ha nem leszel
 </pre></center></div>
+
+**[⬆ back to top](#lyrics)**

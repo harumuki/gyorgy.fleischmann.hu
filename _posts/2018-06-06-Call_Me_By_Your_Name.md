@@ -15,8 +15,6 @@ tags:     [movie]
 <div id="lyrics">
 
 <center><pre>
------
-
 Right now, you may not wanna feel anything, maybe you never wanted to feel anything.
 
 And maybe it's not to me you'd want to speak about this things but feel something you obviously did.
@@ -108,3 +106,5 @@ Szerintem nem.
 
 -----
 </pre></center></div>
+
+**[⬆ back to top](#lyrics)**

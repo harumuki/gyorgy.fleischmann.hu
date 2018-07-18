@@ -62,3 +62,5 @@ All I needed for another day
 And all I ever knew 
 Only you
 </pre></center></div>
+
+**[⬆ back to top](#lyrics)**

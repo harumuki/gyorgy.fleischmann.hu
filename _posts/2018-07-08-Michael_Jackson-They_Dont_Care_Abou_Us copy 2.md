@@ -119,3 +119,5 @@ They don't really care about
 All I wanna say is that
 They don't really care about us
 </pre></center></div>
+
+**[⬆ back to top](#lyrics)**

@@ -13,8 +13,7 @@ tags:     [muzax, video]
 
 {% include sticky_floating_video.html %}
 
-<div id="lyrics"><div class="lyricsheader" style=""><p><center><b>CHVRCHES</b>:Tether (Live in Cambridge)
-</center></p></div>
+<div id="lyrics"><div class="lyricsheader" style=""><p><center><b>CHVRCHES</b>:Tether (Live in Cambridge)</center></p></div>
 
 <center><pre>
 Where'd you go, you were there by my side
@@ -79,3 +78,5 @@ Seeing the end
 I feel incapable of
 Saying it's over
 </pre></center></div>
+
+**[⬆ back to top](#lyrics)**
