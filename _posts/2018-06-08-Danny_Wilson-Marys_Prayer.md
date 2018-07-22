@@ -10,8 +10,7 @@ tags:     [muzax, video]
 
 <!-- break -->
 
-{% include sticky_floating_video.html %}
-
+<a id="top"></a>
 <div id="lyrics"><div class="lyricsheader"><p><center><b>Danny Wilson</b>: Mary's Prayer</center></p></div>
 
 <center><pre>
@@ -74,6 +73,7 @@ So if I say save me, save me
 Be the light in my eyes
 And if I say ten Hail Marys
 Leave a light on in Heaven
-</pre></center></div>
+</pre><br><a href="#top">⬆</a></center></div>
 
-**[⬆ back to top](#lyrics)**
+<div class="sticky_floating_video"></div>
+{% include sticky_floating_video.html %}

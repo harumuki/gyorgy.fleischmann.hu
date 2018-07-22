@@ -10,8 +10,7 @@ tags:     [muzax, video]
 
 <!-- break -->
 
-{% include sticky_floating_video.html %}
-
+<a id="top"></a>
 <div id="lyrics"><div class="lyricsheader"><p><center><b>Peter Gabriel</b>: In Your Eyes (Secret World Live) (1994)</center></p></div>
 
 <center><pre>
@@ -117,6 +116,7 @@ In your eyes
 
 I want to stand and stare again
 Oh, it's in your eyes
-</pre></center></div>
+</pre><br><a href="#top">⬆</a></center></div>
 
-**[⬆ back to top](#lyrics)**
+<div class="sticky_floating_video"></div>
+{% include sticky_floating_video.html %}

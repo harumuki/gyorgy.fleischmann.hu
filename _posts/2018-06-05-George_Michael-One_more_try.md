@@ -10,8 +10,7 @@ tags:     [muzax, video]
 
 <!-- break -->
 
-{% include sticky_floating_video.html %}
-
+<a id="top"></a>
 <div id="lyrics"><div class="lyricsheader"><p><center><b>George Michael</b>: One More Try (Official Video)</center></p></div>
 
 <center><pre>
@@ -78,6 +77,7 @@ Who just isn't willing to try
 I'm so cold
 Inside
 Maybe just one more try
-</pre></center></div>
+</pre><br><a href="#top">⬆</a></center></div>
 
-**[⬆ back to top](#lyrics)**
+<div class="sticky_floating_video"></div>
+{% include sticky_floating_video.html %}

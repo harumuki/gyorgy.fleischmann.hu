@@ -21,5 +21,3 @@ My blood is red like yours
 .
 .
 </pre></center></div>
-
-**[⬆ back to top](#lyrics)**

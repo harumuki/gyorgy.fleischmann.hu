@@ -11,8 +11,7 @@ tags:     [muzax, video]
 
 <!-- break -->
 
-{% include sticky_floating_video.html %}
-
+<a id="top"></a>
 <div id="lyrics"><div class="lyricsheader" style=""><p><center><b>Air</b>: Lucky & Unhappy [The Unofficial Music Video]</center></p></div>
 
 <center><pre>
@@ -48,6 +47,7 @@ Lucky and unhappy
 Lucky and unhappy
 Lucky and unhappy
 Lucky and unhappy
-</pre></center></div>
+</pre><br><a href="#top">⬆</a></center></div>
 
-**[⬆ back to top](#lyrics)**
+<div class="sticky_floating_video"></div>
+{% include sticky_floating_video.html %}

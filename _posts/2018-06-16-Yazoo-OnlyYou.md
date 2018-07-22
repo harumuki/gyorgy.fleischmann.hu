@@ -11,8 +11,7 @@ tags:     [muzax, video]
 
 <!-- break -->
 
-{% include sticky_floating_video.html %}
-
+<a id="top"></a>
 <div id="lyrics"><div class="lyricsheader"><p><center><b>YAZOO</b>: Only You (2017)</center></p></div>
 
 <center><pre>
@@ -61,6 +60,7 @@ All I needed was the love you gave
 All I needed for another day 
 And all I ever knew 
 Only you
-</pre></center></div>
+</pre><br><a href="#top">⬆</a></center></div>
 
-**[⬆ back to top](#lyrics)**
+<div class="sticky_floating_video"></div>
+{% include sticky_floating_video.html %}

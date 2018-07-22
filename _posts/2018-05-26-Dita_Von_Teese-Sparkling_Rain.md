@@ -10,8 +10,7 @@ tags:     [muzax, video]
 
 <!-- break -->
 
-{% include sticky_floating_video.html %}
-
+<a id="top"></a>
 <div id="lyrics"><div class="lyricsheader"><p><center><b>Dita Von Teese</b>: Sparkling Rain (composed by Sébastien Tellier) <nobr>(Official Video)</nobr></center></p></div>
 
 <center><pre>
@@ -40,6 +39,7 @@ With delectation
 
 Fly to the rainbow
 I'm in your heart don't you go
-</pre></center></div>
+</pre><br><a href="#top">⬆</a></center></div>
 
-**[⬆ back to top](#lyrics)**
+<div class="sticky_floating_video"></div>
+{% include sticky_floating_video.html %}

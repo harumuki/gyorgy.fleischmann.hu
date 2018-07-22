@@ -10,11 +10,11 @@ tags:     [movie]
 
 <!-- break -->
 
-{% include sticky_floating_video.html %}
-
+<a id="top"></a>
 <div id="lyrics">
 
 <center><pre>
+
 Right now, you may not wanna feel anything, maybe you never wanted to feel anything.
 
 And maybe it's not to me you'd want to speak about this things but feel something you obviously did.
@@ -103,8 +103,7 @@ Együtt járnak az örömmel, amit éreztél.
 Anya tudja?
 
 Szerintem nem.
+</pre><br><a href="#top">⬆</a></center></div>
 
------
-</pre></center></div>
-
-**[⬆ back to top](#lyrics)**
+<div class="sticky_floating_video"></div>
+{% include sticky_floating_video.html %}

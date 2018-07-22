@@ -11,8 +11,7 @@ tags:     [muzax, video]
 
 <!-- break -->
 
-{% include sticky_floating_video.html %}
-
+<a id="top"></a>
 <div id="lyrics"><div class="lyricsheader" style=""><p><center><b>Michael Jackson</b>: They Don’t Care About Us (Brazil Version) (Official Video)</center></p></div>
 
 <center><pre>
@@ -118,6 +117,7 @@ All I wanna say is that
 They don't really care about
 All I wanna say is that
 They don't really care about us
-</pre></center></div>
+</pre><br><a href="#top">⬆</a></center></div>
 
-**[⬆ back to top](#lyrics)**
+<div class="sticky_floating_video"></div>
+{% include sticky_floating_video.html %}

@@ -10,8 +10,7 @@ tags:     [muzax, video, hun]
 
 <!-- break -->
 
-{% include sticky_floating_video.html %}
-
+<a id="top"></a>
 <div id="lyrics"><div class="lyricsheader"><p><center><b>BLAHALOUISIANA</b>: Túl távol, elég közel (Official Video)</center></p></div>
 
 <center><pre>
@@ -41,6 +40,7 @@ Az emberszárny lerázna egy kis rákövült eget
 Válasz, ma nem lesz nem is kell
 Túl távol, elég közel
 Nem leszek, ha nem leszel
-</pre></center></div>
+</pre><br><a href="#top">⬆</a></center></div>
 
-**[⬆ back to top](#lyrics)**
+<div class="sticky_floating_video"></div>
+{% include sticky_floating_video.html %}

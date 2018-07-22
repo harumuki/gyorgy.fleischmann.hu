@@ -11,9 +11,8 @@ tags:     [muzax, video]
 
 <!-- break -->
 
-{% include sticky_floating_video.html %}
-
-<div id="lyrics"><div class="lyricsheader" style=""><p><center><b>AC/DC</b>: Hells Bells (Official Video)</center></p></div>
+<a id="top"></a>
+<div id="lyrics"><div class="lyricsheader" style=""><p><center><b>AC/DC</b>: Hells Bells</center></p></div>
 
 <center><pre>
 I'm a rolling thunder, a pouring rain
@@ -61,6 +60,7 @@ Hell's bells, there's no way to fight, yeah
 Ow, ow, ow, ow
 
 Hell's bells
-</pre></center></div>
+</pre><br><a href="#top">⬆</a></center></div>
 
-**[⬆ back to top](#lyrics)**
+<div class="sticky_floating_video"></div>
+{% include sticky_floating_video.html %}

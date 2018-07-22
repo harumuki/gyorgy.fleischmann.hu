@@ -11,8 +11,7 @@ tags:     [muzax, video]
 
 <!-- break -->
 
-{% include sticky_floating_video.html %}
-
+<a id="top"></a>
 <div id="lyrics"><div class="lyricsheader" style=""><p><center><b>CHVRCHES</b>: Tether (Live in Cambridge)</center></p></div>
 
 <center><pre>
@@ -77,6 +76,7 @@ Seeing the end
 
 I feel incapable of
 Saying it's over
-</pre></center></div>
+</pre><br><a href="#top">⬆</a></center></div>
 
-**[⬆ back to top](#lyrics)**
+<div class="sticky_floating_video"></div>
+{% include sticky_floating_video.html %}
