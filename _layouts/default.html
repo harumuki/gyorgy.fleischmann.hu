@@ -58,11 +58,10 @@
     gtag('config', 'UA-108075264-7');
   </script>
 
-{% if page.photoswipe == 'yes' %}
   <!-- From: http://fontello.com/ -->
   <link rel="stylesheet" href="/fontello/css/fontello.css">
   <link rel="stylesheet" href="/fontello/css/animation.css">
-
+{% if page.photoswipe == 'yes' %}
   <!-- PhotoSwipe part 1. -->
 
   <!-- Core CSS file -->
@@ -80,9 +79,7 @@
   <!-- UI JS file -->
   <script src="PhotoSwipe/photoswipe-ui-default.min.js"></script>
 {% endif %}
-
 </head>
-
 {% if page.photoswipe == 'yes' %}
 <!-- PhotoSwipe must have part 2. -->
 
@@ -153,7 +150,6 @@
 
 </div>
 {% endif %}
-
 <body>
 
 <!-- Horisontal progress bar, https://blog.andyjiang.com/reading-position-horizontal-progress-bar --> 
