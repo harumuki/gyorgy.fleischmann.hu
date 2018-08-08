@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 ---
 layout:   post
 title:    🎵 LPs / LP-k
@@ -199,3 +200,11 @@ tags:     [listák, awesome]
 |186|Paul YOUNG|Come back and stay|2|1983|1983|Maxi|CBS Records Inc.|
 |187|The Human League|Fascination!|6|1981|1982||A&M Records Inc.|
 |188||Saturday Night Fever|9/8|1977||2LPs|RSO Records||
+=======
+# iOS
+
+I use a lot of applications on my iPhone. Here is a list of the ones that I love and use the most of my day to day life, sorted by their importance: 
+
+1. [Alfred](https://www.alfredapp.com/) 
+ - this is by far my
+>>>>>>> Stashed changes
