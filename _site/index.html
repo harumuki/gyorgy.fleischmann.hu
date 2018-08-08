@@ -1,4 +1,4 @@
-<!doctype html public "-//W3C//DTD HTML 5.0//EN" "http://www.w3.org/TR/html5/strict.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
 <!-- 
 
@@ -28,22 +28,25 @@
 
   <meta name="keywords" content="Fleischmann György, fleischmann, flex, gyurci, flexoft, mohács, budapest, magyarország, hungary, photography, digital, photo, black and white, landscape, people, blog, light, photo blog, photolog, photoblog, linux, sinclair, zx spectrum, psion, timex, perl, lcd, minolta, 9000, d7d, tsm, tivoli, ibm, tsm, tivoli storage manager, spectrum protect, gpfs, spectrum scale, osx, apple, ble" />
 
-  <meta name="owner" content="FLEISCHMANN György" />
+  <meta name="owner"  content="FLEISCHMANN György" />
   <meta name="author" content="FLEISCHMANN György" />
 
   <meta name="description" content="A personal page for Fleischmann György."/>
 
   <meta property="twitter:account_id" content="2447061"/>
 
-  <meta http-equiv="cleartype" content="on">
+  <meta http-equiv="cleartype" content="on" />
 
   <title>Welcome to - gyorgy.fleischmann.hu</title>
-  <link rel="stylesheet" type="text/css" href="css/style.css" >
-  <link rel="stylesheet" type="text/css" href="css/syntax.css" >
-  <link rel="alternate" type="application/atom+xml" href="/feed.xml" title="News Feed">
+  <link rel="alternate"  type="application/atom+xml" href="/feed.xml" title="News Feed for gyorgy.fleischmann.hu" />
 
-  <link rel="icon" href="http://gyorgy.fleischmann.hu/favicon.ico" type="image/x-icon">
-  <link rel="shortcut icon" href="http://gyorgy.fleischmann.hu/favicon.ico">
+  <link rel="icon" href="https://gyorgy.fleischmann.hu/favicon.ico" type="image/x-icon" />
+  <link rel="shortcut icon" href="https://gyorgy.fleischmann.hu/favicon.ico" />
+
+  <link href="/opensearch.xml" rel="search" title="gyorgy.fleischmann.hu" type="application/opensearchdescription+xml" />
+
+  <link rel="stylesheet" type="text/css" href="/css/style.css" />
+  <link rel="stylesheet" type="text/css" href="/css/syntax.css" />
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108075264-7"></script>
@@ -56,112 +59,68 @@
   </script>
 
   <!-- From: http://fontello.com/ -->
-  <link rel="stylesheet" href="fontello/css/fontello.css">
-  <link rel="stylesheet" href="fontello/css/animation.css">
-
-  <!-- PhotoSwipe part 1. -->
-
-  <!-- Core CSS file -->
-  <link rel="stylesheet" href="PhotoSwipe/photoswipe.css"> 
-
-  <!-- Skin CSS file (styling of UI - buttons, caption, etc.)
-       In the folder of skin CSS file there are also:
-       - .png and .svg icons sprite, 
-       - preloader.gif (for browsers that do not support CSS animations) -->
-  <link rel="stylesheet" href="PhotoSwipe/default-skin/default-skin.css"> 
-
-  <!-- Core JS file -->
-  <script src="PhotoSwipe/photoswipe.min.js"></script> 
-
-  <!-- UI JS file -->
-  <script src="PhotoSwipe/photoswipe-ui-default.min.js"></script> 
+  <link rel="stylesheet" href="/fontello/css/fontello.css">
+  <link rel="stylesheet" href="/fontello/css/animation.css">
 
 </head>
 
-<!-- PhotoSwipe must have part 2. -->
-
-<!-- Root element of PhotoSwipe. Must have class pswp. -->
-<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true" style="margin: 0; padding: 0;">
-
-    <!-- Background of PhotoSwipe. 
-         It's a separate element as animating opacity is faster than rgba(). -->
-    <div class="pswp__bg"></div>
-
-    <!-- Slides wrapper with overflow:hidden. -->
-    <div class="pswp__scroll-wrap">
-
-        <!-- Container that holds slides. 
-            PhotoSwipe keeps only 3 of them in the DOM to save memory.
-            Don't modify these 3 pswp__item elements, data is added later on. -->
-        <div class="pswp__container">
-            <div class="pswp__item"></div>
-            <div class="pswp__item"></div>
-            <div class="pswp__item"></div>
-        </div>
-
-        <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
-        <div class="pswp__ui pswp__ui--hidden">
-
-            <div class="pswp__top-bar" style="margin: 0; padding: 0;">
-
-                <!--  Controls are self-explanatory. Order can be changed. -->
-
-                <div class="pswp__counter"></div>
-
-                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
-
-                <button class="pswp__button pswp__button--share" title="Share"></button>
-
-                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
-
-                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
-
-                <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
-                <!-- element will get class pswp__preloader--active when preloader is running -->
-                <div class="pswp__preloader">
-                    <div class="pswp__preloader__icn">
-                      <div class="pswp__preloader__cut">
-                        <div class="pswp__preloader__donut"></div>
-                      </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
-                <div class="pswp__share-tooltip"></div> 
-            </div>
-
-            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
-            </button>
-
-            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
-            </button>
-
-            <div class="pswp__caption">
-                <div class="pswp__caption__center" style="font-size: 25px; text-align: center;"></div>
-            </div>
-
-        </div>
-
-    </div>
-
-</div>
-
 <body>
+
+<!-- Horisontal progress bar, https://blog.andyjiang.com/reading-position-horizontal-progress-bar --> 
+<div id="Reading-progress"><span id="Progress-bar" class="bar"></span></div>
+
+<script type="text/javascript">
+
+  window.addEventListener( 'scroll', function( e ) {
+    var s = ( window.pageYOffset !== undefined ) ? window.pageYOffset : ( document.documentElement || document.body.parentNode || document.body ).scrollTop;
+    var body = document.body;
+    var html = document.documentElement;
+    var d = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
+    var c = window.innerHeight;
+    var position = ( s / ( d - c ) ) * 100;
+    document.getElementById( 'Progress-bar' ).setAttribute( 'style', 'width: ' + position + '%' );
+  });
+
+</script>
+
+<!-- right box -->
+<!--
+<font color="#467a56">F</font><br>
+<font color="#316fac">L</font><br>
+<font color="#564b83">E</font><br>
+<font color="#ec9a36">I</font><br>
+<font color="#9e230a">S</font><br>
+<font color="#853b25">C</font><br>
+<font color="#7eaeb8">H</font><br>
+<font color="#477885">M</font><br>
+<font color="#e06500">A</font><br>
+-->
+
+<a href="https://fleischmann.hu/" title="fleischmann.hu"><div class="rightfloatingbox zoomeffect"><p>
+<font color="#008f3f">F</font><br>
+<font color="#0057a6">L</font><br>
+<font color="#77147e">E</font><br>
+<font color="#f5a301">I</font><br>
+<font color="#e50005">S</font><br>
+<font color="#a8361e">C</font><br>
+<font color="#82cfed">H</font><br>
+<font color="#0191b4">M</font><br>
+<font color="#dd5e01">A</font><br>
+<font color="#777"   >N</font><br>
+<font color="#FFF"   >N</font><br>
+</p></div></a>
 
 <div class="container">
 
   <header class="masthead" id="navbar">
-
      <h2 class="masthead-title">
-       <a href="/"><b>gyorgy.fleischmann.hu</b></a>
-       <nobr>
-       <small>|<a href="tableofcontents.html"><i class="icon-list-numbered" style="font-size: 0.85em;"></i>tartalom</a></small>
-       <small>|<a href="categories.html"><i class="icon-list" style="font-size: 0.85em;"></i>kategóriák</a></small>
-       <small>|<a href="tags.html"><i class="icon-tags" style="font-size: 0.85em;"></i>#címkék</a></small>
-       <small>|<a href="feed.xml"><i class="icon-rss" style="font-size: 0.85em;"></i>RSS</a></small>
-       <small>|&nbsp;<a href="cv.html">rólam</a></small>
-       </nobr>
+       gyorgy.<a href="https://fleischmann.hu/" title="fleischmann.hu"><b>fleischmann.hu</b></a>
+       <nobr><small>|<a href="/tableofcontents.html" title="Tartalom"><i class="icon-list-numbered" style="font-size: 0.85em;"></i></a><a href="/tableofcontents.html" title="Tartalom">tartalom</a></small></nobr>
+         <nobr><small>|<a href="/categories.html" title="Kategóriák"><i class="icon-list" style="font-size: 0.85em;"></i></a><a href="/categories.html" title="Kategóriák">kategóriák</a></small></nobr>
+         <nobr><small>|<a href="/tags.html" title="Címkék"><i class="icon-tags" style="font-size: 0.85em;"></i></a><a href="/tags.html" title="Címkék">#címkék</a></small></nobr>
+         <!-- <nobr><small>|<a href="/feed.xml" title="RSS - Rich Site Summary"><i class="icon-rss" style="font-size: 0.85em;"></i></a><a href="/feed.xml" title="RSS - Rich Site Summary">RSS</a></small></nobr> -->
+         <!-- http://icons.iconarchive.com/icons/icons-land/vista-flags/128/English-Language-Flag-1-icon.png -->
+         <nobr><small>|<a href="cv.html"><img class="inline" src="/images/English-Language-Flag-1-icon.png" alt="CV" title="CV" style="width: 38px; margin-left: 3px; margin-right: 3px;"></a><a href="/cv.html" title="CV">CV</a></small></nobr>
      </h2>
 
   </header>
@@ -169,115 +128,123 @@
   <hr style="margin-top: -0.25em;">
 
   <div class="content">
-  <div>
+  <div class="rightbox" style="width: 25%; margin-left: .4em; border-left: 1px solid #ff0000;"><center><a href="https://twitter.com/FleXoft"><img style="width: 80%; margin-bottom: 3%;" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Twitter_2010_logo_-_from_Commons.svg/1024px-Twitter_2010_logo_-_from_Commons.svg.png"></a></center>
+  <a class="twitter-timeline" href="https://twitter.com/FleXoft?ref_src=twsrc%5Etfw" data-tweet-limit="3" data-dnt="true" data-chrome="noheader nofooter noscrollbar noborders transparent" data-lang="en"></a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <center><i class="icon-star-empty-1" style="color: red;"></i> <i class="icon-star-empty-1" style="color: red;"></i> <i class="icon-star-empty-1" style="color: red;"></i></center></div>
 
-<div class="rightbox" style="width: 25%; margin-left: 1%; border-left: 1px solid #ff0000;"><a href="https://twitter.com/FleXoft"><img style="width: 80%; margin-left: 0.5em;" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Twitter_2010_logo_-_from_Commons.svg/1024px-Twitter_2010_logo_-_from_Commons.svg.png"></a><br>
-  <a class="twitter-timeline" href="https://twitter.com/FleXoft?ref_src=twsrc%5Etfw" data-tweet-limit="2" data-dnt="true" data-chrome="noheader nofooter noscrollbar noborders transparent" data-lang="en">Tweets by FleXoft</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+<p><span class="initial">E</span>z az oldal, az én publikus <nobr><a href="https://jekyllrb.com/"><img class="inline" src="https://talk.jekyllrb.com/uploads/jekyllrb/original/1X/4f9bd5334246d33651e846aed812280fbff586ba.png" alt="Jekyll Logo" style="width: 60px;"></a><a href="https://jekyllrb.com/">Jekyll</a></nobr> "játszóterem", ami igazán jól elszórakoztat / ott a vele töltött időben. Messze jóval szórakoztatóbb dolognak tartom ezt, mint egy <nobr><a href="https://wordpress.com/"><img class="inline" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png" alt="Wordpress Logo" style="width: 24px;"></a> <a href="https://wordpress.com/">Wordpress</a></nobr> (ismerem, többször futottam már neki) vagy akár egy <nobr><a href="https://www.drupal.org/"><img class="inline" src="https://www.drupal.org/files/drupal%208%20logo%20isolated%20CMYK%2072.png" alt="Drupal Logo" style="width: 24px;"></a> <a href="https://www.drupal.org/">Drupal</a></nobr> (nem igazán használtam még) blogmotor / tartalomkezelő rendszerrel való játszadozás. Az eddig megszerzett tapasztalatok alapján meggyőződésem, hogy igazán egyedi megjelenésű, gyors relációsadatbázis-kezelő funkciókat nem igénylő megoldást manapság ebben érdemes készíteni. Arról pedig nem is kell többet mondani, hogy a <a href="https://github.com/"><img class="inline" src="https://github.com/fluidicon.png" alt="GitHub Logo" style="width:30px;"></a> <a href="https://pages.github.com/"><b>GitHub</b> Pages</a> "ingyen" szolgálja (persze nem csak ezeket lehetne, hanem akár más statikus HTML oldalakat is) ki az ezzel készült tartalmakat.</p>
 
-<p>Ez az oldal, az én publikus <a href="https://jekyllrb.com/"><img class="inline" src="https://talk.jekyllrb.com/uploads/jekyllrb/original/1X/4f9bd5334246d33651e846aed812280fbff586ba.png" alt="Jekyll Logo" style="width: 60px;"></a><a href="https://jekyllrb.com/">Jekyll</a> "játszóterem", ami igazán jól elszórakoztatott a vele töltött időben. Messze jóval szórakoztatóbb dolognak tartom ezt, mint egy <a href="https://wordpress.com/"><img class="inline" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png" alt="Wordpress Logo" style="width: 24px;"></a> <a href="https://wordpress.com/">Wordpress</a> (ismerem, többször futottam már neki) vagy akár egy <a href="https://www.drupal.org/"><img class="inline" src="https://www.drupal.org/files/drupal%208%20logo%20isolated%20CMYK%2072.png" alt="Drupal Logo" style="width: 24px;"></a> <a href="https://www.drupal.org/">Drupal</a> (nem igazán használtam még) blogmotor / tartalomkezelő rendszerrel való játszadozás. Az eddig megszerzett tapasztalatok alapján meggyőződésem, hogy igazán egyedi megjelenésű, gyors relációsadatbázis-kezelő funkciókat nem igénylő megoldást manapság ebben érdemes készíteni.</p>
+<p>Mivel mára már majdnem minden tartalom fenn van, és majdnem mindent megírtak már az Interneteken, ezért én ezeken az oldalakon nagyon sokat fogok idézni majd másoktól, a képeket, videókat és más médiatartalmat is igyeXem mindig máshonnan belinkelni, kivéve persze azokon a helyeken, ahol azt gondolom, hogy valamit még én hozzá tudok tenni a már fentlévő tartalomhoz vagy esetleg a tartalom annyira egyedi / személyes, hogy csak nálam van meg.</p>
 
-<p>Mivel mára már majdnem minden tartalom fenn van, és majdnem mindent megírtak már az Interneteken, ezért én ezeken az oldalakon nagyon sokat fogok idézni majd másoktól, a képeket, videókat és más médiatartalmat is igyexem mindig máshonnan belinkelni, kivéve persze azokon a helyeken, ahol azt gondolom, hogy valamit még én hozzá tudok tenni a már fentlévő tartalomhoz vagy esetleg a tartalom annyira egyedi / személyes, hogy csak nálam van meg.</p>
+<p>Nagyon nagy aktivitásra persze itt azért senki ne számítson, mert ezek az oldalak leginkább azért maradtak csak fent, hogy az önéletrajzomat valahol folyamatosan frissíthessem és ha kell innen egyszer majd tovább tudjam osztani az érdeklődőknek...</p>
 
-<p>Nagyon nagy aktivitásra itt azért senki ne számítson, mert ezek az oldalak leginkább még azért maradtak csak fenn, hogy az önéletrajzomat valahol folyamatosan frissíthessem és ha kell innen tovább tudjam osztani...</p>
+<p>Nincsenek nagy illúzióim azzal kapcsolatban sem, hogy itt valami szuper magyarázattal fogok szolgálni bárkinek is bármire, de amit megpróbálok összehozni, az végül egy őszinte múltbarévedés lesz a javából néhány már a jövőbe is valahogy átnyúló meglepetéssel...</p>
+
+<p style="text-align: right;"><img src="images/signature.png" style="width: 25%;"></p>
 
 <hr>
 
-<p>Az utolsó 10 bejegyzés (vagy akár a teljes <a href="http://localhost:4000/tableofcontents.html">tartalomjegyzék</a>):</p>
+<blockquote>
+<p>"Ez afféle üzenet itt. Nincs miért tagadni, hatékonysága kb. tengerbe hajított palackéval azonos, de helyes ez így. Az üzenet, tartalmát tekintve, meglehetősen ködös, inkább csak valami kis izé. Arról akar szólni, hogy "vigyázz, ne dőlj be minden hülyeségnek". De ez így túlontúl sommás és mindenféle árnyalat nélkül való.</p>
 
+<p>Arról akar szólni tehát ez az üzenet, hogy ne essünk ugyanabba a hibába az internet kapcsán, amiben egyszer már a TV kapcsán beleestünk. Egy pillanatig se higgyük el, hogy ez önmagában jó. Szintúgy ne higgyük el, hogy bármilyen értelemben megváltja vagy csak megjavítja a társadalmat.</p>
+
+<p>Fenét.</p>
+ 
+<p>Az interneten már most zajlik az a folyamat, amelynek eredménye egy hatalmas, interaktív fogyasztói izé lesz, mondjuk Metaverzum, és csak annyiban lesz interaktív, amennyire a fogyasztásra való serkentés megkívánja. A TV-vel ellentétben az internet sokféle rászokási lehetőséget kínál: aki nem szokott rá a www-re, azt talán az irc-re lehet ránevelni és így tovább. Ez a sokféle függési lehetőség hamis magabiztosságba ringathatja a felhasználót, aki azt hiheti, végre ő az, aki válogat. Hehe. A TV-vel ellentétben az internetes etetőgép azonnal reagálhat, ha unod őt; olyan lesz, mint egy rossz ágyas, mindent megpróbál majd, hogy csak vele foglalkozz.</p>
+
+<p>Ez egyébként rendben is van így.</p>
+
+<p>Az üzenet, amiről most beszélünk, arról is szól még, hogy vége van a hőskornak, és tulajdonképpen jó is, hogy így van. Az eszünket kellene használni most talán jobban, mint a TV-zés hajnalán, szóval ne kábuljunk el annyira. Valójában minden jól van az internettel kapcsolatban, ekkora valami és önálló életet él... szóval kívül esik a jó vagy a rossz megítélésén, és ez az, amiért minden rendben jól van vele kapcsolatban. Mûködik és kész. Ebben az a jó, hogy valójában nálunk van a billentyûzet meg az egér. Az üzenet arról szól, hogy ezt nem kéne elfelejteni.</p>
+
+<p>Végre eszembe jutott." <a href="http://www.ccfz.hu/">(CCFZ: Palack a tengerben)</a></p>
+</blockquote>
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/36337820&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+<div style="clear: both; margin-bottom: 1em; margin-top: 1em;">
+<div style="padding:20.15% 0 0 0;position:relative;" ><iframe class="shadow" src="https://player.vimeo.com/video/279078718" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 </div>
 
+<hr style="clear: both;" class="overridemaxwidthboth">
+
+<p>Az utolsó 10 bejegyzés (vagy akár a teljes <a href="tableofcontents.html">tartalomjegyzék</a>):</p>
+
 
   
 
-  <article class='post' style="">
+  <article class='post'>
 
-    <h1 class='post-title'><a href="/html2017.html" class="hvr-buzz-out">&nbsp;🕸 HTML (HyperText Markup Language) 2018</a></h1>
+    <h1 class='post-title'><a href="/Hajnalka.html" class="hvr-buzz-out">&nbsp;Hajnalka</a></h1>
 
-    <div class="post-date"><i class="icon-calendar"></i> 2018., január 1.,
+    <div class="post-date"><i class="icon-calendar"></i> 2019., november 24.,
 
     <!-- Source: https://sacha.me/articles/jekyll-word-counts/ -->
-    1000 szó, elolvasásához kb.: 5 perc kell|
+    1910 szó, elolvasásához kb.: 10 perc kell|
 
-    <i class="icon-user"></i>
+    <nobr><i class="icon-user"></i><a href="mailto:gyorgy@fleischmann.hu">_flex</a>
     
-      <a href="mailto:gyorgy@fleischmann.hu">_flex</a>
-    
-    <img src="http://www.gravatar.com/avatar/645917b1946117c27a6ee9bbd02240e1?s=40" style="width: 12px;"> | 
+    <img src="https://www.gravatar.com/avatar/645917b1946117c27a6ee9bbd02240e1?s=40" style="width: 12px;"> | </nobr>
 
-    <i class="icon-list"></i>
-    [<a href="categories.html#development / fejlesztés">development / fejlesztés</a>]
-    <i class="icon-tags"></i>
-    
-      <span class=""><a href="tags.html#web">#web</a></span>
-    
-      <span class=""><a href="tags.html#development">#development</a></span>
-    
-      <span class=""><a href="tags.html#fejlesztés">#fejlesztés</a></span>
-    
-      <span class=""><a href="tags.html#html">#html</a></span>
-    
-      <span class=""><a href="tags.html#css">#css</a></span>
-    
-      <span class=""><a href="tags.html#jekyll">#jekyll</a></span>
-    
-      <span class=""><a href="tags.html#hun">#hun</a></span>
-    
+    <nobr><i class="icon-list"></i>[<a href="categories.html#Personal / személyes">Personal / személyes</a>]</nobr>
+    <nobr><i class="icon-tags"></i><a href="tags.html#én">#én</a> <a href="tags.html#mi">#mi</a> <a href="tags.html#élet">#élet</a> <a href="tags.html#halál">#halál</a> </nobr>
 
     </div><!-- .post-date -->
 
     <!-- Read more part 1. -->
     <!-- https://gist.github.com/mikeygee/2626538 -->
     <!-- https://stackoverflow.com/questions/16528783/check-for-existence-of-file-using-jekyll -->
-    <div class="rightbox" style="width: 10%;"><a href="/html2017.html"><img class="shadow" src="/html2017_thumbnail.png"></a></div>
-
-    <!-- Read more part 2. -->
-    <p><span class="initial"><img class="inline" src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="IBM Logo" style="width:80px;" />HTML</span>Relatíve egészen sok időt töltöttem már el különböző HTML-alapú weboldal ötletek tervezgetésével úgy, hogy sosem olvastam még el egyetlenegy aktuális HTML verzió teljes dokumentációját sem az elejétől a végéig, és így sajnos sosem tudtam még rendesen sem elmélyedni a témában.</p>
-
-
-    <p style="float: right; clear: right;"><a href="/html2017.html">...a "🕸 HTML (HyperText Markup Language) 2018" bejegyzés itt folytatódik <i class="icon-right-big"></i></a></p>
-
-    <!-- Disqus counter -->
     
 
+    <!-- Read more part 2. -->
+    <p>De most tényleg…</p>
+
+<blockquote>
+  <p>“Love is the most subtle force on Earth. A szerelem a legtitokzatosabb erõ a Földön.” <a href="https://en.wikipedia.org/wiki/Felon_(film)">Felon</a>, 2008</p>
+</blockquote>
+
+<blockquote>
+  <p>“Love comes to those who still love after disappointment, who still believe after betrayal, and who still love after they’ve been hurt.”</p>
+</blockquote>
+
+<p>Érdekes egy érzés bejegyzést írni a jövőnek, de itt már végre az ember kiírhatja mindazt, amit az eddigi élete alatt simán csak nem tudott, mert nem volt ideje vagy csak nem volt még elég bátorsága korábban megírni / kimondani.</p>
+
+
+
+    <div style="clear: both;">
+    <!-- Disqus counter -->
+    
       <script id="dsq-count-scr" src="//gyorgy-fleischmann-hu.disqus.com/count.js" async></script>
-      <a href="/html2017.html#disqus_thread">Disqus counter</a>
-
+      <nobr><a href="/Hajnalka.html#disqus_thread">Disqus counter</a></nobr>
     
 
+<<<<<<< Updated upstream
+    <p style="float: right; clear: right;"><a href="/Hajnalka.html">...a "Hajnalka" bejegyzés itt folytatódik <i class="icon-right-big"></i></a></p>
+    </div>
+=======
     <div style="clear: both;"></div>
+>>>>>>> Stashed changes
 
   </article>
 
 
   
 
-  <article class='post' style="">
+  <article class='post'>
 
-    <h1 class='post-title'><a href="/cv.html" class="hvr-buzz-out">&nbsp;👨🏻‍🎓 CV</a></h1>
+    <h1 class='post-title'><a href="/Apuka.html" class="hvr-buzz-out">&nbsp;Apuka</a></h1>
 
-    <div class="post-date"><i class="icon-calendar"></i> 2018., január 1.,
+    <div class="post-date"><i class="icon-calendar"></i> 2019., november 16.,
 
     <!-- Source: https://sacha.me/articles/jekyll-word-counts/ -->
-    2989 szó, elolvasásához kb.: 16 perc kell|
+    |
 
-    <i class="icon-user"></i>
+    <nobr><i class="icon-user"></i><a href="mailto:gyorgy@fleischmann.hu">_flex</a>
     
-      <a href="mailto:gyorgy@fleischmann.hu">_flex</a>
-    
-    <img src="http://www.gravatar.com/avatar/645917b1946117c27a6ee9bbd02240e1?s=40" style="width: 12px;"> | 
+    <img src="https://www.gravatar.com/avatar/645917b1946117c27a6ee9bbd02240e1?s=40" style="width: 12px;"> | </nobr>
 
-    <i class="icon-list"></i>
-    [<a href="categories.html#CV / Önéletrajz">CV / Önéletrajz</a>]
-    <i class="icon-tags"></i>
-    
-      <span class=""><a href="tags.html#cv">#cv</a></span>
-    
-      <span class=""><a href="tags.html#önéletrajz">#önéletrajz</a></span>
-    
-      <span class=""><a href="tags.html#munka">#munka</a></span>
-    
-      <span class=""><a href="tags.html#english">#english</a></span>
-    
+    <nobr><i class="icon-list"></i>[<a href="categories.html#Personal / személyes">Personal / személyes</a>]</nobr>
+    <nobr><i class="icon-tags"></i><a href="tags.html#én">#én</a> <a href="tags.html#mi">#mi</a> <a href="tags.html#élet">#élet</a> <a href="tags.html#halál">#halál</a> </nobr>
 
     </div><!-- .post-date -->
 
@@ -287,107 +254,437 @@
     
 
     <!-- Read more part 2. -->
-    <p style="margin-top: 1.5em; text-align: left;"><a href="http://gyorgy.fleischmann.hu/" target="_blank" rel="noopener noreferrer"><b style="font-size: 2em;">FLEISCHMANN György</b></a> <nobr>• nick names: flex, gyurci, FleXoft</nobr></p>
-
-<p style="text-align: left;"><a href="https://twitter.com/flexoft" target="_blank" rel="noopener noreferrer"><i class="icon-twitter" style="margin-left: -4px; margin-right: -4px;"></i>@flexoft</a> •<nobr><i class="icon-mobile" style="margin-left: -4px; margin-right: -5px;"></i>+36 30 979 1403</nobr> <nobr>• <a href="mailto:gyorgy@fleischmann.hu" target="_top">gyorgy@fleischmann.hu</a></nobr> • <nobr><a href="https://www.google.hu/maps/place/Budapest,+Ungv%C3%A1r+u.+33,+1185/@47.4337246,19.2123318,17z/data=!3m1!4b1!4m5!3m4!1s0x4741c18a7203082b:0x62593567a50ce394!8m2!3d47.433721!4d19.2145258?hl=hu"><i class="icon-home" style="margin-left: -5px; margin-right: 0px;"></i>H-1185, Budapest, Ungvár utca 33/1., HUNGARY</a></nobr></p>
-
-<h1 id="summary">SUMMARY</h1>
-
-<div class="rightbox" style="width: 30%;"><img class="shadow" src="photos/flex.jpg" alt="Fleischmann György" title="Fleischmann György" />
-  <p class="phototext">Photo by me, 2016.11.11., Minolta Dynax 7D, 50mm</p>
-</div>
-
-<p>Highly qualified certified systems engineer / architect / consultant with more than 13 years <span id="workTSM"></span> of experience in designing, building and supporting complex <a href="https://www.ibm.com/"><img class="inline" src="http://m.fooyoh.com/files/attach/images/3004/195/251/014/logos4.jpg" alt="IBM Logo" style="width: 55px;" /></a> <a href="https://www.ibm.com/us-en/marketplace/data-protection-and-recovery"><img class="inline" src="https://www-03.ibm.com/systems/uk/resources/storage_spectrum_modernize_placeholder2.png" alt="IBM Spectrum Protect Logo" style="width: 20px;" /></a> <a href="https://www.ibm.com/us-en/marketplace/data-protection-and-recovery">Spectrum Protect</a> (aka: <a href="https://www.ibm.com/"><img class="inline" src="https://s-media-cache-ak0.pinimg.com/originals/f2/c2/e2/f2c2e2b63af6ffe5ddfff5a2557bfee6.jpg" alt="IBM Logo" style="width: 55px;" /></a> <a href="https://en.wikipedia.org/wiki/IBM_Tivoli_Storage_Manager">Tivoli Storage Manager</a>, <a href="https://en.wikipedia.org/wiki/IBM_Tivoli_Storage_Manager">TSM</a>, <a href="https://en.wikipedia.org/wiki/IBM_Tivoli_Storage_Manager">ADSTAR Distributed Storage Manager</a>, <a href="https://en.wikipedia.org/wiki/IBM_Tivoli_Storage_Manager">ADSM</a>) at the biggest Hungarian companies.</p>
-
-<p>One of the well-known IBM TSM / Spectrum Protect experts / evangelists in <a href="https://en.wikipedia.org/wiki/Hungary">Hungary</a>. Enthusiastic member of the <a href="https://www.imwuc.org/hutug">Hungarian Tivoli User Group</a> (<a href="https://www.imwuc.org/hutug">Hu-TUG</a>). Regular speaker at biannual events in IBM TSM / Spectrum Protect related topics.</p>
-
-<p>Team player and problem-solver with very good communication and interpersonal skills.</p>
+    <p>Én csak remélni tudom, hogy az élet lesz annyire kegyes hozzánk, hogy nem neked kell majd az én temetésemen állnod! Nagyon nem lenne fair.</p>
 
 
-    <p style="float: right; clear: right;"><a href="/cv.html">...a "👨🏻‍🎓 CV" bejegyzés itt folytatódik <i class="icon-right-big"></i></a></p>
-
+    <div style="clear: both;">
     <!-- Disqus counter -->
     
-
-    <div style="clear: both;"></div>
-
-  </article>
-
-
-  
-
-  <article class='post' style="">
-
-    <h1 class='post-title'><a href="/ulloi.html" class="hvr-buzz-out">&nbsp;📷 Üllői út v1.0β</a></h1>
-
-    <div class="post-date"><i class="icon-calendar"></i> 2017., november 4.,
-
-    <!-- Source: https://sacha.me/articles/jekyll-word-counts/ -->
-    649 szó, elolvasásához kb.: 3 perc kell|
-
-    <i class="icon-user"></i>
-    
-      <a href="mailto:gyorgy@fleischmann.hu">_flex</a>
-    
-    <img src="http://www.gravatar.com/avatar/645917b1946117c27a6ee9bbd02240e1?s=40" style="width: 12px;"> | 
-
-    <i class="icon-list"></i>
-    [<a href="categories.html#photo / fotó">photo / fotó</a>]
-    <i class="icon-tags"></i>
-    
-      <span class=""><a href="tags.html#photo">#photo</a></span>
-    
-      <span class=""><a href="tags.html#fotó">#fotó</a></span>
-    
-      <span class=""><a href="tags.html#poc">#poc</a></span>
-    
-      <span class=""><a href="tags.html#teszt">#teszt</a></span>
-    
-      <span class=""><a href="tags.html#html">#html</a></span>
-    
-      <span class=""><a href="tags.html#css">#css</a></span>
-    
-      <span class=""><a href="tags.html#hun">#hun</a></span>
-    
-
-    </div><!-- .post-date -->
-
-    <!-- Read more part 1. -->
-    <!-- https://gist.github.com/mikeygee/2626538 -->
-    <!-- https://stackoverflow.com/questions/16528783/check-for-existence-of-file-using-jekyll -->
-    <div class="rightbox" style="width: 12%;"><a href="/ulloi.html"><img class="shadow" src="/ulloi_thumbnail.png"></a></div>
-
-    <!-- Read more part 2. -->
-    <p>Na akkor fussunk is neki ennek a történetnek!</p>
-
-<p>Nagyon hálás témának tartom magát az egész Üllői utat fotózgatni nap, mint nap, mert sok más magyarországi témával együtt, ez is igazán egyedi szociolenyomata ennek az országnak.</p>
-
-<p>Idén, <a href="http://anna.fleischmann.hu/">Anna</a> szülinapján, végül hosszú várakozás után azt gondoltam, hogy együtt, egy közös szülinapi ebédre bevillamosozva a város felé, végre megnézzük közelebbről is ezt a témát. Végül az út során, teszt jelleggel ezek a képek készültek, sajnos csak mobiltelefonnal… ☹️ A várt hatás még sajnos nincs meg, de egy tesztnek mindenképpen jó volt.</p>
-
-<p>Extra dolog még, hogy akkor itt tudom majd tesztelni az oldalhoz megálmodott fotómegjelenítő megoldást is valamikor…</p>
-
-
-    <p style="float: right; clear: right;"><a href="/ulloi.html">...a "📷 Üllői út v1.0β" bejegyzés itt folytatódik <i class="icon-right-big"></i></a></p>
-
-    <!-- Disqus counter -->
-    
-
       <script id="dsq-count-scr" src="//gyorgy-fleischmann-hu.disqus.com/count.js" async></script>
-      <a href="/ulloi.html#disqus_thread">Disqus counter</a>
-
+      <nobr><a href="/Apuka.html#disqus_thread">Disqus counter</a></nobr>
     
 
+<<<<<<< Updated upstream
+    
+    </div>
+=======
     <div style="clear: both;"></div>
+>>>>>>> Stashed changes
 
   </article>
 
 
   
+
+  <article class='post'>
+
+    <h1 class='post-title'><a href="/Gergo.html" class="hvr-buzz-out">&nbsp;Gergő</a></h1>
+
+    <div class="post-date"><i class="icon-calendar"></i> 2019., november 11.,
+
+    <!-- Source: https://sacha.me/articles/jekyll-word-counts/ -->
+    |
+
+    <nobr><i class="icon-user"></i><a href="mailto:gyorgy@fleischmann.hu">_flex</a>
     
+    <img src="https://www.gravatar.com/avatar/645917b1946117c27a6ee9bbd02240e1?s=40" style="width: 12px;"> | </nobr>
+
+    <nobr><i class="icon-list"></i>[<a href="categories.html#Personal / személyes">Personal / személyes</a>]</nobr>
+    <nobr><i class="icon-tags"></i><a href="tags.html#én">#én</a> <a href="tags.html#mi">#mi</a> <a href="tags.html#élet">#élet</a> <a href="tags.html#halál">#halál</a> </nobr>
+
+    </div><!-- .post-date -->
+
+    <!-- Read more part 1. -->
+    <!-- https://gist.github.com/mikeygee/2626538 -->
+    <!-- https://stackoverflow.com/questions/16528783/check-for-existence-of-file-using-jekyll -->
+    
+
+    <!-- Read more part 2. -->
+    
+
+
+    <div style="clear: both;">
+    <!-- Disqus counter -->
+    
+      <script id="dsq-count-scr" src="//gyorgy-fleischmann-hu.disqus.com/count.js" async></script>
+      <nobr><a href="/Gergo.html#disqus_thread">Disqus counter</a></nobr>
+    
+
+<<<<<<< Updated upstream
+    
+    </div>
+=======
+    <div style="clear: both;"></div>
+>>>>>>> Stashed changes
+
+  </article>
+
+
   
+
+  <article class='post'>
+
+    <h1 class='post-title'><a href="/Anna.html" class="hvr-buzz-out">&nbsp;Anna</a></h1>
+
+    <div class="post-date"><i class="icon-calendar"></i> 2019., november 5.,
+
+    <!-- Source: https://sacha.me/articles/jekyll-word-counts/ -->
+    |
+
+    <nobr><i class="icon-user"></i><a href="mailto:gyorgy@fleischmann.hu">_flex</a>
     
+    <img src="https://www.gravatar.com/avatar/645917b1946117c27a6ee9bbd02240e1?s=40" style="width: 12px;"> | </nobr>
+
+    <nobr><i class="icon-list"></i>[<a href="categories.html#Personal / személyes">Personal / személyes</a>]</nobr>
+    <nobr><i class="icon-tags"></i><a href="tags.html#én">#én</a> <a href="tags.html#mi">#mi</a> <a href="tags.html#élet">#élet</a> <a href="tags.html#halál">#halál</a> </nobr>
+
+    </div><!-- .post-date -->
+
+    <!-- Read more part 1. -->
+    <!-- https://gist.github.com/mikeygee/2626538 -->
+    <!-- https://stackoverflow.com/questions/16528783/check-for-existence-of-file-using-jekyll -->
+    
+
+    <!-- Read more part 2. -->
+    <p><strong>Annácska,</strong></p>
+
+<p>Nem sok új dolgot tudok neked most már tanácsként adni, mivel <a href="https://anna.fleischmann.hu/">Te</a> vagy a legnagyobb gyerekünk és így már mindent láttál és megértettél a családunkból.</p>
+
+<p>Emlékként hagyom neked az egyik Elysée töltőtollat, ahogy mindenkire hagyok egyet-egyet és Te már tudod is hol tartom őket, mert megmuttatam már neked, plusz a tied az a kis bordó fotóalbum, amit kiskori képekkel töltögetek és remélhetőleg még az a pár utolsó üres oldal is feltöltődött már mostanra. Ha nem, akkor ugye ez is így marad befejezetlenűl…</p>
+
+<p>Fontos tanács, hogy <a href="https://hajnalka.fleischmann.hu/">anyáddal</a> ne nagyon vitatkozz soha, mert semmi értelme és csak megbetegszel tőle. Hidd el én ezt már tapasztalatból mondom. Nem gondoltam volna, hogy megtörténhet ilyen és mind azt gondoljuk, hogy erősek vagyunk, de sajnos ez nem így van.</p>
+
+<p>Pusszantás neked is!</p>
+
+
+    <div style="clear: both;">
+    <!-- Disqus counter -->
+    
+      <script id="dsq-count-scr" src="//gyorgy-fleischmann-hu.disqus.com/count.js" async></script>
+      <nobr><a href="/Anna.html#disqus_thread">Disqus counter</a></nobr>
+    
+
+<<<<<<< Updated upstream
+    
+    </div>
+=======
+    <div style="clear: both;"></div>
+>>>>>>> Stashed changes
+
+  </article>
+
+
   
+
+  <article class='post'>
+
+    <h1 class='post-title'><a href="/Andras.html" class="hvr-buzz-out">&nbsp;Andrew / András</a></h1>
+
+    <div class="post-date"><i class="icon-calendar"></i> 2019., szeptember 30.,
+
+    <!-- Source: https://sacha.me/articles/jekyll-word-counts/ -->
+    |
+
+    <nobr><i class="icon-user"></i><a href="mailto:gyorgy@fleischmann.hu">_flex</a>
     
+    <img src="https://www.gravatar.com/avatar/645917b1946117c27a6ee9bbd02240e1?s=40" style="width: 12px;"> | </nobr>
+
+    <nobr><i class="icon-list"></i>[<a href="categories.html#Personal / személyes">Personal / személyes</a>]</nobr>
+    <nobr><i class="icon-tags"></i><a href="tags.html#én">#én</a> <a href="tags.html#mi">#mi</a> <a href="tags.html#élet">#élet</a> <a href="tags.html#halál">#halál</a> </nobr>
+
+    </div><!-- .post-date -->
+
+    <!-- Read more part 1. -->
+    <!-- https://gist.github.com/mikeygee/2626538 -->
+    <!-- https://stackoverflow.com/questions/16528783/check-for-existence-of-file-using-jekyll -->
+    
+
+    <!-- Read more part 2. -->
+    <p>Pontosan nem is tudom, hogy mit írhatnék neked?</p>
+
+<p>Még túl fiatal vagy, nincs még semmi maradandó emléked sem rólam.</p>
+
+<p><strong>Jó legyél, pusszantalak!</strong></p>
+
+<p>Képeid az interneten: <a href="htts://andras.fleischmann.hu/">link</a></p>
+
+
+    <div style="clear: both;">
+    <!-- Disqus counter -->
+    
+      <script id="dsq-count-scr" src="//gyorgy-fleischmann-hu.disqus.com/count.js" async></script>
+      <nobr><a href="/Andras.html#disqus_thread">Disqus counter</a></nobr>
+    
+
+<<<<<<< Updated upstream
+    
+    </div>
+=======
+    <div style="clear: both;"></div>
+>>>>>>> Stashed changes
+
+  </article>
+
+
+  
+
+  <article class='post'>
+
+    <h1 class='post-title'><a href="/Perec.html" class="hvr-buzz-out">&nbsp;Perec</a></h1>
+
+    <div class="post-date"><i class="icon-calendar"></i> 2019., augusztus 20.,
+
+    <!-- Source: https://sacha.me/articles/jekyll-word-counts/ -->
+    484 szó, elolvasásához kb.: 2 perc kell|
+
+    <nobr><i class="icon-user"></i><a href="mailto:gyorgy@fleischmann.hu">_flex</a>
+    
+    <img src="https://www.gravatar.com/avatar/645917b1946117c27a6ee9bbd02240e1?s=40" style="width: 12px;"> | </nobr>
+
+    <nobr><i class="icon-list"></i>[<a href="categories.html#Personal / személyes">Personal / személyes</a>]</nobr>
+    <nobr><i class="icon-tags"></i><a href="tags.html#friends">#friends</a> </nobr>
+
+    </div><!-- .post-date -->
+
+    <!-- Read more part 1. -->
+    <!-- https://gist.github.com/mikeygee/2626538 -->
+    <!-- https://stackoverflow.com/questions/16528783/check-for-existence-of-file-using-jekyll -->
+    
+
+    <!-- Read more part 2. -->
+    <p>Boldog szülinapot innen is! és <strong>kitartás Zoltán!</strong></p>
+
+<div class="video-wrap"><div class="video">
+
+<div class="videocontainer"><iframe src="https://www.youtube.com/embed/B8cucse5DXE" frameborder="0" allowfullscreen="" class="iframeshadow"></iframe></div>
+
+</div></div>
+
+
+
+    <div style="clear: both;">
+    <!-- Disqus counter -->
+    
+
+<<<<<<< Updated upstream
+    <p style="float: right; clear: right;"><a href="/Perec.html">...a "Perec" bejegyzés itt folytatódik <i class="icon-right-big"></i></a></p>
+    </div>
+=======
+    <div style="clear: both;"></div>
+>>>>>>> Stashed changes
+
+  </article>
+
+
+  
+
+  <article class='post'>
+
+    <h1 class='post-title'><a href="/en.html" class="hvr-buzz-out">&nbsp;I wouldn't have thought / én nem gondoltam volna</a></h1>
+
+    <div class="post-date"><i class="icon-calendar"></i> 2019., május 5.,
+
+    <!-- Source: https://sacha.me/articles/jekyll-word-counts/ -->
+    |
+
+    <nobr><i class="icon-user"></i><a href="mailto:gyorgy@fleischmann.hu">_flex</a>
+    
+    <img src="https://www.gravatar.com/avatar/645917b1946117c27a6ee9bbd02240e1?s=40" style="width: 12px;"> | </nobr>
+
+    <nobr><i class="icon-list"></i>[<a href="categories.html#Personal / személyes">Personal / személyes</a>]</nobr>
+    <nobr><i class="icon-tags"></i><a href="tags.html#én">#én</a> <a href="tags.html#mi">#mi</a> <a href="tags.html#élet">#élet</a> <a href="tags.html#halál">#halál</a> </nobr>
+
+    </div><!-- .post-date -->
+
+    <!-- Read more part 1. -->
+    <!-- https://gist.github.com/mikeygee/2626538 -->
+    <!-- https://stackoverflow.com/questions/16528783/check-for-existence-of-file-using-jekyll -->
+    
+
+    <!-- Read more part 2. -->
+    <div class="rightbox" style="margin-left: 1%;">
+<blockquote class="twitter-tweet" data-lang="en"><p lang="hu" dir="ltr">Most, hogy sajnáltuk azt, akinek nincs gyereke, kicsit sajnáljunk engem, akinek van. Aki elhozta a két gyerekét (15&amp;18) egy 1+MFt-os nyaralásra, és “nincs kedvük” lejönni a szobából.</p>&mdash; ZoltanBB (@ZoltanBB) <a href="https://twitter.com/ZoltanBB/status/1010510787562168326?ref_src=twsrc%5Etfw">June 23, 2018</a></blockquote></div>
+
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>Azt érzem, hogy egy kicsit belefáradtam már az életbe.</p>
+
+<p>///</p>
+
+<p>https://github.com/sindresorhus/ama/issues/414</p>
+
+
+    <div style="clear: both;">
+    <!-- Disqus counter -->
+    
+      <script id="dsq-count-scr" src="//gyorgy-fleischmann-hu.disqus.com/count.js" async></script>
+      <nobr><a href="/en.html#disqus_thread">Disqus counter</a></nobr>
+    
+
+<<<<<<< Updated upstream
+    
+    </div>
+=======
+    <div style="clear: both;"></div>
+>>>>>>> Stashed changes
+
+  </article>
+
+
+  
+
+  <article class='post'>
+
+    <h1 class='post-title'><a href="/transversion.html" class="hvr-buzz-out">&nbsp;Transversion</a></h1>
+
+    <div class="post-date"><i class="icon-calendar"></i> 2019., január 1.,
+
+    <!-- Source: https://sacha.me/articles/jekyll-word-counts/ -->
+    |
+
+    <nobr><i class="icon-user"></i><a href="mailto:gyorgy@fleischmann.hu">_flex</a>
+    
+    <img src="https://www.gravatar.com/avatar/645917b1946117c27a6ee9bbd02240e1?s=40" style="width: 12px;"> | </nobr>
+
+    <nobr><i class="icon-list"></i>[<a href="categories.html#Development / fejlesztés">Development / fejlesztés</a>]</nobr>
+    <nobr><i class="icon-tags"></i><a href="tags.html#pico-8">#pico-8</a> <a href="tags.html#development">#development</a> <a href="tags.html#zx spectrum">#zx spectrum</a> <a href="tags.html#retro">#retro</a> <a href="tags.html#game">#game</a> </nobr>
+
+    </div><!-- .post-date -->
+
+    <!-- Read more part 1. -->
+    <!-- https://gist.github.com/mikeygee/2626538 -->
+    <!-- https://stackoverflow.com/questions/16528783/check-for-existence-of-file-using-jekyll -->
+    
+
+    <!-- Read more part 2. -->
+    <div class="rightbox" style="width: 40%;"><img class="shadow" src="images/transversion/transversion_tape_cover.jpg" alt="Original Transversion tape cover" /></div>
+
+<p>Valamikor 1983 környékén vettük (nem is tudom, hogy pontosan milyen körülmémyek között) az első számítógépünket, egy Sinclair ZX Spectrum 48K gépet. A gép még az alap gumi billentyűzetes volt és a kicsomgaolása nekem akkoriban okozott legalább akkora örömöt, mint manapság akár egy Apple MacBook Pro kicsomagolása jelent. Sajnos az eredeti gép nincs már meg, főleg, mert útközben ZX Spectrum+-á alakult át és ebben a formában maradt meg.</p>
+
+<p>Na, de nem is is erről akartam most írni, hanem arról, hogy az egyik máig kedvenc jákékom volt ZX Spectrumon az OCEAN cég által kiadaott Transverzion nevű játéka. Az azóta eltelt idők során időről időre keresgéltem újabb klónját a játéknak és vannak / voltak is jó klónok.</p>
+
+<p>És végül álljon itt egy saját próbálkozásom, amit én most PICO-8 platformon követtem el:</p>
+
+<p>http://www.top80sgames.com/site/content/transversion</p>
+
+<p>https://spectrumcomputing.co.uk/index.php?cat=96&amp;id=5383</p>
+
+
+    <div style="clear: both;">
+    <!-- Disqus counter -->
+    
+      <script id="dsq-count-scr" src="//gyorgy-fleischmann-hu.disqus.com/count.js" async></script>
+      <nobr><a href="/transversion.html#disqus_thread">Disqus counter</a></nobr>
+    
+
+<<<<<<< Updated upstream
+    
+    </div>
+=======
+    <div style="clear: both;"></div>
+>>>>>>> Stashed changes
+
+  </article>
+
+
+  
+
+  <article class='post'>
+
+    <h1 class='post-title'><a href="/Hajnalka_HBD44.html" class="hvr-buzz-out">&nbsp;Hajnalka HBD 44</a></h1>
+
+    <div class="post-date"><i class="icon-calendar"></i> 2018., november 24.,
+
+    <!-- Source: https://sacha.me/articles/jekyll-word-counts/ -->
+    281 szó, elolvasásához kb.: 1 perc kell|
+
+    <nobr><i class="icon-user"></i><a href="mailto:gyorgy@fleischmann.hu">_flex</a>
+    
+    <img src="https://www.gravatar.com/avatar/645917b1946117c27a6ee9bbd02240e1?s=40" style="width: 12px;"> | </nobr>
+
+    <nobr><i class="icon-list"></i>[<a href="categories.html#Personal / személyes">Personal / személyes</a>]</nobr>
+    <nobr><i class="icon-tags"></i><a href="tags.html#family">#family</a> </nobr>
+
+    </div><!-- .post-date -->
+
+    <!-- Read more part 1. -->
+    <!-- https://gist.github.com/mikeygee/2626538 -->
+    <!-- https://stackoverflow.com/questions/16528783/check-for-existence-of-file-using-jekyll -->
+    
+
+    <!-- Read more part 2. -->
+    <p>Boldog szülinapot!</p>
+
+<div class="video-wrap"><div class="video">
+
+<div class="videocontainer"><iframe src="https://www.youtube.com/embed/yOGD1WkJJok" frameborder="0" allowfullscreen="" class="iframeshadow"></iframe></div>
+
+</div></div>
+
+
+
+    <div style="clear: both;">
+    <!-- Disqus counter -->
+    
+
+<<<<<<< Updated upstream
+    <p style="float: right; clear: right;"><a href="/Hajnalka_HBD44.html">...a "Hajnalka HBD 44" bejegyzés itt folytatódik <i class="icon-right-big"></i></a></p>
+    </div>
+=======
+    <div style="clear: both;"></div>
+>>>>>>> Stashed changes
+
+  </article>
+
+
+  
+
+  <article class='post'>
+
+    <h1 class='post-title'><a href="/Johnny_Cash-I_Hung_My_Head.html" class="hvr-buzz-out">&nbsp;🎵 Johnny Cash: I Hung My Head</a></h1>
+
+    <div class="post-date"><i class="icon-calendar"></i> 2018., július 27.,
+
+    <!-- Source: https://sacha.me/articles/jekyll-word-counts/ -->
+    444 szó, elolvasásához kb.: 2 perc kell|
+
+    <nobr><i class="icon-user"></i><a href="mailto:gyorgy@fleischmann.hu">_flex</a>
+    
+    <img src="https://www.gravatar.com/avatar/645917b1946117c27a6ee9bbd02240e1?s=40" style="width: 12px;"> | </nobr>
+
+    <nobr><i class="icon-list"></i>[<a href="categories.html#Muzax">Muzax</a>]</nobr>
+    <nobr><i class="icon-tags"></i><a href="tags.html#muzax">#muzax</a> <a href="tags.html#video">#video</a> </nobr>
+
+    </div><!-- .post-date -->
+
+    <!-- Read more part 1. -->
+    <!-- https://gist.github.com/mikeygee/2626538 -->
+    <!-- https://stackoverflow.com/questions/16528783/check-for-existence-of-file-using-jekyll -->
+    
+
+    <!-- Read more part 2. -->
+    <div class="video-wrap"><div class="video">
+
+<div class="videocontainer"><iframe src="https://www.youtube.com/embed/0M53FcPoWtA" frameborder="0" allowfullscreen="" class="iframeshadow"></iframe></div>
+
+</div></div>
+
+
+
+    <div style="clear: both;">
+    <!-- Disqus counter -->
+    
+
+<<<<<<< Updated upstream
+    <p style="float: right; clear: right;"><a href="/Johnny_Cash-I_Hung_My_Head.html">...a "🎵 Johnny Cash: I Hung My Head" bejegyzés itt folytatódik <i class="icon-right-big"></i></a></p>
+    </div>
+=======
+    <div style="clear: both;"></div>
+>>>>>>> Stashed changes
+
+  </article>
+
+
   </div><!-- .content -->
 
 </div><!-- .container -->
@@ -396,7 +693,7 @@
 
   <hr style="margin-top: 0.5em; clear: both; width: 95%;" class="gradientstyle">
 
-  <center style="margin-bottom: 0.5em;"><nobr><i class="icon-star-empty-1" style="color: red;"></i> Nincs jog fenntartva</nobr> -= <a href="http://www.fleischmann.hu/">FLEISCHMANN</a> =- <nobr>No rights reserved <i class="icon-star-empty-1" style="color: red;"></i></nobr></center>  
+  <center style="margin-bottom: 0.5em;"><nobr><i class="icon-star-empty-1" style="color: red;"></i> Nincs jog fenntartva</nobr> -= <a href="https://fleischmann.hu/" class="hvr-buzz-out" title="fleischmann.hu">FLEISCHMANN</a> =- <nobr>No rights reserved <i class="icon-star-empty-1" style="color: red;"></i></nobr></center>  
 
 
 

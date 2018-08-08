@@ -3,1653 +3,635 @@
   <title>News 'n' Updates | gyorgy.fleischmann.hu</title>
   <link href="http://0.0.0.0:4000/feed.xml" rel="self"/>
   <link href="http://0.0.0.0:4000/"/>
-  <updated>2018-01-14T12:51:59+01:00</updated>
+  <updated>2018-08-08T13:55:46+02:00</updated>
   <id>http://0.0.0.0:4000/</id>
   <author>
     <name></name>
   </author>
-  <generator>Jekyll v3.6.0</generator>
+  <generator>Jekyll v3.8.3</generator>
 
   
   <entry>
-    <title>🕸 HTML (HyperText Markup Language) 2018</title>
-    <link href="http://0.0.0.0:4000/html2017.html"/>
-    <updated>2018-01-01T00:00:00+01:00</updated>
-    <id>http://0.0.0.0:4000/html2017</id>
-    <content type="html">&lt;p&gt;&lt;span class=&quot;initial&quot;&gt;&lt;img class=&quot;inline&quot; src=&quot;https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png&quot; alt=&quot;IBM Logo&quot; style=&quot;width:80px;&quot; /&gt;HTML&lt;/span&gt;Relatíve egészen sok időt töltöttem már el különböző HTML-alapú weboldal ötletek tervezgetésével úgy, hogy sosem olvastam még el egyetlenegy aktuális HTML verzió teljes dokumentációját sem az elejétől a végéig, és így sajnos sosem tudtam még rendesen sem elmélyedni a témában.&lt;/p&gt;
+    <title>Hajnalka</title>
+    <link href="http://0.0.0.0:4000/Hajnalka.html"/>
+    <updated>2019-11-24T00:00:00+01:00</updated>
+    <id>http://0.0.0.0:4000/Hajnalka</id>
+    <content type="html">&lt;p&gt;De most tényleg…&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Love is the most subtle force on Earth. A szerelem a legtitokzatosabb erõ a Földön.” &lt;a href=&quot;https://en.wikipedia.org/wiki/Felon_(film)&quot;&gt;Felon&lt;/a&gt;, 2008&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Love comes to those who still love after disappointment, who still believe after betrayal, and who still love after they’ve been hurt.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Érdekes egy érzés bejegyzést írni a jövőnek, de itt már végre az ember kiírhatja mindazt, amit az eddigi élete alatt simán csak nem tudott, mert nem volt ideje vagy csak nem volt még elég bátorsága korábban megírni / kimondani.&lt;/p&gt;
 
 &lt;!-- break --&gt;
 
-&lt;p&gt;Most, amikor épp ezzel az új oldallal kisérleteztem, arra gondoltam, hogyha egyszer valamikor abbahagyom majd a TSM-mel (&lt;a href=&quot;https://www.ibm.com/&quot;&gt;&lt;img class=&quot;inline&quot; src=&quot;http://m.fooyoh.com/files/attach/images/3004/195/251/014/logos4.jpg&quot; alt=&quot;IBM Logo&quot; style=&quot;width: 55px;&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;https://www.ibm.com/us-en/marketplace/data-protection-and-recovery&quot;&gt;&lt;img class=&quot;inline&quot; src=&quot;https://www-03.ibm.com/systems/uk/resources/storage_spectrum_modernize_placeholder2.png&quot; alt=&quot;IBM Spectrum Protect Logo&quot; style=&quot;width: 20px;&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;https://www.ibm.com/us-en/marketplace/data-protection-and-recovery&quot;&gt;Spectrum Protect&lt;/a&gt;, aka: &lt;a href=&quot;https://www.ibm.com/&quot;&gt;&lt;img class=&quot;inline&quot; src=&quot;https://s-media-cache-ak0.pinimg.com/originals/f2/c2/e2/f2c2e2b63af6ffe5ddfff5a2557bfee6.jpg&quot; alt=&quot;IBM Logo&quot; style=&quot;width: 55px;&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;https://en.wikipedia.org/wiki/IBM_Tivoli_Storage_Manager&quot;&gt;Tivoli Storage Manager&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/IBM_Tivoli_Storage_Manager&quot;&gt;ADSTAR Distributed Storage Manager&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/IBM_Tivoli_Storage_Manager&quot;&gt;ADSM&lt;/a&gt;) való munkáimat, akkor lehet, hogy talán ez lenne az a következő téma / terület, amit szívesen csinálnék majd helyette.&lt;/p&gt;
-
-&lt;p&gt;A sok “gondolkodás” közben / előtt, egészen a kezdetekkor már lementettem pár .html oldalt, amiben mind találtam valami nekem tetsző vagy éppen valami nekem nem tetsző dolgot és hamár összeraktam ezt az oldalt erről a témáról, akkor azonnnal adta magát, hogy itt lesz ezentúl ezenknek a régen lementett képeknek a végleges helyük. Lehet, hogy egyszer azt kis leírom majd, hogy melyikről mit gondolok, de nem most.&lt;/p&gt;
-
-&lt;div&gt;
-
-&lt;div class=&quot;leftbox&quot; style=&quot;width: 10%;&quot;&gt;&lt;a href=&quot;http://plastik.hu/&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/plastik_media_(20100518).png&quot; alt=&quot;plastik.hu saved in 2010.&quot; title=&quot;plastik.hu saved in 2010.&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://plastik.hu/&quot;&gt;plastik.hu&lt;/a&gt; saved in 2010.&lt;/p&gt;&lt;/div&gt;
-
-&lt;div class=&quot;leftbox&quot; style=&quot;width: 20%;&quot;&gt;&lt;a href=&quot;http://index.hu/&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/Index_(20120331).png&quot; alt=&quot;index.hu saved in 2012.&quot; title=&quot;index.hu saved in 2012.&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://index.hu/&quot;&gt;index.hu&lt;/a&gt; saved in 2012.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;a href=&quot;http://google.com/&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/Google_(20120331).png&quot; alt=&quot;google.com saved in 2012.&quot; title=&quot;google.com saved in 2012.&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://google.com/&quot;&gt;google.com&lt;/a&gt; saved in 2012.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;a href=&quot;http://adobe.com/&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/Adobe_(20120331).png&quot; alt=&quot;adobe.com saved in 2012.&quot; title=&quot;adobe.com saved in 2012.&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://adobe.com/&quot;&gt;adobe.com&lt;/a&gt; saved in 2012.&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;leftbox&quot; style=&quot;width: 21%;&quot;&gt;&lt;a href=&quot;http://nol.hu/&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/Nepszabadsag_(20120331).png&quot; alt=&quot;nol.hu saved in 2012.&quot; title=&quot;nol.hu saved in 2012.&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://nol.hu/&quot;&gt;nol.hu&lt;/a&gt; saved in 2012.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;a href=&quot;http://microsoft.com/&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/Microsoft_Corporation-Software,_Smartphones,_Online,_Games,_Cloud_Computing,_IT_Business_Technology,_Downloads_(20120331).png&quot; alt=&quot;microsoft.com saved in 2012.&quot; title=&quot;microsoft.com saved in 2012.&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://microsoft.com/&quot;&gt;microsoft.com&lt;/a&gt; saved in 2012.&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;leftbox&quot; style=&quot;width: 20%;&quot;&gt;&lt;a href=&quot;http://origo.hu/&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/origo_(20120331).png&quot; alt=&quot;origo.hu saved in 2012.&quot; title=&quot;origo.hu saved in 2010.&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://origo.hu/&quot;&gt;origo.hu&lt;/a&gt; saved in 2012.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;a href=&quot;http://cnn.com/&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/CNN.com_International_-_Breaking,_World,_Business,_Sports,_Entertainment_and_Video_News_(20120331).png&quot; alt=&quot;cnn.com saved in 2012.&quot; title=&quot;cnn.com saved in 2012.&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://cnn.com/&quot;&gt;cnn.com&lt;/a&gt; saved in 2012.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;a href=&quot;http://ibm.com/&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/IBM_-_United_States_(20120331).png&quot; alt=&quot;ibm.com saved in 2012.&quot; title=&quot;ibm.com save	d in 2012.&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://ibm.com/&quot;&gt;ibm.com&lt;/a&gt; saved in 2010.&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;leftbox&quot; style=&quot;width: 21%;&quot;&gt;&lt;a href=&quot;http://old.fleischmann.hu/geocities.com/html/news_template.htm&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/Gyurci-Flex's_NEWS_page_(20100518).png&quot; alt=&quot;news_template.htm saved in 2010.&quot; title=&quot;news_template.htm saved in 2010.&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://old.fleischmann.hu/geocities.com/html/news_template.htm&quot;&gt;news_template.htm&lt;/a&gt; saved in 2010.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;a href=&quot;http://old.fleischmann.hu/geocities.com/html/mybook/tartalom.htm&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/Az_en_konyvem_- _Tartalom_(2017-11-22).png&quot; alt=&quot;Tartalom saved in 2010.&quot; title=&quot;Tartalom saved in 2010.&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://old.fleischmann.hu/geocities.com/html/mybook/tartalom.htm&quot;&gt;Tartalom&lt;/a&gt; saved in 2010.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;a href=&quot;http://old.fleischmann.hu/geocities.com/html/mybook/az_uj_gazdasag_regi_szabalya.htm&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/Az_en_konyvem_-_Az_uj_gazdasag_regi_szabalya_(2017-11-22).png&quot; alt=&quot;Az új gazdaság régi szabálya saved in 2010.&quot; title=&quot;Az új gazdaság régi szabálya saved in 2010.&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://old.fleischmann.hu/geocities.com/html/mybook/az_uj_gazdasag_regi_szabalya.htm&quot;&gt;Az új gazdaság régi szabálya&lt;/a&gt; saved in 2010.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;a href=&quot;http://google.hu/&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/Google_(2017-12-20).png&quot; alt=&quot;google.hu saved in 2017.&quot; title=&quot;google.hu saved in 2017.&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://google.com/&quot;&gt;google.hu&lt;/a&gt; saved in 2017.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br style=&quot;clear: both;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Egy picit tovább visszatekerve még az idő kerekét, a lementett képeken kívül, a saját ötletekből és kisérletezgetésekből a következő nekem fontos oldalak maradtak fenn:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;div class=&quot;rightbox&quot; style=&quot;width: 15%;&quot;&gt;&lt;a href=&quot;http://old.fleischmann.hu/&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/FLEISCHMANN.HU_Tartalom-Contents_(20100518).png&quot; alt=&quot;fleischmann.hu saved in 2010.&quot; title=&quot;fleischmann.hu saved in 2010.&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://old.fleischmann.hu/&quot;&gt;fleischmann.hu&lt;/a&gt; saved in 2010.&lt;/p&gt;&lt;/div&gt;
-    &lt;div class=&quot;rightbox&quot; style=&quot;width: 15%;&quot;&gt;&lt;a href=&quot;http://old.fleischmann.hu/geocities.com/&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/geominihp20040407.jpg&quot; alt=&quot;geocities.com saved in 2004.&quot; title=&quot;geocities.com saved in 2004.&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://old.fleischmann.hu/geocities.com/&quot;&gt;geocities.com/gfleischmann/&lt;/a&gt; saved in 2004.&lt;/p&gt;&lt;/div&gt;
-    &lt;p&gt;Az első saját weboldalam (~1997-ből) még a GeoCities&lt;sup id=&quot;fnref:geocities&quot;&gt;&lt;a href=&quot;#fn:geocities&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; ingyenes szolgáltatására épült és amit most látok csak, hogy ennek a nyomai egy lelkes internetes csoportnak (OoCities&lt;sup id=&quot;fnref:oocities&quot;&gt;&lt;a href=&quot;#fn:oocities&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;) köszönhetően még mindig elérhetőek a következő címen is: &lt;a href=&quot;http://www.oocities.org/gfleischmann/&quot;&gt;www.oocities.org/gfleischmann&lt;/a&gt;. Én, az &lt;a href=&quot;http://old.fleischmann.hu/geocities.com/&quot;&gt;old.fleischmann.hu/geocities.com&lt;/a&gt; oldalon őrzöm az utolsó állapotát. Az oldal tanúsága alapján, 2003. év végéig volt ez még szerkesztve.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Egy kisebb szünet után valamikor ~2005-től a követező, már teljesen új formájában született újra a weboldalam: &lt;a href=&quot;http://old.fleischmann.hu/&quot;&gt;fleischmann.hu&lt;/a&gt; internetes domain alatt. (Külön köszönet illeti ezért Tóth Petit (G.A.M.F., Kecskemét) a domain név regisztrációért!) Ennek az oldalank az újdonsága a fotóblogolás volt, amihez a statikus oldalkat egy saját készítésű perl szkript “fordított” le. Ez az egész fotóblogolás egészen 2009 első negyedéig tartott. Közben (~2014-ben) magát az oldalt kiszolgáló és hosztoló fizikai gép (amiért nem győzök ugyszint eléggé hálás lenni Vihari Balázsnak, (Crédit Lyonnais, Budapest)) is megszűnt már. Azóta egészen 2017-ig nem is történt már vele tudtommal semmi változás egészen pontosan mostanáig, amikor is feltöltöttem minden általam elérhető archív fájlt a &lt;a href=&quot;https://github.com/&quot;&gt;&lt;img class=&quot;inline&quot; src=&quot;https://github.com/fluidicon.png&quot; alt=&quot;GitHub Logo&quot; style=&quot;width:30px;&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;https://github.com/&quot;&gt;GitHub&lt;/a&gt;-ra és a &lt;a href=&quot;http://pages.github.com/&quot;&gt;pages.github.com&lt;/a&gt; szolgáltásra hagytam az oldalak tényleges kiszolgálását a korábban már említett &lt;a href=&quot;http://old.fleischmann.hu/&quot;&gt;old.fleischmann.hu&lt;/a&gt; domain alatt.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;div class=&quot;rightbox&quot; style=&quot;width: 15%;&quot;&gt;&lt;a href=&quot;http://gyorgy.fleischmann.hu/&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/HTML_(HyperText_Markup_Language)_2017_-_gyorgy.fleischmann.hu_(2017-11-22).png&quot; alt=&quot;gyorgy.fleischmann.hu saved in 2017.&quot; title=&quot;gyorgyfleischmann.hu saved in 2017.&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://gyorgy.fleischmann.hu/&quot;&gt;gyorgy.fleischmann.hu&lt;/a&gt; saved in 2017.&lt;/p&gt;&lt;/div&gt;
-    &lt;p&gt;Épp amikor ezeket a feltöltéseket és a hozzájuk kapcsolódó finomításokat csináltam (DNS bejegyzések frissítése, régi karakter kódolások javítása a &lt;a href=&quot;https://github.com/&quot;&gt;GitHub&lt;/a&gt;-hoz, &lt;a href=&quot;https://analytics.google.com/&quot;&gt;Google Analytics&lt;/a&gt; újraélesztése) gondoltam arra, hogy mi lenne akkor, ha ide újra készítenék már egy teljesen új oldalt is, az itt adott technikákkal (GitHub, jekyll, HTML5, CSS3). Első körben a következőket tűztem ki célul:&lt;/p&gt;
-    &lt;ul&gt;
-      &lt;li&gt;tudjon majd kezelni sorkizárt szövegeket úgy, hogy dinamikusan kezeljen ezzel együtt jobbra/balra igazított képeket vagy szövegdobozokat is;&lt;/li&gt;
-      &lt;li&gt;valahogy lehessen iniciálékat tenni a bekezdések elé;&lt;/li&gt;
-      &lt;li&gt;lehessen terminál szerű (fekete ablak) példákat beidézni;&lt;/li&gt;
-      &lt;li&gt;magától kezeljen forrásprogrami példákat szépen színezve a szintaxiskiemeléseket (syntax highlighting);&lt;/li&gt;
-      &lt;li&gt;lehessen fotószeteket kezelni és legyen hozzá egy egyszerűen használható teljesképernyős fotó megjelenítő;&lt;/li&gt;
-      &lt;li&gt;tudjon médiafájlokat kezelni: .mp3, .mp4, youtube, vimeo, soundcloud, …;&lt;/li&gt;
-      &lt;li&gt;normálisan kezelje a markdown fájl formázó lehetőségeit;&lt;/li&gt;
-      &lt;li&gt;a nyomtatott változat is értkelhető kimenetet eredményezzen;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;A megálmodott és végül elkészített megoldást itt: &lt;a href=&quot;jekyll_test_page.html&quot;&gt;jekyll tesztoldalam&lt;/a&gt; és &lt;a href=&quot;jekyll-big-test_page.html&quot;&gt;jekyll tesztoldalam2&lt;/a&gt; teszteltem.&lt;/p&gt;
-
-&lt;p&gt;Persze lehetne még ezt az egész dizájnt -, ha nevezhetjük ezt egyáltalán annak - is a végtelenségig csiszolgatni, de én most itt, ezen a ponton egyelőre abbahagyom, mert eddig okozott a belé fektetett munka örömöt, boldogásgot és nem szereném, ha ez a végén esetleg még rossz irányba változna meg!&lt;/p&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:geocities&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Yahoo!_GeoCities&quot;&gt;Yahoo! GeoCities&lt;/a&gt; a Wikipedián &lt;a href=&quot;#fnref:geocities&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:oocities&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;http://www.oocities.com/&quot;&gt;OoCities&lt;/a&gt; &lt;a href=&quot;#fnref:oocities&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>👨🏻‍🎓 CV</title>
-    <link href="http://0.0.0.0:4000/cv.html"/>
-    <updated>2018-01-01T00:00:00+01:00</updated>
-    <id>http://0.0.0.0:4000/cv</id>
-    <content type="html">&lt;p style=&quot;margin-top: 1.5em; text-align: left;&quot;&gt;&lt;a href=&quot;http://gyorgy.fleischmann.hu/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;b style=&quot;font-size: 2em;&quot;&gt;FLEISCHMANN György&lt;/b&gt;&lt;/a&gt; &lt;nobr&gt;• nick names: flex, gyurci, FleXoft&lt;/nobr&gt;&lt;/p&gt;
-
-&lt;p style=&quot;text-align: left;&quot;&gt;&lt;a href=&quot;https://twitter.com/flexoft&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;i class=&quot;icon-twitter&quot; style=&quot;margin-left: -4px; margin-right: -4px;&quot;&gt;&lt;/i&gt;@flexoft&lt;/a&gt; •&lt;nobr&gt;&lt;i class=&quot;icon-mobile&quot; style=&quot;margin-left: -4px; margin-right: -5px;&quot;&gt;&lt;/i&gt;+36 30 979 1403&lt;/nobr&gt; &lt;nobr&gt;• &lt;a href=&quot;mailto:gyorgy@fleischmann.hu&quot; target=&quot;_top&quot;&gt;gyorgy@fleischmann.hu&lt;/a&gt;&lt;/nobr&gt; • &lt;nobr&gt;&lt;a href=&quot;https://www.google.hu/maps/place/Budapest,+Ungv%C3%A1r+u.+33,+1185/@47.4337246,19.2123318,17z/data=!3m1!4b1!4m5!3m4!1s0x4741c18a7203082b:0x62593567a50ce394!8m2!3d47.433721!4d19.2145258?hl=hu&quot;&gt;&lt;i class=&quot;icon-home&quot; style=&quot;margin-left: -5px; margin-right: 0px;&quot;&gt;&lt;/i&gt;H-1185, Budapest, Ungvár utca 33/1., HUNGARY&lt;/a&gt;&lt;/nobr&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;summary&quot;&gt;SUMMARY&lt;/h1&gt;
-
-&lt;div class=&quot;rightbox&quot; style=&quot;width: 30%;&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;photos/flex.jpg&quot; alt=&quot;Fleischmann György&quot; title=&quot;Fleischmann György&quot; /&gt;
-  &lt;p class=&quot;phototext&quot;&gt;Photo by me, 2016.11.11., Minolta Dynax 7D, 50mm&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Highly qualified certified systems engineer / architect / consultant with more than 13 years &lt;span id=&quot;workTSM&quot;&gt;&lt;/span&gt; of experience in designing, building and supporting complex &lt;a href=&quot;https://www.ibm.com/&quot;&gt;&lt;img class=&quot;inline&quot; src=&quot;http://m.fooyoh.com/files/attach/images/3004/195/251/014/logos4.jpg&quot; alt=&quot;IBM Logo&quot; style=&quot;width: 55px;&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;https://www.ibm.com/us-en/marketplace/data-protection-and-recovery&quot;&gt;&lt;img class=&quot;inline&quot; src=&quot;https://www-03.ibm.com/systems/uk/resources/storage_spectrum_modernize_placeholder2.png&quot; alt=&quot;IBM Spectrum Protect Logo&quot; style=&quot;width: 20px;&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;https://www.ibm.com/us-en/marketplace/data-protection-and-recovery&quot;&gt;Spectrum Protect&lt;/a&gt; (aka: &lt;a href=&quot;https://www.ibm.com/&quot;&gt;&lt;img class=&quot;inline&quot; src=&quot;https://s-media-cache-ak0.pinimg.com/originals/f2/c2/e2/f2c2e2b63af6ffe5ddfff5a2557bfee6.jpg&quot; alt=&quot;IBM Logo&quot; style=&quot;width: 55px;&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;https://en.wikipedia.org/wiki/IBM_Tivoli_Storage_Manager&quot;&gt;Tivoli Storage Manager&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/IBM_Tivoli_Storage_Manager&quot;&gt;TSM&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/IBM_Tivoli_Storage_Manager&quot;&gt;ADSTAR Distributed Storage Manager&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/IBM_Tivoli_Storage_Manager&quot;&gt;ADSM&lt;/a&gt;) at the biggest Hungarian companies.&lt;/p&gt;
-
-&lt;p&gt;One of the well-known IBM TSM / Spectrum Protect experts / evangelists in &lt;a href=&quot;https://en.wikipedia.org/wiki/Hungary&quot;&gt;Hungary&lt;/a&gt;. Enthusiastic member of the &lt;a href=&quot;https://www.imwuc.org/hutug&quot;&gt;Hungarian Tivoli User Group&lt;/a&gt; (&lt;a href=&quot;https://www.imwuc.org/hutug&quot;&gt;Hu-TUG&lt;/a&gt;). Regular speaker at biannual events in IBM TSM / Spectrum Protect related topics.&lt;/p&gt;
-
-&lt;p&gt;Team player and problem-solver with very good communication and interpersonal skills.&lt;/p&gt;
-
-&lt;!-- break --&gt;
-
-&lt;h1 style=&quot;clear: none;&quot;&gt;FAMILY&lt;/h1&gt;
-
-&lt;div style=&quot;margin-left: 1em; padding: 0; float: right; width: 75pt;&quot;&gt;
-  &lt;p style=&quot;text-align: right; margin-bottom: 0;margin-right: 0.5em; font-size: 10pt;&quot;&gt;&lt;a class=&quot;hvr-buzz-out&quot; style=&quot;color: #bbb;&quot; href=&quot;javascript:showhide( 'motherID', 'fatherID', 'vigyorID', 'wifeID', 'annaID', 'gergoID', 'andrasID', 'familypics' );&quot;&gt;more / less &lt;i class=&quot;icon-plus&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&quot;mohács-baranya--hungary&quot;&gt;&lt;a href=&quot;https://hu.wikipedia.org/wiki/Moh%C3%A1cs&quot;&gt;Mohács&lt;/a&gt;, &lt;a href=&quot;https://hu.wikipedia.org/wiki/Baranya_megye&quot;&gt;Baranya&lt;/a&gt; • &lt;a href=&quot;https://en.wikipedia.org/wiki/Hungary&quot;&gt;HUNGARY&lt;/a&gt;&lt;/h2&gt;
-&lt;div id=&quot;motherID&quot; style=&quot;display:none;&quot;&gt;&lt;span title=&quot;1937-2014&quot;&gt;37-14&lt;/span&gt; • &lt;a href=&quot;http://anyuka.fleischmann.hu/&quot;&gt;mother, Zsuzsanna&lt;/a&gt; • &lt;span id=&quot;motherBirthDiff&quot;&gt;&lt;/span&gt;&lt;/div&gt;
-&lt;div id=&quot;fatherID&quot; style=&quot;display:none;&quot;&gt;&lt;span title=&quot;1945-&quot;&gt;45-na&lt;/span&gt; • &lt;a href=&quot;http://apuka.fleischmann.hu/&quot;&gt;father, György&lt;/a&gt; • &lt;span id=&quot;fatherBirthDiff&quot;&gt;&lt;/span&gt;&lt;/div&gt;
-&lt;div id=&quot;vigyorID&quot; style=&quot;display:none;&quot;&gt;&lt;span title=&quot;1957-&quot;&gt;57-na&lt;/span&gt; • stepbrother, István • &lt;span id=&quot;vigyorBirthDiff&quot;&gt;&lt;/span&gt;&lt;/div&gt;
-&lt;div id=&quot;flexID&quot; style=&quot;display:block;&quot;&gt;&lt;span title=&quot;1970-&quot;&gt;&lt;b&gt;70-na&lt;/b&gt;&lt;/span&gt; • &lt;span id=&quot;flexBirthDiff&quot;&gt;&lt;/span&gt;&lt;/div&gt;
-&lt;div id=&quot;wifeID&quot; style=&quot;display:none;&quot;&gt;&lt;span title=&quot;1974-&quot;&gt;74-na&lt;/span&gt; • &lt;a href=&quot;http://hajnalka.fleischmann.hu/&quot;&gt;wife, Hajnalka&lt;/a&gt; • &lt;span id=&quot;wifeBirthDiff&quot;&gt;&lt;/span&gt;&lt;/div&gt;
-&lt;div id=&quot;annaID&quot; style=&quot;display:none;&quot;&gt;&lt;span title=&quot;2001-&quot;&gt;01-na&lt;/span&gt; • &lt;a href=&quot;http://anna.fleischmann.hu/&quot;&gt;Anna&lt;/a&gt; • &lt;span id=&quot;annaBirthDiff&quot;&gt;&lt;/span&gt;&lt;/div&gt;
-&lt;div id=&quot;gergoID&quot; style=&quot;display:none;&quot;&gt;&lt;span title=&quot;2005-&quot;&gt;05-na&lt;/span&gt; • &lt;a href=&quot;http://gergo.fleischmann.hu/&quot;&gt;Gergő&lt;/a&gt; • &lt;span id=&quot;gergoBirthDiff&quot;&gt;&lt;/span&gt;&lt;/div&gt;
-&lt;div id=&quot;andrasID&quot; style=&quot;display:none;&quot;&gt;&lt;span title=&quot;2017-&quot;&gt;17-na&lt;/span&gt; • &lt;a href=&quot;http://andras.fleischmann.hu/&quot;&gt;András&lt;/a&gt; • &lt;span id=&quot;andrasBirthDiff&quot;&gt;&lt;/span&gt;&lt;/div&gt;
-
-&lt;h1 id=&quot;work&quot;&gt;WORK&lt;/h1&gt;
-
-&lt;div style=&quot;margin-left: 1em; padding: 0; float: right; width: 75pt;&quot;&gt;
-  &lt;p style=&quot;text-align: right; margin-bottom: 0;margin-right: 0.5em; font-size: 10pt;&quot;&gt;&lt;a class=&quot;hvr-buzz-out&quot; style=&quot;color: #bbb;&quot; href=&quot;javascript:showhide( 'egID', 'userID', 'schneiderID', 'sgID', 'clID', 'mofaID' );&quot;&gt;more / less &lt;i class=&quot;icon-plus&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&quot;budapest-pest--hungary&quot;&gt;&lt;a href=&quot;https://hu.wikipedia.org/wiki/Budapest&quot;&gt;Budapest&lt;/a&gt;, &lt;a href=&quot;https://hu.wikipedia.org/wiki/Pest_megye&quot;&gt;Pest&lt;/a&gt; • &lt;a href=&quot;https://en.wikipedia.org/wiki/Hungary&quot;&gt;HUNGARY&lt;/a&gt;&lt;/h2&gt;
-
-&lt;table class=&quot;blockheader&quot;&gt;
-  &lt;tr&gt;
-    &lt;th width=&quot;1%;&quot; valign=&quot;top&quot; style=&quot;padding-right: 0.3em;&quot;&gt;&lt;nobr&gt;&lt;span title=&quot;2015-&quot;&gt;&lt;b&gt;15-na&lt;/b&gt;&lt;/span&gt; •&lt;/nobr&gt;&lt;/th&gt;
-    &lt;th&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;System engineer, &lt;a href=&quot;http://www.ibm.com/&quot;&gt;IBM&lt;/a&gt; &lt;a href=&quot;http://www-03.ibm.com/software/products/en/spectrum-protect&quot;&gt;Spectrum Protect&lt;/a&gt; (Tivoli Storage Manager) specialist • &lt;a href=&quot;http://www.scss.hu/&quot;&gt;SCSS Informatikai, Kereskedelmi és Szolgáltató Kft.&lt;/a&gt;, &lt;a href=&quot;http://effectivegroup.hu/&quot;&gt;Effective Group Informatika Zrt.&lt;/a&gt;&lt;/p&gt;&lt;/th&gt; 
-  &lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;div id=&quot;egID&quot; style=&quot;display:none; margin-left: 3.4em; margin-bottom: 1em;&quot;&gt;
-
-&lt;ul style=&quot;list-style-type:disc&quot;&gt;
-&lt;li&gt;Supporting a dozen large IBM TSM, SP customers in Hungary&lt;/li&gt;
-&lt;li&gt;Supporting IBM GPFS, Spectrum Scale cutomers with TSM / SP HSM&lt;/li&gt;
-&lt;li&gt;TSM Symposium, 15 (Dresden)&lt;/li&gt;
-&lt;li&gt;Speaker of &lt;a href=&quot;http://systemsday.momartmail.hu/Home/Program&quot;&gt;IBM, RRC Systems Day&lt;/a&gt; (Effective storage usage in backup environments, real implementation experiences), 17&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;b&gt;Main projects and references:&lt;/b&gt;&lt;br /&gt;
-
-&lt;ul style=&quot;list-style-type:disc&quot;&gt;
-&lt;li&gt;7/24 high availability TSM v6, v7, v8 support for:&lt;/li&gt;
-
-&lt;ul style=&quot;list-style-type:circle&quot;&gt;
-&lt;li&gt;MKB Bank (&amp;gt;3Y): 4 TSM servers on a HP-UX cluster environment with library manager configuration and other 2 TSM servers (IBM AIX) for document archiving systems&lt;/li&gt;
-&lt;li&gt;Generali Biztosító (&amp;gt;2Y): 2 general TSM servers on Microsoft Windows and other 2 TSM (IBM AIX) servers for document store systems&lt;/li&gt;
-&lt;li&gt;MTVA (&amp;gt;3Y): TSM on a Microsoft Windows cluster, node replication, container pool deduplication environments and TSM on Linux with GPFS filesystems&lt;/li&gt;
-&lt;li&gt;MVMI, NAK(Nemzeti Agrárgazdasági Kamara), Diákhitel, EOS, FGSZ, FPH&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/ul&gt;
-
-&lt;/div&gt;
-
-&lt;table class=&quot;blockheader&quot;&gt;
-  &lt;tr&gt;
-    &lt;th width=&quot;1%;&quot; valign=&quot;top&quot; style=&quot;padding-right: 0.3em;&quot;&gt;&lt;nobr&gt;&lt;span title=&quot;2004-2014&quot;&gt;&lt;b&gt;04-14&lt;/b&gt;&lt;/span&gt; •&lt;/nobr&gt;&lt;/th&gt;
-    &lt;th&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;System engineer, &lt;a href=&quot;http://www.ibm.com/&quot;&gt;IBM&lt;/a&gt; &lt;a href=&quot;http://www-03.ibm.com/software/products/en/spectrum-protect&quot;&gt;Tivoli Storage Manager&lt;/a&gt; specialist • &lt;a href=&quot;http://www.user.hu/&quot;&gt;USER Tanácsadó Kft.&lt;/a&gt;, &lt;a href=&quot;http://www.userrendszerhaz.hu/&quot;&gt;USER Rendszerház Kft.&lt;/a&gt; (IBM Tivoli Awards, &lt;span title=&quot;2012&quot;&gt;12&lt;/span&gt; • IBM AAA-level Tivoli Deployment Accreditation, &lt;span title=&quot;2013&quot;&gt;13&lt;/span&gt;)&lt;/p&gt;&lt;/th&gt; 
-  &lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;div id=&quot;userID&quot; style=&quot;display:none; margin-left: 3.4em; margin-bottom: 1em;&quot;&gt;
-
-&lt;ul style=&quot;list-style-type:disc&quot;&gt;
-&lt;li&gt;Supporting a dozen large IBM TSM customers in Hungary&lt;/li&gt;
-&lt;li&gt;Participation the biggest IBM TSM related events (IBM C&amp;amp;SI EMEA Technical Academy, 14 (Madrid) • IBM Tivoli Technical Academy, 13 (Reading) • TSM Symposium, 11 (Dresden))&lt;/li&gt;
-&lt;li&gt;Architect / integrate big IBM TSM configurations&lt;/li&gt;
-&lt;li&gt;Troubleshoot / consult performance, backup, restore issues&lt;/li&gt;
-&lt;li&gt;Member of several IBM TSM API based development&lt;/li&gt;
-&lt;li&gt;Health check, operate, maintain big IBM TSM environments&lt;/li&gt;
-&lt;li&gt;Speaker of &lt;a href=&quot;http://cloudday.momart.hu/&quot;&gt;VMware Cloud Day&lt;/a&gt; (Backing up VMware with IBM technology), 13&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;b&gt;Main projects and references:&lt;/b&gt;&lt;br /&gt;
-
-&lt;ul style=&quot;list-style-type:disc&quot;&gt;
-&lt;li&gt;7/24 high availability TSM v5, v6 support for:&lt;/li&gt;
-&lt;ul style=&quot;list-style-type:circle&quot;&gt;
-&lt;li&gt;MKB Bank (&amp;gt;10Y): 4 TSM servers on a HP-UX cluster environment with library manager configuration and other 2 TSM servers (IBM AIX) for document archiving systems&lt;/li&gt;
-&lt;li&gt;Allianz Biztosító (&amp;gt;10Y): TSM on a HA AIX environment with library manager configuration and other 2 TSM servers for document store systems&lt;/li&gt;  
-&lt;li&gt;Generali Biztosító (&amp;gt;10Y): 4 general TSM servers on Microsoft Windows for the region and other 2 TSM servers on IBM AIX for document store systems&lt;/li&gt;
-&lt;li&gt;FHB Bank (&amp;gt;2Y): TSM on a AIX HA environment&lt;/li&gt;
-&lt;li&gt;Budapest Bank (&amp;gt;10Y): 2 TSM servers on a HA AIX environment&lt;/li&gt;
-&lt;li&gt;Chello Central Europe (&amp;gt;8Y): biggest TSM based video media archiving environment implementation and support&lt;/li&gt;
-&lt;li&gt;HVB/UniCredit Bank (&amp;gt;10Y): the first v5 –&amp;gt; v6 migrated AIX TSM systems on an IBM PureFlex system in the region&lt;/li&gt;
-&lt;/ul&gt;
-&lt;li&gt;TSM v5 -&amp;gt; v6 migration (TSM DB &amp;gt; 300GB) (OEP, UniCredit Bank, Generali Biztosító, MKB Bank)&lt;/li&gt;
-&lt;li&gt;v6 TSM based backup solutions for IBM PureFlex based environments and support (iCell, NISZ)&lt;/li&gt;
-&lt;li&gt;TSM v5 -&amp;gt; v6 migration consultation at HSBC Turkey (Istanbul)&lt;/li&gt;
-&lt;li&gt;Dealt with IBM SoftLayer fundamentals (Infrastructure-as-a-Service (IaaS))&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;/div&gt;
-
-&lt;table class=&quot;blockheader&quot;&gt;
-  &lt;tr&gt;
-    &lt;th width=&quot;1%;&quot; valign=&quot;top&quot; style=&quot;padding-right: 0.3em;&quot;&gt;&lt;nobr&gt;&lt;span title=&quot;2001-2003&quot;&gt;&lt;b&gt;01-03&lt;/b&gt;&lt;/span&gt; •&lt;/nobr&gt;&lt;/th&gt;
-    &lt;th&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;Network / &lt;a href=&quot;http://www.ibm.com/&quot;&gt;IBM&lt;/a&gt; &lt;a href=&quot;http://www-03.ibm.com/software/products/en/ibmdomino&quot;&gt;Lotus Notes / Domino&lt;/a&gt; administrator • &lt;a href=&quot;http://www.schneider-electric.hu/&quot;&gt;Schneider Electric Hungária Villamossági Rt.&lt;/a&gt;&lt;/p&gt;&lt;/th&gt; 
-  &lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;div id=&quot;schneiderID&quot; style=&quot;display:none; margin-left: 3.4em; margin-bottom: 1em; margin-top: 0em;&quot;&gt;
-
-&lt;ul style=&quot;list-style-type:disc&quot;&gt;
-&lt;li class=&quot;small&quot;&gt;IBM Lotus Notes administrator (450 users; Austria, Slovak Republic, Slovenia, Croatia, Yugoslavia) and developer&lt;/li&gt;
-&lt;li class=&quot;small&quot;&gt;operating the whole network&lt;/li&gt;
-&lt;li class=&quot;small&quot;&gt;work in S.A.P. R3 environment (COMPAQ/Digital, True64 UNIX)&lt;/li&gt;
-&lt;li class=&quot;small&quot;&gt;organised and successfully started the new logistics center of Schneider Electric Hungária Villamossági Rt. in Harbor Park (Frame Relay connection to the center, phone network, computer network, wireless phone (DECT), wireless network (based on Cisco Aironet 340, 350 series), Novell Netware, ...)&lt;/li&gt;
-&lt;li class=&quot;small&quot;&gt;working with the following systems and equipments: CheckPoint firewall, Netscape iPlanet Web server, Netscape CMS server, Netscape Proxy server, Novell Netware 5.x, Intel Shiva + Radius, Nortel network equipments (switches, routers, hubs), ntp, ...&lt;/li&gt;
-&lt;li class=&quot;small&quot;&gt;prepared: SMS gateway (Linux + perl + Nokia 6210), webcamera (Linux + V4L + bttv)&lt;/li&gt;
-&lt;li class=&quot;small&quot;&gt;started the intranet in Hungary (based on IBM Lotus Notes, WIB)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;/div&gt;
-
-&lt;table class=&quot;blockheader&quot;&gt;
-  &lt;tr&gt;
-    &lt;th width=&quot;1%;&quot; valign=&quot;top&quot; style=&quot;padding-right: 0.3em;&quot;&gt;&lt;nobr&gt;&lt;span title=&quot;1998-2001&quot;&gt;&lt;b&gt;98-01&lt;/b&gt;&lt;/span&gt; •&lt;/nobr&gt;&lt;/th&gt;
-    &lt;th&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;Office Automation Officer • &lt;a href=&quot;http://www.societegenerale.fr/&quot;&gt;Société Générale Hungária Bank Inc.&lt;/a&gt;&lt;/p&gt;&lt;/th&gt; 
-  &lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;div id=&quot;sgID&quot; style=&quot;display:none; margin-left: 3.4em; margin-bottom: 1em; margin-top: 0em;&quot;&gt;
-
-&lt;ul style=&quot;list-style-type:disc&quot;&gt;
-&lt;li class=&quot;small&quot;&gt;we built up the whole information system of this new bank (with two of my colleagues) from the ground&lt;/li&gt;
-&lt;li class=&quot;small&quot;&gt;Lotus Notes administrator and developer&lt;/li&gt;
-&lt;li class=&quot;small&quot;&gt;working with GIRO, SWIFT and the local accounting system&lt;/li&gt;
-&lt;li class=&quot;small&quot;&gt;installing and supporting SogeCash (MultiCash based) remote bank system&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;/div&gt;
-
-&lt;table class=&quot;blockheader&quot;&gt;
-  &lt;tr&gt;
-    &lt;th width=&quot;1%;&quot; valign=&quot;top&quot; style=&quot;padding-right: 0.3em;&quot;&gt;&lt;nobr&gt;&lt;span title=&quot;1997-1998&quot;&gt;&lt;b&gt;97-98&lt;/b&gt;&lt;/span&gt; •&lt;/nobr&gt;&lt;/th&gt;
-    &lt;th&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;EDP assistent • &lt;a href=&quot;http://www.ca-cib.com/&quot;&gt;Crédit Lyonnais Bank Hungary Inc.&lt;/a&gt;&lt;/p&gt;&lt;/th&gt; 
-  &lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;div id=&quot;clID&quot; style=&quot;display:none; margin-left: 3.4em; margin-bottom: 1em; margin-top: 0em;&quot;&gt;
-
-&lt;ul style=&quot;list-style-type:disc&quot;&gt;
-&lt;li class=&quot;smallest&quot;&gt;learning to use and operate the new systems (HP-UX, HP PCs, Microsoft WindowsNT network, SQL, TCP/IP)&lt;/li&gt;
-&lt;li class=&quot;smallest&quot;&gt;worked with GIRO, SWIFT, Lotus Notes and the local accounting system&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;/div&gt;
-
-&lt;h2 id=&quot;mohács-baranya--hungary-1&quot;&gt;&lt;a href=&quot;https://hu.wikipedia.org/wiki/Moh%C3%A1cs&quot;&gt;Mohács&lt;/a&gt;, &lt;a href=&quot;https://hu.wikipedia.org/wiki/Baranya_megye&quot;&gt;Baranya&lt;/a&gt; • &lt;a href=&quot;https://en.wikipedia.org/wiki/Hungary&quot;&gt;HUNGARY&lt;/a&gt;&lt;/h2&gt;
-
-&lt;table class=&quot;blockheader&quot;&gt;
-  &lt;tr&gt;
-    &lt;th width=&quot;1%;&quot; valign=&quot;top&quot; style=&quot;padding-right: 0.3em;&quot;&gt;&lt;nobr&gt;&lt;span title=&quot;1991-1997&quot;&gt;&lt;b&gt;91-97&lt;/b&gt;&lt;/span&gt; •&lt;/nobr&gt;&lt;/th&gt;
-    &lt;th&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;System engineer • &lt;a href=&quot;http://kronospan-mofa.hu/&quot;&gt;Fibreboard Factory (M.O.F.A.) Inc.&lt;/a&gt;&lt;/p&gt;&lt;/th&gt; 
-  &lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;div id=&quot;mofaID&quot; style=&quot;display:none; margin-left: 3.4em; margin-bottom: 1em;&quot;&gt;
-
-&lt;ul style=&quot;list-style-type:disc&quot;&gt;
-&lt;li class=&quot;smallest&quot;&gt;learned to use i8048 and i8051 microcontrollers&lt;/li&gt;
-&lt;li class=&quot;smallest&quot;&gt;December 1991 - August 1992 programmer assistant, computer technology collaborator&lt;/li&gt;
-&lt;li class=&quot;smallest&quot;&gt;learned to use the local network, programmed in C language&lt;/li&gt;
-&lt;li class=&quot;smallest&quot;&gt;March 1994 - March 1997 computer technology organizer&lt;/li&gt;
-&lt;li class=&quot;smallest&quot;&gt;extended the network of the company, connected its existing systems, worked independently, maintained and controlled the whole system&lt;/li&gt;
-&lt;li class=&quot;smallest&quot;&gt;formed new concepts in the information technology system of the company, established the e-mail system and the DIAL-IN accessibility of the network, developed ONLINE systems and established these systems on the existing network&lt;/li&gt;
-&lt;li class=&quot;smallest&quot;&gt;software legalization&lt;/li&gt;
-&lt;li class=&quot;smallest&quot;&gt;established and maintained several Novell NetWare based networks in Mohács city&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;/div&gt;
-
-&lt;h1 id=&quot;education&quot;&gt;EDUCATION&lt;/h1&gt;
-
-&lt;h2 id=&quot;kecskemét-bács-kiskun--hungary&quot;&gt;&lt;a href=&quot;https://hu.wikipedia.org/wiki/Kecskem%C3%A9t&quot;&gt;Kecskemét&lt;/a&gt;, &lt;a href=&quot;https://hu.wikipedia.org/wiki/B%C3%A1cs-Kiskun_megye&quot;&gt;Bács-Kiskun&lt;/a&gt; • &lt;a href=&quot;https://en.wikipedia.org/wiki/Hungary&quot;&gt;HUNGARY&lt;/a&gt;&lt;/h2&gt;
-
-&lt;table class=&quot;blockheader&quot;&gt;
-  &lt;tr&gt;
-    &lt;th width=&quot;1%;&quot; valign=&quot;top&quot; style=&quot;padding-right: 0.3em;&quot;&gt;&lt;nobr&gt;&lt;span title=&quot;1988-1991&quot;&gt;&lt;b&gt;88-91&lt;/b&gt;&lt;/span&gt; •&lt;/nobr&gt;&lt;/th&gt;
-    &lt;th&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;&lt;a href=&quot;http://gamf.kefo.hu/&quot;&gt;Technical College of Machine Industry and Automation (G.A.M.F.)&lt;/a&gt; • specialization: computer technology&lt;/p&gt;&lt;/th&gt; 
-  &lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&quot;mohács-baranya--hungary-2&quot;&gt;&lt;a href=&quot;https://hu.wikipedia.org/wiki/Moh%C3%A1cs&quot;&gt;Mohács&lt;/a&gt;, &lt;a href=&quot;https://hu.wikipedia.org/wiki/Baranya_megye&quot;&gt;Baranya&lt;/a&gt; • &lt;a href=&quot;https://en.wikipedia.org/wiki/Hungary&quot;&gt;HUNGARY&lt;/a&gt;&lt;/h2&gt;
-
-&lt;table class=&quot;blockheader&quot;&gt;
-  &lt;tr&gt;
-    &lt;th width=&quot;1%;&quot; valign=&quot;top&quot; style=&quot;padding-right: 0.3em;&quot;&gt;&lt;nobr&gt;&lt;span title=&quot;1984-1988&quot;&gt;&lt;b&gt;84-88&lt;/b&gt;&lt;/span&gt; •&lt;/nobr&gt;&lt;/th&gt;
-    &lt;th&gt;&lt;p style=&quot;margin-bottom: 0;&quot;&gt;&lt;a href=&quot;http://mohacsikisfaludy.hu/&quot;&gt;Kisfaludy Károly Secondary School&lt;/a&gt; • faculties: mathematics, physics&lt;/p&gt;&lt;/th&gt; 
-  &lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;h1 id=&quot;technical-skills&quot;&gt;TECHNICAL SKILLS&lt;/h1&gt;
-
-&lt;h2 id=&quot;operating-systems&quot;&gt;Operating systems&lt;/h2&gt;
-
-&lt;p&gt;UNIX • Microsoft Windows • Apple macOS (OS X)&lt;/p&gt;
-
-&lt;h2 id=&quot;programming-languages&quot;&gt;Programming languages&lt;/h2&gt;
-
-&lt;p&gt;Objective-C (applications with Core Location framework, 13 and BLE, 17) • C (kernel mode device driver on Linux, TSM API) • 80x86 assembly (direct IPX protocol programming) • ATMEL AVR assembly, C (GSM based home automation, 09) • Epson S1C88 assembly (code breaker game, 04) • CA Clipper • DataFlex • perl (tsmadm.pl, 13) • awk • UNIX shell • Psion OPL (PhotoPal, 01) • Lotus Formula • Lotus Script (incident log system) • JavaScript&lt;/p&gt;
-
-&lt;h2 id=&quot;hardware&quot;&gt;Hardware&lt;/h2&gt;
-
-&lt;p&gt;IBM tape libraries (LTO, 3592 drives); IBM, HPE, Oracle High-End machines and storage systems&lt;/p&gt;
-
-&lt;h2 id=&quot;ibm-tsm--spectrum-protect-related&quot;&gt;IBM TSM / Spectrum Protect related&lt;/h2&gt;
-
-&lt;p&gt;Daily TSM administration and 7/24 support for banks, insurance companies, broadcasting companies and state sector • Co-author of the tsmadmin.com blog • Founder of the &lt;a href=&quot;http://tsmadm.pl.fleischmann.hu&quot;&gt;tsmadm.pl&lt;/a&gt; free IBM TSM administration tool • The person who opens / closes the most tickets (IBM &lt;a href=&quot;https://www-01.ibm.com/support/docview.wss?uid=swg21507643&quot;&gt;PMR&lt;/a&gt;, &lt;a href=&quot;https://www-01.ibm.com/support/docview.wss?uid=swg21507643&quot;&gt;Problem Management Report&lt;/a&gt;) each year in Hungary • Took IBM TSM / Spectrum Protect (implementation, operation, administration, advanced administration) trainings (&amp;gt;30, on behalf of IBM, &lt;a href=&quot;http://iqjb.hu/&quot;&gt;IQSOFT - John Bryce Oktatóközpont Kft.&lt;/a&gt; and &lt;a href=&quot;https://www.training360.com/&quot;&gt;Training 360 Kft.&lt;/a&gt;)&lt;/p&gt;
-
-&lt;h1 id=&quot;professional-certifications&quot;&gt;Professional Certifications&lt;/h1&gt;
-
-&lt;div class=&quot;rightbox&quot; style=&quot;width: 7%;&quot;&gt;&lt;img class=&quot;&quot; src=&quot;images/cv/IBM_Sectrum_Protect_v8.1.png&quot; alt=&quot;IBM Sectrum Protect v8.1 Deployment Professional&quot; title=&quot;IBM Sectrum Protect v8.1 Deployment Professional&quot; /&gt;
-&lt;/div&gt;
-&lt;div class=&quot;rightbox&quot; style=&quot;width: 7%;&quot;&gt;&lt;img class=&quot;&quot; src=&quot;images/cv/Veeam_Availability_Suite_VMTSP_v9.5.png&quot; alt=&quot;Veeam Availability Suite VMTSP v9.5&quot; title=&quot;Veeam Availability Suite VMTSP v9.5&quot; /&gt;
-&lt;/div&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Veeam Technical Sales Professional (VMTSP) - Veeam Availability Suite v9.5 • 09/28/2017&lt;/li&gt;
-  &lt;li&gt;IBM Certified Deployment Professional - Spectrum Protect V8.1 • 07/28/2017&lt;/li&gt;
-  &lt;li&gt;IBM Certified Deployment Professional - Tivoli Storage Manager V7.1 • 05/18/2015&lt;/li&gt;
-  &lt;li&gt;IBM Certified Deployment Professional - Tivoli Storage Productivity Center v5.1 •06/04/2013&lt;/li&gt;
-  &lt;li&gt;IBM Certified Deployment Professional - Tivoli Storage Manager v6.3 • 02/01/2013&lt;/li&gt;
-  &lt;li&gt;IBM Certified Solution Advisor - Tivoli Storage Solutions v3 • 03/22/2012&lt;/li&gt;
-  &lt;li&gt;IBM Certified Solution Advisor - Tivoli Storage Solutions v2 • 03/30/2011&lt;/li&gt;
-  &lt;li&gt;IBM Certified Deployment Professional - Tivoli Storage Manager v6.1 • 12/01/2009&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;hobby-projects-worth-to-mention&quot;&gt;HOBBY PROJECTS WORTH TO MENTION&lt;/h1&gt;
-
-&lt;div class=&quot;rightbox&quot; style=&quot;width: 12%;&quot;&gt;
-&lt;a href=&quot;http://old.fleischmann.hu/geocities.com/&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/geominihp20040407.jpg&quot; alt=&quot;geocities.com from 2004.&quot; title=&quot;geocities.com from 2004.&quot; /&gt;&lt;/a&gt;
-&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://old.fleischmann.hu/geocities.com/&quot;&gt;geocities.com&lt;/a&gt; from 2004.&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;rightbox&quot; style=&quot;width: 15%;&quot;&gt;
-&lt;a href=&quot;http://old.fleischmann.hu/photo/contents/index.htm&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/FLEISCHMANN.HU_Tartalom-Contents_(20100518).png&quot; alt=&quot;fleischmann.hu from 2010.&quot; title=&quot;fleischmann.hu from 2010.&quot; /&gt;&lt;/a&gt;
-&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://old.fleischmann.hu/photo/contents/index.htm&quot;&gt;fleischmann.hu&lt;/a&gt; from 2010.&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;rightbox&quot; style=&quot;width: 15%;&quot;&gt;
-&lt;a href=&quot;http://tsmadm.pl.fleischmann.hu&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/html/tsmadm.pl.jpg&quot; alt=&quot;tsmadm.pl&quot; title=&quot;tsmadm.pl&quot; /&gt;&lt;/a&gt;
-&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;http://tsmadm.pl.fleischmann.hu&quot;&gt;tsmadm.pl&lt;/a&gt;&lt;/p&gt;
-&lt;br /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;images/html/SpeedLimit.png&quot; alt=&quot;SpeedLimit&quot; title=&quot;SpeedLimit&quot; align=&quot;right&quot; /&gt;
-&lt;p class=&quot;phototext&quot;&gt;SpeedLimit on iOS&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;span title=&quot;2018&quot;&gt;&lt;b&gt;18&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;spadmin.pl (perl)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span title=&quot;2017&quot;&gt;&lt;b&gt;17&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.fleischmann.hu/&quot;&gt;Family pages (GitHub, jekyll, HTML5, CSS3)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/FleXoft/HuTUG&quot;&gt;Hu-TUG storage newsletters 1-5&lt;/a&gt; (Google Docs)&lt;/li&gt;
-  &lt;li&gt;Simple Heart Rate monitoring macOS application based on Polar H7 BLE device with Xcode and Swift &lt;a href=&quot;https://github.com/FleXoft/Polar-H7-HRM&quot;&gt;project on GitHub&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span title=&quot;2015&quot;&gt;&lt;b&gt;15&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;recorded for a year what I did and what I looked like&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div style=&quot;width: 49.33%; margin-left: 1.3em;&quot;&gt;&lt;div class=&quot;videocontainer&quot; style=&quot;padding-bottom: 31%;&quot;&gt;&lt;iframe class=&quot;iframeshadow&quot; src=&quot;https://player.vimeo.com/video/249302002&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;span title=&quot;2013&quot;&gt;&lt;b&gt;13&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://tsmadm.pl.fleischmann.hu/&quot;&gt;tsmadm.pl&lt;/a&gt; (perl) &lt;a href=&quot;https://github.com/FleXoft/tsmadm.pl&quot;&gt;project on GitHub&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;SpeedLimit for iOS (Objective-C)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span title=&quot;-2010&quot;&gt;&lt;b&gt;-10&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Active photoblogger (+ photoblog site generator perl script)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;rightbox&quot; style=&quot;width: 17%;&quot;&gt;
-&lt;a href=&quot;https://www.flickr.com/photos/fleischmann/sets/72157622129419487/&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/flickr_thumb.png&quot; alt=&quot;BKV Photostream&quot; title=&quot;BKV Photostream&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;https://www.flickr.com/photos/fleischmann/sets/72157622129419487/&quot;&gt;BKV Photostream&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;span title=&quot;2009&quot;&gt;&lt;b&gt;09&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;div class=&quot;rightbox&quot; style=&quot;width: 13%;&quot;&gt;
-&lt;a href=&quot;https://www.olimex.com/Products/AVR/Development/AVR-GSM/&quot;&gt;&lt;img class=&quot;&quot; src=&quot;https://www.olimex.com/Products/AVR/Development/AVR-GSM/images/thumbs/310x230/AVR-GSM-01.jpg&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;phototext&quot;&gt;&lt;a href=&quot;https://www.olimex.com/Products/AVR/Development/AVR-GSM/&quot;&gt;AVR-GSM&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.olimex.com/Products/AVR/Development/AVR-GSM/&quot;&gt;AVR-GSM&lt;/a&gt; based Home Automation Project (AVR C, I²C, LM75, HD44780, SIM300D)&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.flickr.com/photos/fleischmann/sets/72157622129419487/&quot;&gt;BKV Photostream&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;social-part&quot;&gt;SOCIAL PART&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/FleXoft&quot;&gt;&lt;i class=&quot;icon-twitter&quot; style=&quot;margin-right: -1px;&quot;&gt;&lt;/i&gt;twitter&lt;/a&gt;
- •&lt;a href=&quot;https://www.facebook.com/fleischmann.gy&quot;&gt;&lt;i class=&quot;icon-facebook&quot; style=&quot;margin-left: -5px; margin-right: -6px;&quot;&gt;&lt;/i&gt;facebook&lt;/a&gt; •&lt;a href=&quot;http://fleischmann.tumblr.com/&quot;&gt;&lt;i class=&quot;icon-tumblr&quot; style=&quot;margin-left: -4px; margin-right: -4px;&quot;&gt;&lt;/i&gt;tumblr&lt;/a&gt; •&lt;a href=&quot;https://www.flickr.com/photos/fleischmann/sets/72157622129419487/&quot;&gt;&lt;i class=&quot;icon-flickr&quot; style=&quot;margin-right: 0px;&quot;&gt;&lt;/i&gt;flickr&lt;/a&gt; •&lt;a href=&quot;https://plus.google.com/111227740573593478868&quot;&gt;&lt;i class=&quot;icon-gplus&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;Google+&lt;/a&gt; •&lt;a href=&quot;skype://Flexoft/&quot;&gt;&lt;i class=&quot;icon-skype&quot; style=&quot;margin-right: -1px;&quot;&gt;&lt;/i&gt;Skype&lt;/a&gt; • &lt;a href=&quot;https://www.linkedin.com/in/fleischmanngyorgy/&quot;&gt;linked&lt;i class=&quot;icon-linkedin-squared&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;others&quot;&gt;OTHERS&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;working knowledge of everyday English&lt;/li&gt;
-  &lt;li&gt;good knowledge of technical English&lt;/li&gt;
-  &lt;li&gt;experienced driver (“B” category driving licence)&lt;/li&gt;
-  &lt;li&gt;compulsory military service completed&lt;/li&gt;
-  &lt;li&gt;free time activities: football, cinema, reading, music, photography&lt;/li&gt;
-  &lt;li&gt;I do not smoke&lt;/li&gt;
-  &lt;li&gt;last update: 01/10/2018&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;others-ii&quot;&gt;OTHERS II.&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;gender: male&lt;/li&gt;
-  &lt;li&gt;length, weight: average&lt;/li&gt;
-  &lt;li&gt;sexual orientation: straight&lt;/li&gt;
-  &lt;li&gt;religion: none (but if I really need to choose: &lt;a href=&quot;https://en.wikipedia.org/wiki/Buddhism&quot;&gt;Buddhism&lt;/a&gt; or &lt;a href=&quot;https://en.wikipedia.org/wiki/International_Society_for_Krishna_Consciousness&quot;&gt;Krishna Consciousness&lt;/a&gt; are the closest), I believe in science&lt;/li&gt;
-  &lt;li&gt;political views: undecided&lt;/li&gt;
-  &lt;li&gt;intelligence: normal&lt;/li&gt;
-  &lt;li&gt;civil status: married, 3 kids (&lt;a href=&quot;http://anna.fleischmann.hu/&quot;&gt;Anna&lt;/a&gt; • &lt;a href=&quot;http://gergo.fleischmann.hu/&quot;&gt;Gergő&lt;/a&gt; • &lt;a href=&quot;http://andras.fleischmann.hu/&quot;&gt;András&lt;/a&gt;) and a &lt;a href=&quot;http://tofi.fleischmann.hu/&quot;&gt;dog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;economy: good&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;!-- my Javascript Helpers --&gt;
-
-&lt;script type=&quot;text/javascript&quot;&gt;
-    
-    // main()
-    
-	today = new Date();
-    diff  = new Date();
-	
-  	function dateDiff2 ( fromDate, toDate ) {
-    
-    	var returnString = &quot;&quot;;
-    	var tmpdiff;
-    
-		var one_day = 1000 * 60 * 60 * 24;
-
-    	diff.setTime( new Date( fromDate.getFullYear(), fromDate.getMonth(), fromDate.getDate(), fromDate.getHours(), fromDate.getMinutes() ) - toDate );
-
-    	tmpdiff = diff.getFullYear() - 1970; 	
-		if ( tmpdiff != 0 ) {
-			returnString += tmpdiff + &quot; &quot; + ( ( tmpdiff != 1 ) ? &quot;years&quot; : &quot;year&quot; );
-		}
-   	  
-		if ( tmpdiff != 0 &amp;&amp; ( diff.getMonth() != 0 || ( diff.getDate() - 1 ) != 0 ) ) returnString += &quot;, &quot;; 
-
-   	    tmpdiff = diff.getMonth();
-   	 	if ( tmpdiff != 0 ) {
-   			returnString += tmpdiff + &quot; &quot; + ( ( tmpdiff != 1 ) ? &quot;months&quot; : &quot;month&quot; );
-   		}
-   		if ( tmpdiff != 0 &amp;&amp; ( ( diff.getDate() - 1 ) != 0 ) ) returnString += &quot; and &quot;;
-   	
-   	    tmpdiff = diff.getDate() - 1;
-   	  	if ( tmpdiff != 0 ) {
-   	 		returnString += tmpdiff + &quot; &quot; + ( ( tmpdiff != 1 ) ? &quot;days&quot; : &quot;day&quot; );
-   	  	}
-  
-		return returnString; 
-  
-  	}
- 
-    function myTimer () {
-     	document.getElementById ( 'motherBirthDiff' ).innerHTML = dateDiff ( new Date( 2014, 03 - 1, 08, 12, 00 ), new Date( 1937, 09 - 1, 07, 12, 00 ) );
-     	document.getElementById ( 'fatherBirthDiff' ).innerHTML = dateDiff ( today, new Date( 1945, 11 - 1, 16, 12, 00 ) );
-    	document.getElementById ( 'vigyorBirthDiff' ).innerHTML = dateDiff ( today, new Date( 1957, 01 - 1, 23, 12, 00 ) );
-    	document.getElementById ( 'flexBirthDiff'   ).innerHTML = dateDiff ( today, new Date( 1970, 05 - 1, 05, 23, 00 ) );
-    	document.getElementById ( 'wifeBirthDiff'   ).innerHTML = dateDiff ( today, new Date( 1974, 11 - 1, 24, 22, 00 ) );
-    	document.getElementById ( 'annaBirthDiff'   ).innerHTML = dateDiff ( today, new Date( 2001, 11 - 1, 05, 13, 20 ) );
-    	document.getElementById ( 'gergoBirthDiff'  ).innerHTML = dateDiff ( today, new Date( 2005, 11 - 1, 11, 10, 45 ) );
-    	document.getElementById ( 'andrasBirthDiff' ).innerHTML = dateDiff ( today, new Date( 2017, 09 - 1, 30, 22, 20 ) );
-
-    	document.getElementById ( 'workTSM' ).innerHTML = &quot;(&quot; + dateDiff ( today, new Date( 2004, 05 - 1, 1, 09, 00 ) ) + &quot;)&quot;;
+&lt;p&gt;&lt;strong&gt;Hajnalka&lt;/strong&gt;: amikor azt vágod a fejelemhez, hogy mi értelme van ennek az oldalnak, meg úgy összességében mi értelme ezekkel az oldalakkal bajlódni, bár hangosan persze akkor sem mondtam ki, de magamban azt gondoltam, hogy ez, ha másra nem is, arra azért majd biztosan jó lesz, hogy egy kis könnyet csiholjon a szemedbe. 😘&lt;/p&gt;
+
+&lt;p&gt;Érdekes megfigyelni azt, hogy vannak emberek akikkek nem érdemes vitatkozni, mert egyszerűen nem lehet velük. Te is ezek közé az emberek közé tartozol sajnos. Nem kell neked nagyon magyaráznom, hogy ez pontoson mit jelent, mert te ezt már fiatalkorod óta a saját családodban rendesen megtapasztaltad és ezért nagyon furcsa az(, de lehet, hogy pont ezért van így), hogy nem veszed észre a teljesen egyértelmű hasonlóságot.&lt;/p&gt;
+
+&lt;p&gt;Sokat gondolok mostanában arra, hogy milyen furcsa nekem az embereket, de akár nézhetjük az egész emberiséget is, ilyen butának látni. Annyi mindent lehetne már jobban csinálni, de valahogy ez négsem akaródzik megtörténni a mi időnkben!&lt;/p&gt;
+
+&lt;p&gt;Sok mindennel mással együtt, soha sem goldoltam volna korábban azt, hogy nemhogy egy kapcsolat hogyan juthat ilyen alacsony szintre (jelentsen ez konrétan ugye bármit is) vagy ha másképp nézzük, egy ilyen modernkori kapcsolat, hogy hogy nem tud olyan szintre emelkedni (😃), amiben már nincs egy csepp arogancia, velőből jövő utálat vagy nem is tudom, hogy mik is ezek a lehúzó dolgok pontosan? Hogy tudsz a gyerekeiddel vagy velem így, ilyen emberhez egyáltalán nem méltó módon beszélni?&lt;/p&gt;
+
+&lt;p&gt;Az is nagyon furcsa és engem nagyon zavaró egy érzés, felfogni és gondolkodni azon, hogy a Te családodban mennyire nagyon is jellemző a normális értékrendtől eltérő viselkedési norma és persze az is és aba belegondolni, hogy ebből vajon mennyit kaptak a közös gyerekeink??? Nem mondom, hogy nem vagyok ebben a kérdésben nyugtalana.&lt;/p&gt;
+
+&lt;p&gt;Érdekes az is, hogy többször beszélgettünk már azon, hogy mi a fene hozott és tart minket már ilyen hosszú ideje össze és mostanában egyre többször gondolom azt - a viccet tényleg tegyük most félre! -, hogy ennek valami genetikai / evolúciós oka lehet csak, hogy ezzel tompítsuk mi az ilyen fajta kilengését a társadalom problémásabb embereinek. Mi más magyarázata lehetne? Van más? Tudsz mást?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2018.03.11.&lt;/strong&gt; Én arra emlékszem, hogy azt mondtad, hogy a harmadik gyerekkel 110%-ban fogsz foglalkozni, nem pattintod le és én már előre jeleztem, azt hogy egy kicsit már kifogytam az energiából és nem nagyon fogom tudni ennek a terheit elviselni. Ezzel szemben ma is azt történt, ami korábban már nagyon sokszor, hogy csak ennyit mondasz: “Apa majd játszik veled, nekem fejnem kell vagy neked dolgod van vagy valami más…” Persze neked mindig van más mindennél, mindenkinél fontosabb dolgod…&lt;/p&gt;
+
+&lt;p&gt;Én nem mondom, hogy ez a világ legrosszabb házassága, csak azt hogy Te egy nagyon arogáns nőszemly vagy sokszor, sőt a legarogánsabb akit életemben ilyen szorosan megismertem. Persze lehet, hogy vannak nálad rosszabbak is (sőt ez biztosan így is van), de én nem ismertem / tapasztaltam - hála az égnek - még meg őket. És így ezzel a durva aroganciával, azért ez egy elég nehéz házasság lett így az eltelt évek alatt bzitosan kijelenthetjük már.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2018.03.30.&lt;/strong&gt;: “kedvesen” most azzal ébresztettél, hogy etessem már meg én a gyereket (&lt;a href=&quot;https://andras.fleischmann.hu/&quot;&gt;András&lt;/a&gt;), mert te nyakig vagy a kutyaszarban és azt kell feltakarítanod. Semmi normális “jó reggelt” vagy valami ehhez hasonló bemelegítő köszöntés, simán bele a közepébe! Később délután meg elmondtál minden szarnak, hogy azért vannak nekem egészségügyi problémáim, mert nem mozgok semmit, csak döglök egész nap a számítógépek előtt. Ezt is persze a szokásos kedves stílusodban tetted meg. Utána persze szépen elmentél jógázni 2 és fél órát, mert te midig, mindent megérdemelsz annyira jó vagy mindenben meg emancipált egy modern nő is vagy rendesen, ugye! 👸&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2018.06.09.&lt;/strong&gt;: ma pedig egész nap azt hallgattam, hogy “szüleim” látogatása mekkora zavart jelent neked. Este pedig, amirkor Gergő telefonált azt szajkóztad, hogy ez mennyire gáz, mert felébresztette Andrást a hazaérkezésének a zaja. Normális ez?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2018.06.17.&lt;/strong&gt;: csendespihenő alatt elkedzted összepakolni András játékait, de úgy, hogy 1 méterről dobáltad bele a műanyag dobozba a játékokat. Így kell ezt?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2018.06.19.&lt;/strong&gt;: az is tök érdekes, hogy feljössz a felső szintre elújságolni, hogy András bekakilt, miközben folyamatosan szól a légzésfigyelő riasztója, ahelyett, hogy egyből tisztába tennéd és csak utána osztodd meg ezt a nagyon fontos információt, ilyen szép stílusban, ahogy azt már megszokhattuk tőled.&lt;/p&gt;
+
+&lt;p&gt;De tényleg szükéseg van / volt ezekre?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2018.06.20.&lt;/strong&gt;: itt vagyunk Bulgáriában és megy a szokásos okoskodás állandóan. Kint a srtandon megy a napozgatás, a vacsoránál pedig azt mondod, hogy vigyázol Andrisra amíg elkezdünk enni, de már mire összeszedjük az első adag kajánkat, te már elveszted a türlemedet és ahelyett, hogy vigyáznál rá tovább és várnál egy egészen kicsikét, elmész te is szedni valamit. Innentől megy a szokásos menet, András nyávog és nem tud már senki sem normálisan enni, pedig csak annyit kellett volna tenned, hogy vársz egy kicsit, foglalkozol velele egy és megvárod amíg valamelyikünk át tudja venni. De te nem, mert nem bírod ki. Én nem azt mondom most, hogy akkora alázatos szolgának kell lenned, mint amilyen a kedves anyukád, na de azért háromgyerekes anya lennél vagy mi. Nem lehetne egy kicsit egyszer, kétszer az életben nyelni egyet és kivárni.&lt;/p&gt;
+
+&lt;p&gt;Ezek után persze kurvára csodálkozunk majd - dehogy csodálkozunk -, ha az ember simán kap egy kis agyvérzést!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2018.06.19 … 26.&lt;/strong&gt;: Bulgária. Én már nagyon régóta nem igazán élvezem ezeket a közös nyaralásokat.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2018.07.04.&lt;/strong&gt;: Ennek a boszorkánypecsenyének hányás szaga van, de finom… Ésszel nem tudom felgoni, hogy ezen hogyan lehet így kiakadni és azt főleg nem, hogyan tudsz így beszélni a családtagjaiddal (Anna és én).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2018.07.05.&lt;/strong&gt;: ma pedig mintha semmi nem történy volna tegnap, mész jógára. + este már kb. több, mint 1 órája a fejőddel szívunk mindhárman. + kaptunk a műanyag mentes jövőből is rendesen.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2018.07.08.&lt;/strong&gt;: ma arról ment az észosztás, hogy én mennyire nem vagyok pozitív. Az a műsor és rumli, amit ma a nap végén a pattogatot kukoricával csináltatok Gergővel azért egy hangfelvételt megérdemeét volna. Legközelebb fel fogom venni hogy megmaradjon az utókornak.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2018.07.10.&lt;/strong&gt;: “nem hiszem le, hogy te most itt WC-zel?” Te a hajadat akartad szárítni és sehol máshol nem tudtad volna.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2018.07.12.&lt;/strong&gt;: tegnap sztem nem volt semmi, de ma megkaptuk a mindjárt szétrobban a fejem, mindent nekem kell csinálni, mindent én csinálok és nekem most el kell olvasnom 2 oldalt, mert annyira feszít a fejem műsort. Szuper volt.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2018.07.13.&lt;/strong&gt;: egyszerűen felfogni nem tudom azt, hogyan történhet meg az, hogy egy kedves betakarásból hogyan leszek én egy büdös szájú bunkó, aki nem hagy téged a kirédemelt vagy megérdemelt délutáni sziesztádba bealudni úgy hogy kb: 20 másodperccel korábban még facebook/youtube videókat nézegettél?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2018.07.14.&lt;/strong&gt;: ma pedig kész helyzet elé állítottál, hogy vagy én megyek haza Balatonról vagy én. Persze megint gyenge voltam, te pedig nem engedtél el. Gondoljam még át reggelig meg a szokásos maszlag. + egy lezárt beszélgetés után jól megmondtad megint, hogy nem ez volt a téma és hogy merek én csak így témát változtatni. Normális ez? Kinek képzeled te magad, de tényleg? + ez az állandó nyavajgás, hogy te már korán reggel felkeltél és tisztábatetted Andris és ezért extra kiváltásgokat érdemelsz. Nem már!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2018.07.14.&lt;/strong&gt;: a tegnapi kúrvanagy balhé után most szokás szerint várható pár nap nyugalom. Most próbálkozol uralkodni magadon. Nem ez az első eset. “Kurvanagy hospogácsa a kurvanagy poricácban.” Feltakarítanád a hűtőből kiesett és összetört tányért? nekem ki kell sietnem Gergőhöz, mert megígértem, hogy azonnal visszamegyek. Virslit is belefőzted a lecsóba? Szandált is néztünk, de nem volt. Csak úgy mondom.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2018.07.17.&lt;/strong&gt;: azt meg felfogni nem tudom, hogy én miét viselem még mindig el ezt a fajta terrort, de valószínűleg pontosan ugyanazért, amiért anyád már hosszú évek óta kiszolgálja a kedves apádat.
+Kimentem a lakásból fogadni egy telefonhívást és te utánamjöttél és suttugva kérdezgeted telefonálásom közben, hogy ugye nem az apád telefonál megint részegen? Hmmmm…&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2018.08.07.&lt;/strong&gt;: majdnem eltelt 1 hónap viszonylagos nyugalomban, de ma már azért kezd visszaállni a megszokott hangulat csak azért, mert Anna ki merte mondani a gondolatát, hogy hagyd már egy kicsit békén. Miután elmentek megint elkezdted, hogy mennyire bánt, meg mennyire nem vagyunk hálásak a rántott húsért és a SzilviaPoszettós csirkéért és hagyjunk békén téged olvasni, meg annyira elszívnál egy szál cigit, …&lt;/p&gt;
+
+&lt;div class=&quot;video-wrap&quot;&gt;&lt;div class=&quot;video&quot;&gt;
+
+&lt;div class=&quot;videocontainer&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/wmG24mOWZoo&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; class=&quot;iframeshadow&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;b&gt;Christine McVie&lt;/b&gt;- I'd Rather Go Blind&lt;/center&gt;&lt;/p&gt;
+
+&lt;center&gt;&lt;pre&gt;
+Something told me it was over 
+when I saw you and him talking 
+Something deep down in my soul said &quot;Cry boy&quot; 
+when I saw you and him out walking 
+I would rather, I would rather go blind girl 
+than to see you walk away from me child 
+So you see I love you so much 
+I dont want to see you leave me baby 
+most of all I just dont, I just don''t want to be free
+
+I was just, I was just sitting here thinking 
+of your kiss and your warm embrace child 
+When the reflection in the glass 
+that I been held to my lips now baby 
+revealed the tears I had on my face 
+I would rather, I would rather be blind child 
+than to see you walk away from me 
+Baby, baby, baby I would rather go blind 
+than to see you walk away from me
+&lt;/pre&gt;&lt;/center&gt;
+
+&lt;div class=&quot;sticky_floating_video&quot;&gt;&lt;/div&gt;
+
+&lt;!-- Based on: https://www.cssigniter.com/make-sticky-floating-videos-page-scroll/ article. --&gt;
+
+&lt;script src=&quot;https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js&quot;&gt;&lt;/script&gt;
+
+&lt;script&gt;
+  var $window =      $( window );
+  var $videoWrap =   $( '.video-wrap' );
+  var $video =       $( '.video' );
+  var videoHeight =  $video.outerHeight();
+
+  var $end =         $( '.sticky_floating_video' );
+  var endOffsetTop = 99999;
+
+  if ( $end.offset() ) {
+    endOffsetTop = $end.offset().top;
+  }
+  console.log( &quot;[&quot; + endOffsetTop + &quot;]&quot; );
+
+  $window.on( 'scroll', function() {
+    var windowScrollTop = $window.scrollTop();
+    var videoBottom     = videoHeight + $videoWrap.offset().top;
+
+    if ( windowScrollTop &gt; videoBottom &amp;&amp; windowScrollTop &lt; endOffsetTop ) {
+      $videoWrap.height( videoHeight );
+      $video.addClass( 'stuck' );
+
+      // arrange the lyrics
+      document.getElementById( 'lyrics' ).setAttribute( &quot;style&quot;, &quot;width: 63%&quot; );
+
+    } else {
+      $videoWrap.height( 'auto' );
+      $video.removeClass( 'stuck' );
+
+      // arrange back
+      document.getElementById( 'lyrics' ).setAttribute( &quot;style&quot;, &quot;width: 100%&quot; );
     }
-    setInterval ( myTimer, 1000 );
-    
-    function showhide ( id ) {
-    
-    	var len = arguments.length;
-        if ( len == 0 ) return;
-       
-        for( var i = 0; i &lt; len; i++ ) {
-  
-    		var e = document.getElementById( arguments[i] );
-        	e.style.display = ( e.style.display == 'block' ) ? 'none' : 'block';
-        
-     	}
-     }
-     	
-     function enabledisableMouse ( id ) {
-       
-     	var len = arguments.length;
-        if ( len == 0 ) return;
-          
-        for( var i = 0; i &lt; len; i++ ) {
-     
-       		var e = document.getElementById( arguments[i] );
-           	e.style.pointerEvents = ( e.style.pointerEvents == 'none' ) ? 'auto' : 'none';
-           
-        }	
-     	
-     }
-
-	/*
-	 * Function to calculate the absolute difference in days, months and years between 2 days taking into account variable month lengths and leap years
-	 * It ignores any time component (ie hours, minutes and seconds)
-	 *
-	 * https://gist.github.com/clecuona/2945438
-	 */
-	function dateDiff(dt1, dt2)
-	{
-	    /*
-	     * setup 'empty' return object
-	     */
-	    var ret = {days:0, months:0, years:0};
-
-	    /*
-	     * If the dates are equal, return the 'empty' object
-	     */
-	    if (dt1 == dt2) return ret;
-
-	    /*
-	     * ensure dt2 &gt; dt1
-	     */
-	    if (dt1 &gt; dt2)
-	    {
-	        var dtmp = dt2;
-	        dt2 = dt1;
-	        dt1 = dtmp;
-	    }
-
-	    /*
-	     * First get the number of full years
-	     */
-
-	    var year1 = dt1.getFullYear();
-	    var year2 = dt2.getFullYear();
-
-	    var month1 = dt1.getMonth();
-	    var month2 = dt2.getMonth();
-
-	    var day1 = dt1.getDate();
-	    var day2 = dt2.getDate();
-
-	    /*
-	     * Set initial values bearing in mind the months or days may be negative
-	     */
-
-	    ret['years'] = year2 - year1;
-	    ret['months'] = month2 - month1;
-	    ret['days'] = day2 - day1;
-
-	    /*
-	     * Now we deal with the negatives
-	     */
-
-	    /*
-	     * First if the day difference is negative
-	     * eg dt2 = 13 oct, dt1 = 25 sept
-	     */
-	    if (ret['days'] &lt; 0)
-	    {
-	        /*
-	         * Use temporary dates to get the number of days remaining in the month
-	         */
-	        var dtmp1 = new Date(dt1.getFullYear(), dt1.getMonth() + 1, 1, 0, 0, -1);
-
-	        var numDays = dtmp1.getDate();
-
-	        ret['months'] -= 1;
-	        ret['days'] += numDays;
-
-	    }
-
-	    /*
-	     * Now if the month difference is negative
-	     */
-	    if (ret['months'] &lt; 0)
-	    {
-	        ret['months'] += 12;
-	        ret['years'] -= 1;
-	    }
-
-	    // Add string conversion
-	    var returnString = &quot;&quot;;
-
-		if ( ret['years'] != 0 ) {
-	    	returnString += ret['years'] + &quot; &quot; + ( ( ret['years'] != 1 ) ? &quot;years&quot; : &quot;year&quot; );
-		}
-		
-		if ( ret['years'] != 0 &amp;&amp; ret['months'] != 0 ) returnString += &quot;, &quot;;
-
-	 	if ( ret['months'] != 0 ) {
-			returnString += ret['months'] + &quot; &quot; + ( ( ret['months'] != 1 ) ? &quot;months&quot; : &quot;month&quot; );
-	 	}
-	 	
-		if ( (ret['years'] != 0 || ret['months'] != 0 ) &amp;&amp; ret['days'] != 0 ) returnString += &quot; and &quot;;
-
-	  	if ( ret['days'] != 0 ) {
-	 	  	returnString += ret['days'] + &quot; &quot; +( ( ret['days'] != 1 ) ? &quot;days&quot; : &quot;day&quot; );
-	  	}
-
-	    return returnString;
-	}
-
+  } );
 &lt;/script&gt;
 
+&lt;div class=&quot;video-wrap&quot;&gt;&lt;div class=&quot;video&quot;&gt;
+
+&lt;div class=&quot;videocontainer&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/uZt1xKtPbUQ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; class=&quot;iframeshadow&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;b&gt;Etta James&lt;/b&gt;- I'd Rather Be Blind (Live at Montreux 1975)&lt;/center&gt;&lt;/p&gt;
+
+&lt;center&gt;&lt;pre&gt;
+Something told me it was over
+When I saw you and her talking
+Something deep down in my soul said, cry girl
+When I saw you and that girl, walking arround
+
+I would rather, I would rather go blind boy
+Than to see you, walk away from me child, and all
+So you see, I love you so much
+That I don't want to watch you leave me baby
+Most of all, I just don't, I just don't want to be free no uh uh
+
+I was just, I was just, I was just sitting here thinking
+Of your kisses and your warm embrace, yeah
+When the reflection in the glass that I held to my lips now baby (yeah, yeah)
+Revealed the tears that was on my face, yeah
+And baby, baby (baby, baby, bay) I would rather be blind boy 
+Than to see you walk away, see you walk away from me, yeah
+Baby, baby, baby (baby, baby, bay) I'd rather be blind now (baby, baby, bay)
+&lt;/pre&gt;&lt;/center&gt;
+
+&lt;div class=&quot;video-wrap&quot;&gt;&lt;div class=&quot;video&quot;&gt;
+
+&lt;div class=&quot;videocontainer&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/tB2NqUdNH_w&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; class=&quot;iframeshadow&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;/div&gt;&lt;/div&gt;
 </content>
   </entry>
   
   <entry>
-    <title>📷 Üllői út v1.0β</title>
-    <link href="http://0.0.0.0:4000/ulloi.html"/>
-    <updated>2017-11-04T00:00:00+01:00</updated>
-    <id>http://0.0.0.0:4000/ulloi</id>
-    <content type="html">&lt;p&gt;Na akkor fussunk is neki ennek a történetnek!&lt;/p&gt;
+    <title>Apuka</title>
+    <link href="http://0.0.0.0:4000/Apuka.html"/>
+    <updated>2019-11-16T00:00:00+01:00</updated>
+    <id>http://0.0.0.0:4000/Apuka</id>
+    <content type="html">&lt;p&gt;Én csak remélni tudom, hogy az élet lesz annyire kegyes hozzánk, hogy nem neked kell majd az én temetésemen állnod! Nagyon nem lenne fair.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Gergő</title>
+    <link href="http://0.0.0.0:4000/Gergo.html"/>
+    <updated>2019-11-11T00:00:00+01:00</updated>
+    <id>http://0.0.0.0:4000/Gergo</id>
+    <content type="html">
+</content>
+  </entry>
+  
+  <entry>
+    <title>Anna</title>
+    <link href="http://0.0.0.0:4000/Anna.html"/>
+    <updated>2019-11-05T00:00:00+01:00</updated>
+    <id>http://0.0.0.0:4000/Anna</id>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Annácska,&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Nagyon hálás témának tartom magát az egész Üllői utat fotózgatni nap, mint nap, mert sok más magyarországi témával együtt, ez is igazán egyedi szociolenyomata ennek az országnak.&lt;/p&gt;
+&lt;p&gt;Nem sok új dolgot tudok neked most már tanácsként adni, mivel &lt;a href=&quot;https://anna.fleischmann.hu/&quot;&gt;Te&lt;/a&gt; vagy a legnagyobb gyerekünk és így már mindent láttál és megértettél a családunkból.&lt;/p&gt;
 
-&lt;p&gt;Idén, &lt;a href=&quot;http://anna.fleischmann.hu/&quot;&gt;Anna&lt;/a&gt; szülinapján, végül hosszú várakozás után azt gondoltam, hogy együtt, egy közös szülinapi ebédre bevillamosozva a város felé, végre megnézzük közelebbről is ezt a témát. Végül az út során, teszt jelleggel ezek a képek készültek, sajnos csak mobiltelefonnal… ☹️ A várt hatás még sajnos nincs meg, de egy tesztnek mindenképpen jó volt.&lt;/p&gt;
+&lt;p&gt;Emlékként hagyom neked az egyik Elysée töltőtollat, ahogy mindenkire hagyok egyet-egyet és Te már tudod is hol tartom őket, mert megmuttatam már neked, plusz a tied az a kis bordó fotóalbum, amit kiskori képekkel töltögetek és remélhetőleg még az a pár utolsó üres oldal is feltöltődött már mostanra. Ha nem, akkor ugye ez is így marad befejezetlenűl…&lt;/p&gt;
 
-&lt;p&gt;Extra dolog még, hogy akkor itt tudom majd tesztelni az oldalhoz megálmodott fotómegjelenítő megoldást is valamikor…&lt;/p&gt;
+&lt;p&gt;Fontos tanács, hogy &lt;a href=&quot;https://hajnalka.fleischmann.hu/&quot;&gt;anyáddal&lt;/a&gt; ne nagyon vitatkozz soha, mert semmi értelme és csak megbetegszel tőle. Hidd el én ezt már tapasztalatból mondom. Nem gondoltam volna, hogy megtörténhet ilyen és mind azt gondoljuk, hogy erősek vagyunk, de sajnos ez nem így van.&lt;/p&gt;
+
+&lt;p&gt;Pusszantás neked is!&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Andrew / András</title>
+    <link href="http://0.0.0.0:4000/Andras.html"/>
+    <updated>2019-09-30T00:00:00+02:00</updated>
+    <id>http://0.0.0.0:4000/Andras</id>
+    <content type="html">&lt;p&gt;Pontosan nem is tudom, hogy mit írhatnék neked?&lt;/p&gt;
+
+&lt;p&gt;Még túl fiatal vagy, nincs még semmi maradandó emléked sem rólam.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Jó legyél, pusszantalak!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Képeid az interneten: &lt;a href=&quot;htts://andras.fleischmann.hu/&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Perec</title>
+    <link href="http://0.0.0.0:4000/Perec.html"/>
+    <updated>2019-08-20T00:00:00+02:00</updated>
+    <id>http://0.0.0.0:4000/Perec</id>
+    <content type="html">&lt;p&gt;Boldog szülinapot innen is! és &lt;strong&gt;kitartás Zoltán!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;video-wrap&quot;&gt;&lt;div class=&quot;video&quot;&gt;
+
+&lt;div class=&quot;videocontainer&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/B8cucse5DXE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; class=&quot;iframeshadow&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;/div&gt;&lt;/div&gt;
 
 &lt;!-- break --&gt;
 
-&lt;div class=&quot;row&quot; style=&quot;&quot;&gt; 
-  &lt;div class=&quot;column&quot;&gt;
-&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo(0);&quot;&gt;&lt;img class=&quot;shadow zoomeffect&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8464.JPG&quot; alt=&quot;Test&quot; title=&quot;Title&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo(1);&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8466.JPG&quot; /&gt;&lt;/a&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8474.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8476.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8479.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8480.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8482.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8485.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8491.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8492.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8495.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8497.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8498.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8501.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8502.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8505.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8507.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8508.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8513.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8514.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8517.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8518.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8520.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8523.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8524.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8527.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8529.JPG&quot; /&gt;
- &lt;/div&gt;
-  &lt;div class=&quot;column&quot;&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8535.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8536.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8539.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8541.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8542.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8544.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8547.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8549.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8551.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8553.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8554.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8557.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8558.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8569.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8570.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8573.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8575.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8576.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8579.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8581.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8582.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8584.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8586.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8589.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8591.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8595.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8596.JPG&quot; /&gt;
- &lt;/div&gt;
-  &lt;div class=&quot;column&quot;&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8598.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8601.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8603.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8604.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8606.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8609.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8610.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8613.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8615.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8616.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8621.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8622.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8624.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8627.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8628.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8631.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8632.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8634.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8637.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8639.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8641.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8642.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8644.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8646.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8649.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8651.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8652.JPG&quot; /&gt;
- &lt;/div&gt;
-  &lt;div class=&quot;column&quot;&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8655.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8656.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8661.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8662.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8665.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8667.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8668.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8670.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8673.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8675.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8677.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8679.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8681.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8683.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8687.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8688.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8691.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8693.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8694.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8696.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8698.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8701.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8702.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8705.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8706.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8708.JPG&quot; /&gt;
-&lt;img class=&quot;shadow&quot; src=&quot;photos/2017-11-05-Ulloi/IMG_8711.JPG&quot; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
+&lt;div id=&quot;lyrics&quot;&gt;&lt;div class=&quot;lyricsheader&quot;&gt;&lt;p&gt;&lt;center&gt;&lt;b&gt;EMF&lt;/b&gt;: Unbelievable (Official Video) (1991)&lt;/center&gt;&lt;/p&gt;&lt;/div&gt;
 
-&lt;script type=&quot;text/javascript&quot;&gt;
+&lt;center&gt;
+&lt;pre&gt;
+You burden me with your questions
+You'd have me tell no lies
+You're always asking what it's all about, darlin' listen to my replies
+You say to me I don't talk enough
+But when I do I'm a fool
+These times I've spent, I've realized
+I'm going to shoot through and leave you
 
-  var gallery;
+The things, you say
+Your purple prose just gives you away
+The things, you say
+You're unbelievable (what the fuck?)
 
-  var openPhotoSwipe = function() {
-    var pswpElement = document.querySelectorAll('.pswp')[0];
+You burden me with your problems
+By telling me more about mine
+I'm always so concerned
+With the way you say you've always go to stop to think of us
+Being one is more than I ever know
+But this time, I realize I'm going to shoot through and leave you
 
-    // build items array
-    var items = [
-        {
-            src: 'photos/2017-11-05-Ulloi/IMG_8464.JPG',
-            w: 2448,
-            h: 2448,
-            title: 'Image Caption',
-            author: 'John Doe'
-        },
-        {
-            src: 'photos/2017-11-05-Ulloi/IMG_8466.JPG',
-            w: 2448,
-            h: 2448
-        }
-    ];
-    
-    // define options (if needed)
-    var options = {
-             // history &amp; focus options are disabled on CodePen        
-        history: false,
-        focus: false,
+The things, you say
+Your purple prose just gives you away
+The things, you say
+You're unbelievable (what the fuck?)
 
-        showAnimationDuration: 0,
-        hideAnimationDuration: 0
-        
-    };
-    
-    gallery = new PhotoSwipe( pswpElement, PhotoSwipeUI_Default, items, options);
-    gallery.init();
-    
-  };
+Seemingly lastless, don't mean you can ask us
+Pushing down the relative, bringing out your higher self
+Think of the fine times, pushing down the better few
+Instead of bringing out the clues
+To what the world and everything you answer to
+Brace yourself with the grace of ease
+I know this world ain't what it seems (what the fuck? Whoa man!)
+It's unbelievable
 
-  //openPhotoSwipe();
-  //document.getElementById('btn').onclick = openPhotoSwipe;
+You burden me with your questions
+You'd have me tell no lies
+You're always asking what it's all about, darlin' listen to my replies
+You say to me I don't talk enough
+But when I do I'm a fool
+These times I've spent, I've realized
+I'm going to shoot through and leave you
 
+The things you say
+Your purple prose just gives you away
+The things you say
+Is for what I love you more
+The things you say
+Your purple prose just gives you away
+The things, you say
+You're unbelievable (what the fuck?)
+
+You're so unbelievable! (what the fuck?)
+
+You're unbelievable
+
+It's unbelievable (what the fuck?)
+
+You're unbelievable
+&lt;/pre&gt;&lt;/center&gt;&lt;/div&gt;
+
+&lt;div class=&quot;sticky_floating_video&quot;&gt;&lt;/div&gt;
+&lt;!-- Based on: https://www.cssigniter.com/make-sticky-floating-videos-page-scroll/ article. --&gt;
+
+&lt;script src=&quot;https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js&quot;&gt;&lt;/script&gt;
+
+&lt;script&gt;
+  var $window =      $( window );
+  var $videoWrap =   $( '.video-wrap' );
+  var $video =       $( '.video' );
+  var videoHeight =  $video.outerHeight();
+
+  var $end =         $( '.sticky_floating_video' );
+  var endOffsetTop = 99999;
+
+  if ( $end.offset() ) {
+    endOffsetTop = $end.offset().top;
+  }
+  console.log( &quot;[&quot; + endOffsetTop + &quot;]&quot; );
+
+  $window.on( 'scroll', function() {
+    var windowScrollTop = $window.scrollTop();
+    var videoBottom     = videoHeight + $videoWrap.offset().top;
+
+    if ( windowScrollTop &gt; videoBottom &amp;&amp; windowScrollTop &lt; endOffsetTop ) {
+      $videoWrap.height( videoHeight );
+      $video.addClass( 'stuck' );
+
+      // arrange the lyrics
+      document.getElementById( 'lyrics' ).setAttribute( &quot;style&quot;, &quot;width: 63%&quot; );
+
+    } else {
+      $videoWrap.height( 'auto' );
+      $video.removeClass( 'stuck' );
+
+      // arrange back
+      document.getElementById( 'lyrics' ).setAttribute( &quot;style&quot;, &quot;width: 100%&quot; );
+    }
+  } );
 &lt;/script&gt;
 
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;video-wrap&quot;&gt;&lt;div class=&quot;video&quot;&gt;
+
+&lt;div class=&quot;videocontainer&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/f2L47_W2mFs&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; class=&quot;iframeshadow&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;/div&gt;&lt;/div&gt;
 </content>
   </entry>
   
   <entry>
-    <title>Jekyll test page</title>
-    <link href="http://0.0.0.0:4000/jekyll_test_page.html"/>
-    <updated>0000-01-01T00:00:00+01:00</updated>
-    <id>http://0.0.0.0:4000/jekyll_test_page</id>
-    <content type="html">&lt;!-- break --&gt;
+    <title>I wouldn't have thought / én nem gondoltam volna</title>
+    <link href="http://0.0.0.0:4000/en.html"/>
+    <updated>2019-05-05T00:00:00+02:00</updated>
+    <id>http://0.0.0.0:4000/en</id>
+    <content type="html">&lt;div class=&quot;rightbox&quot; style=&quot;margin-left: 1%;&quot;&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;hu&quot; dir=&quot;ltr&quot;&gt;Most, hogy sajnáltuk azt, akinek nincs gyereke, kicsit sajnáljunk engem, akinek van. Aki elhozta a két gyerekét (15&amp;amp;18) egy 1+MFt-os nyaralásra, és “nincs kedvük” lejönni a szobából.&lt;/p&gt;&amp;mdash; ZoltanBB (@ZoltanBB) &lt;a href=&quot;https://twitter.com/ZoltanBB/status/1010510787562168326?ref_src=twsrc%5Etfw&quot;&gt;June 23, 2018&lt;/a&gt;&lt;/blockquote&gt;&lt;/div&gt;
 
-&lt;div class=&quot;rightbox&quot; style=&quot;width: 30%;&quot;&gt;&lt;a class=&quot;twitter-timeline&quot; href=&quot;https://twitter.com/FleXoft?ref_src=twsrc%5Etfw&quot; data-tweet-limit=&quot;1&quot; data-chrome=&quot;nofooter noborders noscrollbar transparent&quot;&gt;Tweets by FleXoft&lt;/a&gt; &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/div&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 
-&lt;p&gt;Aenean non sapien sit amet eros pulvinar rutrum. Phasellus quis gravida lorem, vulputate sollicitudin mi. Sed tempus tincidunt ipsum, sit amet pulvinar enim dictum eu. Etiam feugiat accumsan velit. Sed euismod euismod elit auctor iaculis. Curabitur eu ipsum sodales, luctus dolor non, tempus magna. Donec aliquam, magna sit amet interdum pretium, odio justo molestie mi, quis feugiat ligula tortor auctor metus. Pellentesque sapien odio, pharetra non felis in, mollis aliquet mauris.&lt;/p&gt;
+&lt;p&gt;Azt érzem, hogy egy kicsit belefáradtam már az életbe.&lt;/p&gt;
 
-&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
-&lt;span class=&quot;c&quot;&gt;#! /bin/sh&lt;/span&gt;
-&lt;span class=&quot;nb&quot;&gt;echo &lt;/span&gt;alma
-&lt;span class=&quot;nb&quot;&gt;echo &lt;/span&gt;Hello word.
-&lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;gt;&lt;/span&gt; alma
+&lt;p&gt;///&lt;/p&gt;
 
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Integer odio tortor, tempor at diam quis, rhoncus elementum risus. Phasellus mollis quis tortor ut tincidunt. Curabitur consequat ipsum quis nisi eleifend, vitae malesuada nunc rutrum. Aliquam sapien odio, ultricies fringilla turpis eu, elementum posuere purus. Ut iaculis ac ante vel aliquam. Nulla vel feugiat diam, vitae gravida orci. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi semper sapien et velit rhoncus tincidunt. Sed at eros ornare, egestas diam ac, interdum sapien. Ut sapien metus, faucibus at feugiat et, luctus at urna. Morbi luctus nisi orci, quis rhoncus mi accumsan sed. Sed vulputate et risus eu rhoncus. Donec a quam id erat suscipit bibendum. Donec viverra leo a sodales luctus. Curabitur pretium diam a est condimentum pretium vel nec eros.&lt;/p&gt;
-
-&lt;p&gt;Added a new repo, that is, &lt;code class=&quot;highlighter-rouge&quot;&gt;/maps&lt;/code&gt; for hosting ‘full-screen’
-interactive beer maps with brewery listings.&lt;/p&gt;
-
-&lt;p&gt;See an example &lt;a href=&quot;http://openbeer.github.io/maps/at&quot;&gt;beer map for Austria&lt;/a&gt; (~200 breweries n brewpubs)
-live or &lt;a href=&quot;https://github.com/openbeer/maps&quot;&gt;check the source using&lt;/a&gt; the mapbox.js mapping library.&lt;/p&gt;
-
-&lt;h1 id=&quot;macdown&quot;&gt;MacDown&lt;/h1&gt;
-
-&lt;div class=&quot;rightbox&quot; style=&quot;width: 35%;&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/flickr_thumb.png&quot; alt=&quot;fffff&quot; /&gt;&lt;/div&gt;
-
-&lt;div class=&quot;rightbox&quot; style=&quot;width: 15%;&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/flickr_thumb.png&quot; alt=&quot;fffff&quot; /&gt;&lt;br /&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/flickr_thumb.png&quot; alt=&quot;fffff&quot; /&gt;&lt;/div&gt;
-
-&lt;p&gt;Hello there! I’m &lt;strong&gt;MacDown&lt;/strong&gt;, the open source Markdown editor for OS X.&lt;/p&gt;
-
-&lt;p&gt;Let me introduce myself.&lt;/p&gt;
-
-&lt;h2 id=&quot;h2&quot;&gt;H2&lt;/h2&gt;
-
-&lt;h3 id=&quot;h3&quot;&gt;H3&lt;/h3&gt;
-
-&lt;p&gt;You can specify extra HTML rendering options through the &lt;a href=&quot;#rendering-pane&quot;&gt;&lt;strong&gt;Rendering&lt;/strong&gt; preference pane&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;You can customize the editor window to you liking in the &lt;a href=&quot;#editor-pane&quot;&gt;&lt;strong&gt;Editor&lt;/strong&gt; preferences pane&lt;/a&gt;:&lt;/p&gt;
-
-&lt;p&gt;You can configure various application (that’s me!) behaviors in the &lt;a href=&quot;#general-pane&quot;&gt;&lt;strong&gt;General&lt;/strong&gt; preference pane&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-basics&quot;&gt;The Basics&lt;/h2&gt;
-&lt;p&gt;Before I tell you about all the extra syntaxes and capabilities I have, I’ll introduce you to the basics of standard markdown. If you already know markdown, and want to jump straight to learning about the fancier things I can do, I suggest you skip to the &lt;a href=&quot;#markdown-pane&quot;&gt;&lt;strong&gt;Markdown&lt;/strong&gt; preference pane&lt;/a&gt;. Lets jump right in.&lt;/p&gt;
-
-&lt;h3 id=&quot;line-breaks&quot;&gt;Line Breaks&lt;/h3&gt;
-&lt;p&gt;To force a line break, put two spaces and a newline (return) at the end of the line.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;This two-line bullet 
-won’t break&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;This two-line bullet&lt;br /&gt;
-will break&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Here is the code:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;* This two-line bullet 
-won't break
-
-* This two-line bullet  
-will break
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;strong-and-emphasize&quot;&gt;Strong and Emphasize&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Strong&lt;/strong&gt;: &lt;code class=&quot;highlighter-rouge&quot;&gt;**Strong**&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;__Strong__&lt;/code&gt; (Command-B)&lt;br /&gt;
-&lt;em&gt;Emphasize&lt;/em&gt;: &lt;code class=&quot;highlighter-rouge&quot;&gt;*Emphasize*&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;_Emphasize_&lt;/code&gt;&lt;sup id=&quot;fnref:emphasize&quot;&gt;&lt;a href=&quot;#fn:emphasize&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; (Command-I)&lt;/p&gt;
-
-&lt;h3 id=&quot;headers-like-this-one&quot;&gt;Headers (like this one!)&lt;/h3&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Header 1
-========
-
-Header 2
---------
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;or&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# Header 1
-## Header 2
-### Header 3
-#### Header 4
-##### Header 5
-###### Header 6
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;links-and-email&quot;&gt;Links and Email&lt;/h3&gt;
-&lt;h4 id=&quot;inline&quot;&gt;Inline&lt;/h4&gt;
-&lt;p&gt;Just put angle brackets around an email and it becomes clickable: &lt;a href=&quot;mailto:uranusjr@gmail.com&quot;&gt;uranusjr@gmail.com&lt;/a&gt;&lt;br /&gt;
-&lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;uranusjr@gmail.com&amp;gt;&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;Same thing with urls: &lt;a href=&quot;http://macdown.uranusjr.com&quot;&gt;http://macdown.uranusjr.com&lt;/a&gt;&lt;br /&gt;
-` &lt;a href=&quot;http://macdown.uranusjr.com&quot;&gt;http://macdown.uranusjr.com&lt;/a&gt;`&lt;/p&gt;
-
-&lt;p&gt;Perhaps you want to some link text like this: &lt;a href=&quot;http://macdown.uranusjr.com&quot; title=&quot;Title&quot;&gt;Macdown Website&lt;/a&gt;&lt;br /&gt;
-&lt;code class=&quot;highlighter-rouge&quot;&gt;[Macdown Website](http://macdown.uranusjr.com &quot;Title&quot;)&lt;/code&gt; (The title is optional)&lt;/p&gt;
-
-&lt;h4 id=&quot;reference-style&quot;&gt;Reference style&lt;/h4&gt;
-&lt;p&gt;Sometimes it looks too messy to include big long urls inline, or you want to keep all your urls together.&lt;/p&gt;
-
-&lt;p&gt;Make &lt;a href=&quot;http://macdown.uranusjr.com&quot; title=&quot;Title&quot;&gt;a link&lt;/a&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;[a link][arbitrary_id]&lt;/code&gt; then on it’s own line anywhere else in the file:&lt;br /&gt;
-&lt;code class=&quot;highlighter-rouge&quot;&gt;[arbitrary_id]: http://macdown.uranusjr.com &quot;Title&quot;&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;If the link text itself would make a good id, you can link &lt;a href=&quot;http://macdown.uranusjr.com&quot;&gt;like this&lt;/a&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;[like this][]&lt;/code&gt;, then on it’s own line anywhere else in the file:&lt;br /&gt;
-&lt;code class=&quot;highlighter-rouge&quot;&gt;[like this]: http://macdown.uranusjr.com&lt;/code&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;images&quot;&gt;Images&lt;/h3&gt;
-&lt;h4 id=&quot;inline-1&quot;&gt;Inline&lt;/h4&gt;
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;![Alt Image Text](path/or/url/to.jpg &quot;Optional Title&quot;)&lt;/code&gt;&lt;/p&gt;
-&lt;h4 id=&quot;reference-style-1&quot;&gt;Reference style&lt;/h4&gt;
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;![Alt Image Text][image-id]&lt;/code&gt;&lt;br /&gt;
-on it’s own line elsewhere:&lt;br /&gt;
-&lt;code class=&quot;highlighter-rouge&quot;&gt;[image-id]: path/or/url/to.jpg &quot;Optional Title&quot;&lt;/code&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;lists&quot;&gt;Lists&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Lists must be preceded by a blank line (or block element)&lt;/li&gt;
-  &lt;li&gt;Unordered lists start each item with a &lt;code class=&quot;highlighter-rouge&quot;&gt;*&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;-&lt;/code&gt; works too
-    &lt;ul&gt;
-      &lt;li&gt;Indent a level to make a nested list
-        &lt;ol&gt;
-          &lt;li&gt;Ordered lists are supported.&lt;/li&gt;
-          &lt;li&gt;Start each item (number-period-space) like &lt;code class=&quot;highlighter-rouge&quot;&gt;1. &lt;/code&gt;&lt;/li&gt;
-          &lt;li&gt;It doesn’t matter what number you use, I will render them sequentially&lt;/li&gt;
-          &lt;li&gt;So you might want to start each line with &lt;code class=&quot;highlighter-rouge&quot;&gt;1.&lt;/code&gt; and let me sort it out&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Here is the code:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;* Lists must be preceded by a blank line (or block element)
-* Unordered lists start each item with a `*`
-- `-` works too
-    * Indent a level to make a nested list
-	1. Ordered lists are supported.
-	2. Start each item (number-period-space) like `1. `
-	42. It doesn't matter what number you use, I will render them sequentially
-	1. So you might want to start each line with `1.` and let me sort it out
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;block-quote&quot;&gt;Block Quote&lt;/h3&gt;
-
-&lt;blockquote&gt;
-  &lt;p style=&quot;margin:0px&quot;&gt;&lt;/p&gt;
-  &lt;p&gt;Angle brackets &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;gt;&lt;/code&gt; are used for block quotes.&lt;br /&gt;
-Technically not every line needs to start with a &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;gt;&lt;/code&gt; as long as
-there are no empty lines between paragraphs.&lt;br /&gt;
-Looks kinda ugly though.&lt;/p&gt;
-  &lt;blockquote&gt;
-    &lt;p style=&quot;margin:0px&quot;&gt;&lt;/p&gt;
-    &lt;p&gt;Block quotes can be nested.&lt;/p&gt;
-    &lt;blockquote&gt;
-      &lt;p style=&quot;margin:0px&quot;&gt;&lt;/p&gt;
-      &lt;p&gt;Multiple Levels&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/blockquote&gt;
-
-  &lt;p&gt;Most markdown syntaxes work inside block quotes.&lt;/p&gt;
-
-  &lt;ul&gt;
-    &lt;li&gt;Lists&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;http://macdown.uranusjr.com&quot; title=&quot;Title&quot;&gt;Links&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;Etc.&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Here is the code:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;gt; Angle brackets `&amp;gt;` are used for block quotes.  
-Technically not every line needs to start with a `&amp;gt;` as long as
-there are no empty lines between paragraphs.  
-&amp;gt; Looks kinda ugly though.
-&amp;gt; &amp;gt; Block quotes can be nested.  
-&amp;gt; &amp;gt; &amp;gt; Multiple Levels
-&amp;gt;
-&amp;gt; Most markdown syntaxes work inside block quotes.
-&amp;gt;
-&amp;gt; * Lists
-&amp;gt; * [Links][arbitrary_id]
-&amp;gt; * Etc.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;inline-code&quot;&gt;Inline Code&lt;/h3&gt;
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Inline code&lt;/code&gt; is indicated by surrounding it with backticks:&lt;br /&gt;
-&lt;code class=&quot;highlighter-rouge&quot;&gt;`Inline code`&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;If your &lt;code class=&quot;highlighter-rouge&quot;&gt;code has `backticks`&lt;/code&gt; that need to be displayed, you can use double backticks:
-&lt;code class=&quot;highlighter-rouge&quot;&gt;``Code with `backticks` ``&lt;/code&gt;  (mind the spaces preceding the final set of backticks)&lt;/p&gt;
-
-&lt;h3 id=&quot;block-code&quot;&gt;Block Code&lt;/h3&gt;
-&lt;p&gt;If you indent at least four spaces or one tab, I’ll display a code block.&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;print('This is a code block')
-print('The block must be preceded by a blank line')
-print('Then indent at least 4 spaces or 1 tab')
-print('Nesting does nothing. Your code is displayed Literally')
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;I also know how to do something called &lt;a href=&quot;#fenced-code-block&quot;&gt;Fenced Code Blocks&lt;/a&gt; which I will tell you about later.&lt;/p&gt;
-
-&lt;h3 id=&quot;horizontal-rules&quot;&gt;Horizontal Rules&lt;/h3&gt;
-&lt;p&gt;If you type three asterisks &lt;code class=&quot;highlighter-rouge&quot;&gt;***&lt;/code&gt; or three dashes &lt;code class=&quot;highlighter-rouge&quot;&gt;---&lt;/code&gt; on a line, I’ll display a horizontal rule:&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;document-formatting&quot;&gt;Document Formatting&lt;/h3&gt;
-&lt;p&gt;The &lt;strong&gt;&lt;em&gt;Smartypants&lt;/em&gt;&lt;/strong&gt; extension automatically transforms straight quotes (&lt;code class=&quot;highlighter-rouge&quot;&gt;&quot;&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;'&lt;/code&gt;) in your text into typographer’s quotes (&lt;code class=&quot;highlighter-rouge&quot;&gt;“&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;”&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;‘&lt;/code&gt;, and &lt;code class=&quot;highlighter-rouge&quot;&gt;’&lt;/code&gt;) according to the context. Very useful if you’re a typography freak like I am. Quote and Smartypants are syntactically incompatible. If both are enabled, Quote takes precedence.&lt;/p&gt;
-
-&lt;h3 id=&quot;block-formatting&quot;&gt;Block Formatting&lt;/h3&gt;
-
-&lt;h4 id=&quot;table&quot;&gt;Table&lt;/h4&gt;
-
-&lt;p&gt;This is a table:&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;First Header&lt;/th&gt;
-      &lt;th&gt;Second Header&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Content Cell&lt;/td&gt;
-      &lt;td&gt;Content Cell&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Content Cell&lt;/td&gt;
-      &lt;td&gt;Content Cell&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;You can align cell contents with syntax like this:&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Left Aligned&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Center Aligned&lt;/th&gt;
-      &lt;th style=&quot;text-align: right&quot;&gt;Right Aligned&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;col 3 is&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;some wordy text&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$1600&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;col 2 is&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;centered&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$12&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;zebra stripes&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;are neat&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$1&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;The left- and right-most pipes (&lt;code class=&quot;highlighter-rouge&quot;&gt;|&lt;/code&gt;) are only aesthetic, and can be omitted. The spaces don’t matter, either. Alignment depends solely on &lt;code class=&quot;highlighter-rouge&quot;&gt;:&lt;/code&gt; marks.&lt;/p&gt;
-
-&lt;h4 id=&quot;fenced-code-block&quot;&gt;&lt;a name=&quot;fenced-code-block&quot;&gt;Fenced Code Block&lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;This is a fenced code block:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;print('Hello world!')
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;You can also use waves (&lt;code class=&quot;highlighter-rouge&quot;&gt;~&lt;/code&gt;) instead of back ticks (&lt;code class=&quot;highlighter-rouge&quot;&gt;`&lt;/code&gt;):&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;print('Hello world!')
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;inline-formatting&quot;&gt;Inline Formatting&lt;/h3&gt;
-
-&lt;p&gt;The following is a list of optional inline markups supported:&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Option name&lt;/th&gt;
-      &lt;th&gt;Markup&lt;/th&gt;
-      &lt;th&gt;Result if enabled&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Intra-word emphasis&lt;/td&gt;
-      &lt;td&gt;So A*maz*ing&lt;/td&gt;
-      &lt;td&gt;So A&lt;em&gt;maz&lt;/em&gt;ing&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Strikethrough&lt;/td&gt;
-      &lt;td&gt;~~Much wow~~&lt;/td&gt;
-      &lt;td&gt;&lt;del&gt;Much wow&lt;/del&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Underline &lt;sup id=&quot;fnref:under&quot;&gt;&lt;a href=&quot;#fn:under&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
-      &lt;td&gt;_So doge_&lt;/td&gt;
-      &lt;td&gt;&lt;u&gt;So doge&lt;/u&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Quote &lt;sup id=&quot;fnref:quote&quot;&gt;&lt;a href=&quot;#fn:quote&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
-      &lt;td&gt;&quot;Such editor&quot;&lt;/td&gt;
-      &lt;td&gt;&lt;q&gt;Such editor&lt;/q&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Highlight&lt;/td&gt;
-      &lt;td&gt;==So good==&lt;/td&gt;
-      &lt;td&gt;&lt;mark&gt;So good&lt;/mark&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Superscript&lt;/td&gt;
-      &lt;td&gt;hoge\^(fuga)&lt;/td&gt;
-      &lt;td&gt;hoge&lt;sup&gt;fuga&lt;/sup&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Autolink&lt;/td&gt;
-      &lt;td&gt;http://t.co&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://t.co&quot;&gt;http://t.co&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Footnotes&lt;/td&gt;
-      &lt;td&gt;[\^4] and [\^4]:&lt;/td&gt;
-      &lt;td&gt;&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; and footnote 4&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&quot;hack-on&quot;&gt;Hack On&lt;/h2&gt;
-
-&lt;p&gt;That’s about it. Thanks for listening. I’ll be quiet from now on (unless there’s an update about the app—I’ll remind you for that!).&lt;/p&gt;
-
-&lt;p&gt;Happy writing!&lt;/p&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:emphasize&quot;&gt;
-      &lt;p&gt;If &lt;strong&gt;Underlines&lt;/strong&gt; is turned on, &lt;code class=&quot;highlighter-rouge&quot;&gt;_this notation_&lt;/code&gt; will render as underlined instead of emphasized &lt;a href=&quot;#fnref:emphasize&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:under&quot;&gt;
-      &lt;p&gt;If &lt;strong&gt;Underline&lt;/strong&gt; is disabled &lt;code class=&quot;highlighter-rouge&quot;&gt;_this_&lt;/code&gt; will be rendered as &lt;em&gt;emphasized&lt;/em&gt; instead of being underlined. &lt;a href=&quot;#fnref:under&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:quote&quot;&gt;
-      &lt;p&gt;&lt;strong&gt;Quote&lt;/strong&gt; replaces literal &lt;code class=&quot;highlighter-rouge&quot;&gt;&quot;&lt;/code&gt; characters with html &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;q&amp;gt;&lt;/code&gt; tags. &lt;strong&gt;Quote&lt;/strong&gt; and &lt;strong&gt;Smartypants&lt;/strong&gt; are syntactically incompatible. If both are enabled, &lt;strong&gt;Quote&lt;/strong&gt; takes precedence. Note that &lt;strong&gt;Quote&lt;/strong&gt; is different from &lt;em&gt;blockquote&lt;/em&gt;, which is part of standard Markdown. &lt;a href=&quot;#fnref:quote&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:4&quot;&gt;
-      &lt;p&gt;You don’t have to use a number. Arbitrary things like &lt;code class=&quot;highlighter-rouge&quot;&gt;[^footy note4]&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;[^footy note4]:&lt;/code&gt; will also work. But they will &lt;em&gt;render&lt;/em&gt; as numbered footnotes. Also, no need to keep your footnotes in order, I will sort out the order for you so they appear in the same order they were referenced in the text body. You can even keep some footnotes near where you referenced them, and collect others at the bottom of the file in the traditional place for footnotes. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
+&lt;p&gt;https://github.com/sindresorhus/ama/issues/414&lt;/p&gt;
 </content>
   </entry>
   
   <entry>
-    <title>Jekyll test page 2</title>
-    <link href="http://0.0.0.0:4000/jekyll-big-test_page.html"/>
-    <updated>0000-01-01T00:00:00+01:00</updated>
-    <id>http://0.0.0.0:4000/jekyll-big-test_page</id>
-    <content type="html">&lt;!-- break --&gt;
+    <title>Transversion</title>
+    <link href="http://0.0.0.0:4000/transversion.html"/>
+    <updated>2019-01-01T00:00:00+01:00</updated>
+    <id>http://0.0.0.0:4000/transversion</id>
+    <content type="html">&lt;div class=&quot;rightbox&quot; style=&quot;width: 40%;&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;images/transversion/transversion_tape_cover.jpg&quot; alt=&quot;Original Transversion tape cover&quot; /&gt;&lt;/div&gt;
 
-&lt;div class=&quot;rightbox&quot; style=&quot;width: 25%;&quot;&gt;
-&lt;p style=&quot;margin:0px&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Ez pedig 1 jobb oldali text 
-&lt;br /&gt;
-lesz asasasa asaasas
+&lt;p&gt;Valamikor 1983 környékén vettük (nem is tudom, hogy pontosan milyen körülmémyek között) az első számítógépünket, egy Sinclair ZX Spectrum 48K gépet. A gép még az alap gumi billentyűzetes volt és a kicsomgaolása nekem akkoriban okozott legalább akkora örömöt, mint manapság akár egy Apple MacBook Pro kicsomagolása jelent. Sajnos az eredeti gép nincs már meg, főleg, mert útközben ZX Spectrum+-á alakult át és ebben a formában maradt meg.&lt;/p&gt;
 
-sddssdsdsds
-&lt;/p&gt;&lt;/div&gt;
+&lt;p&gt;Na, de nem is is erről akartam most írni, hanem arról, hogy az egyik máig kedvenc jákékom volt ZX Spectrumon az OCEAN cég által kiadaott Transverzion nevű játéka. Az azóta eltelt idők során időről időre keresgéltem újabb klónját a játéknak és vannak / voltak is jó klónok.&lt;/p&gt;
 
-&lt;p&gt;ToDo:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;GitHub teszt&lt;/li&gt;
-  &lt;li&gt;lábléc doboz&lt;/li&gt;
-  &lt;li&gt;fejléc linkek&lt;/li&gt;
-  &lt;li&gt;dokumentum fejléc kategória és tag linkek&lt;/li&gt;
-  &lt;li&gt;fótó browser&lt;/li&gt;
-  &lt;li&gt;fotó grid&lt;/li&gt;
-  &lt;li&gt;hivatkozások&lt;/li&gt;
-  &lt;li&gt;mediaplayer (mp3, mp4, youtube, soundcloud)&lt;/li&gt;
-  &lt;li&gt;bal/jobb text doboz&lt;/li&gt;
-  &lt;li&gt;syntax highlight doboz&lt;/li&gt;
-  &lt;li&gt;terminal doboz style&lt;/li&gt;
-  &lt;li&gt;css tisztítás&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;És végül álljon itt egy saját próbálkozásom, amit én most PICO-8 platformon követtem el:&lt;/p&gt;
 
-&lt;audio controls=&quot;&quot;&gt;
-  &lt;source src=&quot;mp3/horse.ogg&quot; type=&quot;audio/ogg&quot; /&gt;
-  &lt;source src=&quot;horse.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
-Your browser does not support the audio element.
-&lt;/audio&gt;
+&lt;p&gt;http://www.top80sgames.com/site/content/transversion&lt;/p&gt;
 
-&lt;iframe width=&quot;100%&quot; height=&quot;300&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/98992518&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
-
-&lt;iframe class=&quot;shadow&quot; width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/98992518&amp;amp;color=%2300cc11&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
-
-&lt;h2 id=&quot;mit-tud-a-jelenlegi-css&quot;&gt;Mit tud a jelenlegi CSS:&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Terminal&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;pre class=&quot;terminal&quot;&gt;WWWText &lt;strong&gt;skdslksd&lt;/strong&gt;
-iiiiii&lt;/pre&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Fejlécek&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;h1&quot;&gt;H1&lt;/h1&gt;
-
-&lt;h2 id=&quot;h2&quot;&gt;H2&lt;/h2&gt;
-
-&lt;h3 id=&quot;h3&quot;&gt;H3&lt;/h3&gt;
-
-&lt;h4 id=&quot;h4&quot;&gt;H4&lt;/h4&gt;
-
-&lt;h5 id=&quot;h5&quot;&gt;H5&lt;/h5&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Iniciáléval kezdődő bejegyzés&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Lásd fentebb.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;YouTube videók beágyazása&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;videocontainer&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/OLdWTOgIGF8&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; class=&quot;iframeshadow&quot; width=&quot;1024&quot; height=&quot;576&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;syntax highlight lehetőség&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;s&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;JavaScript syntax highlighting&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;alert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;s&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;s&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;JavaScript syntax highlighting&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;alert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;s&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;s&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;JavaScript syntax highlighting&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;alert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;s&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;s&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;JavaScript syntax highlighting&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;alert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;s&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;s&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;JavaScript syntax highlighting&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;alert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;s&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;hr /&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;listák készítése&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Lists must be preceded by a blank line (or block element)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;sddsd&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;dsdskdjsk&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Unordered lists start each item with a &lt;code class=&quot;highlighter-rouge&quot;&gt;*&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;-&lt;/code&gt; works too
-    &lt;ul&gt;
-      &lt;li&gt;Indent a level to make a nested list
-        &lt;ol&gt;
-          &lt;li&gt;Ordered lists are supported.&lt;/li&gt;
-          &lt;li&gt;Start each item (number-period-space) like &lt;code class=&quot;highlighter-rouge&quot;&gt;1. &lt;/code&gt;&lt;/li&gt;
-          &lt;li&gt;It doesn’t matter what number you use, I will render them sequentially&lt;/li&gt;
-          &lt;li&gt;So you might want to start each line with &lt;code class=&quot;highlighter-rouge&quot;&gt;1.&lt;/code&gt; and let me sort it out&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;táblázatok kezelése&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;This is a table:&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;First Header&lt;/th&gt;
-      &lt;th&gt;Second Header&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Content Cell&lt;/td&gt;
-      &lt;td&gt;Content Cell&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Content Cell&lt;/td&gt;
-      &lt;td&gt;Content Cell&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;You can align cell contents with syntax like this:&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Left Aligned&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Center Aligned&lt;/th&gt;
-      &lt;th style=&quot;text-align: right&quot;&gt;Right Aligned&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;col 3 is&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;some wordy text&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$1600&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;col 2 is&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;centered&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$12&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;zebra stripes&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;are neat&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$1&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;The left- and right-most pipes (&lt;code class=&quot;highlighter-rouge&quot;&gt;|&lt;/code&gt;) are only aesthetic, and can be omitted. The spaces don’t matter, either. Alignment depends solely on &lt;code class=&quot;highlighter-rouge&quot;&gt;:&lt;/code&gt; marks.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;idézetek&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-  &lt;p style=&quot;margin:0px&quot;&gt;&lt;/p&gt;
-  &lt;p&gt;Angle brackets &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;gt;&lt;/code&gt; are used for block quotes.&lt;br /&gt;
-Technically not every line needs to start with a &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;gt;&lt;/code&gt; as long as
-there are no empty lines between paragraphs.&lt;br /&gt;
-Looks kinda ugly though.&lt;/p&gt;
-  &lt;blockquote&gt;
-    &lt;p style=&quot;margin:0px&quot;&gt;&lt;/p&gt;
-    &lt;p&gt;Block quotes can be nested.&lt;/p&gt;
-    &lt;blockquote&gt;
-      &lt;p style=&quot;margin:0px&quot;&gt;&lt;/p&gt;
-      &lt;p&gt;Multiple Levels&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/blockquote&gt;
-
-  &lt;p&gt;Most markdown syntaxes work inside block quotes.&lt;/p&gt;
-
-  &lt;ul&gt;
-    &lt;li&gt;Lists&lt;/li&gt;
-    &lt;li&gt;[Links][arbitrary_id]&lt;/li&gt;
-    &lt;li&gt;Etc.&lt;/li&gt;
-  &lt;/ul&gt;
-
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Hivatkozások kezelése&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I bet you’d like more information about this sentence &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;inline-formatting&quot;&gt;Inline Formatting&lt;/h2&gt;
-
-&lt;p&gt;The following is a list of optional inline markups supported:&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Option name&lt;/th&gt;
-      &lt;th&gt;Markup&lt;/th&gt;
-      &lt;th&gt;Result if enabled&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Intra-word emphasis&lt;/td&gt;
-      &lt;td&gt;So A*maz*ing&lt;/td&gt;
-      &lt;td&gt;So A&lt;em&gt;maz&lt;/em&gt;ing&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Strikethrough&lt;/td&gt;
-      &lt;td&gt;~~Much wow~~&lt;/td&gt;
-      &lt;td&gt;&lt;del&gt;Much wow&lt;/del&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Underline &lt;sup id=&quot;fnref:under&quot;&gt;&lt;a href=&quot;#fn:under&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
-      &lt;td&gt;_So doge_&lt;/td&gt;
-      &lt;td&gt;&lt;u&gt;So doge&lt;/u&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Quote &lt;sup id=&quot;fnref:quote&quot;&gt;&lt;a href=&quot;#fn:quote&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
-      &lt;td&gt;&quot;Such editor&quot;&lt;/td&gt;
-      &lt;td&gt;&lt;q&gt;Such editor&lt;/q&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Highlight&lt;/td&gt;
-      &lt;td&gt;==So good==&lt;/td&gt;
-      &lt;td&gt;&lt;mark&gt;So good&lt;/mark&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Superscript&lt;/td&gt;
-      &lt;td&gt;hoge\^(fuga)&lt;/td&gt;
-      &lt;td&gt;hoge&lt;sup&gt;fuga&lt;/sup&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Autolink&lt;/td&gt;
-      &lt;td&gt;http://t.co&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://t.co&quot;&gt;http://t.co&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Footnotes&lt;/td&gt;
-      &lt;td&gt;[\^4] and [\^4]:&lt;/td&gt;
-      &lt;td&gt;&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; and footnote 4&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&quot;hack-on&quot;&gt;Hack On&lt;/h2&gt;
-
-&lt;p&gt;That’s about it. Thanks for listening. I’ll be quiet from now on (unless there’s an update about the app—I’ll remind you for that!).&lt;/p&gt;
-
-&lt;p&gt;Happy writing!&lt;/p&gt;
-
-&lt;p&gt;egy teszt lista:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;alma&lt;/li&gt;
-  &lt;li&gt;körte&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;asassa&lt;/p&gt;
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p style=&quot;margin:0px&quot;&gt;&lt;/p&gt;
-      &lt;p&gt;Well lucky for you, I’ve included more information in footnote form. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:under&quot;&gt;
-      &lt;p style=&quot;margin:0px&quot;&gt;&lt;/p&gt;
-      &lt;p&gt;If &lt;strong&gt;Underline&lt;/strong&gt; is disabled &lt;code class=&quot;highlighter-rouge&quot;&gt;_this_&lt;/code&gt; will be rendered as &lt;em&gt;emphasized&lt;/em&gt; instead of being underlined. &lt;a href=&quot;#fnref:under&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:quote&quot;&gt;
-      &lt;p style=&quot;margin:0px&quot;&gt;&lt;/p&gt;
-      &lt;p&gt;&lt;strong&gt;Quote&lt;/strong&gt; replaces literal &lt;code class=&quot;highlighter-rouge&quot;&gt;&quot;&lt;/code&gt; characters with html &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;q&amp;gt;&lt;/code&gt; tags. &lt;strong&gt;Quote&lt;/strong&gt; and &lt;strong&gt;Smartypants&lt;/strong&gt; are syntactically incompatible. If both are enabled, &lt;strong&gt;Quote&lt;/strong&gt; takes precedence. Note that &lt;strong&gt;Quote&lt;/strong&gt; is different from &lt;em&gt;blockquote&lt;/em&gt;, which is part of standard Markdown. &lt;a href=&quot;#fnref:quote&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:4&quot;&gt;
-      &lt;p style=&quot;margin:0px&quot;&gt;&lt;/p&gt;
-      &lt;p&gt;You don’t have to use a number. Arbitrary things like &lt;code class=&quot;highlighter-rouge&quot;&gt;[^footy note4]&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;[^footy note4]:&lt;/code&gt; will also work. But they will &lt;em&gt;render&lt;/em&gt; as numbered footnotes. Also, no need to keep your footnotes in order, I will sort out the order for you so they appear in the same order they were referenced in the text body. You can even keep some footnotes near where you referenced them, and collect others at the bottom of the file in the traditional place for footnotes. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
+&lt;p&gt;https://spectrumcomputing.co.uk/index.php?cat=96&amp;amp;id=5383&lt;/p&gt;
 </content>
   </entry>
   
   <entry>
-    <title>Photo teszt lap</title>
-    <link href="http://0.0.0.0:4000/foto_teszt.html"/>
-    <updated>0000-01-01T00:00:00+01:00</updated>
-    <id>http://0.0.0.0:4000/foto_teszt</id>
-    <content type="html">&lt;!-- break --&gt;
+    <title>Hajnalka HBD 44</title>
+    <link href="http://0.0.0.0:4000/Hajnalka_HBD44.html"/>
+    <updated>2018-11-24T00:00:00+01:00</updated>
+    <id>http://0.0.0.0:4000/Hajnalka_HBD44</id>
+    <content type="html">&lt;p&gt;Boldog szülinapot!&lt;/p&gt;
 
-&lt;p&gt;Ez egy teszt oldal a képek kezeléséhez:&lt;/p&gt;
+&lt;div class=&quot;video-wrap&quot;&gt;&lt;div class=&quot;video&quot;&gt;
 
-&lt;p&gt;&lt;button id=&quot;btn&quot;&gt;Open PhotoSwipe&lt;/button&gt;&lt;/p&gt;
+&lt;div class=&quot;videocontainer&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/yOGD1WkJJok&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; class=&quot;iframeshadow&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo(0);&quot;&gt;1&lt;/a&gt;
-&lt;a href=&quot;javascript:openPhotoSwipe();gallery.goTo(1);&quot;&gt;2&lt;/a&gt;
-&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo(0);&quot;&gt;3&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;
 
-&lt;div class=&quot;row&quot; style=&quot;margin-left: 1em;&quot;&gt; 
-  &lt;div class=&quot;column&quot;&gt;
-    &lt;img src=&quot;images/1.jpg&quot; /&gt;
-    &lt;img src=&quot;images/1.jpg&quot; /&gt;
-    &lt;img src=&quot;images/1.jpg&quot; /&gt;
-    &lt;img src=&quot;images/1.jpg&quot; /&gt;
-    &lt;img src=&quot;images/1.jpg&quot; /&gt;
-    &lt;a href=&quot;javascript:openPhotoSwipe();gallery.goTo(1);&quot;&gt;&lt;img src=&quot;images/konyvespolc.jpg&quot; /&gt;&lt;/a&gt;
-    &lt;img src=&quot;images/1.jpg&quot; /&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;column&quot;&gt;
-    &lt;img src=&quot;images/5.jpg&quot; /&gt;
-    &lt;img src=&quot;images/2.jpg&quot; /&gt;
-    &lt;img src=&quot;images/2.jpg&quot; /&gt;
-    &lt;img src=&quot;images/2.jpg&quot; /&gt;
-    &lt;img src=&quot;images/2.jpg&quot; /&gt;
-    &lt;img src=&quot;images/konyvespolc.jpg&quot; /&gt;
-  &lt;/div&gt; 
-  &lt;div class=&quot;column&quot;&gt;
-    &lt;img src=&quot;images/2.jpg&quot; /&gt;
-    &lt;img src=&quot;images/1.jpg&quot; /&gt;
-    &lt;img src=&quot;falls2.jpg&quot; /&gt;
-    &lt;img src=&quot;paris.jpg&quot; /&gt;
-    &lt;img src=&quot;images/1.jpg&quot; /&gt;
-    &lt;img src=&quot;images/konyvespolc.jpg&quot; /&gt;
-    &lt;img src=&quot;images/konyvespolc.jpg&quot; /&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;column&quot;&gt;
-    &lt;img src=&quot;images/5.jpg&quot; /&gt;
-    &lt;img src=&quot;images/4.jpg&quot; /&gt;
-    &lt;img src=&quot;images/2.jpg&quot; /&gt;
-    &lt;img src=&quot;images/konyvespolc.jpg&quot; /&gt;
-    &lt;img src=&quot;rocks.jpg&quot; /&gt;
-    &lt;img src=&quot;underwater.jpg&quot; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
+&lt;!-- break --&gt;
 
-&lt;hr /&gt;
+&lt;!-- Based on: https://www.cssigniter.com/make-sticky-floating-videos-page-scroll/ article. --&gt;
 
-&lt;div class=&quot;row&quot; style=&quot;margin-left: 1em;&quot;&gt; 
-  &lt;div class=&quot;column&quot;&gt;
-    &lt;img src=&quot;images/1.jpg&quot; /&gt;
-    &lt;img src=&quot;images/1.jpg&quot; /&gt;
-    &lt;img src=&quot;images/1.jpg&quot; /&gt;
-    &lt;img src=&quot;images/1.jpg&quot; /&gt;
-    &lt;img src=&quot;images/1.jpg&quot; /&gt;
-    &lt;a href=&quot;javascript:openPhotoSwipe();gallery.goTo(1);&quot;&gt;&lt;img src=&quot;images/konyvespolc.jpg&quot; /&gt;&lt;/a&gt;
-    &lt;img src=&quot;images/1.jpg&quot; /&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;column&quot;&gt;
-    &lt;img src=&quot;images/5.jpg&quot; /&gt;
-    &lt;img src=&quot;images/2.jpg&quot; /&gt;
-    &lt;img src=&quot;images/2.jpg&quot; /&gt;
-    &lt;img src=&quot;images/2.jpg&quot; /&gt;
-    &lt;img src=&quot;images/2.jpg&quot; /&gt;
-    &lt;img src=&quot;images/konyvespolc.jpg&quot; /&gt;
-  &lt;/div&gt; 
-  &lt;div class=&quot;column&quot;&gt;
-    &lt;img src=&quot;images/2.jpg&quot; /&gt;
-    &lt;img src=&quot;images/1.jpg&quot; /&gt;
-    &lt;img src=&quot;falls2.jpg&quot; /&gt;
-    &lt;img src=&quot;paris.jpg&quot; /&gt;
-    &lt;img src=&quot;images/1.jpg&quot; /&gt;
-    &lt;img src=&quot;images/konyvespolc.jpg&quot; /&gt;
-    &lt;img src=&quot;images/konyvespolc.jpg&quot; /&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;column&quot;&gt;
-    &lt;img src=&quot;images/5.jpg&quot; /&gt;
-    &lt;img src=&quot;images/4.jpg&quot; /&gt;
-    &lt;img src=&quot;images/2.jpg&quot; /&gt;
-    &lt;img src=&quot;images/konyvespolc.jpg&quot; /&gt;
-    &lt;img src=&quot;rocks.jpg&quot; /&gt;
-    &lt;img src=&quot;underwater.jpg&quot; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
+&lt;script src=&quot;https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js&quot;&gt;&lt;/script&gt;
 
-&lt;p&gt;&lt;!-- more --&gt;&lt;/p&gt;
+&lt;script&gt;
+  var $window =      $( window );
+  var $videoWrap =   $( '.video-wrap' );
+  var $video =       $( '.video' );
+  var videoHeight =  $video.outerHeight();
 
-&lt;script type=&quot;text/javascript&quot;&gt;
+  var $end =         $( '.sticky_floating_video' );
+  var endOffsetTop = 99999;
 
-var gallery;
+  if ( $end.offset() ) {
+    endOffsetTop = $end.offset().top;
+  }
+  console.log( &quot;[&quot; + endOffsetTop + &quot;]&quot; );
 
-var openPhotoSwipe = function() {
-    var pswpElement = document.querySelectorAll('.pswp')[0];
+  $window.on( 'scroll', function() {
+    var windowScrollTop = $window.scrollTop();
+    var videoBottom     = videoHeight + $videoWrap.offset().top;
 
-    // build items array
-    var items = [
-        {
-            src: 'images/1.jpg',
-            w: 964,
-            h: 1024,
-            title: 'Image Caption',
-            author: 'John Doe'
-        },
-        {
-            src: 'images/5.jpg',
-            w: 1024,
-            h: 683
-        }
-    ];
-    
-    // define options (if needed)
-    var options = {
-             // history &amp; focus options are disabled on CodePen        
-        history: false,
-        focus: false,
+    if ( windowScrollTop &gt; videoBottom &amp;&amp; windowScrollTop &lt; endOffsetTop ) {
+      $videoWrap.height( videoHeight );
+      $video.addClass( 'stuck' );
 
-        showAnimationDuration: 0,
-        hideAnimationDuration: 0
-        
-    };
-    
-    gallery = new PhotoSwipe( pswpElement, PhotoSwipeUI_Default, items, options);
-    gallery.init();
-    
-};
+      // arrange the lyrics
+      document.getElementById( 'lyrics' ).setAttribute( &quot;style&quot;, &quot;width: 63%&quot; );
 
+    } else {
+      $videoWrap.height( 'auto' );
+      $video.removeClass( 'stuck' );
 
-//openPhotoSwipe();
-//document.getElementById('btn').onclick = openPhotoSwipe;
-
+      // arrange back
+      document.getElementById( 'lyrics' ).setAttribute( &quot;style&quot;, &quot;width: 100%&quot; );
+    }
+  } );
 &lt;/script&gt;
 
-&lt;h1 id=&quot;egy-következő-h1&quot;&gt;Egy következő H1&lt;/h1&gt;
+&lt;div id=&quot;lyrics&quot;&gt;&lt;div class=&quot;lyricsheader&quot;&gt;&lt;p&gt;&lt;center&gt;&lt;b&gt;Eurythmics&lt;/b&gt;: Miracle of Love (Official Video) (1986)&lt;/center&gt;&lt;/p&gt;&lt;/div&gt;
 
-&lt;p&gt;és itt egy záró sor&lt;/p&gt;
+&lt;center&gt;
+&lt;pre&gt;
+How many sorrows
+Do you try to hide
+In a world of illusion
+That's covering your mind?
+I'll show you something good
+Oh I'll show you something good.
+When you open your mind
+You'll discover the sign
+That there's something
+You're longing to find...
 
-&lt;p&gt;Itt meg egy kis kód:&lt;/p&gt;
+The miracle of love
+Will take away your pain
+When the miracle of love
+Comes your way again.
 
-&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;s&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;JavaScript syntax highlighting&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;alert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;s&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;és egy kis lista1:&lt;/p&gt;
+Cruel is the night
+That covers up your fears.
+Tender is the one
+That wipes away your tears.
+There must be a bitter breeze
+To make you sting so viciously -
+They say the greatest coward
+Can hurt the most ferociously.
+But I'll show you something good.
+Oh I'll show you something good.
+If you open your heart
+You can make a new start
+When your crumbling world falls apart.
+&lt;/pre&gt;&lt;/center&gt;&lt;/div&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>🎵 Johnny Cash: I Hung My Head</title>
+    <link href="http://0.0.0.0:4000/Johnny_Cash-I_Hung_My_Head.html"/>
+    <updated>2018-07-27T00:00:00+02:00</updated>
+    <id>http://0.0.0.0:4000/Johnny_Cash- I_Hung_My_Head"</id>
+    <content type="html">&lt;div class=&quot;video-wrap&quot;&gt;&lt;div class=&quot;video&quot;&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;aslaskaskla skl&lt;/li&gt;
-  &lt;li&gt;asaksjkas ka ksaj&lt;/li&gt;
-&lt;/ul&gt;
+&lt;div class=&quot;videocontainer&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/0M53FcPoWtA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; class=&quot;iframeshadow&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
 
-&lt;p&gt;és egy kis lista2:&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;askajsjjsk&lt;/li&gt;
-  &lt;li&gt;asjkajsajsaks&lt;/li&gt;
-  &lt;li&gt;sjdksdjskdjksdjk&lt;/li&gt;
-&lt;/ol&gt;
+&lt;!-- break --&gt;
+
+&lt;p&gt;&lt;a id=&quot;top&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;div id=&quot;lyrics&quot;&gt;&lt;div class=&quot;lyricsheader&quot; style=&quot;&quot;&gt;&lt;p&gt;&lt;center&gt;&lt;b&gt;Johnny Cash&lt;/b&gt;: I Hung My Head&lt;/center&gt;&lt;/p&gt;&lt;/div&gt;
+
+&lt;center&gt;&lt;pre&gt;
+Early one morning
+With time to kill
+I borrowed Jebb's rifle
+And sat on the hill
+I saw a lone rider
+Crossing the plain
+I drew a bead on him
+To practise my aim
+
+My brother's rifle
+Went off in my hand
+A shot rang out
+Across the land
+The horse, he kept running
+The rider was dead
+I hung my head
+I hung my head
+
+I set off running
+To wake from the dream
+My brother's rifle
+Went into the sheen
+I kept on running
+Into the south lands
+That's where they found me
+My head in my hands
+
+The sheriff he asked me
+Why had I run
+And then it came to me
+Just what I had done
+And all for no reason
+Just one piece of lead
+I hung my head
+I hung my head
+
+Here in the court house
+The whole town was there
+I see the judge
+High up in his chair
+&quot;Explain to the courtroom
+What went through your mind.
+And we'll ask the jury
+What verdict they find.&quot;
+
+I felt the power
+Of death over life
+I orphaned his children
+I widowed his wife
+I begged their forgiveness
+I wish I was dead
+I hung my head
+I hung my head
+I hung my head
+I hung my head
+
+Early one morning
+With time to kill
+I see the gallows
+Upon a hill
+And out in the distance
+A trick of the brain
+I see a lone rider
+Crossing the plain
+
+And he'd come to fetch me
+To see what they'd done
+And we'd ride together
+To Kingdom come
+I prayed for God's mercy
+For soon I'd be dead
+I hung my head
+I hung my head
+I hung my head
+I hung my head
+&lt;/pre&gt;&lt;br /&gt;&lt;a href=&quot;#top&quot;&gt;⬆&lt;/a&gt;&lt;/center&gt;&lt;/div&gt;
+
+&lt;div class=&quot;sticky_floating_video&quot;&gt;&lt;/div&gt;
+&lt;!-- Based on: https://www.cssigniter.com/make-sticky-floating-videos-page-scroll/ article. --&gt;
+
+&lt;script src=&quot;https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js&quot;&gt;&lt;/script&gt;
+
+&lt;script&gt;
+  var $window =      $( window );
+  var $videoWrap =   $( '.video-wrap' );
+  var $video =       $( '.video' );
+  var videoHeight =  $video.outerHeight();
+
+  var $end =         $( '.sticky_floating_video' );
+  var endOffsetTop = 99999;
+
+  if ( $end.offset() ) {
+    endOffsetTop = $end.offset().top;
+  }
+  console.log( &quot;[&quot; + endOffsetTop + &quot;]&quot; );
+
+  $window.on( 'scroll', function() {
+    var windowScrollTop = $window.scrollTop();
+    var videoBottom     = videoHeight + $videoWrap.offset().top;
+
+    if ( windowScrollTop &gt; videoBottom &amp;&amp; windowScrollTop &lt; endOffsetTop ) {
+      $videoWrap.height( videoHeight );
+      $video.addClass( 'stuck' );
+
+      // arrange the lyrics
+      document.getElementById( 'lyrics' ).setAttribute( &quot;style&quot;, &quot;width: 63%&quot; );
+
+    } else {
+      $videoWrap.height( 'auto' );
+      $video.removeClass( 'stuck' );
+
+      // arrange back
+      document.getElementById( 'lyrics' ).setAttribute( &quot;style&quot;, &quot;width: 100%&quot; );
+    }
+  } );
+&lt;/script&gt;
+
 </content>
   </entry>
   
