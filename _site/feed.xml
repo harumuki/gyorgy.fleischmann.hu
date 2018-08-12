@@ -3,7 +3,7 @@
   <title>News 'n' Updates | gyorgy.fleischmann.hu</title>
   <link href="http://0.0.0.0:4000/feed.xml" rel="self"/>
   <link href="http://0.0.0.0:4000/"/>
-  <updated>2018-08-12T14:29:23+02:00</updated>
+  <updated>2018-08-12T15:28:53+02:00</updated>
   <id>http://0.0.0.0:4000/</id>
   <author>
     <name></name>
@@ -117,15 +117,17 @@ Ooh one more night, cos I can't wait forever
     <link href="http://0.0.0.0:4000/jatszoter.html"/>
     <updated>2018-08-11T00:00:00+02:00</updated>
     <id>http://0.0.0.0:4000/jatszoter</id>
-    <content type="html">&lt;p&gt;Ez: a &lt;a href=&quot;https://www.google.hu/maps/place/T%C3%A1traf%C3%BCred+t%C3%A9ri+j%C3%A1tsz%C3%B3t%C3%A9r/@47.4373312,19.2102836,65m/data=!3m1!1e3!4m12!1m6!3m5!1s0x4741c22693021373:0x1f5bd39629f00e01!2zRG9uIEJvc2NvIEvDtnrDtnNzw6lnaSBIw6F6!8m2!3d47.4377019!4d19.2106399!3m4!1s0x4741c22133f57f6d:0x72904f8df77e9ba2!8m2!3d47.4373148!4d19.2104725&quot;&gt;Tátrafüred téri játszótér&lt;/a&gt; lesz az a játszótér ahova &lt;a href=&quot;https://andras.fleischmann.hu/&quot;&gt;Andrással&lt;/a&gt; fogunk járni.&lt;/p&gt;
+    <content type="html">&lt;p&gt;Ez: a &lt;a href=&quot;https://www.google.hu/maps/place/T%C3%A1traf%C3%BCred+t%C3%A9ri+j%C3%A1tsz%C3%B3t%C3%A9r/@47.4373312,19.2102836,65m/data=!3m1!1e3!4m12!1m6!3m5!1s0x4741c22693021373:0x1f5bd39629f00e01!2zRG9uIEJvc2NvIEvDtnrDtnNzw6lnaSBIw6F6!8m2!3d47.4377019!4d19.2106399!3m4!1s0x4741c22133f57f6d:0x72904f8df77e9ba2!8m2!3d47.4373148!4d19.2104725&quot;&gt;Tátrafüred téri játszótér&lt;/a&gt; lesz az a játszótér, ahova &lt;a href=&quot;https://andras.fleischmann.hu/&quot;&gt;Andrissal&lt;/a&gt; fogunk járni.&lt;/p&gt;
 
-&lt;div id=&quot;map-wrap&quot; class=&quot;&quot; style=&quot;margin-bottom: .5em; -webkit-box-shadow: 0px 4px 18px rgba(0,0,0,0.84); -moz-box-shadow: 0px 4px 18px rgba(0,0,0,0.84); box-shadow: 0px 4px 18px rgba(0,0,0,0.84);&quot;&gt;
+&lt;!-- break --&gt;
+
+&lt;div id=&quot;map-wrap&quot; class=&quot;&quot; style=&quot;margin-bottom: .75em; -webkit-box-shadow: 0px 4px 18px rgba(0,0,0,0.84); -moz-box-shadow: 0px 4px 18px rgba(0,0,0,0.84); box-shadow: 0px 4px 18px rgba(0,0,0,0.84);&quot;&gt;
 	&lt;div id=&quot;map&quot; style=&quot;width:auto; height:400px;&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
 
 &lt;p&gt;Meg vagyunk / leszünk mi ezzel rendesen áldva, mert maga a játszótér a &lt;a href=&quot;http://www.szemere.plebania.hu/don-bosco-kozossegi-haz/&quot;&gt;Don Bosco Közösségi ház - Szent István Király Plébánia&lt;/a&gt; közelében van, sőt itt van még a &lt;a href=&quot;http://www.refszemeretelep.hu/&quot;&gt;Szemeretelepi Református Egyházközség temploma&lt;/a&gt; és a &lt;a href=&quot;http://www.reformatus.hu/&quot;&gt;Református Egyházmegyék&lt;/a&gt;, jelentsenek ezek pontosan már bármit egy modern világban és a &lt;a href=&quot;http://kopttemplom.wixsite.com/kopt&quot;&gt;Coptic Budapest - Szentséges Szűz Mária és Mihály Arkangyal Templom&lt;/a&gt; is.&lt;/p&gt;
 
-&lt;p&gt;Így néz ki ma maga a játszó és néhány környékbeli tereptárgy:&lt;/p&gt;
+&lt;p&gt;Így néz ma (2018.08.12., vasárnap) ki maga a játszó és néhány környékbeli tereptárgy:&lt;/p&gt;
 
 &lt;!-- ../andras.fleischmann.hu/PhotoSwipeGenerator.pl --directory photos/jatszoter2018 --filetag _jatszoter2018 --outdir _includes -v -imgproperty 'class=&quot;shadow&quot;' --&gt;
 

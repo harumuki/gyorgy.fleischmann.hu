@@ -9,15 +9,17 @@ tags:     [én, mi, élet]
 photoswipe: 'yes'
 ---
 
-Ez: a [Tátrafüred téri játszótér](https://www.google.hu/maps/place/T%C3%A1traf%C3%BCred+t%C3%A9ri+j%C3%A1tsz%C3%B3t%C3%A9r/@47.4373312,19.2102836,65m/data=!3m1!1e3!4m12!1m6!3m5!1s0x4741c22693021373:0x1f5bd39629f00e01!2zRG9uIEJvc2NvIEvDtnrDtnNzw6lnaSBIw6F6!8m2!3d47.4377019!4d19.2106399!3m4!1s0x4741c22133f57f6d:0x72904f8df77e9ba2!8m2!3d47.4373148!4d19.2104725) lesz az a játszótér ahova [Andrással](https://andras.fleischmann.hu/) fogunk járni. 
+Ez: a [Tátrafüred téri játszótér](https://www.google.hu/maps/place/T%C3%A1traf%C3%BCred+t%C3%A9ri+j%C3%A1tsz%C3%B3t%C3%A9r/@47.4373312,19.2102836,65m/data=!3m1!1e3!4m12!1m6!3m5!1s0x4741c22693021373:0x1f5bd39629f00e01!2zRG9uIEJvc2NvIEvDtnrDtnNzw6lnaSBIw6F6!8m2!3d47.4377019!4d19.2106399!3m4!1s0x4741c22133f57f6d:0x72904f8df77e9ba2!8m2!3d47.4373148!4d19.2104725) lesz az a játszótér, ahova [Andrissal](https://andras.fleischmann.hu/) fogunk járni. 
 
-<div id="map-wrap" class="" style="margin-bottom: .5em; -webkit-box-shadow: 0px 4px 18px rgba(0,0,0,0.84); -moz-box-shadow: 0px 4px 18px rgba(0,0,0,0.84); box-shadow: 0px 4px 18px rgba(0,0,0,0.84);">
+<!-- break -->
+
+<div id="map-wrap" class="" style="margin-bottom: .75em; -webkit-box-shadow: 0px 4px 18px rgba(0,0,0,0.84); -moz-box-shadow: 0px 4px 18px rgba(0,0,0,0.84); box-shadow: 0px 4px 18px rgba(0,0,0,0.84);">
 	<div id="map" style="width:auto; height:400px;"></div>
 </div>
 
 Meg vagyunk / leszünk mi ezzel rendesen áldva, mert maga a játszótér a [Don Bosco Közösségi ház - Szent István Király Plébánia](http://www.szemere.plebania.hu/don-bosco-kozossegi-haz/) közelében van, sőt itt van még a [Szemeretelepi Református Egyházközség temploma](http://www.refszemeretelep.hu/) és a [Református Egyházmegyék](http://www.reformatus.hu/), jelentsenek ezek pontosan már bármit egy modern világban és a [Coptic Budapest - Szentséges Szűz Mária és Mihály Arkangyal Templom](http://kopttemplom.wixsite.com/kopt) is.
 
-Így néz ki ma maga a játszó és néhány környékbeli tereptárgy:
+Így néz ma (2018.08.12., vasárnap) ki maga a játszó és néhány környékbeli tereptárgy:
 
 <!-- ../andras.fleischmann.hu/PhotoSwipeGenerator.pl --directory photos/jatszoter2018 --filetag _jatszoter2018 --outdir _includes -v -imgproperty 'class="shadow"' -->
 
