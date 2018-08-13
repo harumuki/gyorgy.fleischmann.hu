@@ -525,7 +525,7 @@ img.shadowthumb100 {
   right: 20px;
   -webkit-transform: translateY(-100%);
   transform: translateY(-100%);
-  width: 35%;
+  width: 40%;
   -webkit-animation: fade-in-up .25s ease forwards;
   animation: fade-in-up .25s ease forwards;
 }
@@ -693,6 +693,7 @@ table.blockheader th {
   clear: both;
   padding: 0;
   margin-top: 1em;
+  margin-bottom: 0.5em;
   border: 2px solid rgba(0, 0, 0, 0.1);
   border-radius: 7px;
 }

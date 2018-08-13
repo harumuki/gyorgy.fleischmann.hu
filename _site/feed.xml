@@ -3,7 +3,7 @@
   <title>News 'n' Updates | gyorgy.fleischmann.hu</title>
   <link href="http://0.0.0.0:4000/feed.xml" rel="self"/>
   <link href="http://0.0.0.0:4000/"/>
-  <updated>2018-08-12T15:28:53+02:00</updated>
+  <updated>2018-08-13T09:07:21+02:00</updated>
   <id>http://0.0.0.0:4000/</id>
   <author>
     <name></name>
@@ -97,7 +97,7 @@ Ooh one more night, cos I can't wait forever
       $video.addClass( 'stuck' );
 
       // arrange the lyrics
-      document.getElementById( 'lyrics' ).setAttribute( &quot;style&quot;, &quot;width: 63%&quot; );
+      document.getElementById( 'lyrics' ).setAttribute( &quot;style&quot;, &quot;width: 56%&quot; );
 
     } else {
       $videoWrap.height( 'auto' );
@@ -120,6 +120,8 @@ Ooh one more night, cos I can't wait forever
     <content type="html">&lt;p&gt;Ez: a &lt;a href=&quot;https://www.google.hu/maps/place/T%C3%A1traf%C3%BCred+t%C3%A9ri+j%C3%A1tsz%C3%B3t%C3%A9r/@47.4373312,19.2102836,65m/data=!3m1!1e3!4m12!1m6!3m5!1s0x4741c22693021373:0x1f5bd39629f00e01!2zRG9uIEJvc2NvIEvDtnrDtnNzw6lnaSBIw6F6!8m2!3d47.4377019!4d19.2106399!3m4!1s0x4741c22133f57f6d:0x72904f8df77e9ba2!8m2!3d47.4373148!4d19.2104725&quot;&gt;Tátrafüred téri játszótér&lt;/a&gt; lesz az a játszótér, ahova &lt;a href=&quot;https://andras.fleischmann.hu/&quot;&gt;Andrissal&lt;/a&gt; fogunk járni.&lt;/p&gt;
 
 &lt;!-- break --&gt;
+
+&lt;iframe style=&quot;margin-bottom: 0.7em;&quot; width=&quot;100%&quot; height=&quot;20&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/209935648&amp;amp;&amp;amp;color=ff5500&amp;amp;inverse=false&amp;amp;auto_play=false&amp;amp;show_user=true&quot;&gt;&lt;/iframe&gt;
 
 &lt;div id=&quot;map-wrap&quot; class=&quot;&quot; style=&quot;margin-bottom: .75em; -webkit-box-shadow: 0px 4px 18px rgba(0,0,0,0.84); -moz-box-shadow: 0px 4px 18px rgba(0,0,0,0.84); box-shadow: 0px 4px 18px rgba(0,0,0,0.84);&quot;&gt;
 	&lt;div id=&quot;map&quot; style=&quot;width:auto; height:400px;&quot;&gt;&lt;/div&gt;
@@ -527,7 +529,7 @@ I hung my head
       $video.addClass( 'stuck' );
 
       // arrange the lyrics
-      document.getElementById( 'lyrics' ).setAttribute( &quot;style&quot;, &quot;width: 63%&quot; );
+      document.getElementById( 'lyrics' ).setAttribute( &quot;style&quot;, &quot;width: 56%&quot; );
 
     } else {
       $videoWrap.height( 'auto' );
@@ -1257,7 +1259,7 @@ Saying it's over
       $video.addClass( 'stuck' );
 
       // arrange the lyrics
-      document.getElementById( 'lyrics' ).setAttribute( &quot;style&quot;, &quot;width: 63%&quot; );
+      document.getElementById( 'lyrics' ).setAttribute( &quot;style&quot;, &quot;width: 56%&quot; );
 
     } else {
       $videoWrap.height( 'auto' );
@@ -1491,7 +1493,7 @@ Lucky and unhappy
       $video.addClass( 'stuck' );
 
       // arrange the lyrics
-      document.getElementById( 'lyrics' ).setAttribute( &quot;style&quot;, &quot;width: 63%&quot; );
+      document.getElementById( 'lyrics' ).setAttribute( &quot;style&quot;, &quot;width: 56%&quot; );
 
     } else {
       $videoWrap.height( 'auto' );
@@ -1655,7 +1657,7 @@ They don't really care about us
       $video.addClass( 'stuck' );
 
       // arrange the lyrics
-      document.getElementById( 'lyrics' ).setAttribute( &quot;style&quot;, &quot;width: 63%&quot; );
+      document.getElementById( 'lyrics' ).setAttribute( &quot;style&quot;, &quot;width: 56%&quot; );
 
     } else {
       $videoWrap.height( 'auto' );
@@ -1807,7 +1809,7 @@ Come on!
       $video.addClass( 'stuck' );
 
       // arrange the lyrics
-      document.getElementById( 'lyrics' ).setAttribute( &quot;style&quot;, &quot;width: 63%&quot; );
+      document.getElementById( 'lyrics' ).setAttribute( &quot;style&quot;, &quot;width: 56%&quot; );
 
     } else {
       $videoWrap.height( 'auto' );
