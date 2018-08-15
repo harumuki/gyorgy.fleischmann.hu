@@ -3,7 +3,7 @@
   <title>News 'n' Updates | gyorgy.fleischmann.hu</title>
   <link href="http://0.0.0.0:4000/feed.xml" rel="self"/>
   <link href="http://0.0.0.0:4000/"/>
-  <updated>2018-08-15T09:00:12+02:00</updated>
+  <updated>2018-08-15T10:38:18+02:00</updated>
   <id>http://0.0.0.0:4000/</id>
   <author>
     <name></name>
@@ -404,6 +404,266 @@ author: 'Fleischmann György'
 						}
 &lt;/script&gt;
 
+</content>
+  </entry>
+  
+  <entry>
+    <title>ITIL® v3 2011 Foundation</title>
+    <link href="http://0.0.0.0:4000/ITIL_Foundation.html"/>
+    <updated>2018-08-10T00:00:00+02:00</updated>
+    <id>http://0.0.0.0:4000/ITIL_Foundation</id>
+    <content type="html">&lt;p&gt;Ha már belefutottam ebbe a témába, akkor gyorsan átemelem ide azt az angol nyelvű cikket (&lt;a href=&quot;https://www.simplilearn.com/itil-key-concepts-and-summary-article&quot;&gt;ITIL: Key Concepts and Summary&lt;/a&gt;), ami alapján a vizsgára készültem. Az eredeti cikket &lt;a href=&quot;https://www.simplilearn.com/authors/priyadharshini&quot;&gt;Priyadharshini&lt;/a&gt; írta.&lt;/p&gt;
+
+&lt;p&gt;Nem titkolt szándékom ezen a hosszú cikken csiszolni egy picit az oldalt mögött lévő CSS3 stílusokat.&lt;/p&gt;
+
+&lt;!-- break --&gt;
+
+&lt;hr style=&quot;margin-top: 1.5em;&quot; /&gt;
+
+&lt;h1 id=&quot;itil-key-concepts-and-summary&quot;&gt;ITIL: Key Concepts and Summary&lt;/h1&gt;
+
+&lt;p&gt;The ITIL (Information Technology Infrastructure Library) has become the de facto standard in IT Service Management. ITIL helps organizations across industries offer their services in a quality-driven and economical way. The framework’s most recent version, published in 2011, is only a progressive update that further refines an existing body of IT Service best practices.&lt;/p&gt;
+
+&lt;p&gt;Whether you’re already on your certification journey or are just researching the field of IT Service, before commencing full-fledged preparation for the ITIL exams, it’s helpful to learn the basic concepts and terms of ITIL that will help you gain familiarity with the core components of the exam.&lt;/p&gt;
+
+&lt;h2 id=&quot;some-basics-it-service-management-terminology--key-concepts&quot;&gt;Some Basics IT Service Management Terminology &amp;amp; Key Concepts&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Services:&lt;/strong&gt; It is a means of delivering value to customers without requiring the customer to own specific costs and risks.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Service Management:&lt;/strong&gt; It is a set of specialized capabilities for delivering value to customers in the form of services.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Service Assets:&lt;/strong&gt; Service Assets or assets refer to the ‘resources’ and ‘capabilities’ which a Service Provider must allocate in order to offer a service.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Value, Utility and Warranty:&lt;/strong&gt; The value of a service consists of two components: utility and warranty. Services must offer both utility and warranty in order to have value. Utility, also called ‘fitness for purpose’, refers to the ability of the service to remove constraints or increase the performance of the customer. Warranty, also called ‘fitness for use’ is the ability of the service to operate reliably.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Processes:&lt;/strong&gt; Processes are structured sets of activities designed to achieve a specific objective. The four basic characteristics of processes are:
+    &lt;ol&gt;
+      &lt;li&gt;They transform inputs into outputs&lt;/li&gt;
+      &lt;li&gt;They deliver results to a specific customer or stakeholder&lt;/li&gt;
+      &lt;li&gt;They are measurable&lt;/li&gt;
+      &lt;li&gt;They are triggered by specific events&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Functions:&lt;/strong&gt; Functions are self-contained subsets of an organization intended to accomplish specific tasks. They usually take the form of a team or group of people and the tools they use.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Roles:&lt;/strong&gt; Roles are defined collections of specific responsibilities and privileges. Roles may be held by individuals or teams.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Resources:&lt;/strong&gt; Resources are the raw materials which contribute to a service, such as money, equipment, time, staff etc.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Capabilities:&lt;/strong&gt; Capabilities are the specialized skills or abilities an organization applies to resources in order to create value.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;the-itil-service-lifecycle&quot;&gt;The ITIL Service Lifecycle&lt;/h2&gt;
+
+&lt;p&gt;The entire framework of ITIL is divided into five broad components/categories:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ITIL Service Strategy&lt;/li&gt;
+  &lt;li&gt;ITIL Service Design&lt;/li&gt;
+  &lt;li&gt;ITIL Service Transition&lt;/li&gt;
+  &lt;li&gt;ITIL Service Operation&lt;/li&gt;
+  &lt;li&gt;ITIL Continual Service Improvement&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These components form the skeleton of the ITIL Service Lifecycle.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://d112vpovu2xa8r.cloudfront.net/portal_simplilearn_curatasite_com/media/wIWpnG1eim5vnkf.jpeg&quot; alt=&quot;ITIL Service Lifecycle&quot; title=&quot;ITIL Service Lifecycle&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;itil-key-concepts-processes-functions&quot;&gt;ITIL Key Concepts: Processes, Functions&lt;/h2&gt;
+
+&lt;p&gt;The five broad components of the ITIL Service Lifecycle cover various other sub-categories/aspects, including Demand Management, Capacity Management, Release Management, Incident Management, Event Management, and so on. These are aspects that are meant to cover all areas of ITSM (IT Service Management).&lt;/p&gt;
+
+&lt;p&gt;Each of the sub-categories/aspects of the five components of the ITIL framework may be labelled either as a ‘Process’ or as a ‘Function’.&lt;/p&gt;
+
+&lt;p&gt;Here’s a diagram that better explains the sub-categories/aspects of the five broader components, classifying them as either a process or as a function.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://d112vpovu2xa8r.cloudfront.net/portal_simplilearn_curatasite_com/media/0ZIeQa9WEJRQw5f.jpeg&quot; alt=&quot;The five broader components&quot; title=&quot;The five broader components&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now on to the five core components of ITIL.&lt;/p&gt;
+
+&lt;h2 id=&quot;itil-core-component-service-strategy&quot;&gt;ITIL Core Component: Service Strategy&lt;/h2&gt;
+
+&lt;p&gt;The purpose of Service Strategy is to provide a strategy for the service lifecycle. The strategy should be in sync with the customer’s business objectives as well as to manage services, and therein lies its scope. The objective of Service Strategy is, therefore, to provide a definition of strategy and governance control.&lt;/p&gt;
+
+&lt;p&gt;The utility and warranty of this component are designed to ensure that the service is fit for purpose and fit for use, respectively. Ensuring this is important as these two components are what add value in the delivery of services to customers.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;Service Strategy&lt;/strong&gt; process is concerned with the development of service concepts in preparation for the selection of services to be provided.&lt;/p&gt;
+
+&lt;h3 id=&quot;service-portfolio-management-process&quot;&gt;Service Portfolio Management Process:&lt;/h3&gt;
+
+&lt;p&gt;The &lt;strong&gt;Service Portfolio&lt;/strong&gt; is the entire set of services under management by a Service Provider. It consists of three major parts: &lt;strong&gt;Service Pipeline, Service Catalog and Retired Services&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;The Service Portfolio Management process is concerned with management of services that concern information in the Service Portfolio. Service Portfolio Management organizes the process by which services are identified, described, evaluated, selected, and chartered.&lt;/p&gt;
+
+&lt;h3 id=&quot;demand-management-process&quot;&gt;Demand Management Process:&lt;/h3&gt;
+
+&lt;p&gt;The Demand Management process is concerned with understanding and influencing customer demand. Demand Management models demand in terms of:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;User Profiles&lt;/strong&gt;, which characterize different typical groups of users for a given service.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Patterns of Business Activity&lt;/strong&gt;, which represent the way users in different user profiles access a service over the course of a given time period.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;financial-management-process&quot;&gt;Financial Management Process:&lt;/h3&gt;
+
+&lt;p&gt;IT Financial Management provides a means of understanding and managing costs and opportunities associated with services in financial terms. IT Financial Management includes three basic activities:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Accounting&lt;/strong&gt; – tracking how money is actually spent by a Service Provider&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Budgeting&lt;/strong&gt; – planning how money will be spent by a Service Provider&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Charging&lt;/strong&gt; – securing payment from customers for services provided&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;strategy-operations&quot;&gt;Strategy Operations:&lt;/h3&gt;
+
+&lt;p&gt;Strategy Operations ensure that services like fulfilling user requests, resolving service failures, fixing problems as well as carrying out routine operational tasks, are performed efficiently and effectively.&lt;/p&gt;
+
+&lt;h2 id=&quot;itil-core-component-service-design&quot;&gt;ITIL Core Component: Service Design&lt;/h2&gt;
+
+&lt;p&gt;The &lt;strong&gt;‘Four Ps of Service Design’&lt;/strong&gt; represent areas which should be taken into consideration when designing a service. They are:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;People&lt;/strong&gt; – Human resources and organizational structures required to support the service&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Processes&lt;/strong&gt; – Service Management Processes required to support the service&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Products&lt;/strong&gt; – Technology and other infrastructure required to support the service&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Partners&lt;/strong&gt; – Third parties which offer additional support required to support the service&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Processes under Service Design are as follows:&lt;/p&gt;
+
+&lt;h3 id=&quot;service-catalog-management&quot;&gt;Service Catalog Management:&lt;/h3&gt;
+
+&lt;p&gt;The &lt;strong&gt;Service Catalog&lt;/strong&gt; is the subset of the Service Portfolio which contains services currently available to customers and users. The Service Catalog is often the only portion of the Service Portfolio visible to customers. The Service Catalog commonly acts as the entry portal for all information services in the live environment.&lt;/p&gt;
+
+&lt;p&gt;Service Catalog Management involves management and control of the Service Catalog which contains information about services currently available to customers for use.&lt;/p&gt;
+
+&lt;h3 id=&quot;service-level-management&quot;&gt;Service Level Management:&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Service Level Management&lt;/strong&gt; is the process charged with securing and managing agreements between customers and the service provider regarding the levels of performance (utility) and levels of reliability (warranty) associated with specific services. &lt;strong&gt;Service Level Management&lt;/strong&gt; results in the creation of &lt;strong&gt;Service Level Agreements (SLAs)&lt;/strong&gt; between customers and the provider.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Operational Level Agreements (OLAs)&lt;/strong&gt; are performance agreements nearly identical in nature to SLAs&lt;/p&gt;
+
+&lt;h3 id=&quot;availability-management&quot;&gt;Availability Management:&lt;/h3&gt;
+
+&lt;p&gt;The &lt;strong&gt;Availability Management&lt;/strong&gt; process is concerned with management and achievement of agreed-upon availability requirements as established in Service Level Agreements. In ITIL, availability is defined as the ability of a system, service, or configuration item to perform its function when required.&lt;/p&gt;
+
+&lt;h3 id=&quot;capacity-management&quot;&gt;Capacity Management:&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Capacity Management&lt;/strong&gt; is concerned with ensuring that cost-effective capacity exists at all times which meets or exceeds the needs of the business as established in Service Level Agreements. In ITIL, capacity is defined as the maximum throughput a service, system, or device can handle. Capacity Management is divided into three major activities:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Business Capacity Management (BCM)&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Service Capacity Management (SCM)&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Component Capacity Management (CCM)&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;service-continuity-management&quot;&gt;Service Continuity Management:&lt;/h3&gt;
+
+&lt;p&gt;The IT Service Continuity Management process (ITSCM) is ensures that the IT Service Provider can always provide the minimum, agreed-upon levels of service. IT Service Continuity Management uses techniques such as &lt;strong&gt;Business Impact Analysis (BIA)&lt;/strong&gt; and &lt;strong&gt;Management of Risk (MOR)&lt;/strong&gt;. ITSCM results in the production of the IT Service Continuity Plan which is an aspect of the overall &lt;strong&gt;Business Continuity Plan&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;it-security-management&quot;&gt;IT Security Management:&lt;/h3&gt;
+
+&lt;p&gt;IT Security Management focuses on protection of five basic qualities of information assets:
+&lt;strong&gt;Confidentiality&lt;/strong&gt; – Assurance that the asset is only available to appropriate parties
+&lt;strong&gt;Integrity&lt;/strong&gt; - Assurance that the asset has not been modified by unauthorized parties
+&lt;strong&gt;Availability&lt;/strong&gt; - Assurance that the asset may be utilized when required
+&lt;strong&gt;Authenticity&lt;/strong&gt; - Assurance that the transactions and the identities of parties to transactions are genuine &lt;strong&gt;Non-Repudiation&lt;/strong&gt; – Assurance that transactions, once completed, may not be reversed without approval&lt;/p&gt;
+
+&lt;h3 id=&quot;supplier-management&quot;&gt;Supplier Management:&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Supplier Management&lt;/strong&gt; is the process charged with obtaining value for money from third-party suppliers. Supplier Management plays a very similar role to that of Service Level Management, but with respect to external suppliers rather than internal suppliers and internal/external customers. Supplier Management handles supplier evaluation, contract negotiations, performance reviews, renewals and terminations.&lt;/p&gt;
+
+&lt;h2 id=&quot;itil-core-component-service-transition&quot;&gt;ITIL Core Component: Service Transition&lt;/h2&gt;
+
+&lt;p&gt;The objective of the Service Transition process is to build and deploy IT services by also making sure that changes to services and Service Management processes are carried out in a coordinated way.&lt;/p&gt;
+
+&lt;p&gt;In this phase of the lifecycle, the design is built, tested and moved into production to enable the business customer achieve the desired value. This phase addresses managing changes: controlling the assets and configuration items (the underlying components such as hardware, software, etc.) associated with the new and changed systems, service validation, and testing and transition planning to ensure that users, support personnel and the production environment have been prepared for the release to production.&lt;/p&gt;
+
+&lt;h3 id=&quot;change-management&quot;&gt;Change Management:&lt;/h3&gt;
+
+&lt;p&gt;The objective of this process activity is to control the lifecycle of all the changes. The primary objective of Change Management is to enable beneficial changes to be made with minimum disruption to IT services.&lt;/p&gt;
+
+&lt;h3 id=&quot;change-evaluation&quot;&gt;Change Evaluation:&lt;/h3&gt;
+
+&lt;p&gt;The objective of the change evaluation process is to assess major changes, like the introduction of a new service or a substantial change to an existing service, before those changes are allowed to proceed to the next phase in their lifecycle.&lt;/p&gt;
+
+&lt;h3 id=&quot;project-management-transition-planning-and-support&quot;&gt;Project Management (Transition Planning and Support):&lt;/h3&gt;
+
+&lt;p&gt;This process is aimed at planning and coordinating use of resources to deploy a major release within the predicted cost, time and quality estimates.&lt;/p&gt;
+
+&lt;h3 id=&quot;application-development&quot;&gt;Application Development:&lt;/h3&gt;
+
+&lt;p&gt;This makes available the applications and systems which provide the required functionality of IT services. This process includes the development and maintenance of custom applications as well as the customization of products from software vendors.&lt;/p&gt;
+
+&lt;h3 id=&quot;release-and-deployment-management&quot;&gt;Release and Deployment Management:&lt;/h3&gt;
+
+&lt;p&gt;The objective of this process is to plan, schedule and control the movement of releases to test and live environments. The primary goal of this management activity is to ensure that the integrity of the live environment is protected and that the correct components are released.&lt;/p&gt;
+
+&lt;h3 id=&quot;service-validation-and-testing&quot;&gt;Service Validation and Testing:&lt;/h3&gt;
+
+&lt;p&gt;This ensures that deployed Releases and the resulting services meet customer expectations, and to verify that IT operations is able to support the new service.&lt;/p&gt;
+
+&lt;h3 id=&quot;service-asset-and-configuration-management&quot;&gt;Service Asset and Configuration Management:&lt;/h3&gt;
+
+&lt;p&gt;The objective is to maintain information about Configuration Items required to deliver an IT service, including their relationships.&lt;/p&gt;
+
+&lt;h3 id=&quot;knowledge-management&quot;&gt;Knowledge Management:&lt;/h3&gt;
+
+&lt;p&gt;The objective is to gather, analyze, store and share knowledge and information within an organization. The primary purpose of Knowledge Management is to improve efficiency by reducing the need to rediscover knowledge.&lt;/p&gt;
+
+&lt;h2 id=&quot;itil-core-component-service-operation&quot;&gt;ITIL Core Component: Service Operation&lt;/h2&gt;
+
+&lt;h3 id=&quot;event-management&quot;&gt;Event Management:&lt;/h3&gt;
+&lt;p&gt;The objective is to make sure CIs and services are constantly monitored, and to filter and categorize Events in order to decide on appropriate actions.&lt;/p&gt;
+
+&lt;h3 id=&quot;incident-management&quot;&gt;Incident Management:&lt;/h3&gt;
+
+&lt;p&gt;The objective is to manage the lifecycle of all Incidents. The primary objective of Incident Management is to return the IT service to users as quickly as possible.&lt;/p&gt;
+
+&lt;h3 id=&quot;request-fulfilment&quot;&gt;Request Fulfilment:&lt;/h3&gt;
+
+&lt;p&gt;The objective is to fulfill Service Requests, which in most cases are minor Changes (e.g. requests to change a password) or requests for information.&lt;/p&gt;
+
+&lt;h3 id=&quot;access-management&quot;&gt;Access Management:&lt;/h3&gt;
+
+&lt;p&gt;The objective is to grant authorized users the right to use a service, while preventing access to unauthorized users. The Access Management processes essentially execute policies defined in Information Security Management. Access Management is something also referred to as Rights Management or Identity Management.&lt;/p&gt;
+
+&lt;h3 id=&quot;problem-management&quot;&gt;Problem Management:&lt;/h3&gt;
+
+&lt;p&gt;The process objective is to manage the lifecycle of all Problems. The primary objectives of Problem Management are to prevent Incidents from happening, and to minimize the impact of incidents that cannot be prevented. Proactive Problem Management analyzes Incident Records, and uses data collected by other IT Service Management processes to identify trends or significant Problems.&lt;/p&gt;
+
+&lt;h3 id=&quot;it-operations-control&quot;&gt;IT Operations Control:&lt;/h3&gt;
+
+&lt;p&gt;The objective is to monitor and control the IT services and their underlying infrastructure. The process objective of IT Operations Control is to execute day-to-day routine tasks related to the operation of infrastructure components and applications. This includes job scheduling, backup and restore activities, print and output management, and routine maintenance.&lt;/p&gt;
+
+&lt;h3 id=&quot;facilities-management&quot;&gt;Facilities Management:&lt;/h3&gt;
+
+&lt;p&gt;The process objective is to manage the physical environment where the IT infrastructure is located. Facilities Management includes all aspects of managing the physical environment, for example power and cooling, building access management, and environmental monitoring.&lt;/p&gt;
+
+&lt;h3 id=&quot;application-management&quot;&gt;Application Management:&lt;/h3&gt;
+
+&lt;p&gt;Application Management is responsible for managing applications throughout their lifecycle.&lt;/p&gt;
+
+&lt;h3 id=&quot;technical-management&quot;&gt;Technical Management:&lt;/h3&gt;
+
+&lt;p&gt;Technical Management provides technical expertise and support for management of the IT infrastructure.&lt;/p&gt;
+
+&lt;p&gt;The objective of this is to make sure that IT services are delivered effectively and efficiently. The Service Operation process includes fulfilling user requests, resolving service failures, fixing problems, as well as carrying out routine operational tasks.&lt;/p&gt;
+
+&lt;p&gt;Service operation delivers the service on an ongoing basis, overseeing the daily overall health of the service. This includes managing disruptions to service through rapid restoration after incidents; determining the root cause of problems and detecting trends associated with recurring issues; handling daily routine end-user requests; and managing service access.&lt;/p&gt;
+
+&lt;h2 id=&quot;itil-core-component-continual-service-improvement-csi&quot;&gt;ITIL Core Component: Continual Service Improvement (CSI)&lt;/h2&gt;
+
+&lt;p&gt;The objective of this is to use methods from quality management to learn from past successes and failures. The Continual Service Improvement process aims to continually improve the effectiveness and efficiency of IT processes and services in line with the concept of continual improvement adopted in ISO 2000.&lt;/p&gt;
+
+&lt;p&gt;CSI offers a mechanism for the IT organization to measure and improve service levels, the technology,  efficiency and effectiveness of processes used in the overall management of services.&lt;/p&gt;
+
+&lt;h3 id=&quot;service-review&quot;&gt;Service Review:&lt;/h3&gt;
+
+&lt;p&gt;The objective of Service Review is to review business services and infrastructure services on a regular basis. The aim of this process is to improve service quality where necessary, and to identify more economical ways of providing a service where possible.&lt;/p&gt;
+
+&lt;h3 id=&quot;process-evaluation&quot;&gt;Process Evaluation:&lt;/h3&gt;
+
+&lt;p&gt;The objective here is to evaluate processes on a regular basis. This includes identifying areas where the targeted process metrics are not reached, and holding regular benchmarking, audits, maturity assessments and reviews.&lt;/p&gt;
+
+&lt;h3 id=&quot;csi-initiatives&quot;&gt;CSI Initiatives:&lt;/h3&gt;
+
+&lt;p&gt;The objective of CSI initiatives is to define specific initiatives aimed at improving services and processes, based on the results of service reviews and process evaluations. The resulting initiatives are either internal initiatives, pursued by the service provider on his/her own behalf, or initiatives which require the customer’s cooperation.&lt;/p&gt;
+
+&lt;h3 id=&quot;monitoring-of-csi-initiatives&quot;&gt;Monitoring of CSI Initiatives:&lt;/h3&gt;
+
+&lt;p&gt;The objective is to verify if improvement initiatives are proceeding according to plan, and to introduce corrective measures where necessary.&lt;/p&gt;
 </content>
   </entry>
   
@@ -1627,158 +1887,6 @@ All I wanna say is that
 They don't really care about
 All I wanna say is that
 They don't really care about us
-&lt;/pre&gt;&lt;br /&gt;&lt;a href=&quot;#top&quot;&gt;⬆&lt;/a&gt;&lt;/center&gt;&lt;/div&gt;
-
-&lt;div class=&quot;sticky_floating_video&quot;&gt;&lt;/div&gt;
-&lt;!-- Based on: https://www.cssigniter.com/make-sticky-floating-videos-page-scroll/ article. --&gt;
-
-&lt;script src=&quot;https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js&quot;&gt;&lt;/script&gt;
-
-&lt;script&gt;
-  var $window =      $( window );
-  var $videoWrap =   $( '.video-wrap' );
-  var $video =       $( '.video' );
-  var videoHeight =  $video.outerHeight();
-
-  var $end =         $( '.sticky_floating_video' );
-  var endOffsetTop = 99999;
-
-  if ( $end.offset() ) {
-    endOffsetTop = $end.offset().top;
-  }
-  console.log( &quot;[&quot; + endOffsetTop + &quot;]&quot; );
-
-  $window.on( 'scroll', function() {
-    var windowScrollTop = $window.scrollTop();
-    var videoBottom     = videoHeight + $videoWrap.offset().top;
-
-    if ( windowScrollTop &gt; videoBottom &amp;&amp; windowScrollTop &lt; endOffsetTop ) {
-      $videoWrap.height( videoHeight );
-      $video.addClass( 'stuck' );
-
-      // arrange the lyrics
-      document.getElementById( 'lyrics' ).setAttribute( &quot;style&quot;, &quot;width: 56%&quot; );
-
-    } else {
-      $videoWrap.height( 'auto' );
-      $video.removeClass( 'stuck' );
-
-      // arrange back
-      document.getElementById( 'lyrics' ).setAttribute( &quot;style&quot;, &quot;width: 100%&quot; );
-    }
-  } );
-&lt;/script&gt;
-
-</content>
-  </entry>
-  
-  <entry>
-    <title>🎵 Michael Jackson: Dirty Diana (Official Video)</title>
-    <link href="http://0.0.0.0:4000/Michael_Jackson-Dirty_Diana.html"/>
-    <updated>2018-07-08T00:00:00+02:00</updated>
-    <id>http://0.0.0.0:4000/Michael_Jackson-Dirty_Diana</id>
-    <content type="html">&lt;div class=&quot;video-wrap&quot;&gt;&lt;div class=&quot;video&quot;&gt;
-
-&lt;div class=&quot;videocontainer&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/yUi_S6YWjZw&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; class=&quot;iframeshadow&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;/div&gt;&lt;/div&gt;
-
-&lt;!-- break --&gt;
-
-&lt;p&gt;&lt;a id=&quot;top&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;div id=&quot;lyrics&quot;&gt;&lt;div class=&quot;lyricsheader&quot; style=&quot;&quot;&gt;&lt;p&gt;&lt;center&gt;&lt;b&gt;Michael Jackson&lt;/b&gt;: Dirty Diana (Official Video)&lt;/center&gt;&lt;/p&gt;&lt;/div&gt;
-
-&lt;center&gt;&lt;pre&gt;
-Oh, no, oh, no, no.
-
-You'll never make me stay
-So take your weight off of me
-I know your every move
-So won't you just let me be
-
-I've been here times before
-But I was too blind to see
-That you seduce every man
-This time you won't seduce me
-
-She's saying, &quot;That's OK.
-Hey, baby, do what you please.
-I have the stuff that you want.
-I am the thing that you need.&quot;
-
-She looked me deep in the eyes
-She's touchin' me so to start
-She says, &quot;There's no turnin' back.&quot;
-She trapped me in her heart
-
-Dirty Diana, no
-Dirty Diana, no
-Dirty Diana, no
-Dirty Diana, let me be!
-
-Oh, no, oh, no, oh, no.
-
-She likes the boys in the band
-She knows when they come to town
-Every musician's fan after the curtain comes down
-She waits at backstage doors
-For those who have prestige
-Who promise fortune and fame,
-A life that's so carefree
-
-She's saying, &quot;That's OK.
-Hey, baby, do what you want.
-I'll be your night lovin' thing.
-I'll be the freak you can taunt.
-And I don't care what you say.
-I wanna go too far.
-I'll be your everything.
-If you make me a star.&quot;
-
-Dirty Diana, no
-Dirty Diana, no
-Dirty Diana, no
-Dirty Diana.
-
-Dirty Diana, no
-Dirty Diana, no
-Dirty Diana, no
-Dirty Diana.
-
-Diana! Diana! Dirty Diana!
-It's Diana.
-
-No
-
-She said, &quot;I have to go home
-'Cause I'm real tired you see,
-But I hate sleepin' alone.
-Why don't you come with me?&quot;
-I said, &quot;My baby's at home.
-She's probably worried tonight.
-I didn't call on the phone
-To say that I'm alright.&quot;
-
-Diana walked up to me,
-She said, &quot;I'm all yours tonight.&quot;
-At that I ran to the phone
-Saying, &quot;Baby, I'm alright.&quot;
-I said, &quot;But unlock the door,
-'Cause I forgot the key,&quot;
-She said, &quot;He's not coming back
-Because he's sleeping with me.&quot;
-
-Dirty Diana, no
-Dirty Diana, no
-Dirty Diana, no
-Dirty Diana, no
-
-Dirty Diana, no
-Dirty Diana, no
-Dirty Diana, no
-Dirty Diana.
-
-Come on!
 &lt;/pre&gt;&lt;br /&gt;&lt;a href=&quot;#top&quot;&gt;⬆&lt;/a&gt;&lt;/center&gt;&lt;/div&gt;
 
 &lt;div class=&quot;sticky_floating_video&quot;&gt;&lt;/div&gt;
