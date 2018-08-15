@@ -9,11 +9,11 @@ tags:     [ITIL]
 
 Ha már belefutottam ebbe a témába, akkor gyorsan átemelem ide azt az angol nyelvű cikket ([ITIL: Key Concepts and Summary](https://www.simplilearn.com/itil-key-concepts-and-summary-article)), ami alapján a vizsgára készültem. Az eredeti cikket [Priyadharshini](https://www.simplilearn.com/authors/priyadharshini) írta. 
 
-Nem titkolt szándékom ezen a hosszú cikken csiszolni egy picit az oldalt mögött lévő CSS3 stílusokat.
+Nem titkolt szándékom volt ezen a hosszú cikken csiszolni egy picit az oldal mögött lévő CSS3 stílusokat.
 
 <!-- break -->
 
-<hr style="margin-top: 1.5em;">
+<hr>
 
 # ITIL: Key Concepts and Summary
 

@@ -3,7 +3,7 @@
   <title>News 'n' Updates | gyorgy.fleischmann.hu</title>
   <link href="http://0.0.0.0:4000/feed.xml" rel="self"/>
   <link href="http://0.0.0.0:4000/"/>
-  <updated>2018-08-15T10:38:18+02:00</updated>
+  <updated>2018-08-15T12:33:44+02:00</updated>
   <id>http://0.0.0.0:4000/</id>
   <author>
     <name></name>
@@ -414,11 +414,11 @@ author: 'Fleischmann György'
     <id>http://0.0.0.0:4000/ITIL_Foundation</id>
     <content type="html">&lt;p&gt;Ha már belefutottam ebbe a témába, akkor gyorsan átemelem ide azt az angol nyelvű cikket (&lt;a href=&quot;https://www.simplilearn.com/itil-key-concepts-and-summary-article&quot;&gt;ITIL: Key Concepts and Summary&lt;/a&gt;), ami alapján a vizsgára készültem. Az eredeti cikket &lt;a href=&quot;https://www.simplilearn.com/authors/priyadharshini&quot;&gt;Priyadharshini&lt;/a&gt; írta.&lt;/p&gt;
 
-&lt;p&gt;Nem titkolt szándékom ezen a hosszú cikken csiszolni egy picit az oldalt mögött lévő CSS3 stílusokat.&lt;/p&gt;
+&lt;p&gt;Nem titkolt szándékom volt ezen a hosszú cikken csiszolni egy picit az oldal mögött lévő CSS3 stílusokat.&lt;/p&gt;
 
 &lt;!-- break --&gt;
 
-&lt;hr style=&quot;margin-top: 1.5em;&quot; /&gt;
+&lt;hr /&gt;
 
 &lt;h1 id=&quot;itil-key-concepts-and-summary&quot;&gt;ITIL: Key Concepts and Summary&lt;/h1&gt;
 
