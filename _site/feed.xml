@@ -3,7 +3,7 @@
   <title>News 'n' Updates | gyorgy.fleischmann.hu</title>
   <link href="http://0.0.0.0:4000/feed.xml" rel="self"/>
   <link href="http://0.0.0.0:4000/"/>
-  <updated>2018-08-13T09:07:21+02:00</updated>
+  <updated>2018-08-15T09:00:12+02:00</updated>
   <id>http://0.0.0.0:4000/</id>
   <author>
     <name></name>
@@ -131,43 +131,43 @@ Ooh one more night, cos I can't wait forever
 
 &lt;p&gt;Így néz ma (2018.08.12., vasárnap) ki maga a játszó és néhány környékbeli tereptárgy:&lt;/p&gt;
 
-&lt;!-- ../andras.fleischmann.hu/PhotoSwipeGenerator.pl --directory photos/jatszoter2018 --filetag _jatszoter2018 --outdir _includes -v -imgproperty 'class=&quot;shadow&quot;' --&gt;
+&lt;!-- ../andras.fleischmann.hu/PhotoSwipeGenerator.pl --directory photos/jatszoter2018 --filetag _jatszoter2018 --outdir _includes --title &quot;Tátrafüred téri játszótér 2018&quot; --imgproperty 'class=&quot;shadow zoomeffect&quot;' -v --&gt;
 
 &lt;div class=&quot;row&quot;&gt; 
   &lt;div class=&quot;column&quot;&gt;
-&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo( 0 );&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;photos/jatszoter2018/HipstamaticPhoto-555744841.259001.jpg&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo( 4 );&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;photos/jatszoter2018/HipstamaticPhoto-555658808.719732.jpg&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo( 8 );&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;photos/jatszoter2018/HipstamaticPhoto-555657992.623608.jpg&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo( 12 );&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;photos/jatszoter2018/HipstamaticPhoto-555658098.005042.jpg&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo( 16 );&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;photos/jatszoter2018/HipstamaticPhoto-555658644.264395.jpg&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo( 20 );&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;photos/jatszoter2018/HipstamaticPhoto-555657942.790312.jpg&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo( 0 );&quot;&gt;&lt;img title=&quot;Tátrafüred téri játszótér 2018&quot; class=&quot;shadow zoomeffect&quot; src=&quot;photos/jatszoter2018/HipstamaticPhoto-555744841.259001.jpg&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo( 4 );&quot;&gt;&lt;img title=&quot;Tátrafüred téri játszótér 2018&quot; class=&quot;shadow zoomeffect&quot; src=&quot;photos/jatszoter2018/HipstamaticPhoto-555658616.260285.jpg&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo( 8 );&quot;&gt;&lt;img title=&quot;Tátrafüred téri játszótér 2018&quot; class=&quot;shadow zoomeffect&quot; src=&quot;photos/jatszoter2018/HipstamaticPhoto-555745050.391080.jpg&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo( 12 );&quot;&gt;&lt;img title=&quot;Tátrafüred téri játszótér 2018&quot; class=&quot;shadow zoomeffect&quot; src=&quot;photos/jatszoter2018/HipstamaticPhoto-555658796.447398.jpg&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo( 16 );&quot;&gt;&lt;img title=&quot;Tátrafüred téri játszótér 2018&quot; class=&quot;shadow zoomeffect&quot; src=&quot;photos/jatszoter2018/HipstamaticPhoto-555744880.505527.jpg&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo( 20 );&quot;&gt;&lt;img title=&quot;Tátrafüred téri játszótér 2018&quot; class=&quot;shadow zoomeffect&quot; src=&quot;photos/jatszoter2018/HipstamaticPhoto-555658892.420781.jpg&quot; /&gt;&lt;/a&gt;
 
   &lt;/div&gt;
   &lt;div class=&quot;column&quot;&gt;
-&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo( 1 );&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;photos/jatszoter2018/HipstamaticPhoto-555658032.389980.jpg&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo( 5 );&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;photos/jatszoter2018/HipstamaticPhoto-555745050.391080.jpg&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo( 9 );&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;photos/jatszoter2018/HipstamaticPhoto-555659371.639296.jpg&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo( 13 );&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;photos/jatszoter2018/HipstamaticPhoto-555744801.557943.jpg&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo( 17 );&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;photos/jatszoter2018/HipstamaticPhoto-555744862.733177.jpg&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo( 21 );&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;photos/jatszoter2018/HipstamaticPhoto-555658892.420781.jpg&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo( 1 );&quot;&gt;&lt;img title=&quot;Tátrafüred téri játszótér 2018&quot; class=&quot;shadow zoomeffect&quot; src=&quot;photos/jatszoter2018/HipstamaticPhoto-555657927.412921.jpg&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo( 5 );&quot;&gt;&lt;img title=&quot;Tátrafüred téri játszótér 2018&quot; class=&quot;shadow zoomeffect&quot; src=&quot;photos/jatszoter2018/HipstamaticPhoto-555658808.719732.jpg&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo( 9 );&quot;&gt;&lt;img title=&quot;Tátrafüred téri játszótér 2018&quot; class=&quot;shadow zoomeffect&quot; src=&quot;photos/jatszoter2018/HipstamaticPhoto-555657951.581194.jpg&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo( 13 );&quot;&gt;&lt;img title=&quot;Tátrafüred téri játszótér 2018&quot; class=&quot;shadow zoomeffect&quot; src=&quot;photos/jatszoter2018/HipstamaticPhoto-555658914.313541.jpg&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo( 17 );&quot;&gt;&lt;img title=&quot;Tátrafüred téri játszótér 2018&quot; class=&quot;shadow zoomeffect&quot; src=&quot;photos/jatszoter2018/HipstamaticPhoto-555657942.790312.jpg&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo( 21 );&quot;&gt;&lt;img title=&quot;Tátrafüred téri játszótér 2018&quot; class=&quot;shadow zoomeffect&quot; src=&quot;photos/jatszoter2018/HipstamaticPhoto-555744795.057683.jpg&quot; /&gt;&lt;/a&gt;
 
   &lt;/div&gt;
   &lt;div class=&quot;column&quot;&gt;
-&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo( 2 );&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;photos/jatszoter2018/HipstamaticPhoto-555659385.175397.jpg&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo( 6 );&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;photos/jatszoter2018/HipstamaticPhoto-555658616.260285.jpg&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo( 10 );&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;photos/jatszoter2018/HipstamaticPhoto-555658796.447398.jpg&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo( 14 );&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;photos/jatszoter2018/HipstamaticPhoto-555657951.581194.jpg&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo( 18 );&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;photos/jatszoter2018/HipstamaticPhoto-555658041.238722.jpg&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo( 22 );&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;photos/jatszoter2018/HipstamaticPhoto-555745114.789039.jpg&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo( 2 );&quot;&gt;&lt;img title=&quot;Tátrafüred téri játszótér 2018&quot; class=&quot;shadow zoomeffect&quot; src=&quot;photos/jatszoter2018/HipstamaticPhoto-555657992.623608.jpg&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo( 6 );&quot;&gt;&lt;img title=&quot;Tátrafüred téri játszótér 2018&quot; class=&quot;shadow zoomeffect&quot; src=&quot;photos/jatszoter2018/HipstamaticPhoto-555659385.175397.jpg&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo( 10 );&quot;&gt;&lt;img title=&quot;Tátrafüred téri játszótér 2018&quot; class=&quot;shadow zoomeffect&quot; src=&quot;photos/jatszoter2018/HipstamaticPhoto-555658098.005042.jpg&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo( 14 );&quot;&gt;&lt;img title=&quot;Tátrafüred téri játszótér 2018&quot; class=&quot;shadow zoomeffect&quot; src=&quot;photos/jatszoter2018/HipstamaticPhoto-555659371.639296.jpg&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo( 18 );&quot;&gt;&lt;img title=&quot;Tátrafüred téri játszótér 2018&quot; class=&quot;shadow zoomeffect&quot; src=&quot;photos/jatszoter2018/HipstamaticPhoto-555658041.238722.jpg&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo( 22 );&quot;&gt;&lt;img title=&quot;Tátrafüred téri játszótér 2018&quot; class=&quot;shadow zoomeffect&quot; src=&quot;photos/jatszoter2018/HipstamaticPhoto-555744862.733177.jpg&quot; /&gt;&lt;/a&gt;
 
   &lt;/div&gt;
   &lt;div class=&quot;column&quot;&gt;
-&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo( 3 );&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;photos/jatszoter2018/HipstamaticPhoto-555657927.412921.jpg&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo( 7 );&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;photos/jatszoter2018/HipstamaticPhoto-555744822.799382.jpg&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo( 11 );&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;photos/jatszoter2018/HipstamaticPhoto-555744880.505527.jpg&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo( 15 );&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;photos/jatszoter2018/HipstamaticPhoto-555658914.313541.jpg&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo( 19 );&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;photos/jatszoter2018/HipstamaticPhoto-555744795.057683.jpg&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo( 23 );&quot;&gt;&lt;img class=&quot;shadow&quot; src=&quot;photos/jatszoter2018/HipstamaticPhoto-555658631.021347.jpg&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo( 3 );&quot;&gt;&lt;img title=&quot;Tátrafüred téri játszótér 2018&quot; class=&quot;shadow zoomeffect&quot; src=&quot;photos/jatszoter2018/HipstamaticPhoto-555658032.389980.jpg&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo( 7 );&quot;&gt;&lt;img title=&quot;Tátrafüred téri játszótér 2018&quot; class=&quot;shadow zoomeffect&quot; src=&quot;photos/jatszoter2018/HipstamaticPhoto-555744822.799382.jpg&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo( 11 );&quot;&gt;&lt;img title=&quot;Tátrafüred téri játszótér 2018&quot; class=&quot;shadow zoomeffect&quot; src=&quot;photos/jatszoter2018/HipstamaticPhoto-555658644.264395.jpg&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo( 15 );&quot;&gt;&lt;img title=&quot;Tátrafüred téri játszótér 2018&quot; class=&quot;shadow zoomeffect&quot; src=&quot;photos/jatszoter2018/HipstamaticPhoto-555744801.557943.jpg&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo( 19 );&quot;&gt;&lt;img title=&quot;Tátrafüred téri játszótér 2018&quot; class=&quot;shadow zoomeffect&quot; src=&quot;photos/jatszoter2018/HipstamaticPhoto-555658631.021347.jpg&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;javascript:openPhotoSwipe(); gallery.goTo( 23 );&quot;&gt;&lt;img title=&quot;Tátrafüred téri játszótér 2018&quot; class=&quot;shadow zoomeffect&quot; src=&quot;photos/jatszoter2018/HipstamaticPhoto-555745114.789039.jpg&quot; /&gt;&lt;/a&gt;
 
   &lt;/div&gt;
 &lt;/div&gt;
@@ -185,168 +185,168 @@ Ooh one more night, cos I can't wait forever
 src   : 'photos/jatszoter2018/HipstamaticPhoto-555744841.259001_ORIGINAL.jpg',
 w     : 2448,
 h     : 2448,
-title : 'Fleischmann András',
-author: 'Fleischmann György'
-},
-{
-src   : 'photos/jatszoter2018/HipstamaticPhoto-555658032.389980_ORIGINAL.jpg',
-w     : 2448,
-h     : 2448,
-title : 'Fleischmann András',
-author: 'Fleischmann György'
-},
-{
-src   : 'photos/jatszoter2018/HipstamaticPhoto-555659385.175397_ORIGINAL.jpg',
-w     : 2448,
-h     : 2448,
-title : 'Fleischmann András',
+title : 'Tátrafüred téri játszótér 2018',
 author: 'Fleischmann György'
 },
 {
 src   : 'photos/jatszoter2018/HipstamaticPhoto-555657927.412921_ORIGINAL.jpg',
 w     : 2448,
 h     : 2448,
-title : 'Fleischmann András',
-author: 'Fleischmann György'
-},
-{
-src   : 'photos/jatszoter2018/HipstamaticPhoto-555658808.719732_ORIGINAL.jpg',
-w     : 2448,
-h     : 2448,
-title : 'Fleischmann András',
-author: 'Fleischmann György'
-},
-{
-src   : 'photos/jatszoter2018/HipstamaticPhoto-555745050.391080_ORIGINAL.jpg',
-w     : 2448,
-h     : 2448,
-title : 'Fleischmann András',
-author: 'Fleischmann György'
-},
-{
-src   : 'photos/jatszoter2018/HipstamaticPhoto-555658616.260285_ORIGINAL.jpg',
-w     : 2448,
-h     : 2448,
-title : 'Fleischmann András',
-author: 'Fleischmann György'
-},
-{
-src   : 'photos/jatszoter2018/HipstamaticPhoto-555744822.799382_ORIGINAL.jpg',
-w     : 2448,
-h     : 2448,
-title : 'Fleischmann András',
+title : 'Tátrafüred téri játszótér 2018',
 author: 'Fleischmann György'
 },
 {
 src   : 'photos/jatszoter2018/HipstamaticPhoto-555657992.623608_ORIGINAL.jpg',
 w     : 2448,
 h     : 2448,
-title : 'Fleischmann András',
+title : 'Tátrafüred téri játszótér 2018',
 author: 'Fleischmann György'
 },
 {
-src   : 'photos/jatszoter2018/HipstamaticPhoto-555659371.639296_ORIGINAL.jpg',
+src   : 'photos/jatszoter2018/HipstamaticPhoto-555658032.389980_ORIGINAL.jpg',
 w     : 2448,
 h     : 2448,
-title : 'Fleischmann András',
+title : 'Tátrafüred téri játszótér 2018',
 author: 'Fleischmann György'
 },
 {
-src   : 'photos/jatszoter2018/HipstamaticPhoto-555658796.447398_ORIGINAL.jpg',
+src   : 'photos/jatszoter2018/HipstamaticPhoto-555658616.260285_ORIGINAL.jpg',
 w     : 2448,
 h     : 2448,
-title : 'Fleischmann András',
+title : 'Tátrafüred téri játszótér 2018',
 author: 'Fleischmann György'
 },
 {
-src   : 'photos/jatszoter2018/HipstamaticPhoto-555744880.505527_ORIGINAL.jpg',
+src   : 'photos/jatszoter2018/HipstamaticPhoto-555658808.719732_ORIGINAL.jpg',
 w     : 2448,
 h     : 2448,
-title : 'Fleischmann András',
+title : 'Tátrafüred téri játszótér 2018',
 author: 'Fleischmann György'
 },
 {
-src   : 'photos/jatszoter2018/HipstamaticPhoto-555658098.005042_ORIGINAL.jpg',
+src   : 'photos/jatszoter2018/HipstamaticPhoto-555659385.175397_ORIGINAL.jpg',
 w     : 2448,
 h     : 2448,
-title : 'Fleischmann András',
+title : 'Tátrafüred téri játszótér 2018',
 author: 'Fleischmann György'
 },
 {
-src   : 'photos/jatszoter2018/HipstamaticPhoto-555744801.557943_ORIGINAL.jpg',
+src   : 'photos/jatszoter2018/HipstamaticPhoto-555744822.799382_ORIGINAL.jpg',
 w     : 2448,
 h     : 2448,
-title : 'Fleischmann András',
+title : 'Tátrafüred téri játszótér 2018',
+author: 'Fleischmann György'
+},
+{
+src   : 'photos/jatszoter2018/HipstamaticPhoto-555745050.391080_ORIGINAL.jpg',
+w     : 2448,
+h     : 2448,
+title : 'Tátrafüred téri játszótér 2018',
 author: 'Fleischmann György'
 },
 {
 src   : 'photos/jatszoter2018/HipstamaticPhoto-555657951.581194_ORIGINAL.jpg',
 w     : 2448,
 h     : 2448,
-title : 'Fleischmann András',
+title : 'Tátrafüred téri játszótér 2018',
 author: 'Fleischmann György'
 },
 {
-src   : 'photos/jatszoter2018/HipstamaticPhoto-555658914.313541_ORIGINAL.jpg',
+src   : 'photos/jatszoter2018/HipstamaticPhoto-555658098.005042_ORIGINAL.jpg',
 w     : 2448,
 h     : 2448,
-title : 'Fleischmann András',
+title : 'Tátrafüred téri játszótér 2018',
 author: 'Fleischmann György'
 },
 {
 src   : 'photos/jatszoter2018/HipstamaticPhoto-555658644.264395_ORIGINAL.jpg',
 w     : 2448,
 h     : 2448,
-title : 'Fleischmann András',
+title : 'Tátrafüred téri játszótér 2018',
 author: 'Fleischmann György'
 },
 {
-src   : 'photos/jatszoter2018/HipstamaticPhoto-555744862.733177_ORIGINAL.jpg',
+src   : 'photos/jatszoter2018/HipstamaticPhoto-555658796.447398_ORIGINAL.jpg',
 w     : 2448,
 h     : 2448,
-title : 'Fleischmann András',
+title : 'Tátrafüred téri játszótér 2018',
 author: 'Fleischmann György'
 },
 {
-src   : 'photos/jatszoter2018/HipstamaticPhoto-555658041.238722_ORIGINAL.jpg',
+src   : 'photos/jatszoter2018/HipstamaticPhoto-555658914.313541_ORIGINAL.jpg',
 w     : 2448,
 h     : 2448,
-title : 'Fleischmann András',
+title : 'Tátrafüred téri játszótér 2018',
 author: 'Fleischmann György'
 },
 {
-src   : 'photos/jatszoter2018/HipstamaticPhoto-555744795.057683_ORIGINAL.jpg',
+src   : 'photos/jatszoter2018/HipstamaticPhoto-555659371.639296_ORIGINAL.jpg',
 w     : 2448,
 h     : 2448,
-title : 'Fleischmann András',
+title : 'Tátrafüred téri játszótér 2018',
+author: 'Fleischmann György'
+},
+{
+src   : 'photos/jatszoter2018/HipstamaticPhoto-555744801.557943_ORIGINAL.jpg',
+w     : 2448,
+h     : 2448,
+title : 'Tátrafüred téri játszótér 2018',
+author: 'Fleischmann György'
+},
+{
+src   : 'photos/jatszoter2018/HipstamaticPhoto-555744880.505527_ORIGINAL.jpg',
+w     : 2448,
+h     : 2448,
+title : 'Tátrafüred téri játszótér 2018',
 author: 'Fleischmann György'
 },
 {
 src   : 'photos/jatszoter2018/HipstamaticPhoto-555657942.790312_ORIGINAL.jpg',
 w     : 2448,
 h     : 2448,
-title : 'Fleischmann András',
+title : 'Tátrafüred téri játszótér 2018',
 author: 'Fleischmann György'
 },
 {
-src   : 'photos/jatszoter2018/HipstamaticPhoto-555658892.420781_ORIGINAL.jpg',
+src   : 'photos/jatszoter2018/HipstamaticPhoto-555658041.238722_ORIGINAL.jpg',
 w     : 2448,
 h     : 2448,
-title : 'Fleischmann András',
-author: 'Fleischmann György'
-},
-{
-src   : 'photos/jatszoter2018/HipstamaticPhoto-555745114.789039_ORIGINAL.jpg',
-w     : 2448,
-h     : 2448,
-title : 'Fleischmann András',
+title : 'Tátrafüred téri játszótér 2018',
 author: 'Fleischmann György'
 },
 {
 src   : 'photos/jatszoter2018/HipstamaticPhoto-555658631.021347_ORIGINAL.jpg',
 w     : 2448,
 h     : 2448,
-title : 'Fleischmann András',
+title : 'Tátrafüred téri játszótér 2018',
+author: 'Fleischmann György'
+},
+{
+src   : 'photos/jatszoter2018/HipstamaticPhoto-555658892.420781_ORIGINAL.jpg',
+w     : 2448,
+h     : 2448,
+title : 'Tátrafüred téri játszótér 2018',
+author: 'Fleischmann György'
+},
+{
+src   : 'photos/jatszoter2018/HipstamaticPhoto-555744795.057683_ORIGINAL.jpg',
+w     : 2448,
+h     : 2448,
+title : 'Tátrafüred téri játszótér 2018',
+author: 'Fleischmann György'
+},
+{
+src   : 'photos/jatszoter2018/HipstamaticPhoto-555744862.733177_ORIGINAL.jpg',
+w     : 2448,
+h     : 2448,
+title : 'Tátrafüred téri játszótér 2018',
+author: 'Fleischmann György'
+},
+{
+src   : 'photos/jatszoter2018/HipstamaticPhoto-555745114.789039_ORIGINAL.jpg',
+w     : 2448,
+h     : 2448,
+title : 'Tátrafüred téri játszótér 2018',
 author: 'Fleischmann György'
 }];
 

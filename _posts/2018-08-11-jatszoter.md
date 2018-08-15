@@ -23,7 +23,7 @@ Meg vagyunk / leszünk mi ezzel rendesen áldva, mert maga a játszótér a [Don
 
 Így néz ma (2018.08.12., vasárnap) ki maga a játszó és néhány környékbeli tereptárgy:
 
-<!-- ../andras.fleischmann.hu/PhotoSwipeGenerator.pl --directory photos/jatszoter2018 --filetag _jatszoter2018 --outdir _includes -v -imgproperty 'class="shadow"' -->
+<!-- ../andras.fleischmann.hu/PhotoSwipeGenerator.pl --directory photos/jatszoter2018 --filetag _jatszoter2018 --outdir _includes --title "Tátrafüred téri játszótér 2018" --imgproperty 'class="shadow zoomeffect"' -v -->
 
 {% include photorows.html TAG="jatszoter2018" %}
 
