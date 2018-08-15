@@ -9,7 +9,7 @@ tags:     [ITIL]
 
 Ha már belefutottam ebbe a témába, akkor gyorsan átemelem ide azt az angol nyelvű cikket ([ITIL: Key Concepts and Summary](https://www.simplilearn.com/itil-key-concepts-and-summary-article)), ami alapján a vizsgára készültem. Az eredeti cikket [Priyadharshini](https://www.simplilearn.com/authors/priyadharshini) írta. 
 
-Nem titkolt szándékom volt ezen a hosszú cikken csiszolni egy picit az oldal mögött lévő CSS3 stílusokat.
+Nem titkolt szándékom volt akkor már ezen a hosszú cikken csiszolni egy picitkét az oldal mögött lévő CSS3 H* stílusokat. Nem mondom, hogy teljesen elégedett vagyok már az eredménnyel, de egyelőre ez marad.
 
 <!-- break -->
 
