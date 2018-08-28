@@ -21,7 +21,7 @@ Ez a [Tátrafüred téri játszótér](https://www.google.hu/maps/place/T%C3%A1t
 
 Meg vagyunk / leszünk mi ezzel rendesen áldva, mert maga a játszótér a [Don Bosco Közösségi ház - Szent István Király Plébánia](http://www.szemere.plebania.hu/don-bosco-kozossegi-haz/) közelében van, sőt itt van még a [Szemeretelepi Református Egyházközség temploma](http://www.refszemeretelep.hu/) és a [Református Egyházmegyék](http://www.reformatus.hu/), jelentsenek ezek pontosan bármit ebben az egyre modernebb világban és a még az új [Coptic Budapest - Szentséges Szűz Mária és Mihály Arkangyal Templom](http://kopttemplom.wixsite.com/kopt) is.
 
-Így néz ma (2018.08.12., vasárnap) ki maga a játszó és néhány környékbeli tereptárgy:
+Így néz ki ma (2018.08.12., vasárnap) maga a játszó és néhány környékbeli tereptárgy:
 
 <!-- ../andras.fleischmann.hu/PhotoSwipeGenerator.pl --directory photos/jatszoter2018 --filetag _jatszoter2018 --outdir _includes --title "Tátrafüred téri játszótér 2018" --imgproperty 'class="shadow zoomeffect"' -v -->
 
