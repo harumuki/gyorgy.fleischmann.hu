@@ -40,6 +40,8 @@ Whether you’re already on your certification journey or are just researching t
 
 ## The ITIL Service Lifecycle
 
+<div class="rightbox" style="width: 35%;"><img class="shadow" src="https://d112vpovu2xa8r.cloudfront.net/portal_simplilearn_curatasite_com/media/wIWpnG1eim5vnkf.jpeg" alt="ITIL Service Lifecycle" title="ITIL Service Lifecycle"></div>
+
 The entire framework of ITIL is divided into five broad components/categories:
 
 - ITIL Service Strategy
@@ -50,9 +52,11 @@ The entire framework of ITIL is divided into five broad components/categories:
  
 These components form the skeleton of the ITIL Service Lifecycle.
 
-![ITIL Service Lifecycle](https://d112vpovu2xa8r.cloudfront.net/portal_simplilearn_curatasite_com/media/wIWpnG1eim5vnkf.jpeg "ITIL Service Lifecycle")
+<br clear="all">
 
 ## ITIL Key Concepts: Processes, Functions
+
+<div class="rightbox" style="width: 40%;"><img class="shadow" src="https://d112vpovu2xa8r.cloudfront.net/portal_simplilearn_curatasite_com/media/0ZIeQa9WEJRQw5f.jpeg" alt="The five broader components" title="The five broader components"></div>
 
 The five broad components of the ITIL Service Lifecycle cover various other sub-categories/aspects, including Demand Management, Capacity Management, Release Management, Incident Management, Event Management, and so on. These are aspects that are meant to cover all areas of ITSM (IT Service Management).
 
@@ -60,9 +64,9 @@ Each of the sub-categories/aspects of the five components of the ITIL framework 
 
 Here’s a diagram that better explains the sub-categories/aspects of the five broader components, classifying them as either a process or as a function.
 
-![The five broader components](https://d112vpovu2xa8r.cloudfront.net/portal_simplilearn_curatasite_com/media/0ZIeQa9WEJRQw5f.jpeg "The five broader components")
-
 Now on to the five core components of ITIL.
+
+<br clear="all">
 
 ## ITIL Core Component: Service Strategy
 
