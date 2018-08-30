@@ -30,10 +30,15 @@ Meg vagyunk / leszünk mi ezzel rendesen áldva, mert maga a játszótér a [Don
 <script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?key=AIzaSyAubcKvynd2lNrvNQHlTt6b7Q8OBxDzNOg'></script>
 
 <script type="text/javascript">
-	var image = 'https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png';
+	// https://www.iconfinder.com/icons/248444/church_icon
+	var church_icon = 'icons/church.png';
 
 	var locations = [
-		[ 'Játszótér 2018-', 47.4373312, 19.2102836 ],
+		[ 'Tátrafüred téri játszótér', 47.4373312, 19.2102836 ],
+		[ 'Don Bosco Közösségi ház - Szent István Király Plébánia', 47.4377017, 19.2106401, church_icon ],
+		[ 'Szent István Király templom', 47.4359469, 19.2104423, church_icon ],
+		[ 'Szemeretelepi Református Egyházközség templom', 47.4369465, 19.2101037, church_icon ],
+		[ 'Coptic Budapest - Szentséges Szűz Mária és Mihály Arkangyal Templom', 47.4366871, 19.209352, church_icon ],
 	];
 
 	if ( typeof google === 'object' && typeof google.maps === 'object' ) {
