@@ -19,9 +19,9 @@ Ez a [Tátrafüred téri játszótér](https://www.google.hu/maps/place/T%C3%A1t
 	<div id="map" style="width:auto; height:400px;"></div>
 </div>
 
-Meg vagyunk / leszünk mi ezzel rendesen áldva, mert maga a játszótér a [Don Bosco Közösségi ház - Szent István Király Plébánia](http://www.szemere.plebania.hu/don-bosco-kozossegi-haz/) közelében van, sőt itt van még a [Szemeretelepi Református Egyházközség temploma](http://www.refszemeretelep.hu/) és a [Református Egyházmegyék](http://www.reformatus.hu/), jelentsenek ezek pontosan bármit ebben az egyre modernebb világban és a még az új [Coptic Budapest - Szentséges Szűz Mária és Mihály Arkangyal Templom](http://kopttemplom.wixsite.com/kopt) is.
+Meg vagyunk / leszünk mi ezzel rendesen áldva, mert maga a játszótér a [Don Bosco Közösségi ház - Szent István Király Plébánia](http://www.szemere.plebania.hu/don-bosco-kozossegi-haz/) közelében van, sőt itt van még a [Szemeretelepi Református Egyházközség temploma](http://www.refszemeretelep.hu/) és a [Református Egyházmegyék](http://www.reformatus.hu/), jelentsenek ugye ezek az épületek bármit is ebben az egyre modernebb és modernebb világban, plusz az új [Coptic Budapest - Szentséges Szűz Mária és Mihály Arkangyal Templom](http://kopttemplom.wixsite.com/kopt) is.
 
-Így néz ki ma (2018.08.12., vasárnap) maga a játszó és néhány környékbeli tereptárgy:
+Így néz ma (2018.08.12., vasárnap) ki maga a játszó és néhány környékbeli tereptárgy:
 
 <!-- ../andras.fleischmann.hu/PhotoSwipeGenerator.pl --directory photos/jatszoter2018 --filetag _jatszoter2018 --outdir _includes --title "Tátrafüred téri játszótér 2018" --imgproperty 'class="shadow zoomeffect"' -v -->
 
@@ -30,32 +30,36 @@ Meg vagyunk / leszünk mi ezzel rendesen áldva, mert maga a játszótér a [Don
 <script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?key=AIzaSyAubcKvynd2lNrvNQHlTt6b7Q8OBxDzNOg'></script>
 
 <script type="text/javascript">
-						var locations = [
-							[ 'Játszótér 2018-', 47.4373312, 19.2102836 ],
-						];
+	var image = 'https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png';
 
-						if ( typeof google === 'object' && typeof google.maps === 'object' ) {
-							var map = new google.maps.Map( document.getElementById( 'map' ), {
-								zoom     : 18,
-								center   : new google.maps.LatLng( 47.4373312, 19.2102836 ),
-								mapTypeId: google.maps.MapTypeId.SATELLITE
-							} );
+	var locations = [
+		[ 'Játszótér 2018-', 47.4373312, 19.2102836 ],
+	];
 
-							var infowindow = new google.maps.InfoWindow();
+	if ( typeof google === 'object' && typeof google.maps === 'object' ) {
+		var map = new google.maps.Map( document.getElementById( 'map' ), {
+			zoom     : 18,
+			center   : new google.maps.LatLng( 47.4373312, 19.2102836 ),
+			mapTypeId: google.maps.MapTypeId.SATELLITE
+		} );
 
-							var marker, i;
+		var infowindow = new google.maps.InfoWindow();
 
-							for ( i = 0; i < locations.length; i++ ) {
-								marker = new google.maps.Marker( {
-									position: new google.maps.LatLng( locations[i][1], locations[i][2] ), map: map
-								} );
+		var marker, i;
 
-								google.maps.event.addListener( marker, 'click', ( function( marker, i ) {
-									return function() {
-										infowindow.setContent( locations[i][0] );
-										infowindow.open( map, marker );
-									}
-								}) ( marker, i ) );
-							}
-						}
+		for ( i = 0; i < locations.length; i++ ) {
+			marker = new google.maps.Marker( {
+				position: new google.maps.LatLng( locations[i][1], locations[i][2] ), 
+				map: map, 
+				icon: locations[i][3]
+			} );
+
+			google.maps.event.addListener( marker, 'click', ( function( marker, i ) {
+				return function() {
+					infowindow.setContent( locations[i][0] );
+					infowindow.open( map, marker );
+				}
+			}) ( marker, i ) );
+		}
+	}
 </script>
