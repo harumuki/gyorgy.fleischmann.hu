@@ -15,7 +15,7 @@ title:  Welcome to
 
 <p>Nagyon nagy aktivitásra persze itt azért senki ne számítson, mert ezek az oldalak leginkább azért maradtak csak fent, hogy az <a href="cv.html">önéletrajzomat</a> valahol folyamatosan frissíthessem és ha kell innen egyszer majd tovább tudjam osztani az érdeklődőknek...</p>
 
-<p>Nincsenek nagy illúzióim azzal kapcsolatban sem, hogy itt valami szuper magyarázattal fogok szolgálni bárkinek is bármire, de amit megpróbálok összehozni, az végül egy őszinte múltbarévedés lesz a javából néhány már a jövőbe is valahogy átnyúló meglepetéssel...</p>
+<p>Nincsenek nagy illúzióim azzal kapcsolatban sem, hogy itt valami szuper magyarázattal fogok szolgálni bárkinek is bármire, de amit megpróbálok összehozni, az végül egy őszinte múltbarévedés lesz a javából, néhány már a jövőbe is valahogy átnyúló meglepetéssel...</p>
 
 <p style="text-align: right;"><img src="images/signature.png" style="width: 25%;"></p>
 
@@ -38,12 +38,6 @@ title:  Welcome to
 
 <p>Végre eszembe jutott." <a href="http://www.ccfz.hu/">(CCFZ: Palack a tengerben)</a></p>
 </blockquote>
-
-{% include soundcloud.html ID="36337820" %}
-
-<div style="clear: both; margin-bottom: 1em; margin-top: 1em;">
-<div style="padding:20.15% 0 0 0;position:relative;" ><iframe class="shadow" src="https://player.vimeo.com/video/279078718" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-</div>
 
 <hr style="clear: both;" class="overridemaxwidthboth">
 
@@ -73,6 +67,8 @@ title:  Welcome to
     <nobr><i class="icon-tags"></i>{% for tag in post.tags %}<a href="tags.html#{{ tag }}">#{{ tag }}</a> {% endfor %}</nobr>
 
     </div><!-- .post-date -->
+
+{% assign thumbnaillink = '/images/thumbnails' | append: post.url | replace: '.html', '.png' %}{% assign thumbnailpercentage = post.thumbnailpercentage | default: '40%' %}{% for static_file in site.static_files %}{% if static_file.path == thumbnaillink %}<div style="width: {{ thumbnailpercentage }}; margin: auto;"><a href="{{ post.url }}"><img class="" src="{{ thumbnaillink }}"></a></div>{% endif %}{% endfor %}
 
     <br>
 
