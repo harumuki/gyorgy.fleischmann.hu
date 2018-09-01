@@ -1,22 +1,22 @@
 ---
 layout:   post
-title:    "🎬 Widows - Official International Trailer #1, SICARIO 2"
+title:    "Widows - Official International Trailer #1, SICARIO 2"
 author:   flex
 category: Movie
 comments: true
 tags:     [movie, trailer]
 ---
 
-Iszonyúan hangulatos kis mozi trailer ez.
+Iszonyúan hangulatos kis mozi trailer ez:
 
 <!-- break -->
 
-<div class="overridemaxwidthboth">
+<div>
 	{% include youtube.html ID="Jw5ZzcfC1nw" %}
 </div>
 
-Vagy akár ez:
+vagy akár ez is:
 
-<div class="overridemaxwidthboth">
+<div>
 	{% include youtube.html ID="74NMhaeC62U" %}
 </div>

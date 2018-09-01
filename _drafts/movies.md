@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    🎬 Movies / filmek
+title:    Movies / filmek
 author:   flex
 comments: true
 category: movies / filmek

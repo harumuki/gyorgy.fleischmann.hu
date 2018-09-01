@@ -13,7 +13,7 @@ Nem titkolt szándékom volt akkor már ezen a hosszú cikken csiszolni egy pici
 
 <!-- break -->
 
-<hr>
+<hr style="margin-top: 1.7em;">
 
 # ITIL: Key Concepts and Summary
 
@@ -100,6 +100,8 @@ IT Financial Management provides a means of understanding and managing costs and
 
 Strategy Operations ensure that services like fulfilling user requests, resolving service failures, fixing problems as well as carrying out routine operational tasks, are performed efficiently and effectively.
 
+<br>
+
 ## ITIL Core Component: Service Design
 
 The **‘Four Ps of Service Design’** represent areas which should be taken into consideration when designing a service. They are:
@@ -149,6 +151,8 @@ IT Security Management focuses on protection of five basic qualities of informat
 
 **Supplier Management** is the process charged with obtaining value for money from third-party suppliers. Supplier Management plays a very similar role to that of Service Level Management, but with respect to external suppliers rather than internal suppliers and internal/external customers. Supplier Management handles supplier evaluation, contract negotiations, performance reviews, renewals and terminations.
 
+<br>
+
 ## ITIL Core Component: Service Transition
 
 The objective of the Service Transition process is to build and deploy IT services by also making sure that changes to services and Service Management processes are carried out in a coordinated way.
@@ -186,6 +190,8 @@ The objective is to maintain information about Configuration Items required to d
 ### Knowledge Management:
 
 The objective is to gather, analyze, store and share knowledge and information within an organization. The primary purpose of Knowledge Management is to improve efficiency by reducing the need to rediscover knowledge.
+
+<br>
 
 ## ITIL Core Component: Service Operation
 
@@ -227,6 +233,8 @@ Technical Management provides technical expertise and support for management of 
 The objective of this is to make sure that IT services are delivered effectively and efficiently. The Service Operation process includes fulfilling user requests, resolving service failures, fixing problems, as well as carrying out routine operational tasks.
 
 Service operation delivers the service on an ongoing basis, overseeing the daily overall health of the service. This includes managing disruptions to service through rapid restoration after incidents; determining the root cause of problems and detecting trends associated with recurring issues; handling daily routine end-user requests; and managing service access.
+
+<br>
 
 ## ITIL Core Component: Continual Service Improvement (CSI)
 

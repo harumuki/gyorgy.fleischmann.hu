@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "🎵 CHVRCHES: Tether"
+title:    "CHVRCHES: Tether"
 author:   flex
 category: Muzax
 comments: false

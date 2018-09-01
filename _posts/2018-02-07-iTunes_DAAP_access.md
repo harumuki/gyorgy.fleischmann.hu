@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    📢 Megosztott Apple iTunes távoli elérése
+title:    Megosztott Apple iTunes távoli elérése
 author:   flex
 comments: true
 category: How to guides, tips and tricks / útmutatók, tippek és trükkök

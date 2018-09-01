@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    📒 📹 Blogs / vlogs
+title:    Blogs / vlogs
 author:   flex
 comments: true
 category: Blogs / vlogs

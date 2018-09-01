@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "🎵 Billie Eilish: Ocean Eyes (Official Music Video)"
+title:    "Billie Eilish: Ocean Eyes"
 author:   flex
 category: Muzax
 tags:     [muzax, video]

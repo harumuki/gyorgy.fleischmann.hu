@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "🎵 Air: Lucky & Unhappy"
+title:    "Air: Lucky & Unhappy"
 author:   flex
 category: Muzax
 comments: false

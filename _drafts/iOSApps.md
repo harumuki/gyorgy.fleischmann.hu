@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    📱 iOS apps
+title:    iOS apps
 author:   flex
 comments: true
 category: iOS / iOS

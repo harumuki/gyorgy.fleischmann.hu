@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    👍 Gadgets / kütyük
+title:    Gadgets / kütyük
 author:   flex
 comments: true
 category: Gadget / eszközök

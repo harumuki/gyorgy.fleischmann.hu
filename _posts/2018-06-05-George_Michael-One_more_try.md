@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "🎵 George Michael: One More Try"
+title:    "George Michael: One More Try"
 author:   flex
 category: Muzax
 tags:     [muzax, video]

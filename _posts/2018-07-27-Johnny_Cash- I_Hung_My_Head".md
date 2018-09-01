@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "🎵 Johnny Cash: I Hung My Head"
+title:    "Johnny Cash: I Hung My Head"
 author:   flex
 category: Muzax
 comments: false

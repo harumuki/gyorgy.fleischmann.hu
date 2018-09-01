@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "🎬 Call Me By Your Name: Professor Perlman's speech to Elio"
+title:    "Call Me By Your Name: Professor Perlman's speech to Elio"
 author:   flex
 category: Movie
 tags:     [movie]

@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "💃 Anne Teresa De Keersmaeker"
+title:    "Anne Teresa De Keersmaeker"
 author:   flex
 category: Dance
 comments: true

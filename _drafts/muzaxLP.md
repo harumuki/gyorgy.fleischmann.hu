@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    🎵 LPs / LP-k
+title:    LPs / LP-k
 author:   flex
 comments: true
 category: LPs / LP-k

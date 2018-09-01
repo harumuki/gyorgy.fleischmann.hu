@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "🎵 Phil Collins: One More Night"
+title:    "Phil Collins: One More Night"
 author:   flex
 category: Muzax
 comments: false

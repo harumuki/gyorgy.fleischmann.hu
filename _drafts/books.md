@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    📚 Books / könyvek
+title:    Books / könyvek
 author:   flex
 comments: true
 category: books / könyvek

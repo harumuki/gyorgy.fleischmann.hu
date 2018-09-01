@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "🎵 BLAHALOUISIANA: Túl távol, elég közel"
+title:    "BLAHALOUISIANA: Túl távol, elég közel"
 author:   flex
 category: Muzax
 tags:     [muzax, video, hun]

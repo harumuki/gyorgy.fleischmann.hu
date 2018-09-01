@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    🖥 Awesome macOS (aka OS X) apps
+title:    Awesome macOS (aka OS X) apps
 author:   flex
 comments: true
 category: macOSApps / macOSApps

@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "🎵 Moontwist: Talking About The Weather"
+title:    "Moontwist: Talking About The Weather"
 author:   flex
 category: Muzax
 comments: false

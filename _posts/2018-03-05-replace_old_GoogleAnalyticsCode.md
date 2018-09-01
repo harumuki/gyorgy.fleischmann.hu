@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    🕸 Google Analytics kód frissítése
+title:    Google Analytics kód frissítése
 author:   flex
 comments: true
 category: How to guides, tips and tricks / útmutatók, tippek és trükkök

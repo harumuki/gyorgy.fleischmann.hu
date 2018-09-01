@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    ⏰ Időzített Jekyll bejegyzés
+title:    Időzített Jekyll bejegyzés
 author:   flex
 comments: true
 category: How to guides, tips and tricks / útmutatók, tippek és trükkök

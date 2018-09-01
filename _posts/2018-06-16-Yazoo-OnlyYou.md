@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "🎵 YAZOO: Only You (2017)"
+title:    "YAZOO: Only You (2017)"
 author:   flex
 category: Muzax
 comments: false

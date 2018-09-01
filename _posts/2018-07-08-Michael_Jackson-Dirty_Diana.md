@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "🎵 Michael Jackson: Dirty Diana (Official Video)"
+title:    "Michael Jackson: Dirty Diana"
 author:   flex
 category: Muzax
 comments: false

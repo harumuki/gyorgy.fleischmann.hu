@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    🖥 Batch rename
+title:    Batch rename
 author:   flex
 comments: true
 category: How to guides, tips and tricks / útmutatók, tippek és trükkök

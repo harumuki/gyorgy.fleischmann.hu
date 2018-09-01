@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    🌍 Places / helyek
+title:    Places / helyek
 author:   flex
 comments: true
 category: Places / helyek

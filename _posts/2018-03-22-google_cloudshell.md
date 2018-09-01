@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    ☁️ Apache on Google Cloud Shell
+title:    Apache on Google Cloud Shell
 author:   flex
 comments: true
 category: How to guides, tips and tricks / útmutatók, tippek és trükkök

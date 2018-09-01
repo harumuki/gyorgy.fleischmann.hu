@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    🍔 Food / kaják
+title:    Food / kaják
 author:   flex
 comments: true
 category: Food / kaják

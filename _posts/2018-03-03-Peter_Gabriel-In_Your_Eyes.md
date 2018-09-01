@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "🎵 Peter Gabriel: In Your Eyes (Secret World Live)"
+title:    "Peter Gabriel: In Your Eyes"
 author:   flex
 category: Muzax
 tags:     [muzax, video]
