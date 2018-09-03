@@ -9,11 +9,11 @@ tags:     [én, mi, élet]
 photoswipe: 'yes'
 ---
 
+{% include soundcloudmini.html ID="209935648" %}
+
 Ez a [Tátrafüred téri játszótér](https://www.google.hu/maps/place/T%C3%A1traf%C3%BCred+t%C3%A9ri+j%C3%A1tsz%C3%B3t%C3%A9r/@47.4373312,19.2102836,65m/data=!3m1!1e3!4m12!1m6!3m5!1s0x4741c22693021373:0x1f5bd39629f00e01!2zRG9uIEJvc2NvIEvDtnrDtnNzw6lnaSBIw6F6!8m2!3d47.4377019!4d19.2106399!3m4!1s0x4741c22133f57f6d:0x72904f8df77e9ba2!8m2!3d47.4373148!4d19.2104725) lesz az a játszótér, ahova [Andrissal](https://andras.fleischmann.hu/) fogunk járni. 
 
 <!-- break -->
-
-{% include soundcloudmini.html ID="209935648" %}
 
 <div id="map-wrap" class="" style="margin-bottom: .75em; -webkit-box-shadow: 0px 4px 18px rgba(0,0,0,0.84); -moz-box-shadow: 0px 4px 18px rgba(0,0,0,0.84); box-shadow: 0px 4px 18px rgba(0,0,0,0.84);">
 	<div id="map" style="width:auto; height:400px;"></div>
