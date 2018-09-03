@@ -51,7 +51,7 @@ title:  Welcome to
 
     <h1 class='post-title'><a href="{{ site.path }}{{ post.url }}" class="hvr-buzz-out">{{ post.title }}</a></h1>
 
-    <div class="post-date"><i class="icon-calendar"></i> {% assign m = post.date | date: "%-m" %}{{ post.date | date: "%Y., " }}{% case m %}{% when '1' %}január{% when '2' %}február{% when '3' %}március{% when '4' %}április{% when '5' %}május{% when '6' %}június{% when '7' %}július{% when '8' %}augusztus{% when '9' %}szeptember{% when '10' %}október{% when '11' %}november{% when '12' %}december{% endcase %}{{ post.date | date: " %-d." }},
+    <div class="post-date" style="margin-bottom: .6em;"><i class="icon-calendar"></i> {% assign m = post.date | date: "%-m" %}{{ post.date | date: "%Y., " }}{% case m %}{% when '1' %}január{% when '2' %}február{% when '3' %}március{% when '4' %}április{% when '5' %}május{% when '6' %}június{% when '7' %}július{% when '8' %}augusztus{% when '9' %}szeptember{% when '10' %}október{% when '11' %}november{% when '12' %}december{% endcase %}{{ post.date | date: " %-d." }},
 
     <!-- Source: https://sacha.me/articles/jekyll-word-counts/ -->
     {% capture words %}{{ post.content | number_of_words | minus: 250 }}{% endcapture %}{% unless words contains "-" %}{{ words | plus: 250 | append: " szó, elolvasásához kb.: " }}{% endunless %}{% capture words %}{{ post.content | number_of_words | minus: 250 }}{% endcapture %}{% unless words contains "-" %}{{ words | plus: 250 | divided_by: 180 | append: " perc kell" }}{% endunless %}|{% assign author = site.data.authors[post.author] %}
