@@ -7,19 +7,21 @@ category: Development / fejlesztés
 tags:     [pico-8, development, zx spectrum, retro, game]
 ---
 
-<div class="rightbox" style="width: 40%;"><img class="shadow" src="images/transversion/transversion_tape_cover.jpg" alt="Original Transversion tape cover"></div>
+<div class="rightbox" style="width:40%;"><a href="http://www.top80sgames.com/site/content/transversion"><img class="shadow" src="images/transversion/transversion_tape_cover.jpg" alt="Original Transversion tape cover"></a></div>
 
-<span class="initial">V</span>alamikor 1983 környékén vettük (nem is tudom már, hogy pontosan milyen körülmémyek között) az első számítógépünket, egy Sinclair ZX Spectrum 48K-s modellt. A gép még az alap gumi billentyűzetes volt és a kicsomgaolása nekem akkoriban okozott legalább akkora örömöt, mint amit manapság mondjuk egy Apple MacBook Pro kicsomagolása jelent. Sajnos az eredeti gép nincs már meg, főleg azért, mert útközben ZX Spectrum+-á alakult át egy kit segítségével és így már ebben a formában maradt csak meg. 
+<span class="initial">V</span>alamikor 1983 környékén vettük (nem tudom már, hogy pontosan milyen körülmémyek között, de az biztos, hogy valahogy feketén érkezett az országba) az első számítógépünket, egy Sinclair ZX Spectrum 48K-s modellt. A gép még az alap, gumi billentyűzetes volt és a kicsomgaolása nekem akkoriban legalább akkora örömöt okozott, mint amit manapság mondjuk egy új Apple MacBook Pro kicsomagolása okoz. Sajnos az eredeti gép nincs már meg, legfőképp azért, mert időközben ZX Spectrum+-á alakult át egy Németországból hozott kit segítségével és így már csak ebben a formában maradhatott fenn.
 
-Na, de nem is is erről akartam most írni, hanem arról, hogy az egyik máig kedvenc jákékom ZX Spectrumon, az OCEAN cég által kiadaott nagyon egyszerű Transverzion nevű játéka volt. Az azóta eltelt idők során időről időre keresgéltem újabb klónjait a játéknak és vannak / voltak is jó megoldások.
+<div class="rightbox" style="width:20%;"><a href="https://spectrumcomputing.co.uk/index.php?cat=96&id=5383"><img class="shadow" src="https://ia600604.us.archive.org/zipview.php?zip=/1/items/World_of_Spectrum_June_2017_Mirror/World%20of%20Spectrum%20June%202017%20Mirror.zip&file=World%20of%20Spectrum%20June%202017%20Mirror/sinclair/games-maps/t/Transversion.png" alt="Levels"></a></div>
 
-És végül álljon itt egy saját próbálkozásom, amit én most a PICO-8 platformon követtem el: 
+Na, de nem is is erről a részről akartam most írni, hanem arról, hogy az egyik és máig kedvenc jákékom ZX Spectrum-on, az Ocean Software Ltd. cég által kiadott nagyon egyszerű [Transverzion](https://spectrumcomputing.co.uk/index.php?cat=96&id=5383) nevű játéka volt. Maga a játék nincs túlbonyolítva és nincs is túl sok pálya benne. 
 
-<hr>
+Az azóta eltelt idők során időről időre keresgéltem az interneten újabb klónjait ennek a játéknak, és vannak / voltak is jó megoldások.
 
-<div style="width:100%; border: 1px solid;">
+Végül álljon itt egy saját próbálkozásom, amit én most [PICO-8](https://www.lexaloffle.com/pico-8.php) platformon követtem el. Maga a [PICO-8](https://www.lexaloffle.com/pico-8.php) is megérne egy hosszabb bejegyzést, mert nagyon szórakoztató dolog egy modern számítógépen ilyen eszközzel dolgozni, de felfogni is csak nagyon nehezen tudom, hogy még egy ilyen egyszerű játékhoz is mennyi munka kellhetett anno, hogy Z80 assembly-ben, az akkori eszközökkel ilyen szépen meg tudják ezt csinálni.
 
-<canvas class="emscripten" id="canvas" style="width: 1512px; height: 1512px;" oncontextmenu="event.preventDefault()"></canvas>
+<div style="width: 50%; margin-bottom: .5em;">
+
+<canvas class="emscripten" id="canvas" oncontextmenu="event.preventDefault()"></canvas>
 
 <script type="text/javascript">
 	var canvas = document.getElementById( "canvas" );
@@ -67,34 +69,12 @@ Na, de nem is is erről akartam most írni, hanem arról, hogy az egyik máig ke
 
 </script>
     
-<div class="pico8_el" onclick="Module.pico8Reset();">
-
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAaklEQVR4Ae2dOwoAMQhE15A+rfc/3bZ7AlMnQfywCkKsfcgMM9ZP+QHtIn0vLeBAFduiFdQ/0DmvtR5LXJ6CPSXe2ZXcFNlTxFbemKrbZPs35XogeS9xeQr+anT6LzoOwEDwZJ7jwhXUnwkTTiDQ2Ja34AAAABB0RVh0TG9kZVBORwAyMDExMDIyMeNZtsEAAAAASUVORK5CYII=" alt="Reset" width="12" height="12" />
-
-Reset</div>
-
-<div class="pico8_el" onclick="Module.pico8TogglePaused();">
-
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAPUlEQVR4Ae3doQ0AIAxEUWABLPtPh2WCq26DwFSU/JPNT166QSu/Hg86W9dwLte+diP7AwAAAAAAgD+A+jM2ZAgo84I0PgAAABB0RVh0TG9kZVBORwAyMDExMDIyMeNZtsEAAAAASUVORK5CYII=" alt="Pause" width="12" height="12" />
-
-Pause</div>
-<div class="pico8_el" onclick="Module.requestFullScreen( true, false );">
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAaklEQVR4Ae2dsQ1AIQhExfze1v2ns3UCrfgFhmgUUAoGgHscp21wX9BqaZoDojbB96OkDJKNcTN2BHTyYNYmoT2BlPL7BKgcPfHjAVXKKadkHOn9K1r16N0czN6a95N8mnA7Aq2fTZ3Af3UKmCSMazL8HwAAABB0RVh0TG9kZVBORwAyMDExMDIyMeNZtsEAAAAASUVORK5CYII=" alt="Fullscreen" width="12" height="12" />
-
-Fullscreen</div>
-<div class="pico8_el" onclick="Module.pico8ToggleSound();">
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAXklEQVR4Ae2doQ4AIQxD4YLH8v9fh+ULhjpxxSwLg2uyapr1JRu1iV5Z+1BGl4+xNpX38SYo2uRvYiT5LwEmt+ocgXVLrhPEgBiw8Q5w7/kueSkK+D2tJO4E/I3GrwkqQCBabEj/4QAAABB0RVh0TG9kZVBORwAyMDExMDIyMeNZtsEAAAAASUVORK5CYII=" alt="Toggle Sound" width="12" height="12" />
-
-Sound</div>
-<div class="pico8_el"><a target="_new" href="http://www.lexaloffle.com/bbs/?cat=7&sub=2">
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAlElEQVR4Ae2dMQ5FQBCGh6jcwAkkateg3DiAa+iQUGqVKi95FQfAJRQOoHeBUf8JyQqKjZ1uMzuz2e/LTE3KhyF7kSlgLOykas23f6D+A9Yp84aAOYU15pcJnfji0Il2ID8HzC4y38ZrnfIBGxeRoR3c3EWrACdsV5BOsx7OSRnrOXh4F5HzA6bevwUn8wlz7eCDsQM99B3ks0s/4QAAABB0RVh0TG9kZVBORwAyMDExMDIyMeNZtsEAAAAASUVORK5CYII=" alt="More Carts" width="12" height="12" />
-
-Carts</a></div>
+<center>
+<div class="pico8_el" onclick="Module.pico8Reset();">Reset</div>
+<div class="pico8_el" onclick="Module.pico8TogglePaused();">Pause</div>
+<div class="pico8_el" onclick="Module.requestFullScreen( true, false );">Fullscreen</div>
+<div class="pico8_el" onclick="Module.pico8ToggleSound();">Sound</div>
+<div class="pico8_el"><a target="_new" href="http://www.lexaloffle.com/bbs/?cat=7&sub=2">Carts</a></div>
+</center>
 
 </div>
-
-<hr>
-
-http://www.top80sgames.com/site/content/transversion
-
-https://spectrumcomputing.co.uk/index.php?cat=96&id=5383

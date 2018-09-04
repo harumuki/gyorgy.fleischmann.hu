@@ -1027,3 +1027,43 @@ table.blockheader {
   font-weight:  bold;
   color:        black;
 }
+
+// PICO-8
+
+canvas#canvas { width: 100% }
+
+canvas{
+  image-rendering: optimizeSpeed;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: -webkit-optimize-contrast;
+  image-rendering: optimize-contrast;
+  image-rendering: pixelated;
+  -ms-interpolation-mode: nearest-neighbor;
+  border: 0px;
+}
+
+.pico8_el {
+  width: 92px;
+  display: inline-block; 
+  margin: 1px;
+  padding: 5px;
+  text-align: center;
+  color: #fff;
+  background-color: #777;
+  font-family: verdana;
+  font-size: 9pt;
+  cursor: pointer;
+  cursor: hand;
+}
+.pico8_el a{
+  text-decoration: none;
+  color: #fff;
+}
+
+.pico8_el:hover{
+  background-color: #aaa;
+}
+
+.pico8_el:link{
+  background-color: #aaa;
+}
