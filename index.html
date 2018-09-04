@@ -67,7 +67,9 @@ title:  Welcome to
 
     </div><!-- .post-date -->
 
-{% assign thumbnaillink = '/images/thumbnails' | append: post.url | replace: '.html', '.png' %}{% assign thumbnailpercentage = post.thumbnailpercentage | default: '40%' %}{% for static_file in site.static_files %}{% if static_file.path == thumbnaillink %}<div style="width: {{ thumbnailpercentage }}; margin: auto;"><a href="{{ post.url }}"><img class="hvr-buzz-out" src="{{ thumbnaillink }}"></a></div>{% endif %}{% endfor %}
+{% assign thumbnaillink = '/images/thumbnails' | append: post.url | replace: '.html', '.png' %}
+{% assign thumbnailpercentage = post.thumbnailpercentage | default: '40%' %}
+{% for static_file in site.static_files %}{% if static_file.path == thumbnaillink %}<div style="width: {{ thumbnailpercentage }}; margin: auto;"><a href="{{ post.url }}"><img class="hvr-buzz-out" src="{{ thumbnaillink }}"></a></div>{% endif %}{% endfor %}
 
     <br>
 
