@@ -4,8 +4,12 @@ layout: default
 
   <article class='post'>
 
+  	{% if page.header_spacer > 0 %}
+  	<div style="height: {{ page.header_spacer }}vh;"></div>
+  	{% endif %}
+
   	{% if page.notitle != 'yes' %}
-  	
+
     <h1 class='post-title'>{{ page.title }}</h1>
 
     <div class="post-date"><i class="icon-calendar"></i> {% assign m = page.date | date: "%-m" %}{{ page.date | date: "%Y., " }}{% case m %}{% when '1' %}január{% when '2' %}február{% when '3' %}március{% when '4' %}április{% when '5' %}május{% when '6' %}június{% when '7' %}július{% when '8' %}augusztus{% when '9' %}szeptember{% when '10' %}október{% when '11' %}november{% when '12' %}december{% endcase %}{{ page.date | date: " %-d." }},
