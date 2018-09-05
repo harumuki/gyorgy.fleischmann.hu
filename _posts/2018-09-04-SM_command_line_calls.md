@@ -7,7 +7,7 @@ category: Knowledge / tudás
 tags:     [HPE, MicroFocus, SM, Service Manager]
 ---
 
-# HP / HPE / MicroFocus <br> Service Manager: Command line calls
+# HP / HPE / MicroFocus<br>Service Manager: Command line calls
 
 Az eredeti forrás: [List: Command line calls](https://docs.microfocus.com/SM/9.41/Classic/Content/programming/system_language/reference/list_command_line_calls.htm)
 
