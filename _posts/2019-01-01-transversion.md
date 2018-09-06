@@ -5,6 +5,8 @@ author:   flex
 comments: true
 category: Development / fejlesztés
 tags:     [pico-8, development, zx spectrum, retro, game]
+
+beforeheaderHTML: '<center><img class="overridemaxwidthboth" style="" src="images/transversion//zx_spectrum.png"></center>'
 ---
 
 <div class="rightbox" style="width:40%;"><a href="http://www.top80sgames.com/site/content/transversion"><img class="shadow" src="images/transversion/transversion_tape_cover.jpg" alt="Original Transversion tape cover"></a></div>

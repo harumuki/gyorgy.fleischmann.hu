@@ -8,6 +8,10 @@ layout: default
   	<div style="height: {{ page.header_spacer }}vh;"></div>
   	{% endif %}
 
+  	{% if page.beforeheaderHTML <> "" %}
+	{{ page.beforeheaderHTML }}
+	{% endif %}  	
+
   	{% if page.notitle != 'yes' %}
 
     <h1 class='post-title'>{{ page.title }}</h1>

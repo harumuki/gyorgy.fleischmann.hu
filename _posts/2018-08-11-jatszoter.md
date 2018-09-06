@@ -7,7 +7,11 @@ category: Personal / személyes
 tags:     [én, mi, élet]
 
 photoswipe: 'yes'
+
+header_spacer: 93
 ---
+
+<div style="position: absolute; left: 0px; top: 0px; width: 100%; z-index: -1; background-image: url(photos/jatszoter2018//jatszoter.jpg); height: 100%; background-position: center; background-repeat: no-repeat; background-size: cover;"></div>
 
 {% include soundcloudmini.html ID="209935648" %}
 
