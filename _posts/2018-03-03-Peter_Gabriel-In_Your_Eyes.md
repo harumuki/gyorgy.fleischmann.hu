@@ -116,7 +116,8 @@ In your eyes
 
 I want to stand and stare again
 Oh, it's in your eyes
-</pre><br><a href="#top">⬆</a></center></div>
+</pre>
+<a href="#top">⬆</a></center></div>
 
 <div class="sticky_floating_video"></div>
 {% include sticky_floating_video.html %}

@@ -39,7 +39,8 @@ With delectation
 
 Fly to the rainbow
 I'm in your heart don't you go
-</pre><br><a href="#top">⬆</a></center></div>
+</pre>
+<a href="#top">⬆</a></center></div>
 
 <div class="sticky_floating_video"></div>
 {% include sticky_floating_video.html %}

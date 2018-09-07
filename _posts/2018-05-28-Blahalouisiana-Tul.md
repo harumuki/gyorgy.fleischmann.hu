@@ -40,7 +40,8 @@ Az emberszárny lerázna egy kis rákövült eget
 Válasz, ma nem lesz nem is kell
 Túl távol, elég közel
 Nem leszek, ha nem leszel
-</pre><br><a href="#top">⬆</a></center></div>
+</pre>
+<a href="#top">⬆</a></center></div>
 
 <div class="sticky_floating_video"></div>
 {% include sticky_floating_video.html %}

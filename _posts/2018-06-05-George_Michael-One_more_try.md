@@ -77,7 +77,8 @@ Who just isn't willing to try
 I'm so cold
 Inside
 Maybe just one more try
-</pre><br><a href="#top">⬆</a></center></div>
+</pre>
+<a href="#top">⬆</a></center></div>
 
 <div class="sticky_floating_video"></div>
 {% include sticky_floating_video.html %}

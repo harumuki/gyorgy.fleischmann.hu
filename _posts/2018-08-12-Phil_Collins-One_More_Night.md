@@ -54,7 +54,8 @@ Give me just one more night, give me just one more night
 Ooh one more night, cos I can't wait forever
 Give me just one more night, give me just one more night
 Ooh one more night, cos I can't wait forever
-</pre><br><a href="#top">⬆</a></center></div>
+</pre>
+<a href="#top">⬆</a></center></div>
 
 <div class="sticky_floating_video"></div>
 {% include sticky_floating_video.html %}

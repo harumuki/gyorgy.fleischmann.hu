@@ -60,7 +60,8 @@ Hell's bells, there's no way to fight, yeah
 Ow, ow, ow, ow
 
 Hell's bells
-</pre><br><a href="#top">⬆</a></center></div>
+</pre>
+<a href="#top">⬆</a></center></div>
 
 <div class="sticky_floating_video"></div>
 {% include sticky_floating_video.html %}

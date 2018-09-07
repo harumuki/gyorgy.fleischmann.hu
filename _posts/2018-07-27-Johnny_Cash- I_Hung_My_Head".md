@@ -90,7 +90,8 @@ I hung my head
 I hung my head
 I hung my head
 I hung my head
-</pre><br><a href="#top">⬆</a></center></div>
+</pre>
+<a href="#top">⬆</a></center></div>
 
 <div class="sticky_floating_video"></div>
 {% include sticky_floating_video.html %}

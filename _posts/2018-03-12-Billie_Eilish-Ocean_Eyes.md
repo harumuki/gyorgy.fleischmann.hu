@@ -47,7 +47,8 @@ I'm scared
 I've never fallen from quite this high
 Falling into your ocean eyes
 Those ocean eyes
-</pre><br><a href="#top">⬆</a></center></div>
+</pre>
+<a href="#top">⬆</a></center></div>
 
 <div class="sticky_floating_video"></div>
 {% include sticky_floating_video.html %}

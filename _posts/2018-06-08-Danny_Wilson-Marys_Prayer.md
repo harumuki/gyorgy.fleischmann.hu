@@ -73,7 +73,8 @@ So if I say save me, save me
 Be the light in my eyes
 And if I say ten Hail Marys
 Leave a light on in Heaven
-</pre><br><a href="#top">⬆</a></center></div>
+</pre>
+<a href="#top">⬆</a></center></div>
 
 <div class="sticky_floating_video"></div>
 {% include sticky_floating_video.html %}
