@@ -53,6 +53,11 @@ a:visited { }
 a:hover      { color: blue;  text-decoration: none; }
 
 strong { color: $strong-color; }
+
+::selection {
+  background: rgb(250, 240, 20);
+  text-shadow: none;
+}
                     
 h1 { margin-top: 0.6em; 
      margin-bottom: 0.1em;

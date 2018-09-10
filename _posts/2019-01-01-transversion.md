@@ -22,7 +22,7 @@ Az azóta eltelt idők során időről időre keresgéltem az interneten újabb 
 
 Végül álljon itt egy saját próbálkozásom, amit én most [PICO-8](https://www.lexaloffle.com/pico-8.php) platformon követtem el. Maga a [PICO-8](https://www.lexaloffle.com/pico-8.php) is megérne egy hosszabb bejegyzést, mert nagyon szórakoztató dolog egy modern számítógépen ilyen eszközzel dolgozni, de felfogni is csak nagyon nehezen tudom, hogy még egy ilyen egyszerű játékhoz is mennyi munka kellhetett anno, hogy Z80 assembly-ben, az akkori eszközökkel ilyen szépen meg tudják ezt csinálni.
 
-<div style="width: 50%; margin-bottom: .5em; margin-right: .7em; float: left;">
+<div class="shadow" style="width: 50%; margin-bottom: .5em; margin-right: .7em; float: left;">
 
 <canvas class="emscripten" id="canvas" oncontextmenu="event.preventDefault()"></canvas>
 
