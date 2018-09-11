@@ -71,13 +71,26 @@ Végül álljon itt egy saját próbálkozásom, amit én most [PICO-8](https://
 	document.addEventListener( 'keydown', onKeyDown_blocker, false );
 
 </script>
-    
+
+<br>
+
 <center>
-<div class="pico8_el" onclick="Module.pico8Reset();">Reset</div>
-<div class="pico8_el" onclick="Module.pico8TogglePaused();">Pause</div>
-<div class="pico8_el" onclick="Module.requestFullScreen( true, false );">Fullscreen</div>
-<div class="pico8_el" onclick="Module.pico8ToggleSound();">Sound</div>
-<div class="pico8_el"><a target="_new" href="http://www.lexaloffle.com/bbs/?cat=7&sub=2">Carts</a></div>
+
+<div class="pico8_el" onclick="Module.pico8Reset();"><img style="width: 10px;" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAaklEQVR4Ae2dOwoAMQhE15A+rfc/3bZ7AlMnQfywCkKsfcgMM9ZP+QHtIn0vLeBAFduiFdQ/0DmvtR5LXJ6CPSXe2ZXcFNlTxFbemKrbZPs35XogeS9xeQr+anT6LzoOwEDwZJ7jwhXUnwkTTiDQ2Ja34AAAABB0RVh0TG9kZVBORwAyMDExMDIyMeNZtsEAAAAASUVORK5CYII=" alt="Reset" />
+Reset</div>
+
+<div class="pico8_el" onclick="Module.pico8TogglePaused();"><img style="width: 10px;" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAPUlEQVR4Ae3doQ0AIAxEUWABLPtPh2WCq26DwFSU/JPNT166QSu/Hg86W9dwLte+diP7AwAAAAAAgD+A+jM2ZAgo84I0PgAAABB0RVh0TG9kZVBORwAyMDExMDIyMeNZtsEAAAAASUVORK5CYII=" alt="Pause" />
+Pause</div>
+
+<div class="pico8_el" onclick="Module.requestFullScreen(true, false);"><img style="width: 10px;"  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAaklEQVR4Ae2dsQ1AIQhExfze1v2ns3UCrfgFhmgUUAoGgHscp21wX9BqaZoDojbB96OkDJKNcTN2BHTyYNYmoT2BlPL7BKgcPfHjAVXKKadkHOn9K1r16N0czN6a95N8mnA7Aq2fTZ3Af3UKmCSMazL8HwAAABB0RVh0TG9kZVBORwAyMDExMDIyMeNZtsEAAAAASUVORK5CYII=" alt="Fullscreen" />
+Fullscreen</div>
+
+<div class="pico8_el" onclick="Module.pico8ToggleSound();"><img style="width: 10px;" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAXklEQVR4Ae2doQ4AIQxD4YLH8v9fh+ULhjpxxSwLg2uyapr1JRu1iV5Z+1BGl4+xNpX38SYo2uRvYiT5LwEmt+ocgXVLrhPEgBiw8Q5w7/kueSkK+D2tJO4E/I3GrwkqQCBabEj/4QAAABB0RVh0TG9kZVBORwAyMDExMDIyMeNZtsEAAAAASUVORK5CYII=" alt="Toggle Sound" />
+Sound</div>
+
+<div class="pico8_el"><a target="_new" href="http://www.lexaloffle.com/bbs/?cat=7&sub=2"><img style="width: 10px;" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAlElEQVR4Ae2dMQ5FQBCGh6jcwAkkateg3DiAa+iQUGqVKi95FQfAJRQOoHeBUf8JyQqKjZ1uMzuz2e/LTE3KhyF7kSlgLOykas23f6D+A9Yp84aAOYU15pcJnfji0Il2ID8HzC4y38ZrnfIBGxeRoR3c3EWrACdsV5BOsx7OSRnrOXh4F5HzA6bevwUn8wlz7eCDsQM99B3ks0s/4QAAABB0RVh0TG9kZVBORwAyMDExMDIyMeNZtsEAAAAASUVORK5CYII=" alt="More Carts"/>
+Carts</a></div>
+
 </center>
 
 </div>
