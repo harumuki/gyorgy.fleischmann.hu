@@ -11,12 +11,11 @@ beforeheaderHTML: '<center><img class="overridemaxwidthboth" style="" src="image
 
 <div class="rightbox" style="width:40%;"><a href="http://www.top80sgames.com/site/content/transversion"><img class="shadow" src="images/transversion/transversion_tape_cover.jpg" alt="Original Transversion tape cover"></a></div>
 
-
 <span class="initial">V</span>alamikor 1983 környékén vettük (nem tudom már, hogy pontosan milyen körülmémyek között, de az biztos, hogy valahogy feketén érkezett az országba) az első számítógépünket, egy Sinclair ZX Spectrum 48K-s modellt. A gép még az alap, gumi billentyűzetes volt és a kicsomgaolása nekem akkoriban legalább akkora örömöt okozott, mint amit manapság mondjuk egy új Apple MacBook Pro kicsomagolása okoz. Sajnos az eredeti gép nincs már meg, legfőképp azért, mert időközben ZX Spectrum+-á alakult át egy Németországból hozott kit segítségével és így már csak ebben a formában maradhatott fenn.
 
 <div class="rightbox" style="width:20%;"><a href="https://spectrumcomputing.co.uk/index.php?cat=96&id=5383"><img class="shadow" src="https://ia600604.us.archive.org/zipview.php?zip=/1/items/World_of_Spectrum_June_2017_Mirror/World%20of%20Spectrum%20June%202017%20Mirror.zip&file=World%20of%20Spectrum%20June%202017%20Mirror/sinclair/games-maps/t/Transversion.png" alt="Levels"></a></div>
 
-Na, de nem is is erről a részről akartam most írni, hanem arról, hogy az egyik és máig kedvenc jákékom ZX Spectrum-on, az Ocean Software Ltd. cég által kiadott nagyon egyszerű [Transversion](https://spectrumcomputing.co.uk/index.php?cat=96&id=5383) nevű játéka volt. Maga a játék nincs nagyon túlbonyolítva és nincs is túl sok pálya benne, de mégis szórakoztató. 
+Na de nem is is erről a részről akartam most írni, hanem arról, hogy az egyik és máig kedvenc jákékom ZX Spectrum-on, az Ocean Software Ltd. cég által kiadott nagyon egyszerű [Transversion](https://spectrumcomputing.co.uk/index.php?cat=96&id=5383) nevű játéka volt. Maga a játék nincs nagyon túlbonyolítva és nincs is túl sok pálya benne, de mégis szórakoztató. 
 
 Az azóta eltelt idők során időről időre keresgéltem az interneten újabb klónjait ennek a játéknak, és vannak / voltak is jó megoldások.
 
@@ -95,4 +94,4 @@ Carts</a></div>
 
 </div>
 
-asasalsk ask akls kalsla lslakslakls la s
+A játék célja, hogy összeszedjük az összes elemet anélkül, hogy az ellenséges rakéték lelőnének minket.
