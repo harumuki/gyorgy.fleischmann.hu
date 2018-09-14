@@ -36,9 +36,9 @@ header_spacer: 93
 
 ### Fakultatív csárdalátogatások:
 
-- Révkapu Vendéglő, Mohács, >5x
-- Peppínó, Mohács, >3x
-- Alibi, Mohács, 1x
+- Révkapu vendéglő, Mohács, >5x
+- Peppinó pizzéria, Mohács, >3x
+- Alibi bistro, Mohács, 1x
 - Kovács Csárda (KOVAČ Čarda), Csúza (Suza) 
 
 ## TOP 3
@@ -58,6 +58,11 @@ header_spacer: 93
 		[ 'Baracsi Halászcsárda',      46.8638776, 18.9175345, restaurant_icon ],
 		[ 'Dunaújvárosi Halászcsárda', 46.9815256, 18.9452692, restaurant_icon ],
 		[ 'Kigyósi Halászcsárda',      46.8065956, 19.1578603, restaurant_icon ],
+
+		[ 'Révkapu vendéglő',          45.9929783, 18.6942238 ],
+		[ 'Peppinó pizzéria',		   45.9903284, 18.6862382 ],
+		[ 'Alibi bistro',              45.991193, 18.69233 ],
+		[ 'Kovács Csárda',             45.789507, 18.7883592 ],
 	];
 
 	if ( typeof google === 'object' && typeof google.maps === 'object' ) {
