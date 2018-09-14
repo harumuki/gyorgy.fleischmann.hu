@@ -34,6 +34,10 @@ header_spacer: 93
 - Dunaújvárosi Halászcsárda, 1x
 - Kigyósi Halászcsárda, 1x
 
+## Tervben lévő halászcsárdák:
+
+- Százhalombattai Halászcsárda 
+
 ### Fakultatív csárdalátogatások:
 
 - Révkapu vendéglő, Mohács, >5x
