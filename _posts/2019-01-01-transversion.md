@@ -6,7 +6,7 @@ comments: true
 category: Development / fejlesztés
 tags:     [pico-8, development, zx spectrum, retro, game]
 
-beforeheaderHTML: '<center><img class="overridemaxwidthboth" style="" src="images/transversion//zx_spectrum.png"></center>'
+beforeheaderHTML: '<div class="overridemaxwidthboth"><img style="" src="images/transversion//zx_spectrum.png"></div>'
 ---
 
 <div class="rightbox" style="width:40%;"><a href="http://www.top80sgames.com/site/content/transversion"><img class="shadow" src="images/transversion/transversion_tape_cover.jpg" alt="Original Transversion tape cover"></a></div>
@@ -94,6 +94,6 @@ Carts</a></div>
 
 </div>
 
-A játék célja, hogy mint az "ELIMAX" kapitányaként belépjünk a Galaktikus rácshálózatba és összeszedjük az összes idegenek által lerakott kapszulát és átadjuk Raydon Mezőnek. Közben Védők próbálnak megállítani úgy, hogy minden oldalról lézekkel és sugárvetőkkel lőnek majd rád. Minden egyes szektor kitakarítsa után a következőbe lépünk és közben a Védők egyre gonoszabbak lesznek, hogy mind jobban meg tudják védeni a kapszuláikat.
+**A játék célja**, hogy mint az "ELIMAX" kapitányaként belépjünk a Galaktikus rácshálózatba és összeszedjük az összes idegenek által lerakott kapszulát és átadjuk Raydon Mezőnek. Közben Védők próbálnak megállítani úgy, hogy minden oldalról lézekkel és sugárvetőkkel lőnek majd rád. Minden egyes szektor kitakarítsa után a következőbe lépünk és közben a Védők egyre gonoszabbak lesznek, hogy mind jobban meg tudják védeni a kapszuláikat.
 
 **Pontozás:** a képrnyőn látható az aktuális pontod és az eddig elért legmagasabb pontszám is, a még fennmaradó életeiddel és az aktuális szektor szintjével együtt. A szint határozza meg a pontok számát, amit egy kapszula ér 1-től 100-ig. A spirálpályákban 50-et. Ha a spirálpályán halsz meg, akkor a következő pályára kerülsz, minden más pályán halál esetén előről kezdődik ugyan az a pálya.
