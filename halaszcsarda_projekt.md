@@ -9,7 +9,8 @@ tags:     [lifestyle]
 header_spacer: 93
 ---
 
-<div style="position: absolute; left: 0px; top: 0px; width: 100%; z-index: -1; background-image: url(http://gaultmillau.hu/system/attachments/16570/medium/bajai-teszta-%C3%B6ntve-IMG_2369.jpg?1511647196); height: 100%; background-position: center; background-repeat: no-repeat; background-size: cover;"></div>
+<div class="shadow" style="position: absolute; left: 0px; top: 0px; width: 100%; z-index: -1; background-image: url(http://gaultmillau.hu/system/attachments/16570/medium/bajai-teszta-%C3%B6ntve-IMG_2369.jpg?1511647196); height: 100%; background-position: center; background-repeat: no-repeat; background-size: cover;"></div>
+
 
 <!-- http://gaultmillau.hu/buvos-szakacs/halaszle-hagyomanyosan-es-maskepp -->
 
@@ -36,7 +37,8 @@ header_spacer: 93
 
 ## Tervben lévő halászcsárdák:
 
-- Százhalombattai Halászcsárda 
+- Százhalombattai Halászcsárda
+- Öreghalász Vendéglátó és Kereskedelmi Kft., Budapest 
 
 ### Fakultatív csárdalátogatások:
 
