@@ -25,3 +25,7 @@ Trencsén / Trenčín
 Bécs
 Friedrichshafen
 
+Ahova menni kellene még:
+
+- Kappadókia, Törökország
+- Izland, Annával és Gergővel
