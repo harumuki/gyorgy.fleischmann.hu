@@ -209,6 +209,12 @@
       "css": "star-empty-1",
       "code": 59410,
       "src": "entypo"
+    },
+    {
+      "uid": "1e123339045e48ddd01031936b9fc2d9",
+      "css": "soundcloud",
+      "code": 59411,
+      "src": "zocial"
     }
   ]
 }
