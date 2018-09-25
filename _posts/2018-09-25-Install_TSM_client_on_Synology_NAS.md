@@ -7,12 +7,16 @@ category: How to guides, tips and tricks / útmutatók, tippek és trükkök
 tags:     [ibm, tivoli storage manager, tsm, spectrum proetect, sp, install, how to]
 ---
 
+- Get an install kit for example from [http://service.boulder.ibm.com/](http://service.boulder.ibm.com/storage/tivoli-storage-management/maintenance/client/v8r1/Linux/LinuxX86/BA/)
+- unpack these 4 .rpms API64, BA, gsk* (TIVsm-API64.x86_64.rpm, TIVsm-BA.x86_64.rpm, gskcrypt64-8.0.50.86.linux.x86_64.rpm, gskssl64-8.0.50.86.linux.x86_64.rpm) from it on a Linux machine (remove languages you don't need!)
+- tar them back to a baclient.tar.gz. Here are the list of my files:
+
 <pre class="terminal">
-<strong style="color: #00FF00;">root@BLACKHOLE:/</strong># ls -lh
+<strong style="color: #00FF00;">root@BLACKHOLE:</strong>/# ls -lh
 total 115M
 -rw-rw-r-- 1 flex flex 115M Sep 24 10:22 baclient.tar.gz
 
-root@BLACKHOLE:~#tree
+root@BLACKHOLE:~# tree
 .
 ├── opt
 │   └── tivoli
@@ -230,28 +234,66 @@ root@BLACKHOLE:~#tree
                 └── ReadMe.txt
 </pre>
 
-## stop scheduler / dsmcad
+- stop scheduler / dsmcad service if you have one of them
 
+```
 stop dsmcad
-
 ```
-start dsmcad
-```
-<pre class="terminal"><strong style="color: #00FF00;">root@BLACKHOLE:/</strong># stop dsmcad
+<pre class="terminal"><strong style="color: #00FF00;">root@BLACKHOLE:</strong>/# stop dsmcad
 dsmcad stop/waiting</pre>
 
-## restart scheduler / dsmcad
+- transfer your erlier prepared .tar file to the NAS and extract it to /opt and /usr
+- optionally you may also need libstdc++.so.6 file. Get one from a working Linux machine:
+
+<pre class="terminal">
+<strong style="color: #00FF00;">root@BLACKHOLE:</strong>/opt/tivoli/tsm/client/ba/bin# ls -la libs*
+lrwxrwxrwx 1 root root      19 Aug 21  2017 libstdc++.so.6 -> libstdc++.so.6.0.13
+-r-xr-xr-x 1 root root 1006992 Feb 20  2017 libstdc++.so.6.0.13
+</pre>
+
+- my upstart script for dsmcad (/etc/init/dsmcad.conf) looks like this:
+
+``` 
+#  IBM Tivoli Storage Manager / Spectrum Proetect CAD Client Acceptor Daemon
+#
+#  file: /etc/init/dsmcad.conf
+#
+#  to manage use <start dsmcad>, <stop dsmcad> and <status dsmcad>
+
+description     "dsmcad is the IBM TSM Spectrum Protect CAD"
+author          "gyorgy@fleischmann.hu"
+version         "05.19.2017"
+
+# This service starts the Tivoli Storage Manager / Spectrum Protect "dsmcad"
+
+start on runlevel [2345]
+stop on runlevel [!2345]
+
+script
+        export DSM_DIR=/opt/tivoli/tsm/client/ba/bin/
+        export LD_LIBRARY_PATH=/usr/local/ibm/gsk8_64/lib64/:/opt/tivoli/tsm/client/api/bin64/:/opt/tivoli/tsm/client/ba/bin/
+        export LANG=en_US
+        export LC_MESSAGES=en_US
+        export LC_CTYPE=hu_HU.utf8
+        export LC_ALL=hu_HU.utf8
+        exec /bin/dsmcad >/dev/null 2>&1
+end script
+
+expect daemon
+```
+
+- restart scheduler / dsmcad
 
 ```
 start dsmcad
 ```
-<pre class="terminal"><strong style="color: #00FF00;">root@BLACKHOLE:/</strong># start dsmcad
+<pre class="terminal"><strong style="color: #00FF00;">root@BLACKHOLE:</strong>/# start dsmcad
 dsmcad start/running, process 13683</pre>
 
 ```
 dsmc q sess
 ```
-<pre class="terminal"><strong style="color: #00FF00;">root@BLACKHOLE:/</strong># dsmc q sess
+<pre class="terminal"><strong style="color: #00FF00;">root@BLACKHOLE:</strong>/# dsmc q sess
     
 IBM Spectrum Protect
 Command Line Backup-Archive Client Interface
