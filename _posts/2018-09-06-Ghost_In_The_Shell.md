@@ -14,7 +14,7 @@ header_spacer: 93
 {% include youtube.html ID="z64HCi2rQkE" %}
 
 <a id="top"></a>
-<div id="lyrics"><div class="lyricsheader" style=""><p><center><b>ZZ Top</b>: Gimme All Your Lovin' (Live)</center></p></div>
+<div id="lyrics"><div class="lyricsheader" style=""><p><center><b>Kenji Kawai</b>: Ghost In The Shell (OST)</center></p></div>
 
 <center><pre>
 吾が舞へば、麗し女、酔ひにけり
