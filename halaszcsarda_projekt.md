@@ -40,14 +40,14 @@ header_spacer: 93
 - Százhalombattai Halászcsárda
 - Öreghalász Vendéglátó és Kereskedelmi Kft., Budapest 
 
-### Fakultatív csárdalátogatások:
+## Fakultatív csárdalátogatások:
 
 - Révkapu vendéglő, Mohács, >5x
 - Peppinó pizzéria, Mohács, >3x
 - Alibi bistro, Mohács, 1x
 - Kovács Csárda (KOVAČ Čarda), Csúza (Suza) 
 
-## TOP 3
+# TOP 3
 
 1. Baracsi Halászcsárda
 2. ?

@@ -7,16 +7,17 @@ category: How to guides, tips and tricks / útmutatók, tippek és trükkök
 tags:     [ibm, tivoli storage manager, tsm, spectrum proetect, sp, install, how to]
 ---
 
-- Get an install kit for example from [http://service.boulder.ibm.com/](http://service.boulder.ibm.com/storage/tivoli-storage-management/maintenance/client/v8r1/Linux/LinuxX86/BA/)
-- unpack these 4 .rpms API64, BA, gsk* (TIVsm-API64.x86_64.rpm, TIVsm-BA.x86_64.rpm, gskcrypt64-8.0.50.86.linux.x86_64.rpm, gskssl64-8.0.50.86.linux.x86_64.rpm) from it on a Linux machine (remove languages you don't need!)
-- tar them back to a baclient.tar.gz. Here are the list of my files:
+- get an install kit for example from this IBM site: [http://service.boulder.ibm.com/...](http://service.boulder.ibm.com/storage/tivoli-storage-management/maintenance/client/v8r1/Linux/LinuxX86/BA/)
+- unpack these 4 .rpms: TIVsm-API64.x86_64.rpm, TIVsm-BA.x86_64.rpm, gskcrypt64-8.0.50.86.linux.x86_64.rpm, gskssl64-8.0.50.86.linux.x86_64.rpm on a Linux machine (remove unnecessary languages)
+- targz them back to a baclient.tar.gz. 
+- here are the list of my current files came from BA client v8.1.6.0:
 
 <pre class="terminal">
-<strong style="color: #00FF00;">root@BLACKHOLE:</strong>/# ls -lh
+<strong style="color: #00FF00;">root@BLACKHOLE:</strong>~# ls -lh
 total 115M
 -rw-rw-r-- 1 flex flex 115M Sep 24 10:22 baclient.tar.gz
 
-root@BLACKHOLE:~# tree
+<strong style="color: #00FF00;">root@BLACKHOLE:</strong>~# tree
 .
 ├── opt
 │   └── tivoli
@@ -239,7 +240,7 @@ root@BLACKHOLE:~# tree
 ```
 stop dsmcad
 ```
-<pre class="terminal"><strong style="color: #00FF00;">root@BLACKHOLE:</strong>/# stop dsmcad
+<pre class="terminal"><strong style="color: #00FF00;">root@BLACKHOLE:</strong>~# stop dsmcad
 dsmcad stop/waiting</pre>
 
 - transfer your erlier prepared .tar file to the NAS and extract it to /opt and /usr
@@ -287,14 +288,13 @@ expect daemon
 ```
 start dsmcad
 ```
-<pre class="terminal"><strong style="color: #00FF00;">root@BLACKHOLE:</strong>/# start dsmcad
+<pre class="terminal"><strong style="color: #00FF00;">root@BLACKHOLE:</strong>~# start dsmcad
 dsmcad start/running, process 13683</pre>
 
 ```
 dsmc q sess
 ```
-<pre class="terminal"><strong style="color: #00FF00;">root@BLACKHOLE:</strong>/# dsmc q sess
-    
+<pre class="terminal"><strong style="color: #00FF00;">root@BLACKHOLE:</strong>~# dsmc q sess
 IBM Spectrum Protect
 Command Line Backup-Archive Client Interface
   Client Version 8, Release 1, Level 6.0
