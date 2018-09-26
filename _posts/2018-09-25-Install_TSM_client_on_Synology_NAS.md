@@ -12,8 +12,7 @@ tags:     [ibm, tivoli storage manager, tsm, spectrum proetect, sp, install, how
 - targz them back to a baclient.tar.gz. 
 - here are the list of my current files came from BA client v8.1.6.0:
 
-<pre class="terminal">
-<strong style="color: #00FF00;">root@BLACKHOLE:</strong>~# ls -lh
+<pre class="terminal"><strong style="color: #00FF00;">root@BLACKHOLE:</strong>~# ls -lh
 total 115M
 -rw-rw-r-- 1 flex flex 115M Sep 24 10:22 baclient.tar.gz
 
