@@ -68,6 +68,22 @@ tprior_p.png
 
 ### Operátor rekord email címe alapján ellenőrzés, javascript, debug
 
+email in $L.file~=null
+
+DEBUG javascript:
+```javascript
+var f = new SCFile( "operator", SCFILE_READONLY );
+var query = "name=\"" + vars['$L.file']['coordinator'] + "\"";
+var rc = f.doSelect( query );
+
+if ( rc==RC_SUCCESS ) {
+    print( f.email );
+}
+else { 
+    print( "Email Not found!" ); 
+}
+```
+
 ### Jóváhagyások
 
 ### Új változáskezelési kategória felvétele

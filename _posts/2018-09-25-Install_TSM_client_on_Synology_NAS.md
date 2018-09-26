@@ -9,7 +9,7 @@ tags:     [ibm, tivoli storage manager, tsm, spectrum proetect, sp, install, how
 
 - get an install kit for example from this IBM site: [http://service.boulder.ibm.com/...](http://service.boulder.ibm.com/storage/tivoli-storage-management/maintenance/client/v8r1/Linux/LinuxX86/BA/)
 - unpack these 4 .rpms: TIVsm-API64.x86_64.rpm, TIVsm-BA.x86_64.rpm, gskcrypt64-8.0.50.86.linux.x86_64.rpm, gskssl64-8.0.50.86.linux.x86_64.rpm on a Linux machine (remove unnecessary languages)
-- targz them back to a baclient.tar.gz. 
+- tar.gz them back to a baclient.tar.gz for example 
 - here are the list of my current files came from BA client v8.1.6.0:
 
 <pre class="terminal"><strong style="color: #00FF00;">root@BLACKHOLE:</strong>~# ls -lh
@@ -242,7 +242,7 @@ stop dsmcad
 <pre class="terminal"><strong style="color: #00FF00;">root@BLACKHOLE:</strong>~# stop dsmcad
 dsmcad stop/waiting</pre>
 
-- transfer your erlier prepared .tar file to the NAS and extract it to /opt and /usr
+- transfer your earlier prepared .tar.gz file to the NAS and extract it to /opt and /usr
 - optionally you may also need libstdc++.so.6 file. Get one from a working Linux machine:
 
 <pre class="terminal">
@@ -253,7 +253,7 @@ lrwxrwxrwx 1 root root      19 Aug 21  2017 libstdc++.so.6 -> libstdc++.so.6.0.1
 
 - my upstart script for dsmcad (/etc/init/dsmcad.conf) looks like this:
 
-``` 
+```bash 
 #  IBM Tivoli Storage Manager / Spectrum Proetect CAD Client Acceptor Daemon
 #
 #  file: /etc/init/dsmcad.conf
