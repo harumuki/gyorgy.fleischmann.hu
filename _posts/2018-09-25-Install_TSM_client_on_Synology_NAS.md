@@ -7,6 +7,8 @@ category: How to guides, tips and tricks / útmutatók, tippek és trükkök
 tags:     [ibm, tivoli storage manager, tsm, spectrum proetect, sp, install, how to]
 ---
 
+1st you must have an x86 CPU based Synology NAS model!
+
 - get an install kit for example from this IBM site: [http://service.boulder.ibm.com/...](http://service.boulder.ibm.com/storage/tivoli-storage-management/maintenance/client/v8r1/Linux/LinuxX86/BA/)
 - unpack these 4 .rpms: TIVsm-API64.x86_64.rpm, TIVsm-BA.x86_64.rpm, gskcrypt64-8.0.50.86.linux.x86_64.rpm, gskssl64-8.0.50.86.linux.x86_64.rpm on a Linux machine (remove unnecessary languages)
 - tar.gz them back to a baclient.tar.gz for example 
