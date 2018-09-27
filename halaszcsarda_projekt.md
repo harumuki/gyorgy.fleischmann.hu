@@ -67,6 +67,7 @@ header_spacer: 93
 		[ 'Kigyósi Halászcsárda',      46.8065956, 19.1578603, restaurant_icon ],
 		[ 'Római Platán Étterem',      47.5694432, 19.0647115, restaurant_icon ],
 
+
 		[ 'Révkapu vendéglő',          45.9929783, 18.6942238 ],
 		[ 'Peppinó pizzéria',		   45.9903284, 18.6862382 ],
 		[ 'Alibi bistro',              45.991193,  18.69233 ],
