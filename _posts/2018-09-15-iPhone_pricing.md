@@ -6,7 +6,7 @@ comments: true
 category: Apple
 tags:     [apple, iphone]
 
-beforeheaderHTML: '<div class="overridemaxwidthboth" style="margin-top: -14px;"><img class="shadow" style="width: 100%" src="https://www.apple.com/v/home/dv/images/fall-launch-products/iphone_xs_large_2x.jpg"></div>'
+beforeheaderHTML: '<div class="overridemaxwidthboth" style="margin-top: -14px;"><img class="shadow fade" id="fadeimg" onload="document.getElementById(''fadeimg'').style.opacity=''1''"" style="width: 100%" src="https://www.apple.com/v/home/dv/images/fall-launch-products/iphone_xs_large_2x.jpg"></div>'
 ---
 
 Elképesztő ÁRmókát játszik a vásárlóival az Apple.

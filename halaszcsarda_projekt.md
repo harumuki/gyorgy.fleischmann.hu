@@ -13,7 +13,7 @@ header_spacer: 93
 
 <!-- http://gaultmillau.hu/buvos-szakacs/halaszle-hagyomanyosan-es-maskepp -->
 
-**2018** legérdekesebb projektje, hogy megtaláljuk magyarország legjobb halászcsárdáját.
+**2018** legérdekesebb projektje, hogy megtaláljuk magyarország legjobb halászcsárdáját a 6-os út környékén. Az első látogatásunk Dunakömlődön volt 2017. november 29-én.
 
 <div id="map-wrap" class="" style="margin-bottom: .75em; -webkit-box-shadow: 0px 4px 18px rgba(0,0,0,0.84); -moz-box-shadow: 0px 4px 18px rgba(0,0,0,0.84); box-shadow: 0px 4px 18px rgba(0,0,0,0.84);">
 	<div id="map" style="width:auto; height:100vh;"></div>
