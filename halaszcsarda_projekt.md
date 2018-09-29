@@ -6,6 +6,8 @@ category: Lifestyle
 comments: false
 tags:     [lifestyle]
 
+photoswipe: 'yes'
+
 header_spacer: 93
 ---
 
@@ -33,6 +35,11 @@ header_spacer: 93
 - Baracsi Halászcsárda, 3x
 - Dunaújvárosi Halászcsárda, 1x
 - Kigyósi Halászcsárda, 1x
+- Római Platán Étterem
+
+<!-- PhotoSwipeGenerator.pl --directory photos/halaszcsarda_projekt/ --filetag _halaszcsarda_projekt --outdir _includes --imgproperty 'class="shadow zoomeffect"' --title 'Halászcsárda Projekt' -->
+
+{% include photorows.html TAG="halaszcsarda_projekt" %}
 
 ## Tervben lévő halászcsárdák:
 

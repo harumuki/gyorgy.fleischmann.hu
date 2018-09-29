@@ -7,4 +7,4 @@ category: How to guides, tips and tricks / útmutatók, tippek és trükkök
 tags:     [synology, nas, install, how to]
 ---
 
-You can directly download update packages from this link: [https://archive.synology.com/download/DSM/](https://archive.synology.com/download/DSM/)
+You can directly download update packages for your Synology NAS from this link: [https://archive.synology.com/download/DSM/](https://archive.synology.com/download/DSM/)
