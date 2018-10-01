@@ -50,11 +50,36 @@ tprior_p.png
 
 ## Process Designer
 
+Menu Navigation: Tailoring - Process Designer
+
 ### Fázisok ás átmenetek létrehozásának trükkjei
 
-### Alapérték kitöltések ellenőrzése
+Menu Navigation: Tailoring - Process Designer - Workflows
 
-### Lista ellenőrzése
+1. - érdemes a fázisokat egyből létrehozni és azonnal elnevezni 
+2. - figyelni kell, hogy a átmenet parancs nevének megadásánál felül fogja írni a mögötte lévé scmessage rekordot is!
+
+sm/rule_naming 
+
+### Alapértékek és kitöltések ellenőrzése [Rule Sets]
+
+Menu Navigation: Tailoring - Process Designer - Rule Sets
+
+sm/rule_set_via_javascript1
+sm/rule_set_via_javascript2
+sm/rule_set_via_javascript3
+sm/rule_set_mandatory_default
+
+value="Unplanned Change Detection"
+value="Rrrrisk ass"
+
+A mezők nevénél nem magát a mezőnek a nevét kell megadni (amit a vastag kliensben a mezőt kijelölve és Ctrl-h nyomva tudunk megkapni, ha a Window - Preferences menüpontban a Service Manager almenüben az Appearance részében a "Show context-sensitive help debug information" opció be van kapcsolva), hanem a Data Policy-ben lévő
+
+### Lista ellenőrzése egy globális lista alapján
+
+sm/rule_set_validate_against_list
+
+A globálista kiválasztásánal nem magát a globális lista változóját kell megadni, hanem a nevét. Ezt a legkönnyebben 
 
 ### Mentés előtti mező kitöltöttség ellenőrzése
 
