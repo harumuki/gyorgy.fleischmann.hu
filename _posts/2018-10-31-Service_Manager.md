@@ -45,10 +45,25 @@ tprior_p.png
 
 ### Hogyan kell megtalálni egy menüt
 
-### Hogyan kelllétrezhoni
+### Hogyan kell létrezhoni
 
+### $file
+
+https://ernestodisanto.wordpress.com/2015/10/30/hpsm-current-file-variable-in-rad/
+
+$file - Format Control
+$File - Links
+$L.file - minden más
+$L.filed - Display App.
+
+### Variables
+
+$G. $lo Globális változók
+$L. lokális változól
 
 ## Process Designer
+
+Best Practices https://docs.microfocus.com/SM/9.52/Hybrid/Content/PD_tailoring_BPG/Process_Designer_Basic_Concepts.htm
 
 Menu Navigation: Tailoring - Process Designer
 
@@ -59,27 +74,32 @@ Menu Navigation: Tailoring - Process Designer - Workflows
 1. - érdemes a fázisokat egyből létrehozni és azonnal elnevezni 
 2. - figyelni kell, hogy a átmenet parancs nevének megadásánál felül fogja írni a mögötte lévé scmessage rekordot is!
 
-sm/rule_naming 
+sm/rule_naming.png 
 
 ### Alapértékek és kitöltések ellenőrzése [Rule Sets]
 
 Menu Navigation: Tailoring - Process Designer - Rule Sets
 
+sm/rule_set_default
 sm/rule_set_via_javascript1
 sm/rule_set_via_javascript2
-sm/rule_set_via_javascript3
 sm/rule_set_mandatory_default
 
 value="Unplanned Change Detection"
 value="Rrrrisk ass"
 
-A mezők nevénél nem magát a mezőnek a nevét kell megadni (amit a vastag kliensben a mezőt kijelölve és Ctrl-h nyomva tudunk megkapni, ha a Window - Preferences menüpontban a Service Manager almenüben az Appearance részében a "Show context-sensitive help debug information" opció be van kapcsolva), hanem a Data Policy-ben lévő
+A mezők nevénél nem magát a mezőnek a nevét kell megadni (amit a vastag kliensben a mezőt kijelölve és Ctrl-h nyomva tudunk megkapni, ha a Window - Preferences menüpontban a Service Manager almenüben az Appearance részében a "Show context-sensitive help debug information" opció be van kapcsolva)
+
+sm/sm_client_windows_preferences1
+
+, hanem a Data Policy-ben lévő Caption nevét kell megadni a mezőhivatkozásoknál.
 
 ### Lista ellenőrzése egy globális lista alapján
 
 sm/rule_set_validate_against_list
 
-A globálista kiválasztásánal nem magát a globális lista változóját kell megadni, hanem a nevét. Ezt a legkönnyebben 
+A globálislista kiválasztásánal nem magát a globális lista változóját kell megadni, hanem a nevét. Ezt a legkönnyebben a Globális lista változójának kinyerése (vastag kliens, Forms Designer) után a  
+
 
 ### Mentés előtti mező kitöltöttség ellenőrzése
 
