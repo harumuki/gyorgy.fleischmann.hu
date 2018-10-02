@@ -151,7 +151,7 @@ Github link: [https://github.com/FleXoft/geocode.pl](https://github.com/FleXoft/
 [ "Split", 43.5081323, 16.4401935 ],
 [ "Makarska", 43.2937769, 17.0215239 ],
 [ "Vir, Horvátország", 44.3005078, 15.0859668 ],
-[ "Velence", 47.2300924, 18.6506424 ],
+[ "Velence, Italy", 45.4408474, 12.3155151 ],
 [ "Rimini", 44.0678288, 12.5695158 ],
 [ "Tunisz", 36.8064948, 10.1815316 ],
 [ "Korinthosz", 37.9386365, 22.9322383 ],
