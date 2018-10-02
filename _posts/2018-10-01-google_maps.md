@@ -17,19 +17,19 @@ Gyorsan felteszem 1 terképre, hogy én merre jártam eddig a világban:
 	<div id="map" style="width:auto; height:650px;"></div>
 </div>
 
-Ehhez kell 1 Google Maps API kulcs, amit itt lehet szerezni: [https://console.cloud.google.com/](https://console.cloud.google.com/) és itt 1 kis segítség, hogy pontosan hol lehet ezt megtalálni:
+Ahhoz, hogy ezt meg tudjam csinálni kell 1 Google Maps API kulcs, amit itt lehet szerezni: [https://console.cloud.google.com/](https://console.cloud.google.com/) és itt 1 kis segítség, hogy pontosan hol lehet ezt megtalálni:
 
 <!-- PhotoSwipeGenerator.pl --filelist images/google_maps/google_maps.lst --filetag _google_maps --outdir _includes --imgproperty 'class="shadow zoomeffect"' --title 'Google API key' -verb -->
 
 {% include photorows.html TAG="google_maps" %}
 
-és utána akár ezzel a linkkel egyenként: 
+és utána akár ezzel a linkkel vársonként egyenként: 
 
 ```
 http://maps.googleapis.com/maps/api/geocode/json?address=Moh%C3%A1cs&sensor=false&key="Insert your own API key"
 ```
 
-Vagy akár R-ben ezekkel a parancsokkal:
+vagy akár R-ben ezekkel a parancsokkal:
 
 <pre class="terminal">
 r
@@ -38,16 +38,14 @@ r
 > geocode("Mohács")
 </pre>
 
-vagy perl-ben ezeknek a perl moduloknak a telepítése után:
+vagy2 perl-ben ezeknek a perl moduloknak a telepítése után:
 
 <pre class="terminal">
 sudo cpan i Mozilla::CA
 sudo cpan i Geo::Coder::Google
 </pre>
 
-ezzel a rövid kis szkripttel. 
-
-Én ezt használtam:
+ezzel a rövid kis szkripttel akár egy fájlból olvasva a vársok nevét, le leht gyártani egy tömböt a koordinátákkal. Én ezt használtam:
 
 ```perl
 #!/usr/bin/perl
