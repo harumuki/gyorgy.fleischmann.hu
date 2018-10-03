@@ -17,7 +17,7 @@ Gyorsan felteszem 1 terképre, hogy én merre jártam eddig a világban:
 	<div id="map" style="width:auto; height:650px;"></div>
 </div>
 
-Ahhoz, hogy ezt meg tudjam csinálni kell 1 Google Maps API kulcs, amit itt lehet szerezni: [https://console.cloud.google.com/](https://console.cloud.google.com/) és itt 1 kis segítség, hogy pontosan hol lehet ezt (Google Maps Platform - Geo-location APIs, MAP JavaScript API) bekapcsolni és kulcsot generálni:
+Ahhoz, hogy ezt meg tudjam csinálni kell 1 Google Maps API kulcs, amit itt lehet szerezni: [https://console.cloud.google.com/](https://console.cloud.google.com/) és itt 1 kis segítség, hogy pontosan hol lehet ezt (Google Maps Platform - Geo-location APIs, Maps JavaScript API) bekapcsolni és kulcsot generálni:
 
 <!-- PhotoSwipeGenerator.pl --filelist images/google_maps/google_maps.lst --filetag _google_maps --outdir _includes --imgproperty 'class="shadow zoomeffect"' --title 'Google API key' -verb -->
 
@@ -103,7 +103,7 @@ while ( <FH> ) {
 ```
 Github link: [https://github.com/FleXoft/geocode.pl](https://github.com/FleXoft/geocode.pl)
 
-Ha már megvagyunk a városok koordinátáinak összegyűjtésével, akkor már csak a [Goole MAP JavaScript API](https://developers.google.com/maps/documentation/javascript/tutorial)-ját kel meghívni ezekkel. További részletek találhatóak itt magában a HTML forrásban... 
+Ha már megvagyunk a városok koordinátáinak összegyűjtésével, akkor már csak a [Google Maps JavaScript API](https://developers.google.com/maps/documentation/javascript/tutorial)-ját kel meghívni ezekkel. További részletek találhatóak itt magában a HTML forrásban... 
 
 <script type="text/javascript">
 						var locations = [
