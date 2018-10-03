@@ -215,6 +215,7 @@ Github link: [https://github.com/FleXoft/geocode.pl](https://github.com/FleXoft/
 [ "Quebec City", 46.8138783, -71.2079809 ],
 [ "Montreal", 45.5016889, -73.567256 ],
 [ "Ottawa", 45.4215296, -75.6971931 ],
+[ "Drezda", 51.0504088, 13.7372621 ],
 
 						];
 
