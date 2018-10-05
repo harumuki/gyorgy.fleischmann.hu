@@ -30,6 +30,7 @@ header_spacer: 93
 - Fleischmann György, _flex
 
 - Polik György, pogyö
+- Batári Gábor
 
 ## Eddig meglátogatott halászcsárdák:
 
@@ -38,6 +39,7 @@ header_spacer: 93
 - Dunaújvárosi Halászcsárda, 1x
 - Kigyósi Halászcsárda, 1x
 - Római Platán Étterem
+- Százhalombattai Halászcsárda
 
 <!-- PhotoSwipeGenerator.pl --directory photos/halaszcsarda_projekt/ --filetag _halaszcsarda_projekt --outdir _includes --imgproperty 'class="shadow zoomeffect"' --title 'Halászcsárda Projekt' -->
 
@@ -45,7 +47,6 @@ header_spacer: 93
 
 ## Tervben lévő halászcsárdák:
 
-- Százhalombattai Halászcsárda
 - Öreghalász Vendéglátó és Kereskedelmi Kft., Budapest 
 
 ## Fakultatív csárdalátogatások:
@@ -59,7 +60,7 @@ header_spacer: 93
 # TOP 3
 
 1. Baracsi Halászcsárda
-2. ?
+2. Százhalombattai Halászcsárda
 3. ?
 
 <script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?key=AIzaSyAubcKvynd2lNrvNQHlTt6b7Q8OBxDzNOg'></script>
@@ -76,6 +77,7 @@ header_spacer: 93
 		[ 'Dunaújvárosi Halászcsárda', 		46.9815256, 18.9452692, restaurant_icon ],
 		[ 'Kigyósi Halászcsárda',      		46.8065956, 19.1578603, restaurant_icon ],
 		[ 'Római Platán Étterem',      		47.5694432, 19.0647115, restaurant_icon ],
+		[ 'Százhalombattai Halászcsárda',	47.3105679, 18.9268598, restaurant_icon ],
 
 		[ 'Révkapu vendéglő',          		45.9929783, 18.6942238 ],
 		[ 'Peppinó pizzéria',		   		45.9903284, 18.6862382 ],
@@ -83,9 +85,7 @@ header_spacer: 93
 		[ 'Kovács Csárda',             		45.789507,  18.7883592 ],
 		[ 'Öreg Körössy Halászcsárda', 		46.2558134, 20.1823772 ],
 
-		[ 'Százhalombattai Halászcsárda',	47.3105679, 18.9268598, green_pin ],
 		[ 'Öreghalász', 					47.5610915, 19.0813481, green_pin ],
-
 	];
 
 	if ( typeof google === 'object' && typeof google.maps === 'object' ) {
