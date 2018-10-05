@@ -41,6 +41,11 @@ tprior_p.png
 
 ### Új power user létrehozása
 
+Menu Navigation: System Administration - Ongoing Maintenance > User Quick Add Utility
+
+images/sm/poweruser1.png
+images/sm/poweruser2.png
+
 ### Új menük készítése + hozzá parancsok
 
 ### Hogyan kell megtalálni egy menüt
@@ -60,6 +65,10 @@ $L.filed - Display App.
 
 $G. $lo Globális változók
 $L. lokális változól
+
+### Forms Designer
+
+Hogyan készítsünk olyan Form-okat, amivel meg lehet könnyen találni a Globalists neveket vagy a Mezőneveket?
 
 ## Process Designer
 

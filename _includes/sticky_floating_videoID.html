@@ -16,7 +16,7 @@
   }
   console.log( "DEBUG: sticky_floating_video_{{ include.ID }} [" + endOffsetTop_{{ include.ID }} + "]" );
 
-  window.addEventListener( 'scroll', function( {{ include.ID }} ) {
+  window.addEventListener( 'scroll', function( _{{ include.ID }}_ ) {
 
     var windowScrollTop = $window.scrollTop();
     var videoBottom     = videoHeight + $videoWrap_{{ include.ID }}.offset().top;
