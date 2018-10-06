@@ -40,10 +40,10 @@ div { }
 div.container { padding: 0.3em; }
 div.post { clear: both; } 
 // https://www.w3schools.com/css/css_float.asp
-div.rightbox { margin-left:  2%; margin-bottom: 0em; margin-top: .3em; padding: 0; float: right; }
+div.rightbox { margin-left:  1.6%; margin-bottom: 0em; margin-top: .3em; padding: 0; float: right; }
 div.rightboxborders { border-left: thick solid #000000; border-bottom: 1px solid #cdd0d4; border-top: 1px solid #cdd0d4; padding: 0.5em 0em 0.5em 0.75em; }
 div.rightbox:last-child { margin-left: 0; }
-div.leftbox  { margin-right: 2%; margin-bottom: 0em; margin-top: .3em; padding: 0; float: left; }
+div.leftbox  { margin-right: 1.6%; margin-bottom: 0em; margin-top: .3em; padding: 0; float: left; }
 div.leftbox:last-child { margin-right: 0; }
 
 p { margin-bottom: 0.5em; text-align: justify; } 

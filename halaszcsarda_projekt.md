@@ -47,7 +47,8 @@ header_spacer: 93
 
 ## Tervben lévő halászcsárdák:
 
-- Öreghalász Vendéglátó és Kereskedelmi Kft., Budapest 
+- Öreghalász Vendéglátó és Kereskedelmi Kft., Budapest
+- Dunaföldvári Halászcsárda
 
 ## Fakultatív csárdalátogatások:
 
