@@ -21,7 +21,60 @@ Linux oracle01.eg.office 4.1.12-124.18.6.el7uek.x86_64 #2 SMP Wed Aug 15 19:12:2
 
 A tesztrendszer WEB felületét itt lehet lérni: [http://mysmdev:8080/sm/index.do?lang=en](http://mysmdev:8080/sm/index.do?lang=en) (ez a cím persze csak nálunk házon belül működik!)
 
-[login kép]
+### SM elindítása
+
+#### 1. Oracle
+
+<pre class="terminal"><strong style="color: #00FF00;">[oracle@oracle01 ~]$</strong> lsnrctl start
+
+LSNRCTL for Linux: Version 12.1.0.2.0 - Production on 08-OCT-2018 10:30:05
+
+Copyright (c) 1991, 2014, Oracle.  All rights reserved.
+
+Starting /u01/app/oracle/product/12.1.0/dbhome_1//bin/tnslsnr: please wait...
+
+TNSLSNR for Linux: Version 12.1.0.2.0 - Production
+System parameter file is /u01/app/oracle/product/12.1.0/dbhome_1/network/admin/listener.ora
+Log messages written to /u01/app/oracle/diag/tnslsnr/oracle01/listener/alert/log.xml
+Listening on: (DESCRIPTION=(ADDRESS=(PROTOCOL=tcp)(HOST=localhost)(PORT=1521)))
+Listening on: (DESCRIPTION=(ADDRESS=(PROTOCOL=ipc)(KEY=EXTPROC1521)))
+
+Connecting to (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=oracle01)(PORT=1521)))
+STATUS of the LISTENER
+------------------------
+Alias                     LISTENER
+Version                   TNSLSNR for Linux: Version 12.1.0.2.0 - Production
+Start Date                08-OCT-2018 10:30:07
+Uptime                    0 days 0 hr. 0 min. 1 sec
+Trace Level               off
+Security                  ON: Local OS Authentication
+SNMP                      OFF
+Listener Parameter File   /u01/app/oracle/product/12.1.0/dbhome_1/network/admin/listener.ora
+Listener Log File         /u01/app/oracle/diag/tnslsnr/oracle01/listener/alert/log.xml
+Listening Endpoints Summary...
+  (DESCRIPTION=(ADDRESS=(PROTOCOL=tcp)(HOST=localhost)(PORT=1521)))
+  (DESCRIPTION=(ADDRESS=(PROTOCOL=ipc)(KEY=EXTPROC1521)))
+The listener supports no services
+The command completed successfully</pre>
+
+<pre class="terminal"><strong style="color: #00FF00;">[oracle@oracle01 ~]$</strong> dbstart
+ORACLE_HOME_LISTNER is not SET, unable to auto-start Oracle Net Listener
+Usage: /u01/app/oracle/product/12.1.0/dbhome_1//bin/dbstart ORACLE_HOME
+Processing Database instance "hpsm": log file /u01/app/oracle/product/12.1.0/dbhome_1/startup.log
+</pre>
+
+#### 2. SM
+
+<pre class="terminal"><strong style="color: #00FF00;">[root@hpsm ~]#</strong> su - hpsm
+Last login: Fri Oct  5 10:52:34 CEST 2018 on pts/0
+<strong style="color: #00FF00;">[hpsm@hpsm ~]$</strong> cd /opt/MicroFocus/ServiceManager9.60/Server/RUN/
+<strong style="color: #00FF00;">[hpsm@hpsm RUN]$</strong> ./smstart
+Starting sm
+Starting sm system.start</pre>
+
+#### 3. Bejelentkező képernyő
+
+<img class="shadow" src="images/sm/login.png">
 
 # Service Manager
 
@@ -33,18 +86,15 @@ Menu Navigation: System Administration - Ongoing Maintenance - System - Start In
 
 ### Ikonok
 
-A munkafolyamatokhoz felhasználható ikonok a /opt/tomcat/webapps/sm/images/obj16 könyvtárban találhatóak.
-
-tnext_ph.png
-
-tprior_p.png
+A munkafolyamatokhoz felhasználható ikonok a **/opt/tomcat/webapps/sm/images/obj16** könyvtárban találhatóak.
 
 ### Új power user létrehozása
 
 Menu Navigation: System Administration - Ongoing Maintenance > User Quick Add Utility
 
-images/sm/poweruser1.png
-images/sm/poweruser2.png
+<img class="shadow" src="images/sm/poweruser1.png">
+
+<img class="shadow" src="images/sm/poweruser2.png">
 
 ### Új menük készítése + hozzá parancsok
 
@@ -54,25 +104,31 @@ images/sm/poweruser2.png
 
 ### $file
 
-https://ernestodisanto.wordpress.com/2015/10/30/hpsm-current-file-variable-in-rad/
+- $file - Format Control
+- $File - Links
+- $L.file - minden más
+- $L.filed - Display App.
 
-$file - Format Control
-$File - Links
-$L.file - minden más
-$L.filed - Display App.
+Részletek találhatóak a következő [link](https://ernestodisanto.wordpress.com/2015/10/30/hpsm-current-file-variable-in-rad/)en.
 
 ### Variables
 
-$G. $lo Globális változók
-$L. lokális változól
+- $G. $lo Globális változók
+- $L. lokális változók
 
 ### Forms Designer
 
 Hogyan készítsünk olyan Form-okat, amivel meg lehet könnyen találni a Globalists neveket vagy a Mezőneveket?
 
+#### Globálista nevének megkeresése
+
+
+
+#### Datadict-ből a mezőnevek kikeresése
+
 ## Process Designer
 
-Best Practices https://docs.microfocus.com/SM/9.52/Hybrid/Content/PD_tailoring_BPG/Process_Designer_Basic_Concepts.htm
+Best Practices [link](https://docs.microfocus.com/SM/9.52/Hybrid/Content/PD_tailoring_BPG/Process_Designer_Basic_Concepts.htm)
 
 Menu Navigation: Tailoring - Process Designer
 

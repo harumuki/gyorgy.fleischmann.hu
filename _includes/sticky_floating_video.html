@@ -14,18 +14,23 @@
   if ( $end.offset() ) {
     endOffsetTop = $end.offset().top;
   }
-  console.log( "DEBUG: sticky_floating_video [" + endOffsetTop + "]" );
+  // console.log( "DEBUG: sticky_floating_video [" + endOffsetTop + "]" );
 
-  $window.on( 'scroll', function() {
+  window.addEventListener( 'scroll', function() {
     var windowScrollTop = $window.scrollTop();
     var videoBottom     = videoHeight + $videoWrap.offset().top;
 
     if ( windowScrollTop > videoBottom && windowScrollTop < endOffsetTop ) {
-      $videoWrap.height( videoHeight );
-      $video.addClass( 'stuck' );
+      
+      if ( ! $video.hasClass( 'stuck' ) ) {
 
-      // arrange the lyrics
-      document.getElementById( 'lyrics' ).setAttribute( "style", "width: 56%" );
+        $videoWrap.height( videoHeight );
+        $video.addClass( 'stuck' );
+
+        // arrange the lyrics
+        document.getElementById( 'lyrics' ).setAttribute( "style", "width: 56%" );
+
+      }
 
     } else {
       $videoWrap.height( 'auto' );

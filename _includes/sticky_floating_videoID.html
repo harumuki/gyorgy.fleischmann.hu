@@ -22,11 +22,17 @@
     var videoBottom     = videoHeight + $videoWrap_{{ include.ID }}.offset().top;
 
     if ( windowScrollTop > videoBottom && windowScrollTop < endOffsetTop_{{ include.ID }} ) {
-      $videoWrap_{{ include.ID }}.height( videoHeight );
-      $video_{{ include.ID }}.addClass( 'stuck' );
 
-      // arrange the lyrics
-      document.getElementById( 'lyrics_{{ include.ID }}' ).setAttribute( "style", "width: 56%" );
+      if ( ! $video_{{ include.ID }}.hasClass( 'stuck' ) ) {
+
+        $videoWrap_{{ include.ID }}.height( videoHeight );
+        $video_{{ include.ID }}.addClass( 'stuck' );
+
+        // arrange the lyrics
+        document.getElementById( 'lyrics_{{ include.ID }}' ).setAttribute( "style", "width: 56%" );
+        
+      }
+
     } else {
       $videoWrap_{{ include.ID }}.height( 'auto' );
       $video_{{ include.ID }}.removeClass( 'stuck' );
