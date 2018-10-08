@@ -10,6 +10,81 @@ Ahogyan azt már itt <a href="timeline.html">itt</a> leírtam, szépen lassan gy
 
 {% include youtube.html ID="mua8Pr6uRso" %}
 
+<script type="text/javascript">
+
+	var tag = document.createElement( 'script' );
+
+	tag.src = "https://www.youtube.com/iframe_api";
+	var firstScriptTag = document.getElementsByTagName( 'script' )[0];
+	firstScriptTag.parentNode.insertBefore( tag, firstScriptTag );
+
+	var player;
+
+	function onYouTubeIframeAPIReady () {
+		player = new YT.Player( 'youtubeplayer', {			
+			events: { 'onReady': onPlayerReady }
+		} );
+	};
+
+	function onPlayerReady( event ) {
+		var seekTo2 = document.getElementById( "seekTo_2" );
+		seekTo2.addEventListener( "click", function() { player.seekTo( 160, true ); console.log( "999DEBUG:"); });
+
+		var seekTo3 = document.getElementById( "seekTo_3" );
+		seekTo3.addEventListener( "click", function() { player.seekTo( 355, true ); console.log( "999DEBUG:"); });
+
+		var seekTo4 = document.getElementById( "seekTo_4" );
+		seekTo4.addEventListener( "click", function() { player.seekTo( 614, true ); console.log( "999DEBUG:"); });
+
+		var seekTo5 = document.getElementById( "seekTo_5" );
+		seekTo5.addEventListener( "click", function() { player.seekTo( 682, true ); console.log( "999DEBUG:"); });
+
+		var seekTo6 = document.getElementById( "seekTo_6" );
+		seekTo6.addEventListener( "click", function() { player.seekTo( 740, true ); console.log( "999DEBUG:"); });
+
+		var seekTo7 = document.getElementById( "seekTo_7" );
+		seekTo7.addEventListener( "click", function() { player.seekTo( 1212, true ); console.log( "999DEBUG:"); });
+
+		var seekTo8 = document.getElementById( "seekTo_8" );
+		seekTo8.addEventListener( "click", function() { player.seekTo( 1484, true ); console.log( "999DEBUG:"); });
+
+		var seekTo9 = document.getElementById( "seekTo_9" );
+		seekTo9.addEventListener( "click", function() { player.seekTo( 1566, true ); console.log( "999DEBUG:"); });
+
+		var seekTo10 = document.getElementById( "seekTo_10" );
+		seekTo10.addEventListener( "click", function() { player.seekTo( 1950, true ); console.log( "999DEBUG:"); });
+
+		var seekTo11 = document.getElementById( "seekTo_11" );
+		seekTo11.addEventListener( "click", function() { player.seekTo( 2278, true ); console.log( "999DEBUG:"); });
+
+		var seekTo12 = document.getElementById( "seekTo_12" );
+		seekTo12.addEventListener( "click", function() { player.seekTo( 2706, true ); console.log( "999DEBUG:"); });
+
+		var seekTo13 = document.getElementById( "seekTo_13" );
+		seekTo13.addEventListener( "click", function() { player.seekTo( 2908, true ); console.log( "999DEBUG:"); });
+
+		var seekTo14 = document.getElementById( "seekTo_14" );
+		seekTo14.addEventListener( "click", function() { player.seekTo( 3342, true ); console.log( "999DEBUG:"); });
+
+		var seekTo15 = document.getElementById( "seekTo_15" );
+		seekTo15.addEventListener( "click", function() { player.seekTo( 3719, true ); console.log( "999DEBUG:"); });
+
+		var seekTo16 = document.getElementById( "seekTo_16" );
+		seekTo16.addEventListener( "click", function() { player.seekTo( 4280, true ); console.log( "999DEBUG:"); });
+
+		var seekTo17 = document.getElementById( "seekTo_17" );
+		seekTo17.addEventListener( "click", function() { player.seekTo( 4484, true ); console.log( "999DEBUG:"); });
+
+		var seekTo18 = document.getElementById( "seekTo_18" );
+		seekTo18.addEventListener( "click", function() { player.seekTo( 4860, true ); console.log( "999DEBUG:"); });
+
+		var seekTo19 = document.getElementById( "seekTo_19" );
+		seekTo19.addEventListener( "click", function() { player.seekTo( 5257, true ); console.log( "999DEBUG:"); });
+
+	}
+                                    
+</script>
+
 <a id="top"></a>
 <div id="lyrics"><div class="lyricsheader" style=""><p><center><b>Laurie Anderson</b>: Home Of The Brave (1986)</center></p></div>
 
@@ -18,7 +93,7 @@ Ahogyan azt már itt <a href="timeline.html">itt</a> leírtam, szépen lassan gy
 
 Instrumental
 
-<strong>2. Zero and One (spoken word)</strong>
+<strong>2. Zero and One (spoken word)</strong> (<a id="seekTo_2">2:40</a>)
 
 Good evening. Now, now I'm no mathematician, but I'd like to talk about a just couple of numbers that have really been bothering me lately. And they are zero and one. Now first, let's take a look at zero. Now nobody wants to be a zero. To be a zero means to be a nothing, a nobody, a has-been, a clod.
 On the other hand, almost everybody wants to be number one. To be a number one means to be a winner, top of the heap, the acme. And there seems to be a strange kind of national obsession with this particular number.
@@ -29,7 +104,7 @@ Because, because what we are actually looking at here are the building blocks of
 
 And can be counted like this. And 0 and 1. And 0 and 1...
 
-<strong>3. Excellent Birds</strong>
+<strong>3. Excellent Birds</strong> (<a id="seekTo_3">5:55</a>)
 
 Flying birds. Excellent birds. Watch them fly. There they go.
 Falling snow. Excellent snow. Here it comes. Watch it fall.
@@ -57,15 +132,15 @@ I see pictures of people. They're watching out. They're watching out.
 I see pictures of people. Watching. Watch out. They're watching. 
 I see pictures of people. Watching out. Watch out.
 
-<strong>4. Old Hat (spoken word)</strong>
+<strong>4. Old Hat (spoken word)</strong> (<a id="seekTo_4">10:14</a>)
 
 ?
 
-<strong>5. Drum Dance (instrumental)</strong>
+<strong>5. Drum Dance (instrumental)</strong> (<a id="seekTo_5">11:22</a>)
 
 Instrumental
 
-<strong>6. Smoke Rings</strong>
+<strong>6. Smoke Rings</strong> (<a id="seekTo_6">12:20</a>)
 
 Standby.
 You're on the air.
@@ -130,11 +205,11 @@ Track you down.
 Doo doo doo doo doo. Doo doo doo doo doo.
 Doo doo doo doo doo. Doo doo doo doo doo.
 
-<strong>7. Late Show (instrumental with vocal sample by William S. Burroughs)</strong>
+<strong>7. Late Show (instrumental with vocal sample by William S. Burroughs)</strong> (<a id="seekTo_7">20:12</a>)
 
 L-L-L L-L-Listen Listen T- L-L- Listen to my hearbeat.
 
-<strong>8. White Lily (spoken word)</strong>
+<strong>8. White Lily (spoken word)</strong> (<a id="seekTo_8">24:44</a>)
 
 What Fassbinder film is it?
 The one-armed Man walks into a flower shop and says:
@@ -148,7 +223,7 @@ Endlessly pulling you Into the future.
 And the florist says:
 White Lily.
 
-<strong>9. Sharkey's Day</strong>
+<strong>9. Sharkey's Day</strong> (<a id="seekTo_9">26:06</a>)
 
 Sun's coming up. Like a big bald head
 Poking up over the grocery store
@@ -239,19 +314,19 @@ On top of Old Smokey all covered with snow
 That's where I wanna, that's where I'm gonna
 That's where I'm gonna go
 
-<strong>10. How to Write (instrumental with spoken word introduction by Won-sang Park)</strong>
+<strong>10. How to Write (instrumental with spoken word introduction by Won-sang Park)</strong> (<a id="seekTo_10">32:30</a>)
 
 ?
 
-<strong>11. Kokoku</strong>
+<strong>11. Kokoku</strong> (<a id="seekTo_11">37:58</a>)
 
 ?
 
-<strong>12. Radar (instrumental with wordless vocalizations by Anderson)</strong>
+<strong>12. Radar (instrumental with wordless vocalizations by Anderson)</strong> (<a id="seekTo_12">45:06</a>)
 
 Instrumental
 
-<strong>13. Gravity's Angel</strong>
+<strong>13. Gravity's Angel</strong> (<a id="seekTo_13">48:28</a>)
 
 You can dance. You can make me laugh. You've got x-ray eyes
 You know how to sing. You're a diplomat. You've got it all
@@ -288,7 +363,7 @@ And there's your book. And there's your pen, sitting on the table
 Why these mountains? Why this sky? This long road? This empty room?
 Why these mountains? Why this sky? This long road. This empty room
 
-<strong>14. Langue d'amour</strong>
+<strong>14. Langue d'amour</strong> (<a id="seekTo_14">55:42</a>)
 
 Let's see. Uh..
 It was on an island. And there was this snake
@@ -345,7 +420,7 @@ Voici le langage de l'amour
 Voici le langage dans mon coeur
 Voici le langage dans mon coeur
 
-<strong>15. Talk Normal</strong>
+<strong>15. Talk Normal</strong> (<a id="seekTo_15">1:01:59</a>)
 
 I don't know about your dreams
 But mine are sort of hackneyed.
@@ -394,7 +469,7 @@ Look at me! Look at me!
 Look at me! Look at me!
 Look at me! Look at me!
 
-<strong>16. Difficult Listening Hour (spoken word)</strong>
+<strong>16. Difficult Listening Hour (spoken word)</strong> (<a id="seekTo_16">1:11:20</a>)
 
 Good evening. Welcome to Difficult Listening Hour. The spot on your dial for that relentless and impenetrable sound of Difficult Music (Music). So sit bolt upright in that straight-backed chair (Music), button that top button (Music), and get set for some difficult music
 
@@ -409,7 +484,7 @@ Ooola. And he said: Now, I'm the Soul Doctor, and you know, language is a virus 
 
 And hearing your name is better than seeing your face
 
-<strong>17. Language Is a Virus</strong>
+<strong>17. Language Is a Virus</strong> (<a id="seekTo_17">1:14:44</a>)
 
 Paradise
 Is exactly like
@@ -501,7 +576,7 @@ Paradise is exactly like
 Where you are right now
 Only much much better
 
-<strong>18. Sharkey's Night</strong>
+<strong>18. Sharkey's Night</strong> (<a id="seekTo_18">1:21:00</a>)
 
 Sun's going down like a big bald head
 Disappearing behind the boulevard
@@ -520,7 +595,7 @@ And Sharkey says, "Deep in the heart of darkest America, home of the brave."
 He says: "Listen to my heart beat."
 Paging Mr. Sharkey, white courtesy telephone please
 
-<strong>19. Credit Racket (instrumental)</strong>
+<strong>19. Credit Racket (instrumental)</strong> (<a id="seekTo_19">1:27:37</a>)﻿
 
 </pre>
 <a href="#top">⬆</a></center></div>
