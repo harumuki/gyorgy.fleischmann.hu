@@ -160,9 +160,10 @@ majd ezeken kívül kell még:
 
 és talán ez a téma összességében ennyi is.
 
-$L.format="_flex.global.list.entry"
-
+```
+// $L.format="_flex.global.list.entry"
 if (nullsub($flex.hidden, "X")~="OK") then ($L.format="apm.global.list.entry") else ($L.format="_flex.global.list.entry")
+```
 
 #### Datadict-ből a mezőnevek kikeresése
 
