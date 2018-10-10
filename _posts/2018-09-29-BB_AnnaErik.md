@@ -8,5 +8,5 @@ tags:     [én, mi, élet]
 
 ---
 
-<div class=""><img class="shadow fade" id="fadeimg1" onload="document.getElementById('fadeimg1').style.opacity='1'" style="" src="
-photos/balatonboglar_AnnaErik/HipstamaticPhoto-559916108.130241.jpg"></div>
+<img class="shadow fade" id="fadeimg1" onload="document.getElementById('fadeimg1').style.opacity='1'" style="" src="
+photos/balatonboglar_AnnaErik/HipstamaticPhoto-559916108.130241.jpg">

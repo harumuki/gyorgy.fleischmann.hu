@@ -7,7 +7,7 @@ category: How to guides, tips and tricks / útmutatók, tippek és trükkök
 tags:     [microFocus, hpe, hp, service manager, sm, how to]
 ---
 
-Akkor fussunk is neki az alapoknak!
+Na akkor fussunk is neki az alapoknak!
 
 ## A tesztkörnyezet
 
@@ -19,11 +19,11 @@ Linux hpsm 3.10.0-862.11.6.el7.x86_64 #1 SMP Tue Aug 14 21:49:04 UTC 2018 x86_64
 Linux oracle01.eg.office 4.1.12-124.18.6.el7uek.x86_64 #2 SMP Wed Aug 15 19:12:26 PDT 2018 x86_64 x86_64 x86_64 GNU/Linux
 </pre>
 
-A tesztrendszer WEB felületét itt lehet lérni: [http://mysmdev:8080/sm/index.do?lang=en](http://mysmdev:8080/sm/index.do?lang=en) (ez a cím persze csak nálunk házon belül működik!)
+A tesztrendszer WEB felületét itt lehet elérni: [http://mysmdev:8080/sm/index.do?lang=en](http://mysmdev:8080/sm/index.do?lang=en) (természetesen ez a cím csak nálunk házon belül működik!, de a lényeg a link vége.)
 
 ### SM elindítása
 
-#### 1. Oracle
+#### 1. Oracle DB
 
 <pre class="terminal"><strong style="color: #00FF00;">[oracle@oracle01 ~]$</strong> lsnrctl start
 
@@ -63,7 +63,7 @@ Usage: /u01/app/oracle/product/12.1.0/dbhome_1//bin/dbstart ORACLE_HOME
 Processing Database instance "hpsm": log file /u01/app/oracle/product/12.1.0/dbhome_1/startup.log
 </pre>
 
-#### 2. SM
+#### 2. Service Manager
 
 <pre class="terminal"><strong style="color: #00FF00;">[root@hpsm ~]#</strong> su - hpsm
 Last login: Fri Oct  5 10:52:34 CEST 2018 on pts/0
@@ -72,9 +72,34 @@ Last login: Fri Oct  5 10:52:34 CEST 2018 on pts/0
 Starting sm
 Starting sm system.start</pre>
 
-#### 3. Bejelentkező képernyő
+Az SM logja az: /opt/MicroFocus/ServiceManager9.60/Server/logs/ könyvtárban található **sm.log** néven.
 
-<img class="shadow" src="images/sm/login.png">
+#### 3. Alkalmazás szerver 
+
+Ha ez nem indulna magától, akkor:
+
+<pre class="terminal"><strong style="color: #00FF00;">[root@hpsm ~]#</strong> systemctl start tomcat
+<strong style="color: #00FF00;">[root@hpsm ~]#</strong> systemctl status tomcat
+● tomcat.service - Apache Tomcat Web Application Container
+   Loaded: loaded (/etc/systemd/system/tomcat.service; enabled; vendor preset: disabled)
+   Active: <strong style="color: #00FF00;">active (running)</strong> since Mon 2018-10-08 10:15:38 CEST; 1 day 23h ago
+  Process: 1045 ExecStart=/opt/tomcat/bin/startup.sh (code=exited, status=0/SUCCESS)
+ Main PID: 1091 (java)
+   CGroup: /system.slice/tomcat.service
+           └─1091 /usr/java/jdk1.8.0_181-amd64//bin/java -Djava.util.logging.config.file=/opt/tomcat/conf/logging.properties -Djava.util.logging.manage...
+
+Oct 08 10:15:38 hpsm systemd[1]: Starting Apache Tomcat Web Application Container...
+Oct 08 10:15:38 hpsm startup.sh[1045]: Existing PID file found during start.
+Oct 08 10:15:38 hpsm startup.sh[1045]: Removing/clearing stale PID file.
+Oct 08 10:15:38 hpsm startup.sh[1045]: Tomcat started.
+Oct 08 10:15:38 hpsm systemd[1]: Started Apache Tomcat Web Application Container.
+</pre>
+
+#### 4. Bejelentkező képernyő
+
+Ha minden jól ment, akkor a következő képernyő fogad majd az előző lépések után, ahol be lehet majd jelentkezni.
+
+<img class="shadow" src="images/sm/login.png" style="margin-top: .5em;">
 
 # Service Manager
 
@@ -82,7 +107,7 @@ Starting sm system.start</pre>
 
 ### Session TimeOut
 
-Menu Navigation: System Administration - Ongoing Maintenance - System - Start Inactivity Timer
+**Menu Navigation:** System Administration - Ongoing Maintenance - System - Start Inactivity Timer
 
 ### Ikonok
 
@@ -90,7 +115,7 @@ A munkafolyamatokhoz felhasználható ikonok a **/opt/tomcat/webapps/sm/images/o
 
 ### Új power user létrehozása
 
-Menu Navigation: System Administration - Ongoing Maintenance > User Quick Add Utility
+**Menu Navigation:** System Administration - Ongoing Maintenance > User Quick Add Utility menü segítségével készíthetünk:
 
 <img class="shadow" src="images/sm/poweruser1.png">
 
@@ -120,11 +145,28 @@ Részletek találhatóak a következő [link](https://ernestodisanto.wordpress.c
 
 Hogyan készítsünk olyan Form-okat, amivel meg lehet könnyen találni a Globalists neveket vagy a Mezőneveket?
 
-#### Globálista nevének megkeresése
+#### Globális lista nevének megkeresése
 
+Amit tudni fog, az az, hogy meg lehet keresni egy globális lista változója vagy a változó megjelenítési változója alapján a lista nevét, illetve ezek összes kombinációja megadása esetn a hiányzókat. 
 
+Ehhez kell majd nekünk:
+
+- egy form, ez lesz végül majd a kereső és a megjelenítő form is, amikor ilyet keresünk: _flex.global.list.entry
+- egy qbe: _flex.globallist.qbe.g (ennek most sok még sok jelentősége nincs, mert csak a PopUp részeken van jelentősége)
+
+majd ezeken kívül kell még:
+
+- egy format control is, ami a form-unkon ki fog tölteni egy mezőt, és ha az én form-omat hasznájuk a kereséskor akkor, egy display option ki fogja majd értékelni és az alapján a keresési eredményt majd ugyanebben form-ban megjeleníteni a gyári helyett.
+
+és talán ez a téma összességében ennyi is.
+
+$L.format="_flex.global.list.entry"
+
+if (nullsub($flex.hidden, "X")~="OK") then ($L.format="apm.global.list.entry") else ($L.format="_flex.global.list.entry")
 
 #### Datadict-ből a mezőnevek kikeresése
+
+Ezt egy kicsit tovább sikerült csavarni. Ehhez kelleni fog majd egy segédtábla is, amibe felvittem a Service Manager-es típusokat is.
 
 ## Process Designer
 
@@ -134,10 +176,10 @@ Menu Navigation: Tailoring - Process Designer
 
 ### Fázisok ás átmenetek létrehozásának trükkjei
 
-Menu Navigation: Tailoring - Process Designer - Workflows
+**Menu Navigation:** Tailoring - Process Designer - Workflows
 
-1. - érdemes a fázisokat egyből létrehozni és azonnal elnevezni 
-2. - figyelni kell, hogy a átmenet parancs nevének megadásánál felül fogja írni a mögötte lévé scmessage rekordot is!
+1. érdemes a fázisokat egyből létrehozni és azonnal elnevezni 
+2. figyelni kell, hogy a átmenet parancs nevének megadásánál felül fogja írni a mögötte lévé scmessage rekordot is!
 
 sm/rule_naming.png 
 
