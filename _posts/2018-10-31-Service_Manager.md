@@ -147,7 +147,7 @@ Hogyan készítsünk olyan Form-okat, amivel meg lehet könnyen találni a Globa
 
 #### Globális lista nevének megkeresése
 
-Amit tudni fog, az az, hogy meg lehet keresni egy globális lista változója vagy a változó megjelenítési változója alapján a lista nevét, illetve ezek összes kombinációja megadása esetn a hiányzókat. 
+Amit tudni fog, az az, hogy meg lehet keresni egy globális lista változója vagy a változó megjelenítési változója alapján a lista nevét, illetve ezek összes kombinációja megadása esetén a hiányzókat. Ez jó segítség lesz a Process Designer-ben készített Workflow-khoz. 
 
 Ehhez kell majd nekünk:
 
@@ -167,7 +167,9 @@ if (nullsub($flex.hidden, "X")~="OK") then ($L.format="apm.global.list.entry") e
 
 #### Datadict-ből a mezőnevek kikeresése
 
-Ezt egy kicsit tovább sikerült csavarni. Ehhez kelleni fog majd egy segédtábla is, amibe felvittem a Service Manager-es típusokat is.
+Ezt már egy kicsit tovább sikerült csavarni. Ehhez kelleni fog majd egy segédtábla (types) is, amibe felvittem a Service Manager-es típusokat is és a keresés után így ki tudja írni az mező típusát is.
+
+És itt lesz egy gomb, ami a lekérdezett tömbökben tud keresni.
 
 ## Process Designer
 

@@ -6,6 +6,9 @@ category: muzax / zene
 tags:     [listák, awesome]
 ---
 
+<div class="leftbox"  style="margin-top: -2em;"><a href="#top">⬇</a></div>
+<div class="rightbox" style="margin-top: -2em;"><a href="#top">⬇</a></div>
+
 Ahogyan azt már itt <a href="timeline.html">itt</a> leírtam, szépen lassan gyerekkoromtól beépült az életembe a zene. Ezen az oldalon összeszedem azokat, amik a legkedvesebbek nekem.
 
 {% include youtube.html ID="mua8Pr6uRso" %}

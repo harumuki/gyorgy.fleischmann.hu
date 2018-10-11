@@ -5,7 +5,11 @@ author:   flex
 category: Muzax
 comments: false
 tags:     [muzax, video]
+
 ---
+
+<div class="leftbox"  style="margin-top: -2em;"><a href="#top">⬇</a></div>
+<div class="rightbox" style="margin-top: -2em;"><a href="#top">⬇</a></div>
 
 {% include youtube.html ID="O5-c79LQ3aM" %}
 
