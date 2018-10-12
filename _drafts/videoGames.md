@@ -7,16 +7,16 @@ category: Video games / videojátékok
 tags:     [listák, awesome]
 ---
 
-**Sinclair ZX81**
+## Sinclair ZX81
 
 ?
 
-**HT-1080Z**
+## HT-1080Z
 
 Egyértelmű, hogy a: Galaxy. 
-Volt egyáltalán más játék rá?
+Volt egyáltalán más játék is rá ami közkézen forgott???
 
-**Sinclair ZX Spectrum**
+## Sinclair ZX Spectrum
 
 * Jet Set Willy
 * Penetrator
@@ -29,7 +29,7 @@ Volt egyáltalán más játék rá?
 * The Great Escape
 * Ant Attack
 
-**IBM PC (Proper 16, IBM PC compatible machines ...)**
+## IBM PC (Proper 16, IBM PC compatible machines ...)
 
 * Tetris
 * Leisure suit Larry
@@ -37,15 +37,15 @@ Volt egyáltalán más játék rá?
 * Microsoft Flight Simulator
 * Myth II
 
-**Nintendo Wii**
+## Nintendo Wii
 
 * 
 
-**Apple iOS**
+## Apple iOS
 
 * 
 
-**Nintendo Game Boy / Advance / DS**
+## Nintendo Game Boy / Advance / DS
 
 <pre class="terminal">
 .
@@ -113,12 +113,12 @@ Volt egyáltalán más játék rá?
     └── Tetris DX (JU) (C).gbc
 </pre>
 
-**Apple Mac**
+## Apple Mac, OS X, macOS
 
 * Halo
 * Myth II
 * Osmos
-* Zen Pinball
+* Zen Pinball 2
 * Borderlands 2
 * (Steel Storm: Burning Retribution)
 * Portal
@@ -129,3 +129,4 @@ Volt egyáltalán más játék rá?
 * World of Goo
 * Machinarium
 * Stockfish
+* World of Goo
