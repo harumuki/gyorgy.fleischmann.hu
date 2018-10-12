@@ -599,7 +599,6 @@ He says: "Listen to my heart beat."
 Paging Mr. Sharkey, white courtesy telephone please
 
 <strong>19. Credit Racket (instrumental)</strong> (<a id="seekTo_19">1:27:37</a>)﻿
-
 </pre>
 <a href="#top">⬆</a></center></div>
 

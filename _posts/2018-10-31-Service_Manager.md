@@ -167,9 +167,42 @@ if (nullsub($flex.hidden, "X")~="OK") then ($L.format="apm.global.list.entry") e
 
 #### Datadict-ből a mezőnevek kikeresése
 
-Ezt már egy kicsit tovább sikerült csavarni. Ehhez kelleni fog majd egy segédtábla (types) is, amibe felvittem a Service Manager-es típusokat is és a keresés után így ki tudja írni az mező típusát is.
+Ezt már egy kicsit tovább sikerült csavarni. Ehhez kelleni fog majd egy segédtábla (types) is, amibe felvittem a Service Manager-es típusokat is és a keresés után így ki tudja írni nem csak a nevét, de még a mező típusát is.
 
-És itt lesz egy gomb, ami a lekérdezett tömbökben tud keresni.
+És itt lesz egy gomb, ami a lekérdezett tömbökben tud keresni. A gomb egy Display Option mögött van és ott hívódik hozzá egy Script Library-ben lévő JavaScript function: "lib._flex.searchCaption();" A lényeg a következő:
+
+```javascript
+function searchCaption () {
+	for ( var i = 0; i < vars["$L.file"].fields.length(); i++ ) {
+	
+		if ( vars["$L.file"].fields[i] == vars.$flex_field ) {
+			vars.$flex_caption = vars["$L.file"].captions[i];
+			vars.$type = getTypeName( vars["$L.file"].types[i] ); 
+			break;
+		}
+		else {
+			vars.$flex_caption = "NOT FOUND!!!";
+		}
+	}
+}
+
+function getTypeName( typex ) {
+	var types = new SCFile( "types" );
+	
+	print ( "Ok" );
+	
+	var rc = types.doSelect( "representation="+ typex );
+
+	if ( rc == RC_SUCCESS ) {
+	  print( "Success. found." );
+	  return types.name;
+	}
+	else {
+		print( "Could not find type!" + RCtoString( rc ) );
+		return null;
+	}
+}
+```
 
 ## Process Designer
 

@@ -6,6 +6,8 @@ category: Muzax
 tags:     [muzax, video]
 ---
 
+{% include jump2lyrics.html HREF="#top" %}
+
 {% include youtube.html ID="FWLbMV2wYFQ" %}
 
 <!-- break -->

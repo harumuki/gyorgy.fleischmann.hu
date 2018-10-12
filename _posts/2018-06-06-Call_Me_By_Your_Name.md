@@ -6,6 +6,8 @@ category: Movie
 tags:     [movie]
 ---
 
+{% include jump2lyrics.html HREF="#top" %}
+
 {% include youtube.html ID="BoTOd-j28Lw" %}
 
 <!-- break -->

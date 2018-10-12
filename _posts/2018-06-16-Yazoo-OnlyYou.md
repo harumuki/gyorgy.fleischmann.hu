@@ -7,6 +7,8 @@ comments: false
 tags:     [muzax, video]
 ---
 
+{% include jump2lyrics.html HREF="#top" %}
+
 {% include youtube.html ID="7Oa62sU4ONA" %}
 
 <!-- break -->

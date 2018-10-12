@@ -8,8 +8,7 @@ tags:     [muzax, video]
 
 ---
 
-<div class="leftbox"  style="margin-top: -2em;"><a href="#top">⬇</a></div>
-<div class="rightbox" style="margin-top: -2em;"><a href="#top">⬇</a></div>
+{% include jump2lyrics.html HREF="#top" %}
 
 {% include youtube.html ID="O5-c79LQ3aM" %}
 
