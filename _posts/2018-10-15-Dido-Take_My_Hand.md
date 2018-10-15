@@ -26,9 +26,9 @@ What you feel now, is what I feel for you
 
 Take my hand and if I'm lying to you
 I'll always be alone if I'm lying to you
-Take your time and if I'm lying to you
+Take your time, if I'm lying to you
 I know you'll find that you believe me
-you believe me
+You believe me
 
 See my eyes, they carry your reflection
 Watch my lips and hear the words I'm telling you
@@ -40,7 +40,7 @@ Take my hand and if I'm lying to you
 I'll always be alone if I'm lying to you
 Take your time, if I'm lying to you
 I know you'll find that you believe me
-you believe me
+You believe me
 
 Feel the sun on your face and tell me what you're thinking
 Catch the snow on your tongue and show me how it tastes
@@ -50,12 +50,12 @@ if I'm lying to you
 
 Take your time, if I'm lying to you
 I know you'll find that you believe me
-you believe me
+You believe me
 Take my hand and if I'm lying to you
 I'll always be alone if I'm lying to you
 Take your time, if I'm lying to you
 I know you'll find that you believe me
-you believe me
+You believe me
 </pre>
 <a href="#top">⬆</a></center></div>
 
