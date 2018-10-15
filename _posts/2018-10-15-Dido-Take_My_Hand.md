@@ -18,7 +18,7 @@ tags:     [muzax, video]
 <div id="lyrics"><div class="lyricsheader" style=""><p><center><b>Dido</b>: Take My Hand</center></p></div>
 
 <center><pre>
-Touch my skin,and tell me what you're thinking
+Touch my skin, and tell me what you're thinking
 Take my hand and show me where we're going
 Lie down next to me, look into my eyes and tell me, oh tell me what you're seeing
 So sit on top of the world and tell me how you're feeling
@@ -53,7 +53,6 @@ I know you'll find that you believe me
 you believe me
 Take my hand and if I'm lying to you
 I'll always be alone if I'm lying to you
-
 Take your time, if I'm lying to you
 I know you'll find that you believe me
 you believe me
