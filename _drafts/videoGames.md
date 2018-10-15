@@ -9,12 +9,11 @@ tags:     [listák, awesome]
 
 ## Sinclair ZX81
 
-?
+Nem emlékszem, hogy lett volna bármiféle emlékezetes játék rá.
 
 ## HT-1080Z
 
-Egyértelmű, hogy a: Galaxy. 
-Volt egyáltalán más játék is rá ami közkézen forgott???
+Egyértelmű, hogy a: Galaxy Invasion. Volt egyáltalán más játék is rá ami közkézen forgott??? mi csak ezt nyomtuk a gimiben rajta.
 
 ## Sinclair ZX Spectrum
 

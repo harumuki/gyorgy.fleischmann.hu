@@ -97,9 +97,9 @@ Oct 08 10:15:38 hpsm systemd[1]: Started Apache Tomcat Web Application Container
 
 #### 4. Bejelentkező képernyő
 
-Ha minden jól ment, akkor a következő képernyő fogad majd az előző lépések után, ahol be lehet majd jelentkezni.
+Ha minden jól ment, akkor a következő képernyő fogad majd az előző lépések után, ahol be lehet jelentkezni a Service Manager-be.
 
-<img class="shadow" src="images/sm/login.png" style="margin-top: .5em;">
+<center><img class="shadow" src="images/sm/login.png" style="width: 60%;"></center>
 
 # Service Manager
 
@@ -108,6 +108,12 @@ Ha minden jól ment, akkor a következő képernyő fogad majd az előző lépé
 ### Session TimeOut
 
 **Menu Navigation:** System Administration - Ongoing Maintenance - System - Start Inactivity Timer
+
+### Kontextus-érzékeny segítség bekapcsolása
+
+Ezzel az opcióval Ctrl-h-t nyomja egy mezőn, megkajuk az aktuális form, tábla és mező nevét.
+
+<img class="shadow" src="images/sm/sm_client_windows_preferences1.png">
 
 ### Ikonok
 
@@ -127,19 +133,20 @@ A munkafolyamatokhoz felhasználható ikonok a **/opt/tomcat/webapps/sm/images/o
 
 ### Hogyan kell létrezhoni
 
-### $file
+### $file használata
 
 - $file - Format Control
 - $File - Links
 - $L.file - minden más
 - $L.filed - Display App.
 
-Részletek találhatóak a következő [link](https://ernestodisanto.wordpress.com/2015/10/30/hpsm-current-file-variable-in-rad/)en.
+Részletek találhatóak a következő [link](https://ernestodisanto.wordpress.com/2015/10/30/hpsm-current-file-variable-in-rad/)-en.
 
 ### Variables
 
 - $G. $lo Globális változók
 - $L. lokális változók
+- minden más thread változó
 
 ### Forms Designer
 
@@ -147,29 +154,65 @@ Hogyan készítsünk olyan Form-okat, amivel meg lehet könnyen találni a Globa
 
 #### Globális lista nevének megkeresése
 
-Amit tudni fog, az az, hogy meg lehet keresni egy globális lista változója vagy a változó megjelenítési változója alapján a lista nevét, illetve ezek összes kombinációja megadása esetén a hiányzókat. Ez jó segítség lesz a Process Designer-ben készített Workflow-khoz. 
+Amit tudni fog az az, hogy meg lehet keresni egy globális lista változója vagy a változó megjelenítési változója alapján a lista nevét, illetve ezek összes kombinációja megadása esetén a hiányzókat. Ez jó segítség lesz a Process Designer-ben készített Workflow-khoz. 
 
 Ehhez kell majd nekünk:
 
-- egy form, ez lesz végül majd a kereső és a megjelenítő form is, amikor ilyet keresünk: _flex.global.list.entry
-- egy qbe: _flex.globallist.qbe.g (ennek most sok még sok jelentősége nincs, mert csak a PopUp részeken van jelentősége)
+- egy form (fd, _flex.global.list.entry), ez lesz végül majd a kereső és a megjelenítő form is, amikor ilyet keresünk: _flex.global.list.entry
+
+<img class="shadow" src="images/sm/fd_globallists_form.png">
+
+- egy qbe form (fd, _flex.globallist.qbe.g) (ennek most sok még sok jelentősége nincs, mert csak a PopUp részeken van/lesz jelentősége)
 
 majd ezeken kívül kell még:
 
-- egy format control is, ami a form-unkon ki fog tölteni egy mezőt, és ha az én form-omat hasznájuk a kereséskor akkor, egy display option ki fogja majd értékelni és az alapján a keresési eredményt majd ugyanebben form-ban megjeleníteni a gyári helyett.
+- egy format control (fc, _flex.global.list.entry) is, ami a form-unkon ki fog tölteni egy mezőt($flex.hidden thread változó), és ha az én form-omat hasznájuk a kereséskor akkor, egy display option (Object Definition - Default State Definition - Display Application Screen Definition) ki fogja majd értékelni és az alapján a keresési eredményt majd ugyanebben form-ban megjeleníteni a gyári helyett.
 
-és talán ez a téma összességében ennyi is.
+<img class="shadow" src="images/sm/fd_globallists_fc1.png">
+
+<img class="shadow" src="images/sm/fd_globallists_fc2.png">
+
+<img class="shadow" src="images/sm/fd_globallists_object.png">
+
+<img class="shadow" src="images/sm/fd_globallists_state.png">
+
+<img class="shadow" src="images/sm/fd_globallists_display_screen.png">
 
 ```
 // $L.format="_flex.global.list.entry"
+
 if (nullsub($flex.hidden, "X")~="OK") then ($L.format="apm.global.list.entry") else ($L.format="_flex.global.list.entry")
 ```
+
+és talán ez a téma összességében ennyi is.
+
+<img class="shadow" src="images/sm/fd_globallists_final_form.png">
 
 #### Datadict-ből a mezőnevek kikeresése
 
 Ezt már egy kicsit tovább sikerült csavarni. Ehhez kelleni fog majd egy segédtábla (types) is, amibe felvittem a Service Manager-es típusokat is és a keresés után így ki tudja írni nem csak a nevét, de még a mező típusát is.
 
-És itt lesz egy gomb, ami a lekérdezett tömbökben tud keresni. A gomb egy Display Option mögött van és ott hívódik hozzá egy Script Library-ben lévő JavaScript function: "lib._flex.searchCaption();" A lényeg a következő:
+**Menu Navigation:** System Definition - Tables
+
+<img class="shadow" src="images/sm/fd_datadict_types1.png">
+
+<img class="shadow" src="images/sm/fd_datadict_types2.png">
+
+<img class="shadow" src="images/sm/fd_datadict_types3.png">
+
+És itt lesz egy gomb, ami a lekérdezett tömbökben és a típusok között is tud majd keresni. A gomb egy Display Option mögött van és ott hívódik hozzá egy a Script Library-ben lévő JavaScript function: "lib._flex.searchCaption();" A lényeg a következő:
+
+<img class="shadow" src="images/sm/fd_datadict_form.png">
+
+<img class="shadow" src="images/sm/fd_datadict_object.png">
+
+<img class="shadow" src="images/sm/fd_datadict_state.png">
+
+<img class="shadow" src="images/sm/fd_datadict_display_screen.png">
+
+<img class="shadow" src="images/sm/fd_datadict_dispaly_option1.png">
+
+<img class="shadow" src="images/sm/fd_datadict_script_library.png">
 
 ```javascript
 function searchCaption () {
@@ -204,11 +247,34 @@ function getTypeName( typex ) {
 }
 ```
 
+Próbáltam még erre a form-ra feltenni egy olyan gombot is, ami az SM licenceit mutatja meg egy Text Box-ban. 
+
+<img class="shadow" src="images/sm/fd_datadict_display_option2.png">
+
+```javascript
+function getLicenseInfo() {
+	var license = system.functions.get_module_license();
+
+ 	for ( var i in license ) {
+ 		var module = system.functions.strraw( license[i], "," );
+ 		var module1 = module.split( "," );
+
+		 if ( module1[0] == "Self Service Ticketing" ) {
+		 	print( module1[0] + " " + module1[2] + "(Unlimited)" );
+		 }
+		 else {
+		 	print( module1[0] + " Named License " + module1[1] + "(" + module1[3] + ")" + " Float License " + module1[2] + "(" + module1[4] + ")" );
+		 	vars.$flexdebug += module1[0] + " Named License " + module1[1] + "(" + module1[3] + ")" + " Float License " + module1[2] + "(" + module1[4] + ")" + String.fromCharCode(13);
+		 }
+ 	}
+}
+```
+
 ## Process Designer
 
-Best Practices [link](https://docs.microfocus.com/SM/9.52/Hybrid/Content/PD_tailoring_BPG/Process_Designer_Basic_Concepts.htm)
+Best practices [link](https://docs.microfocus.com/SM/9.52/Hybrid/Content/PD_tailoring_BPG/Process_Designer_Basic_Concepts.htm)
 
-Menu Navigation: Tailoring - Process Designer
+**Menu Navigation:** Tailoring - Process Designer
 
 ### Fázisok ás átmenetek létrehozásának trükkjei
 
@@ -217,32 +283,34 @@ Menu Navigation: Tailoring - Process Designer
 1. érdemes a fázisokat egyből létrehozni és azonnal elnevezni 
 2. figyelni kell, hogy a átmenet parancs nevének megadásánál felül fogja írni a mögötte lévé scmessage rekordot is!
 
-sm/rule_naming.png 
+<img class="shadow" src="images/sm/workflow_rule_naming.png" style="width: 30%;">
 
 ### Alapértékek és kitöltések ellenőrzése [Rule Sets]
 
-Menu Navigation: Tailoring - Process Designer - Rule Sets
+**Menu Navigation:** Tailoring - Process Designer - Rule Sets
 
-sm/rule_set_default
-sm/rule_set_via_javascript1
-sm/rule_set_via_javascript2
-sm/rule_set_mandatory_default
+<img class="shadow" src="images/sm/workflow_rule_set_default.png">
+
+<img class="shadow" src="images/sm/workflow_rule_set_via_javascript1.png">
+
+<img class="shadow" src="images/sm/workflow_rule_set_via_javascript2.png">
+
+<img class="shadow" src="images/sm/workflow_rule_set_mandatory_default.png">
 
 value="Unplanned Change Detection"
 value="Rrrrisk ass"
 
 A mezők nevénél nem magát a mezőnek a nevét kell megadni (amit a vastag kliensben a mezőt kijelölve és Ctrl-h nyomva tudunk megkapni, ha a Window - Preferences menüpontban a Service Manager almenüben az Appearance részében a "Show context-sensitive help debug information" opció be van kapcsolva)
 
-sm/sm_client_windows_preferences1
+<img class="shadow" src="images/sm/sm_client_windows_preferences1.png">
 
 , hanem a Data Policy-ben lévő Caption nevét kell megadni a mezőhivatkozásoknál.
 
 ### Lista ellenőrzése egy globális lista alapján
 
-sm/rule_set_validate_against_list
+<img class="shadow" src="images/sm/workflow_rule_set_validate_against_list.png">
 
 A globálislista kiválasztásánal nem magát a globális lista változóját kell megadni, hanem a nevét. Ezt a legkönnyebben a Globális lista változójának kinyerése (vastag kliens, Forms Designer) után a  
-
 
 ### Mentés előtti mező kitöltöttség ellenőrzése
 
@@ -276,4 +344,4 @@ else {
 
 ### Új változáskezelési kategória felvétele
 
-Menu Navigation: Change management - Configuration - Change Categories
+**Menu Navigation:** Change management - Configuration - Change Categories

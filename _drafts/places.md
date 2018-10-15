@@ -7,24 +7,6 @@ category: Places / helyek
 tags:     [listák, awesome]
 ---
 
-Mohács
-Dávod
-Lánycsók
-Pécs
-Tamási
-Paks
-Kecskemét
-Szeged
-Győr
-Debrecen
-Baja
-Balatonboglár
-
-Eszék
-Trencsén / Trenčín
-Bécs
-Friedrichshafen
-
 Ahova menni kellene még:
 
 - Kappadókia, Törökország
