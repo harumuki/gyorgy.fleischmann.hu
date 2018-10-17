@@ -7,9 +7,9 @@ category: How to guides, tips and tricks / útmutatók, tippek és trükkök
 tags:     [microFocus, hpe, hp, service manager, sm, how to]
 ---
 
-Na akkor fussunk is neki az alapoknak!
+Fussunk neki az alapoknak!
 
-## A tesztkörnyezet
+## A tesztkörnyezet:
 
 A tesztrendszer SM verziója: **v9.60**, operációs rendszerei:
 <pre class="terminal">
@@ -63,7 +63,7 @@ Usage: /u01/app/oracle/product/12.1.0/dbhome_1//bin/dbstart ORACLE_HOME
 Processing Database instance "hpsm": log file /u01/app/oracle/product/12.1.0/dbhome_1/startup.log
 </pre>
 
-#### 2. Service Manager
+#### 2. Service Manager / SM indítása
 
 <pre class="terminal"><strong style="color: #00FF00;">[root@hpsm ~]#</strong> su - hpsm
 Last login: Fri Oct  5 10:52:34 CEST 2018 on pts/0
@@ -72,11 +72,11 @@ Last login: Fri Oct  5 10:52:34 CEST 2018 on pts/0
 Starting sm
 Starting sm system.start</pre>
 
-Az SM logja az: /opt/MicroFocus/ServiceManager9.60/Server/logs/ könyvtárban található **sm.log** néven.
+Az SM logja az: /opt/MicroFocus/ServiceManager9.60/Server/logs/ könyvtárban található **sm.log** néven UN*X-okon és a "C:\Program Files (x86)\HP\Service Manager 9.40\Server\logs" könyvtárban Microsoft Windows-on.
 
-#### 3. Alkalmazás szerver 
+#### 3. Az alkalmazás szerver elindítása
 
-Ha ez nem indulna magától, akkor:
+Ha nem indulna magától, akkor:
 
 <pre class="terminal"><strong style="color: #00FF00;">[root@hpsm ~]#</strong> systemctl start tomcat
 <strong style="color: #00FF00;">[root@hpsm ~]#</strong> systemctl status tomcat
@@ -97,7 +97,7 @@ Oct 08 10:15:38 hpsm systemd[1]: Started Apache Tomcat Web Application Container
 
 #### 4. Bejelentkező képernyő
 
-Ha minden jól ment, akkor a következő képernyő fogad majd az előző lépések után, ahol be lehet jelentkezni a Service Manager-be.
+Ha minden jól ment és minden rendben el tudott indulni, akkor a következő képernyő fogad majd, ahol már be tudunk jelentkezni a Service Manager-be. (falcon/"No password!")
 
 <center><img class="shadow" src="images/sm/login.png" style="width: 60%;"></center>
 
@@ -105,13 +105,13 @@ Ha minden jól ment, akkor a következő képernyő fogad majd az előző lépé
 
 ## Alap dolgok
 
-### Session TimeOut
+### Session TimeOut átállítása
 
 **Menu Navigation:** System Administration - Ongoing Maintenance - System - Start Inactivity Timer
 
 ### Kontextus-érzékeny segítség bekapcsolása
 
-Ezzel az opcióval Ctrl-h-t nyomja egy mezőn, megkajuk az aktuális form, tábla és mező nevét.
+Ezzel az opcióval Ctrl-h-t nyomva egy beviteli mezőn, megkajuk az aktuális form, tábla és mező nevét.
 
 <img class="shadow" src="images/sm/sm_client_windows_preferences1.png">
 
@@ -119,19 +119,66 @@ Ezzel az opcióval Ctrl-h-t nyomja egy mezőn, megkajuk az aktuális form, tábl
 
 A munkafolyamatokhoz felhasználható ikonok a **/opt/tomcat/webapps/sm/images/obj16** könyvtárban találhatóak.
 
+### Paramcsrövidítések
+
+Ide már összeszedtem az összes gyári command-ot: [link](SM_command_line_calls.html) Ebből a listából én ezeket használom:
+
+- **db** - Database Manager
+- **fd** - Forms Designer
+- **fc** - Format Control
+- **do** - Display Application Option Definition
+- **sl** - Script Library
+
+- **unload** - Unload Utility
+
+- **operator** - Operator
+- **contacts** - Contacts
+ 
 ### Új power user létrehozása
 
-**Menu Navigation:** System Administration - Ongoing Maintenance > User Quick Add Utility menü segítségével készíthetünk:
+**Menu Navigation:** System Administration - Ongoing Maintenance - User Quick Add Utility menüpont segítségével készíthetünk:
 
 <img class="shadow" src="images/sm/poweruser1.png">
 
 <img class="shadow" src="images/sm/poweruser2.png">
 
+### Jelszóváltoztatás
+
+command(operator) majd meg kell keresni a felhasználót és a második fülün lehet a jelszavát megváltoztatni:
+
+<img class="shadow" src="images/sm/password1.png">
+
+<img class="shadow" src="images/sm/password2.png">
+
+<img class="shadow" src="images/sm/password3.png">
+  
 ### Új menük készítése + hozzá parancsok
 
-### Hogyan kell megtalálni egy menüt
+Az ikonok itt találhatóak: [link](https://docs.microfocus.com/SM/9.51/Hybrid/Content/Resources/PDF/SM_font_icons.pdf)
 
-### Hogyan kell létrezhoni
+#### Hogyan kell megtalálni egy menüt
+
+command(db, menu)
+
+**Menu Navigation:** System Administration - Tailoring - Tailoring Tools - Menus
+
+#### Hogyan kell létrezhoni a fában
+
+<img class="shadow" src="images/sm/menu1.png">
+
+<img class="shadow" src="images/sm/menu2.png">
+
+#### Egy megadott form megnyitása
+
+<img class="shadow" src="images/sm/menu3.png">
+
+#### Menü jogosultság
+
+- ha a SysAdmin-oknak szeretnék csak elérést: index("SysAdmin", $lo.ucapex)>0
+- ha egy szerepkörhöz(ROLE): $lo.user.role="FLEX"
+- vagy ha mindenkinek: true
+
+### Általános szöveg keresése (fs)
 
 ### $file használata
 
@@ -150,23 +197,23 @@ Részletek találhatóak a következő [link](https://ernestodisanto.wordpress.c
 
 ### Forms Designer
 
-Hogyan készítsünk olyan Form-okat, amivel meg lehet könnyen találni a Globalists neveket vagy a Mezőneveket?
+Hogyan készítsünk olyan Form-okat, amivel meg lehet könnyen találni a globalists neveket vagy a mezőneveket?
 
 #### Globális lista nevének megkeresése
 
-Amit tudni fog az az, hogy meg lehet keresni egy globális lista változója vagy a változó megjelenítési változója alapján a lista nevét, illetve ezek összes kombinációja megadása esetén a hiányzókat. Ez jó segítség lesz a Process Designer-ben készített Workflow-khoz. 
+Amit tudni fog az az, hogy meg lehet keresni egy globális lista változója vagy a változó megjelenítési változója alapján a lista nevét, illetve ezek összes kombinációja megadása esetén a hiányzókat. Ez jó segítség lesz a [Process Designer](#process-designer)-ben készített Workflow-khoz. 
 
 Ehhez kell majd nekünk:
 
-- egy form (fd, _flex.global.list.entry), ez lesz végül majd a kereső és a megjelenítő form is, amikor ilyet keresünk: _flex.global.list.entry
+- egy form command(fd, _flex.global.list.entry), ez lesz végül majd a kereső és a megjelenítő form is, amikor ilyet keresünk: _flex.global.list.entry
 
 <img class="shadow" src="images/sm/fd_globallists_form.png">
 
-- egy qbe form (fd, _flex.globallist.qbe.g) (ennek most sok még sok jelentősége nincs, mert csak a PopUp részeken van/lesz jelentősége)
+- egy qbe form command(fd, _flex.globallist.qbe.g) (ennek most sok jelentősége még nincs, mert csak a PopUp részeken van/lesz egyelőre szerepe)
 
 majd ezeken kívül kell még:
 
-- egy format control (fc, _flex.global.list.entry) is, ami a form-unkon ki fog tölteni egy mezőt($flex.hidden thread változó), és ha az én form-omat hasznájuk a kereséskor akkor, egy display option (Object Definition - Default State Definition - Display Application Screen Definition) ki fogja majd értékelni és az alapján a keresési eredményt majd ugyanebben form-ban megjeleníteni a gyári helyett.
+- egy format control command(fc, _flex.global.list.entry) is, ami a form-unkon ki fog tölteni egy "mezőt" ($flex.hidden thread változó), és ha az én form-omat hasznájuk a kereséskor akkor, egy display option (Object Definition - Default State Definition - Display Application Screen Definition) végül ki fogja majd értékelni és az alapján a keresési eredményt majd ugyanebben form-ban megjeleníteni a gyári helyett.
 
 <img class="shadow" src="images/sm/fd_globallists_fc1.png">
 
@@ -281,7 +328,7 @@ Best practices [link](https://docs.microfocus.com/SM/9.52/Hybrid/Content/PD_tail
 **Menu Navigation:** Tailoring - Process Designer - Workflows
 
 1. érdemes a fázisokat egyből létrehozni és azonnal elnevezni 
-2. figyelni kell, hogy a átmenet parancs nevének megadásánál felül fogja írni a mögötte lévé scmessage rekordot is!
+2. figyelni kell, hogy a átmenet parancs nevének megadásánál felül fogja írni a mögötte lévő scmessage rekordot is! Tehát, ha ezt megváltoztatjuk, akkor újra meg kell adni a nevét!!!
 
 <img class="shadow" src="images/sm/workflow_rule_naming.png" style="width: 30%;">
 
@@ -291,6 +338,8 @@ Best practices [link](https://docs.microfocus.com/SM/9.52/Hybrid/Content/PD_tail
 
 <img class="shadow" src="images/sm/workflow_rule_set_default.png">
 
+Ezekhez lehet hasznos a fentebb eml`tett két Forms Designer-ben készített Form-b=l az egyik: [link](#forms-designer) mert a mezők nevénél nem magát a mezőnek a nevét kell megadni (amit a vastag kliensben a mezőt kijelölve és Ctrl-h nyomva tudunk megkapni, ha a Window - Preferences menüpontban a Service Manager almenü Appearance részében a ["Show context-sensitive help debug information"](#kontextus-érzékeny-segítség-bekapcsolása) opció bekapcsoltuk a kliensben.), hanem a Data Policy-ben lévő Caption nevét kell megadni a mezőhivatkozásoknál! 
+
 <img class="shadow" src="images/sm/workflow_rule_set_via_javascript1.png">
 
 <img class="shadow" src="images/sm/workflow_rule_set_via_javascript2.png">
@@ -298,19 +347,14 @@ Best practices [link](https://docs.microfocus.com/SM/9.52/Hybrid/Content/PD_tail
 <img class="shadow" src="images/sm/workflow_rule_set_mandatory_default.png">
 
 value="Unplanned Change Detection"
+
 value="Rrrrisk ass"
-
-A mezők nevénél nem magát a mezőnek a nevét kell megadni (amit a vastag kliensben a mezőt kijelölve és Ctrl-h nyomva tudunk megkapni, ha a Window - Preferences menüpontban a Service Manager almenüben az Appearance részében a "Show context-sensitive help debug information" opció be van kapcsolva)
-
-<img class="shadow" src="images/sm/sm_client_windows_preferences1.png">
-
-, hanem a Data Policy-ben lévő Caption nevét kell megadni a mezőhivatkozásoknál.
 
 ### Lista ellenőrzése egy globális lista alapján
 
 <img class="shadow" src="images/sm/workflow_rule_set_validate_against_list.png">
 
-A globálislista kiválasztásánal nem magát a globális lista változóját kell megadni, hanem a nevét. Ezt a legkönnyebben a Globális lista változójának kinyerése (vastag kliens, Forms Designer) után a  
+A globálislista kiválasztásánal nem magát a globális lista változóját kell megadni, hanem a nevét. Ezt a legkönnyebben a Globális lista változójának kinyerése (vastag kliens, Forms Designer) után a Globallist táblából lehet kinyerni vagy a fent kszített másik Form segítségével: [link](#forms-designer)
 
 ### Mentés előtti mező kitöltöttség ellenőrzése
 
@@ -343,5 +387,9 @@ else {
 ### Jóváhagyások
 
 ### Új változáskezelési kategória felvétele
+
+### Workflow export
+
+### Workflow import
 
 **Menu Navigation:** Change management - Configuration - Change Categories
