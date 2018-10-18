@@ -9,7 +9,7 @@ tags:     [web, development, fejlesztés, html, css, jekyll, google, google map,
 photoswipe: 'yes'
 ---
 
-Teszt 1 GPX:
+Ide fogom összeszedni, hogy a [waze](https://www.waze.com/) merre vezet nap, mint nap munkába és onnan hazafele:
 
 <script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?key=AIzaSyAubcKvynd2lNrvNQHlTt6b7Q8OBxDzNOg'></script>
 
@@ -22,30 +22,28 @@ Teszt 1 GPX:
 </script>
 
 <script type="text/javascript"
-    src="js/gpxviewer.js">
+    src="js/loadgpx.js">
 </script>
 
 <!-- https://github.com/peplin/gpxviewer -->
 
 <script type="text/javascript">
 
-function loadGPXFileIntoGoogleMap( map, filename ) {
-	$.ajax( {url: filename,
-	    dataType: "xml",
-	    success: function( data ) {
-	      var parser = new GPXParser( data, map );
-	      parser.setTrackColour( "#ff0000" );     	// Set the track line colour
-	      parser.setTrackWidth( 5 );          		// Set the track line width
-	      parser.setMinTrackPointDelta( 0.001 );	// Set the minimum distance between track points
-	      parser.centerAndZoom( data );
-	      parser.addTrackpointsToMap();         	// Add the trackpoints
-	      parser.addRoutepointsToMap();         	// Add the routepoints
-	      parser.addWaypointsToMap();           	// Add the waypoints
-	    }
-	});
+	function loadGPXFileIntoGoogleMap( map, filename, color, opacity ) {
+	$.ajax( { url: filename, dataType: "xml", success: function( data ) {
+		var parser = new GPXParser( data, map );	// 
+		parser.setTrackColour( color );     		// Set the track line colour
+		parser.setTrackWidth( 5 );          		// Set the track line width
+		parser.setTrackOpacity( opacity );			// Set the track line opacity
+		parser.setMinTrackPointDelta( 0.001 );		// Set the minimum distance between track points
+		parser.centerAndZoom( data );				// 
+		parser.addTrackpointsToMap();         		// Add the trackpoints
+		parser.addRoutepointsToMap();         		// Add the routepoints
+		parser.addWaypointsToMap();           		// Add the waypoints
+		} } );
 	}
 
-	$(document).ready(function() {
+	$( document ).ready( function() {
 		var infowindow = new google.maps.InfoWindow();
 
 		var map = new google.maps.Map( document.getElementById( 'map' ), {
@@ -54,8 +52,11 @@ function loadGPXFileIntoGoogleMap( map, filename ) {
 			mapTypeId: google.maps.MapTypeId.ROADMAP
 		} );
 
-	    loadGPXFileIntoGoogleMap( map, "gpx/MOM2HOME20181015.gpx" );
+	    loadGPXFileIntoGoogleMap( map, "gpx/MOM2HOME20181015.gpx", "#0000ff", .4 ); // blue 1
+	    loadGPXFileIntoGoogleMap( map, "gpx/MOM2HOME20181017.gpx", "#0000ff", .4 ); // blue 2
+	    loadGPXFileIntoGoogleMap( map, "gpx/HOME2MOM20181018.gpx", "#ff0000", .4 ); // red 3
+
 	    //loadGPXFileIntoGoogleMap( map, "gpx/kornati.gpx" );
-	});
+	} );
 
 </script>

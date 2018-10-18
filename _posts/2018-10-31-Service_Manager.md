@@ -390,6 +390,6 @@ else {
 
 ### Workflow export
 
-### Workflow import
+### Workflow import	
 
 **Menu Navigation:** Change management - Configuration - Change Categories
