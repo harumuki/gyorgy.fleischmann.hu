@@ -7,9 +7,58 @@ category: How to guides, tips and tricks / útmutatók, tippek és trükkök
 tags:     [microFocus, hpe, hp, service manager, sm, how to]
 ---
 
+# Table of contents
+
+<h2><nobr>&nbsp;<a href="#a-tesztkörnyezet">A tesztkörnyezet</a></nobr></h2>
+
+<h3><nobr>&nbsp;<a href="#SM elindítása">SM elindítása</a></nobr></h3>
+<h4><nobr>&nbsp;<a href="#1. Oracle DB1. Oracle DB">1. Oracle DB1. Oracle DB</a></nobr></h4>
+<h4><nobr>&nbsp;<a href="#2. Service Manager / SM indítása">2. Service Manager / SM indítása</a></nobr></h4>
+<h4><nobr>&nbsp;<a href="#3. Az alkalmazás szerver elindítása">3. Az alkalmazás szerver elindítása</a></nobr></h4>
+<h4><nobr>&nbsp;<a href="#4. Bejelentkező képernyő">4. Bejelentkező képernyő</a></nobr></h4>
+
+<h2><nobr>&nbsp;<a href="#Service Manager">Service Manager</a></nobr></h2>
+<h3><nobr>&nbsp;<a href="#Alap dolgok">Alap dolgok</a></nobr></h3>
+<h3><nobr>&nbsp;<a href="#Session TimeOut átállítása">Session TimeOut átállítása</a></nobr></h3>
+
+<h3><nobr>&nbsp;<a href="### Kontextus-érzékeny segítség bekapcsolása"></a></nobr></h3>
+<h3><nobr>&nbsp;<a href="### Ikonok"></a></nobr></h3>
+<h3><nobr>&nbsp;<a href="### Paramcsrövidítések"></a></nobr></h3>
+<h3><nobr>&nbsp;<a href="### Új power user létrehozása"></a></nobr></h3>
+<h3><nobr>&nbsp;<a href="### Jelszóváltoztatás"></a></nobr></h3>
+<h3><nobr>&nbsp;<a href="### Menük"></a></nobr></h3>
+<h4><nobr>&nbsp;<a href="#### Hogyan kell megtalálni egy menüt"></a></nobr></h4>
+<h4><nobr>&nbsp;<a href="#### Hogyan kell létrezhoni a fában"></a></nobr></h4>
+<h4><nobr>&nbsp;<a href="#### Egy megadott form megnyitása"></a></nobr></h4>
+<h4><nobr>&nbsp;<a href="#### Menü jogosultság"></a></nobr></h4>
+<h3><nobr>&nbsp;<a href="### Általános szöveg keresése (fs)"></a></nobr></h3>
+<h3><nobr>&nbsp;<a href="### $file használata"></a></nobr></h3>
+<h3><nobr>&nbsp;<a href="### Variables"></a></nobr></h3>
+
+<h2><nobr>&nbsp;<a href="## Forms Designer"></a></nobr></h2>
+<h3><nobr>&nbsp;<a href="### Globális lista nevének megkeresése"></a></nobr></h3>
+<h3><nobr>&nbsp;<a href="### Datadict-ből a mezőnevek kikeresése"></a></nobr></h3>
+
+<h2><nobr>&nbsp;<a href="## Process Designer"></a></nobr></h2>
+<h3><nobr>&nbsp;<a href="### Fázisok ás átmenetek létrehozásának trükkjei"></a></nobr></h3>
+<h3><nobr>&nbsp;<a href="### Alapértékek és kitöltések ellenőrzése [Rule Sets]"></a></nobr></h3>
+<h3><nobr>&nbsp;<a href="### Lista ellenőrzése egy globális lista alapján"></a></nobr></h3>
+<h3><nobr>&nbsp;<a href="### Mentés előtti mező kitöltöttség ellenőrzése"></a></nobr></h3>
+<h3><nobr>&nbsp;<a href="### Dátum összehasonlítása és ellenőrzése"></a></nobr></h3>
+<h3><nobr>&nbsp;<a href="### Időzített fázisátmenetek és ellenőrzésük "></a></nobr></h3>
+<h3><nobr>&nbsp;<a href="### Globális szabályok egy munkafolyamatra"></a></nobr></h3>
+<h3><nobr>&nbsp;<a href="### Más tábla alapján történő ellenőrzés"></a></nobr></h3>
+<h3><nobr>&nbsp;<a href="### Operátor rekord email címe alapján ellenőrzés, javascript, debug"></a></nobr></h3>
+<h3><nobr>&nbsp;<a href="### Jóváhagyások"></a></nobr></h3>
+<h3><nobr>&nbsp;<a href="### Új változáskezelési kategória felvétele"></a></nobr></h3>
+<h3><nobr>&nbsp;<a href="### Workflow export"></a></nobr></h3>
+<h3><nobr>&nbsp;<a href="### Workflow import"></a></nobr></h3>
+
+<hr style="margin-top: .7em;">
+
 Fussunk neki az alapoknak!
 
-## A tesztkörnyezet:
+## A tesztkörnyezet
 
 A tesztrendszer SM verziója: **v9.60**, operációs rendszerei:
 <pre class="terminal">
@@ -101,9 +150,9 @@ Ha minden jól ment és minden rendben el tudott indulni, akkor a következő k�
 
 <center><img class="shadow" src="images/sm/login.png" style="width: 60%;"></center>
 
-# Service Manager
+## Service Manager
 
-## Alap dolgok
+### Alap dolgok
 
 ### Session TimeOut átállítása
 
@@ -121,13 +170,17 @@ A munkafolyamatokhoz felhasználható ikonok a **/opt/tomcat/webapps/sm/images/o
 
 ### Paramcsrövidítések
 
-Ide már összeszedtem az összes gyári command-ot: [link](SM_command_line_calls.html) Ebből a listából én ezeket használom:
+Ide már korábban összeszedtem az összes gyári command-ot: [link](SM_command_line_calls.html) Ebből a listából én ezeket használom:
 
 - **db** - Database Manager
 - **fd** - Forms Designer
 - **fc** - Format Control
 - **do** - Display Application Option Definition
+- **ds** - Display Application Screen Definition
 - **sl** - Script Library
+- **gl**
+- **schedule**
+- fs
 
 - **unload** - Unload Utility
 
@@ -195,11 +248,11 @@ Részletek találhatóak a következő [link](https://ernestodisanto.wordpress.c
 - $L. lokális változók
 - minden más thread változó
 
-### Forms Designer
+## Forms Designer
 
 Hogyan készítsünk olyan Form-okat, amivel meg lehet könnyen találni a globalists neveket vagy a mezőneveket?
 
-#### Globális lista nevének megkeresése
+### Globális lista nevének megkeresése
 
 Amit tudni fog az az, hogy meg lehet keresni egy globális lista változója vagy a változó megjelenítési változója alapján a lista nevét, illetve ezek összes kombinációja megadása esetén a hiányzókat. Ez jó segítség lesz a [Process Designer](#process-designer)-ben készített Workflow-khoz. 
 
@@ -213,7 +266,7 @@ Ehhez kell majd nekünk:
 
 majd ezeken kívül kell még:
 
-- egy format control command(fc, _flex.global.list.entry) is, ami a form-unkon ki fog tölteni egy "mezőt" ($flex.hidden thread változó), és ha az én form-omat hasznájuk a kereséskor akkor, egy display option (Object Definition - Default State Definition - Display Application Screen Definition) végül ki fogja majd értékelni és az alapján a keresési eredményt majd ugyanebben form-ban megjeleníteni a gyári helyett.
+- egy format control command(fc, _flex.global.list.entry) is, ami a form-unkon ki fog tölteni egy "mezőt" ($flex.hidden thread változó), és ha az én form-omat hasznájuk a kereséskor akkor, egy display option (Object Definition - Default State Definition - Display Application Screen Definition, global.view) végül ki fogja majd értékelni és az alapján a keresési eredményt majd ugyanebben form-ban megjeleníteni a gyári helyett.
 
 <img class="shadow" src="images/sm/fd_globallists_fc1.png">
 
@@ -235,7 +288,7 @@ if (nullsub($flex.hidden, "X")~="OK") then ($L.format="apm.global.list.entry") e
 
 <img class="shadow" src="images/sm/fd_globallists_final_form.png">
 
-#### Datadict-ből a mezőnevek kikeresése
+### Datadict-ből a mezőnevek kikeresése
 
 Ezt már egy kicsit tovább sikerült csavarni. Ehhez kelleni fog majd egy segédtábla (types) is, amibe felvittem a Service Manager-es típusokat is és a keresés után így ki tudja írni nem csak a nevét, de még a mező típusát is.
 
@@ -388,8 +441,8 @@ else {
 
 ### Új változáskezelési kategória felvétele
 
+**Menu Navigation:** Change management - Configuration - Change Categories
+
 ### Workflow export
 
 ### Workflow import	
-
-**Menu Navigation:** Change management - Configuration - Change Categories
