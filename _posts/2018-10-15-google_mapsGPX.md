@@ -9,12 +9,12 @@ tags:     [web, development, fejlesztés, html, css, jekyll, google, google map,
 photoswipe: 'yes'
 ---
 
-Ide fogom összeszedni, hogy a [waze](https://www.waze.com/) merre vezet nap, mint nap munkába és onnan hazafele:
+Ide fogom összeszedni, hogy a [waze](https://www.waze.com/) merre vezet nap, mint nap <span style="color: red;">munkába</span> és onnan <span style="color: blue;">hazafele</span>:
 
 <script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?key=AIzaSyAubcKvynd2lNrvNQHlTt6b7Q8OBxDzNOg'></script>
 
 <div id="map-wrap" class="overridemaxwidthboth" style="-webkit-box-shadow: 0px 4px 18px rgba(0,0,0,0.84); -moz-box-shadow: 0px 4px 18px rgba(0,0,0,0.84); box-shadow: 0px 4px 18px rgba(0,0,0,0.84); margin-bottom: .5em;">
-	<div id="map" style="width:auto; height:650px;"></div>
+	<div id="map" style="width:auto; height:850px;"></div>
 </div>
 
 <script type="text/javascript"
