@@ -279,8 +279,6 @@ majd ezeken kívül kell még:
 <img class="shadow" src="images/sm/fd_globallists_display_screen.png">
 
 ```
-// $L.format="_flex.global.list.entry"
-
 if (nullsub($flex.hidden, "X")~="OK") then ($L.format="apm.global.list.entry") else ($L.format="_flex.global.list.entry")
 ```
 
