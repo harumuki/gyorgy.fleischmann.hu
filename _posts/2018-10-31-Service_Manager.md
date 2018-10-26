@@ -9,50 +9,48 @@ tags:     [microFocus, hpe, hp, service manager, sm, how to]
 
 # Table of contents
 
-<h2><nobr>&nbsp;<a href="#a-tesztkörnyezet">A tesztkörnyezet</a></nobr></h2>
+<h2><a href="#a-tesztkörnyezet">A tesztkörnyezet</a></h2>
+<h3><a href="#sm-elindítása">SM elindítása</a></h3>
+<h4>&nbsp;<a href="#1-oracle-db">1. Oracle DB</a></h4>
+<h4>&nbsp;<a href="#2-service-manager--sm-indítása">2. Service Manager / SM indítása</a></h4>
+<h4>&nbsp;<a href="#3-az-alkalmazás-szerver-elindítása">3. Az alkalmazás szerver elindítása</a></h4>
+<h4>&nbsp;<a href="#4-bejelentkező-képernyő">4. Bejelentkező képernyő</a></h4>
 
-<h3><nobr>&nbsp;<a href="#SM elindítása">SM elindítása</a></nobr></h3>
-<h4><nobr>&nbsp;<a href="#1. Oracle DB1. Oracle DB">1. Oracle DB1. Oracle DB</a></nobr></h4>
-<h4><nobr>&nbsp;<a href="#2. Service Manager / SM indítása">2. Service Manager / SM indítása</a></nobr></h4>
-<h4><nobr>&nbsp;<a href="#3. Az alkalmazás szerver elindítása">3. Az alkalmazás szerver elindítása</a></nobr></h4>
-<h4><nobr>&nbsp;<a href="#4. Bejelentkező képernyő">4. Bejelentkező képernyő</a></nobr></h4>
+<h2><a href="#service-manager">Service Manager</a></h2>
+<h3><a href="#alap-dolgok">Alap dolgok</a></h3>
+<h3><a href="#session-timeout-átállítása">Session TimeOut átállítása</a></h3>
+<h3><a href="#kontextus-érzékeny-segítség-bekapcsolása">Kontextus-érzékeny segítség bekapcsolása</a></h3>
+<h3><a href="#ikonok">Ikonok</a></h3>
+<h3><a href="#parancsrövidítések">Parancsrövidítések</a></h3>
+<h3><a href="#Új-power-user-létrehozása">Új power user létrehozása</a></h3>
+<h3><a href="#jelszóváltoztatás">Jelszóváltoztatás</a></h3>
+<h3><a href="#Új-menük-készítése--hozzá-parancsok">Új menük készítése + hozzá parancsok</a></h3>
+<h4>&nbsp;<a href="#hogyan-kell-megtalálni-egy-menüt">Hogyan kell megtalálni egy menüt</a></h4>
+<h4>&nbsp;<a href="#hogyan-kell-létrezhoni-a-fában">Hogyan kell létrezhoni a fában</a></h4>
+<h4>&nbsp;<a href="#egy-megadott-form-megnyitása">Egy megadott form megnyitása</a></h4>
+<h4>&nbsp;<a href="#menü-jogosultság">Menü jogosultság</a></h4>
+<h3><a href="#Általános-szöveg-keresése-(fs)">Általános szöveg keresése (fs)</a></h3>
+<h3><a href="#$file-használata">$file használata</a></h3>
+<h3><a href="#variables">Variables</a></h3>
 
-<h2><nobr>&nbsp;<a href="#Service Manager">Service Manager</a></nobr></h2>
-<h3><nobr>&nbsp;<a href="#Alap dolgok">Alap dolgok</a></nobr></h3>
-<h3><nobr>&nbsp;<a href="#Session TimeOut átállítása">Session TimeOut átállítása</a></nobr></h3>
+<h2><a href="#forms-designer">Forms Designer</a></h2>
+<h3><a href="#globális-lista-nevének-megkeresése">Globális lista nevének megkeresése</a></h3>
+<h3><a href="#datadict-ből-a-mezőnevek-kikeresése">Datadict-ből a mezőnevek kikeresése</a></h3>
 
-<h3><nobr>&nbsp;<a href="### Kontextus-érzékeny segítség bekapcsolása"></a></nobr></h3>
-<h3><nobr>&nbsp;<a href="### Ikonok"></a></nobr></h3>
-<h3><nobr>&nbsp;<a href="### Paramcsrövidítések"></a></nobr></h3>
-<h3><nobr>&nbsp;<a href="### Új power user létrehozása"></a></nobr></h3>
-<h3><nobr>&nbsp;<a href="### Jelszóváltoztatás"></a></nobr></h3>
-<h3><nobr>&nbsp;<a href="### Menük"></a></nobr></h3>
-<h4><nobr>&nbsp;<a href="#### Hogyan kell megtalálni egy menüt"></a></nobr></h4>
-<h4><nobr>&nbsp;<a href="#### Hogyan kell létrezhoni a fában"></a></nobr></h4>
-<h4><nobr>&nbsp;<a href="#### Egy megadott form megnyitása"></a></nobr></h4>
-<h4><nobr>&nbsp;<a href="#### Menü jogosultság"></a></nobr></h4>
-<h3><nobr>&nbsp;<a href="### Általános szöveg keresése (fs)"></a></nobr></h3>
-<h3><nobr>&nbsp;<a href="### $file használata"></a></nobr></h3>
-<h3><nobr>&nbsp;<a href="### Variables"></a></nobr></h3>
-
-<h2><nobr>&nbsp;<a href="## Forms Designer"></a></nobr></h2>
-<h3><nobr>&nbsp;<a href="### Globális lista nevének megkeresése"></a></nobr></h3>
-<h3><nobr>&nbsp;<a href="### Datadict-ből a mezőnevek kikeresése"></a></nobr></h3>
-
-<h2><nobr>&nbsp;<a href="## Process Designer"></a></nobr></h2>
-<h3><nobr>&nbsp;<a href="### Fázisok ás átmenetek létrehozásának trükkjei"></a></nobr></h3>
-<h3><nobr>&nbsp;<a href="### Alapértékek és kitöltések ellenőrzése [Rule Sets]"></a></nobr></h3>
-<h3><nobr>&nbsp;<a href="### Lista ellenőrzése egy globális lista alapján"></a></nobr></h3>
-<h3><nobr>&nbsp;<a href="### Mentés előtti mező kitöltöttség ellenőrzése"></a></nobr></h3>
-<h3><nobr>&nbsp;<a href="### Dátum összehasonlítása és ellenőrzése"></a></nobr></h3>
-<h3><nobr>&nbsp;<a href="### Időzített fázisátmenetek és ellenőrzésük "></a></nobr></h3>
-<h3><nobr>&nbsp;<a href="### Globális szabályok egy munkafolyamatra"></a></nobr></h3>
-<h3><nobr>&nbsp;<a href="### Más tábla alapján történő ellenőrzés"></a></nobr></h3>
-<h3><nobr>&nbsp;<a href="### Operátor rekord email címe alapján ellenőrzés, javascript, debug"></a></nobr></h3>
-<h3><nobr>&nbsp;<a href="### Jóváhagyások"></a></nobr></h3>
-<h3><nobr>&nbsp;<a href="### Új változáskezelési kategória felvétele"></a></nobr></h3>
-<h3><nobr>&nbsp;<a href="### Workflow export"></a></nobr></h3>
-<h3><nobr>&nbsp;<a href="### Workflow import"></a></nobr></h3>
+<h2><a href="#process-designer">Process Designer</a></h2>
+<h3><a href="#fázisok-ás-átmenetek-létrehozásának-trükkjei">Fázisok ás átmenetek létrehozásának trükkjei</a></h3>
+<h3><a href="#alapértékek-és-kitöltések-ellenőrzése-[rule-sets]">Alapértékek és kitöltések ellenőrzése [Rule Sets]</a></h3>
+<h3><a href="#lista-ellenőrzése-egy-globális-lista-alapján">Lista ellenőrzése egy globális lista alapján</a></h3>
+<h3><a href="#mentés-előtti-mező-kitöltöttség-ellenőrzése">Mentés előtti mező kitöltöttség ellenőrzése</a></h3>
+<h3><a href="#dátum-összehasonlítása-és-ellenőrzése">Dátum összehasonlítása és ellenőrzése</a></h3>
+<h3><a href="#időzített-fázisátmenetek-és-ellenőrzésük">Időzített fázisátmenetek és ellenőrzésük</a></h3>
+<h3><a href="#globális-szabályok-egy-munkafolyamatra">Globális szabályok egy munkafolyamatra</a></h3>
+<h3><a href="#más-tábla-alapján-történő-ellenőrzés">Más tábla alapján történő ellenőrzés</a></h3>
+<h3><a href="#operátor-rekord-email-címe-alapján-ellenőrzés,-javascript,-debug">Operátor rekord email címe alapján ellenőrzés, javascript, debug</a></h3>
+<h3><a href="#jóváhagyások">Jóváhagyások</a></h3>
+<h3><a href="#Új-változáskezelési-kategória-felvétele">Új változáskezelési kategória felvétele</a></h3>
+<h3><a href="#workflow-export">Workflow export</a></h3>
+<h3><a href="#workflow-import">Workflow import</a></h3>
 
 <hr style="margin-top: .7em;">
 
@@ -168,7 +166,7 @@ Ezzel az opcióval Ctrl-h-t nyomva egy beviteli mezőn, megkajuk az aktuális fo
 
 A munkafolyamatokhoz felhasználható ikonok a **/opt/tomcat/webapps/sm/images/obj16** könyvtárban találhatóak.
 
-### Paramcsrövidítések
+### Parancsrövidítések
 
 Ide már korábban összeszedtem az összes gyári command-ot: [link](SM_command_line_calls.html) Ebből a listából én ezeket használom:
 
@@ -178,12 +176,10 @@ Ide már korábban összeszedtem az összes gyári command-ot: [link](SM_command
 - **do** - Display Application Option Definition
 - **ds** - Display Application Screen Definition
 - **sl** - Script Library
-- **gl**
-- **schedule**
-- fs
-
+- **gl** - Global List Definitaion
+- **fs** - Find String Utility
 - **unload** - Unload Utility
-
+- **schedule** - Schedule Records
 - **operator** - Operator
 - **contacts** - Contacts
  
@@ -227,9 +223,9 @@ command(db, menu)
 
 #### Menü jogosultság
 
-- ha a SysAdmin-oknak szeretnék csak elérést: index("SysAdmin", $lo.ucapex)>0
-- ha egy szerepkörhöz(ROLE): $lo.user.role="FLEX"
-- vagy ha mindenkinek: true
+- ha a SysAdmin-oknak szeretnék csak elérést: **index("SysAdmin", $lo.ucapex)>0**
+- ha egy szerepkörhöz(ROLE): **$lo.user.role="FLEX"**
+- vagy ha mindenkinek: **true**
 
 ### Általános szöveg keresése (fs)
 
@@ -370,7 +366,7 @@ function getLicenseInfo() {
 
 ## Process Designer
 
-Best practices [link](https://docs.microfocus.com/SM/9.52/Hybrid/Content/PD_tailoring_BPG/Process_Designer_Basic_Concepts.htm)
+Best practice [link](https://docs.microfocus.com/SM/9.52/Hybrid/Content/PD_tailoring_BPG/Process_Designer_Basic_Concepts.htm).
 
 **Menu Navigation:** Tailoring - Process Designer
 
@@ -389,7 +385,7 @@ Best practices [link](https://docs.microfocus.com/SM/9.52/Hybrid/Content/PD_tail
 
 <img class="shadow" src="images/sm/workflow_rule_set_default.png">
 
-Ezekhez lehet hasznos a fentebb eml`tett két Forms Designer-ben készített Form-b=l az egyik: [link](#forms-designer) mert a mezők nevénél nem magát a mezőnek a nevét kell megadni (amit a vastag kliensben a mezőt kijelölve és Ctrl-h nyomva tudunk megkapni, ha a Window - Preferences menüpontban a Service Manager almenü Appearance részében a ["Show context-sensitive help debug information"](#kontextus-érzékeny-segítség-bekapcsolása) opció bekapcsoltuk a kliensben.), hanem a Data Policy-ben lévő Caption nevét kell megadni a mezőhivatkozásoknál! 
+Ezekhez lehet hasznos a fentebb említett két Forms Designer-ben készített Form-b=l az egyik: [link](#forms-designer) mert a mezők nevénél nem magát a mezőnek a nevét kell megadni (amit a vastag kliensben a mezőt kijelölve és Ctrl-h nyomva tudunk megkapni, ha a Window - Preferences menüpontban a Service Manager almenü Appearance részében a ["Show context-sensitive help debug information"](#kontextus-érzékeny-segítség-bekapcsolása) opció bekapcsoltuk a kliensben.), hanem a Data Policy-ben lévő Caption nevét kell megadni a mezőhivatkozásoknál! 
 
 <img class="shadow" src="images/sm/workflow_rule_set_via_javascript1.png">
 
