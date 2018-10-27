@@ -47,8 +47,17 @@ header_spacer: 93
 
 ## Tervben lévő halászcsárdák:
 
-- Öreghalász Vendéglátó és Kereskedelmi Kft., Budapest
 - Dunaföldvári Halászcsárda
+- Tassi halászcsárda
+
+- Szegedi Halászcsárda, Budapest
+- Bajai Halászcsárda, Budapest
+- Öreghalász Vendéglátó és Kereskedelmi Kft., Budapest
+- Új Sipos Halászkert
+
+- Szentendrei határcsárda
+
+- Szúnyog-szigeti Halászcsárda
 
 ## Fakultatív csárdalátogatások:
 
