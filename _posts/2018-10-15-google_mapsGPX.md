@@ -64,7 +64,7 @@ Ide fogom összeszedni, hogy a [waze](https://www.waze.com/) merre vezet nap, mi
 	   
 	    loadGPXFileIntoGoogleMap( map, "gpx/MOM2HOME20181026.gpx", "#0000ff", .4 ); // blue 5
 
-   	    loadGPXFileIntoGoogleMap( map, "gpx/HOME2MOM20181031gpx", "#ff0000", .4 ); // red 6
+   	    loadGPXFileIntoGoogleMap( map, "gpx/HOME2MOM20181031.gpx", "#ff0000", .4 ); // red 6
 
 	    //loadGPXFileIntoGoogleMap( map, "gpx/kornati.gpx" );
 	} );
