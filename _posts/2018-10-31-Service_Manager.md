@@ -39,12 +39,13 @@ tags:     [microFocus, hpe, hp, service manager, sm, how to]
 
 <h2><a href="#process-designer">Process Designer</a></h2>
 <h3><a href="#fázisok-ás-átmenetek-létrehozásának-trükkjei">Fázisok ás átmenetek létrehozásának trükkjei</a></h3>
-<h3><a href="#alapértékek-és-kitöltések-ellenőrzése-[rule-sets]">Alapértékek és kitöltések ellenőrzése [Rule Sets]</a></h3>
+<h3><a href="#alapértékek-és-kitöltések-ellenőrzése-rule-sets">Alapértékek és kitöltések ellenőrzése [Rule Sets]</a></h3>
 <h3><a href="#lista-ellenőrzése-egy-globális-lista-alapján">Lista ellenőrzése egy globális lista alapján</a></h3>
+<h3><a href="#globális-szabályok-egy-munkafolyamatra">Globális szabályok egy munkafolyamatra</a></h3>
 <h3><a href="#mentés-előtti-mező-kitöltöttség-ellenőrzése">Mentés előtti mező kitöltöttség ellenőrzése</a></h3>
 <h3><a href="#dátum-összehasonlítása-és-ellenőrzése">Dátum összehasonlítása és ellenőrzése</a></h3>
 <h3><a href="#időzített-fázisátmenetek-és-ellenőrzésük">Időzített fázisátmenetek és ellenőrzésük</a></h3>
-<h3><a href="#globális-szabályok-egy-munkafolyamatra">Globális szabályok egy munkafolyamatra</a></h3>
+<h3><a href="#backend-transition">Backend transition</a></h3>
 <h3><a href="#más-tábla-alapján-történő-ellenőrzés">Más tábla alapján történő ellenőrzés</a></h3>
 <h3><a href="#operátor-rekord-email-címe-alapján-ellenőrzés,-javascript,-debug">Operátor rekord email címe alapján ellenőrzés, javascript, debug</a></h3>
 <h3><a href="#jóváhagyások">Jóváhagyások</a></h3>
@@ -191,9 +192,11 @@ Ide már korábban összeszedtem az összes gyári command-ot: [link](SM_command
 
 <img class="shadow" src="images/sm/poweruser2.png">
 
+<img class="shadow" src="images/sm/poweruser3_web.png">
+
 ### Jelszóváltoztatás
 
-command(operator) majd meg kell keresni a felhasználót és a második fülün lehet a jelszavát megváltoztatni:
+command( operator ) majd meg kell keresni a felhasználót és a második fülün lehet a jelszavát megváltoztatni:
 
 <img class="shadow" src="images/sm/password1.png">
 
@@ -207,7 +210,7 @@ Az ikonok itt találhatóak: [link](https://docs.microfocus.com/SM/9.51/Hybrid/C
 
 #### Hogyan kell megtalálni egy menüt
 
-command(db, menu)
+command( db, menu )
 
 **Menu Navigation:** System Administration - Tailoring - Tailoring Tools - Menus
 
@@ -254,25 +257,31 @@ Amit tudni fog az az, hogy meg lehet keresni egy globális lista változója vag
 
 Ehhez kell majd nekünk:
 
-- egy form command(fd, _flex.global.list.entry), ez lesz végül majd a kereső és a megjelenítő form is, amikor ilyet keresünk: _flex.global.list.entry
+- egy form command( fd, _flex.global.list.entry ), ez lesz végül majd a kereső és a megjelenítő form is, amikor ilyet keresünk: _flex.global.list.entry
 
 <img class="shadow" src="images/sm/fd_globallists_form.png">
 
-- egy qbe form command(fd, _flex.globallist.qbe.g) (ennek most sok jelentősége még nincs, mert csak a PopUp részeken van/lesz egyelőre szerepe)
+- egy qbe form command( fd, _flex.globallist.qbe.g ) (ennek most sok jelentősége még nincs, mert csak a PopUp részeken van/lesz egyelőre szerepe)
 
 majd ezeken kívül kell még:
 
-- egy format control command(fc, _flex.global.list.entry) is, ami a form-unkon ki fog tölteni egy "mezőt" ($flex.hidden thread változó), és ha az én form-omat hasznájuk a kereséskor akkor, egy display option (Object Definition - Default State Definition - Display Application Screen Definition, global.view) végül ki fogja majd értékelni és az alapján a keresési eredményt majd ugyanebben form-ban megjeleníteni a gyári helyett.
+- egy format control command( fc, _flex.global.list.entry ) is, ami a form-unkon ki fog tölteni egy "mezőt" ($flex.hidden thread változó), és ha az én form-omat hasznájuk a kereséskor akkor, egy display option (Object Definition - Default State Definition - Display Application Screen Definition, global.view) végül ki fogja majd értékelni és az alapján a keresési eredményt majd ugyanebben form-ban megjeleníteni a gyári helyett.
 
 <img class="shadow" src="images/sm/fd_globallists_fc1.png">
 
 <img class="shadow" src="images/sm/fd_globallists_fc2.png">
+
+Web-es felületen:
+
+<img class="shadow" src="images/sm/fd_globallists_fc2_web.png">
 
 <img class="shadow" src="images/sm/fd_globallists_object.png">
 
 <img class="shadow" src="images/sm/fd_globallists_state.png">
 
 <img class="shadow" src="images/sm/fd_globallists_display_screen.png">
+
+<img class="shadow" src="images/sm/fd_globallists_display_screen_web.png">
 
 ```
 if (nullsub($flex.hidden, "X")~="OK") then ($L.format="apm.global.list.entry") else ($L.format="_flex.global.list.entry")
@@ -403,15 +412,48 @@ value="Rrrrisk ass"
 
 A globálislista kiválasztásánal nem magát a globális lista változóját kell megadni, hanem a nevét. Ezt a legkönnyebben a Globális lista változójának kinyerése (vastag kliens, Forms Designer) után a Globallist táblából lehet kinyerni vagy a fent kszített másik Form segítségével: [link](#forms-designer)
 
-### Mentés előtti mező kitöltöttség ellenőrzése
+### Globális szabályok egy munkafolyamatra
+
+<img class="shadow" src="images/sm/workflow_based_global_rule_on_exit.png">
+
+<img class="shadow" src="images/sm/workflow_based_global_rules.png">
+
+### Mentés / kilépés (on Exit) előtti mező kitöltöttség ellenőrzése
+
+<img class="shadow" src="images/sm/workflow_based_global_rule_mandatory.png">
 
 ### Dátum összehasonlítása és ellenőrzése
 
+<img class="shadow" src="images/sm/workflow_rule_data_comparision.png">
+
 ### Időzített fázisátmenetek és ellenőrzésük 
 
-### Globális szabályok egy munkafolyamatra
+Ezekre azért lehet szükség, mert előfordulhat olyan helyzet, amikor úgy akarunk módosítást végezni egy tábla egy rekordján, hogy nem tudjuk nem lock-olta e már valaki a rekordot.
+
+<img class="shadow" src="images/sm/workflow_rule_scheduled_action1.png">
+
+<img class="shadow" src="images/sm/workflow_rule_scheduled_action2.png">
+
+<img class="shadow" src="images/sm/workflow_rule_scheduled_action3.png">
+
+```javascript
+var start           = new Date();
+actionExecutionTime = new Date( start.getFullYear(), start.getMonth(), start.getDate(), start.getHours(), start.getMinutes() + 2, start.getSeconds() );
+```
+
+Az ilyen scheduled action-öket a command( scheulde ) vagy command( db, schedule, schedule ) parancs segítségével lehet a legkönyebben nyomonkövetni:
+
+<img class="shadow" src="images/sm/workflow_scheduled_events.png">
+
+### Backend transition
+
+Ennek a segítségével lehet egy munkafolyamatot egy a munkafolyamattól teljesen független fázisba mozgatni:
+
+<img class="shadow" src="images/sm/workflow_rule_backend_transition.png">
 
 ### Más tábla alapján történő ellenőrzés
+
+<img class="shadow" src="images/sm/workflow_rule_against_table.png">
 
 ### Operátor rekord email címe alapján ellenőrzés, javascript, debug
 
@@ -432,6 +474,8 @@ else {
 ```
 
 ### Jóváhagyások
+
+
 
 ### Új változáskezelési kategória felvétele
 
