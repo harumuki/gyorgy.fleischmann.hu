@@ -96,7 +96,7 @@ Ahogyan azt már itt <a href="timeline.html">itt</a> leírtam, szépen lassan gy
 
 Instrumental
 
-<strong>2. Zero and One (spoken word)</strong> (<a id="seekTo_2">2:40</a>)
+<strong>2. Zero and One (spoken word)</strong> (<a class="hvr-buzz-out" id="seekTo_2">2:40</a>)
 
 Good evening. Now, now I'm no mathematician, but I'd like to talk about a just couple of numbers that have really been bothering me lately. And they are zero and one. Now first, let's take a look at zero. Now nobody wants to be a zero. To be a zero means to be a nothing, a nobody, a has-been, a clod.
 On the other hand, almost everybody wants to be number one. To be a number one means to be a winner, top of the heap, the acme. And there seems to be a strange kind of national obsession with this particular number.
@@ -107,7 +107,7 @@ Because, because what we are actually looking at here are the building blocks of
 
 And can be counted like this. And 0 and 1. And 0 and 1...
 
-<strong>3. Excellent Birds</strong> (<a id="seekTo_3">5:55</a>)
+<strong>3. Excellent Birds</strong> (<a class="hvr-buzz-out" id="seekTo_3">5:55</a>)
 
 Flying birds. Excellent birds. Watch them fly. There they go.
 Falling snow. Excellent snow. Here it comes. Watch it fall.
@@ -135,15 +135,15 @@ I see pictures of people. They're watching out. They're watching out.
 I see pictures of people. Watching. Watch out. They're watching. 
 I see pictures of people. Watching out. Watch out.
 
-<strong>4. Old Hat (spoken word)</strong> (<a id="seekTo_4">10:14</a>)
+<strong>4. Old Hat (spoken word)</strong> (<a class="hvr-buzz-out" id="seekTo_4">10:14</a>)
 
 ?
 
-<strong>5. Drum Dance (instrumental)</strong> (<a id="seekTo_5">11:22</a>)
+<strong>5. Drum Dance (instrumental)</strong> (<a class="hvr-buzz-out" id="seekTo_5">11:22</a>)
 
 Instrumental
 
-<strong>6. Smoke Rings</strong> (<a id="seekTo_6">12:20</a>)
+<strong>6. Smoke Rings</strong> (<a class="hvr-buzz-out" id="seekTo_6">12:20</a>)
 
 Standby.
 You're on the air.
@@ -208,11 +208,11 @@ Track you down.
 Doo doo doo doo doo. Doo doo doo doo doo.
 Doo doo doo doo doo. Doo doo doo doo doo.
 
-<strong>7. Late Show (instrumental with vocal sample by William S. Burroughs)</strong> (<a id="seekTo_7">20:12</a>)
+<strong>7. Late Show (instrumental with vocal sample by William S. Burroughs)</strong> (<a class="hvr-buzz-out" id="seekTo_7">20:12</a>)
 
 L-L-L L-L-Listen Listen T- L-L- Listen to my hearbeat.
 
-<strong>8. White Lily (spoken word)</strong> (<a id="seekTo_8">24:44</a>)
+<strong>8. White Lily (spoken word)</strong> (<a class="hvr-buzz-out" id="seekTo_8">24:44</a>)
 
 What Fassbinder film is it?
 The one-armed Man walks into a flower shop and says:
@@ -226,7 +226,7 @@ Endlessly pulling you Into the future.
 And the florist says:
 White Lily.
 
-<strong>9. Sharkey's Day</strong> (<a id="seekTo_9">26:06</a>)
+<strong>9. Sharkey's Day</strong> (<a class="hvr-buzz-out" id="seekTo_9">26:06</a>)
 
 Sun's coming up. Like a big bald head
 Poking up over the grocery store
@@ -317,19 +317,19 @@ On top of Old Smokey all covered with snow
 That's where I wanna, that's where I'm gonna
 That's where I'm gonna go
 
-<strong>10. How to Write (instrumental with spoken word introduction by Won-sang Park)</strong> (<a id="seekTo_10">32:30</a>)
+<strong>10. How to Write (instrumental with spoken word introduction by Won-sang Park)</strong> (<a class="hvr-buzz-out" id="seekTo_10">32:30</a>)
 
 ?
 
-<strong>11. Kokoku</strong> (<a id="seekTo_11">37:58</a>)
+<strong>11. Kokoku</strong> (<a class="hvr-buzz-out" id="seekTo_11">37:58</a>)
 
 ?
 
-<strong>12. Radar (instrumental with wordless vocalizations by Anderson)</strong> (<a id="seekTo_12">45:06</a>)
+<strong>12. Radar (instrumental with wordless vocalizations by Anderson)</strong> (<a class="hvr-buzz-out" id="seekTo_12">45:06</a>)
 
 Instrumental
 
-<strong>13. Gravity's Angel</strong> (<a id="seekTo_13">48:28</a>)
+<strong>13. Gravity's Angel</strong> (<a class="hvr-buzz-out" id="seekTo_13">48:28</a>)
 
 You can dance. You can make me laugh. You've got x-ray eyes
 You know how to sing. You're a diplomat. You've got it all
@@ -366,7 +366,7 @@ And there's your book. And there's your pen, sitting on the table
 Why these mountains? Why this sky? This long road? This empty room?
 Why these mountains? Why this sky? This long road. This empty room
 
-<strong>14. Langue d'amour</strong> (<a id="seekTo_14">55:42</a>)
+<strong>14. Langue d'amour</strong> (<a class="hvr-buzz-out" id="seekTo_14">55:42</a>)
 
 Let's see. Uh..
 It was on an island. And there was this snake
@@ -423,7 +423,7 @@ Voici le langage de l'amour
 Voici le langage dans mon coeur
 Voici le langage dans mon coeur
 
-<strong>15. Talk Normal</strong> (<a id="seekTo_15">1:01:59</a>)
+<strong>15. Talk Normal</strong> (<a class="hvr-buzz-out" id="seekTo_15">1:01:59</a>)
 
 I don't know about your dreams
 But mine are sort of hackneyed.
@@ -472,7 +472,7 @@ Look at me! Look at me!
 Look at me! Look at me!
 Look at me! Look at me!
 
-<strong>16. Difficult Listening Hour (spoken word)</strong> (<a id="seekTo_16">1:11:20</a>)
+<strong>16. Difficult Listening Hour (spoken word)</strong> (<a class="hvr-buzz-out" id="seekTo_16">1:11:20</a>)
 
 Good evening. Welcome to Difficult Listening Hour. The spot on your dial for that relentless and impenetrable sound of Difficult Music (Music). So sit bolt upright in that straight-backed chair (Music), button that top button (Music), and get set for some difficult music
 
@@ -487,7 +487,7 @@ Ooola. And he said: Now, I'm the Soul Doctor, and you know, language is a virus 
 
 And hearing your name is better than seeing your face
 
-<strong>17. Language Is a Virus</strong> (<a id="seekTo_17">1:14:44</a>)
+<strong>17. Language Is a Virus</strong> (<a class="hvr-buzz-out" id="seekTo_17">1:14:44</a>)
 
 Paradise
 Is exactly like
@@ -579,7 +579,7 @@ Paradise is exactly like
 Where you are right now
 Only much much better
 
-<strong>18. Sharkey's Night</strong> (<a id="seekTo_18">1:21:00</a>)
+<strong>18. Sharkey's Night</strong> (<a class="hvr-buzz-out" id="seekTo_18">1:21:00</a>)
 
 Sun's going down like a big bald head
 Disappearing behind the boulevard
@@ -598,7 +598,7 @@ And Sharkey says, "Deep in the heart of darkest America, home of the brave."
 He says: "Listen to my heart beat."
 Paging Mr. Sharkey, white courtesy telephone please
 
-<strong>19. Credit Racket (instrumental)</strong> (<a id="seekTo_19">1:27:37</a>)﻿
+<strong>19. Credit Racket (instrumental)</strong> (<a class="hvr-buzz-out" id="seekTo_19">1:27:37</a>)﻿
 </pre>
 <a href="#top">⬆</a></center></div>
 
