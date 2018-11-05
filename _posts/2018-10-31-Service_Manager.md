@@ -49,6 +49,7 @@ tags:     [microFocus, hpe, hp, service manager, sm, how to]
 <h3><a href="#más-tábla-alapján-történő-ellenőrzés">Más tábla alapján történő ellenőrzés</a></h3>
 <h3><a href="#operátor-rekord-email-címe-alapján-ellenőrzés,-javascript,-debug">Operátor rekord email címe alapján ellenőrzés, javascript, debug</a></h3>
 <h3><a href="#jóváhagyások">Jóváhagyások</a></h3>
+<h3><a href="#Értesítések">Értesítések</a></h3>
 <h3><a href="#Új-változáskezelési-kategória-felvétele">Új változáskezelési kategória felvétele</a></h3>
 <h3><a href="#workflow-export">Workflow export</a></h3>
 <h3><a href="#workflow-import">Workflow import</a></h3>
@@ -475,7 +476,40 @@ else {
 
 ### Jóváhagyások
 
+Ha azt szeretnénk, hogy egy fázisátmenet csak akkor történhessem meg, ha már egy állapotban bizonyos feltételek mellett jóvá lett hagyva a folyamat, akkor abban a fázisban definiálni kell a megkövetelt jöváhagyásokat és még egy feltételhez is kell kötnünk az új fázisba történő lépést, hogy addig amig nem történik meg a teljes jóváhagyás, addig a gomb ne is jelenjen meg! Itt egy egyszerű példa erre a fázisátmenet feltételre:
 
+<img class="shadow" src="images/sm/workflow_approve_condition.png">
+
+**All must approve** All members of the group must approve the request. (A csoport minden tagjának jóvá kell hagynia a kérelmet.)
+**One must approve** Only one member must approve the request. (Csak egy tagnak kell jóváhagynia a kérelmet.)
+**Quorum** A majority of the approval group must approve the request. (A jóváhagyó csoport többségének kell jóváhagynia a kérelmet.)
+**All must approve - immediate denial** All approvers must approve the request. The first denial causes the status to change to Deny. Other approvers do not need to take any action. (Minden jóváhagyónak jóvá kell hagynia a kérelmet. Az első visszautasítás után az állapot megszakad. Az egyéb jóváhagyóknak nem kell már intézkedniük.)
+**One must approve by sequence approval level** When this option is selected, the following behavior applies (Ha ezt az opciót választjuk, akkor a következő viselkedés lesz érvényes):
+- When a sequence is defined with a group of approvers, if one approver approves the request, the entire sequence is approved and the request is passed to the next sequence for approval. Only when all sequences are approved, the request is approved. (Ha egy szekvenciát jóváhagyók csoportjával definiálnak és ha egy jóváhagyó jóváhagyja a kérést, akkor a teljes sorozatot jóváhagyták, és a kérést a következő sorrendre továbbítja jóváhagyásra. Csak akkor lesz a kérelmet teljesen jóváhagyva, ha az összes szekvenciát jóváhagyták már.)
+- Only when all approvers for a sequence have denied the request, the entire sequence is denied. If one sequence is denied, the request is denied.
+(A kérés csak akkor lesz visszautasítva, ha egy szekvencia minden jóváhagyója megtagadta a kérést. Így ha egy szekvenciát elutasítanak, a kérés jóváhagyása meg lesz tagadva.)
+
+([forrás](https://docs.microfocus.com/itom/Service_Management_Automation_-_SM:2018.02/change/concepts/what_is_an_approval_type))
+
+command( db, Approval, Approval )
+
+<img class="shadow" src="images/sm/workflow_approve1.png">
+
+<img class="shadow" src="images/sm/workflow_approve2.png">
+
+<img class="shadow" src="images/sm/workflow_approve3.png">
+
+<img class="shadow" src="images/sm/workflow_approve4.png">
+
+<img class="shadow" src="images/sm/workflow_approve5.png">
+
+<img class="shadow" src="images/sm/workflow_approve6.png">
+
+### Értesítések
+
+command( db, notification )
+
+command( db, htmltemplates )
 
 ### Új változáskezelési kategória felvétele
 
