@@ -74,7 +74,9 @@ A tesztrendszer WEB felületét itt lehet elérni: [http://mysmdev:8080/sm/index
 
 #### 1. Oracle DB
 
-<pre class="terminal"><strong style="color: #00FF00;">[oracle@oracle01 ~]$</strong> lsnrctl start
+<pre class="terminal"><strong style="color: #00FF00;">[root@oracle01 ~]$</strong> su - oracle
+
+<strong style="color: #00FF00;">[oracle@oracle01 ~]$</strong> lsnrctl start
 
 LSNRCTL for Linux: Version 12.1.0.2.0 - Production on 08-OCT-2018 10:30:05
 
