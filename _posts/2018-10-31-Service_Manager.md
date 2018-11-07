@@ -125,6 +125,10 @@ Starting sm system.start</pre>
 
 Az SM logja az: /opt/MicroFocus/ServiceManager9.60/Server/logs/ könyvtárban található **sm.log** néven UN*X-okon és a "C:\Program Files (x86)\HP\Service Manager 9.40\Server\logs" könyvtárban Microsoft Windows-on.
 
+##### Service Manager Runtime commands (sm)
+
+[link](https://docs.microfocus.com/SM/9.41/Classic/Content/troubleshooting/sm_doctor/SM_Runtime_commands.htm)
+
 #### 3. Az alkalmazás szerver elindítása
 
 Ha nem indulna magától, akkor:

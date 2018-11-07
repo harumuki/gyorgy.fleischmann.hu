@@ -55,7 +55,7 @@ a:hover      { color: blue;  text-decoration: none; }
 strong { color: $strong-color; }
 
 ::selection {
-  background: rgb(250, 240, 20);
+  background: rgb(255, 255, 10);
   text-shadow: none;
 }
                     
@@ -338,6 +338,11 @@ hr.gradientstyle {
 
   margin-bottom: 0.5em;
 }
+.post pre.terminal::selection {
+  background: #00ff00;
+  text-shadow: none;
+  color: black;
+}
 
 .post pre.terminal a, .post pre.terminal a:hover, .post pre.terminal a:visited {
   background-color: #333;
@@ -346,6 +351,11 @@ hr.gradientstyle {
 
 .post pre.terminal strong {
   color: #17ff00;
+}
+.post pre.terminal strong::selection {
+  background: #00ff00;
+  text-shadow: none;
+  color: black;
 }
 
 .shadow {
