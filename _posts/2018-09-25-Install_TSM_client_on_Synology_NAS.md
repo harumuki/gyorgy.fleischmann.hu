@@ -4,7 +4,7 @@ title:    How to install IBM TSM BA client on a Synology NAS
 author:   flex
 comments: true
 category: How to guides, tips and tricks / útmutatók, tippek és trükkök
-tags:     [ibm, tivoli storage manager, tsm, spectrum proetect, sp, symology, nas, install, how to]
+tags:     [ibm, tivoli storage manager, tsm, spectrum proetect, sp, synology, nas, install, how to]
 ---
 
 1st you must have an x86 CPU based Synology NAS model! (I tested it on my DS916+ which has an [INTEL Pentium N3710](https://ark.intel.com/products/91830/Intel-Pentium-Processor-N3710-2M-Cache-up-to-2_56-GHz).)
