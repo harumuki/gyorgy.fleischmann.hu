@@ -22,9 +22,9 @@ tags:     [microFocus, hpe, hp, service manager, sm, how to]
 <h3><a href="#kontextus-érzékeny-segítség-bekapcsolása">Kontextus-érzékeny segítség bekapcsolása</a></h3>
 <h3><a href="#ikonok">Ikonok</a></h3>
 <h3><a href="#parancsrövidítések">Parancsrövidítések</a></h3>
-<h3><a href="#Új-power-user-létrehozása">Új power user létrehozása</a></h3>
+<h3><a href="#új-power-user-létrehozása">Új power user létrehozása</a></h3>
 <h3><a href="#jelszóváltoztatás">Jelszóváltoztatás</a></h3>
-<h3><a href="#Új-menük-készítése--hozzá-parancsok">Új menük készítése + hozzá parancsok</a></h3>
+<h3><a href="#új-menük-készítése--hozzá-parancsok">Új menük készítése + hozzá parancsok</a></h3>
 <h4>&nbsp;<a href="#hogyan-kell-megtalálni-egy-menüt">Hogyan kell megtalálni egy menüt</a></h4>
 <h4>&nbsp;<a href="#hogyan-kell-létrezhoni-a-fában">Hogyan kell létrezhoni a fában</a></h4>
 <h4>&nbsp;<a href="#egy-megadott-form-megnyitása">Egy megadott form megnyitása</a></h4>
