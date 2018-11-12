@@ -1,0 +1,45 @@
+---
+layout: post
+status: publish
+published: true
+title: J. R. dos Santos - AZ ISTENI FORMULA (1nek j&Atilde;&sup3;)
+author:
+  display_name: flex
+  login: flex
+  email: gyorgy@fleischmann.hu
+  url: http://www.fleischmann.hu/
+author_login: flex
+author_email: gyorgy@fleischmann.hu
+author_url: http://www.fleischmann.hu/
+wordpress_id: 260
+wordpress_url: http://fleischmann.hu/wp/?p=260
+date: '2010-07-12 19:14:35 +0200'
+date_gmt: '2010-07-12 18:14:35 +0200'
+categories:
+- blog
+- book
+tags: []
+comments: []
+---
+<p><a href="http://fleischmann.hu/wp/store/2010/07/J.R.dos_.Santos-AzIsteniFormula-BOOK-cover.jpg"><img src="wp/store/2010/07/J.R.dos_.Santos-AzIsteniFormula-BOOK-cover.jpg" alt="" title="J.R.dos.Santos-AzIsteniFormula [BOOK cover]" width="243" height="355" class="alignleft size-full wp-image-261" /></a><strong>A T&Atilde;&ndash;RT&Atilde;&permil;NET</strong><br />
+Princeton, 1951 tavasza. A v&Atilde;&iexcl;ros eldugott kis utc&Atilde;&iexcl;j&Atilde;&iexcl;ban elrejt&Atilde;&micro;zve egy titokzatos f&Atilde;&copy;rfi figyeli a k&Atilde;&para;rny&Atilde;&copy;ket. &Atilde;&permil;pp egy aut&Atilde;&sup3; &Atilde;&copy;rkezik rend&Atilde;&micro;rs&Atilde;&copy;gi k&Atilde;&shy;s&Atilde;&copy;rettel, &Atilde;&copy;s egy nem t&Atilde;&ordm;l felt&Atilde;&raquo;n&Atilde;&micro; h&Atilde;&iexcl;z el&Atilde;&micro;tt &Atilde;&iexcl;ll meg. A kocsib&Atilde;&sup3;l &Atilde;&micro;sz haj&Atilde;&ordm; id&Atilde;&micro;s f&Atilde;&copy;rfi sz&Atilde;&iexcl;ll ki, egy hasonl&Atilde;&sup3; kor&Atilde;&ordm; ember l&Atilde;&copy;p hozz&Atilde;&iexcl;, &Atilde;&copy;s melegen &Atilde;&frac14;dv&Atilde;&para;zli. Az &Atilde;&iexcl;rny&Atilde;&copy;kb&Atilde;&sup3;l figyel&Atilde;&micro; alak a CIA embere. Munkat&Atilde;&iexcl;rsa a k&Atilde;&para;zel&Atilde;&copy;ben r&Atilde;&para;gz&Atilde;&shy;ti a h&Atilde;&iexcl;z k&Atilde;&para;r&Atilde;&frac14;l zajl&Atilde;&sup3; esem&Atilde;&copy;nyeket, a besz&Atilde;&copy;lget&Atilde;&copy;st, amely a nemr&Atilde;&copy;g &Atilde;&copy;rkezett izraeli minisztereln&Atilde;&para;k, David Ben-Gurion &Atilde;&copy;s a vil&Atilde;&iexcl;gh&Atilde;&shy;r&Atilde;&raquo; tud&Atilde;&sup3;s, Albert Einstein k&Atilde;&para;z&Atilde;&para;tt zajlik.</p>
+<p>A t&Atilde;&copy;ma a nukle&Atilde;&iexcl;ris fegyverkez&Atilde;&copy;s &Atilde;&copy;s Isten l&Atilde;&copy;tez&Atilde;&copy;se. A h&Atilde;&shy;res k&Atilde;&sup3;dfejt&Atilde;&micro;, a kriptoanal&Atilde;&shy;zis szak&Atilde;&copy;rt&Atilde;&micro;je, Tom&Atilde;&iexcl;s Noronha t&Atilde;&para;rt&Atilde;&copy;n&Atilde;&copy;sz a kair&Atilde;&sup3;i Egyiptomi M&Atilde;&ordm;zeum el&Atilde;&micro;tt v&Atilde;&iexcl;rakozik, amikor hozz&Atilde;&iexcl;l&Atilde;&copy;p egy vonz&Atilde;&sup3;, s&Atilde;&para;t&Atilde;&copy;t haj&Atilde;&ordm; n&Atilde;&micro;, &Atilde;&copy;s eb&Atilde;&copy;dre h&Atilde;&shy;vja a muszlim negyedbe. A h&Atilde;&para;lgy ir&Atilde;&iexcl;ni, a neve Ariana Pakravan. Eb&Atilde;&copy;d k&Atilde;&para;zben a titokzatos idegen megb&Atilde;&shy;zza Tom&Atilde;&iexcl;st egy kriptogram megfejt&Atilde;&copy;s&Atilde;&copy;vel. A rejtjeles sz&Atilde;&para;veget tartalmaz&Atilde;&sup3; dokumentumot Teher&Atilde;&iexcl;nban &Atilde;&micro;rzik. A dokumentumr&Atilde;&sup3;l kider&Atilde;&frac14;l, hogy Albert Einstein k&Atilde;&copy;zirata, &Atilde;&copy;s annyira rendk&Atilde;&shy;v&Atilde;&frac14;li, hogy megfejt&Atilde;&copy;se val&Atilde;&sup3;sz&Atilde;&shy;n&Atilde;&raquo;leg az eg&Atilde;&copy;sz vil&Atilde;&iexcl;got l&Atilde;&iexcl;zba hozza. A k&Atilde;&copy;zirat c&Atilde;&shy;me: Die Gottesformel. </p>
+<p>Az isteni formula. Miel&Atilde;&micro;tt Tom&Atilde;&iexcl;s Teher&Atilde;&iexcl;nba indulna, a lisszaboni amerikai kultur&Atilde;&iexcl;lis attas&Atilde;&copy; megbesz&Atilde;&copy;l&Atilde;&copy;sre h&Atilde;&shy;vja az amerikai k&Atilde;&para;vets&Atilde;&copy;gre. Ott a tud&Atilde;&sup3;s egy CIA-alkalmazottal tal&Atilde;&iexcl;lkozik, aki figyelmezteti, hogy a sz&Atilde;&sup3;ban forg&Atilde;&sup3; Einstein-k&Atilde;&copy;zirat tulajdonk&Atilde;&copy;ppen egy k&Atilde;&para;nnyed&Atilde;&copy;n el&Atilde;&micro;&Atilde;&iexcl;ll&Atilde;&shy;that&Atilde;&sup3; atombomba &acirc;&euro;žreceptje&acirc;&euro;, amelyet sok &Atilde;&copy;vvel kor&Atilde;&iexcl;bban az izraeli minisztereln&Atilde;&para;k rendelt meg a tud&Atilde;&sup3;st&Atilde;&sup3;l. Szeretn&Atilde;&copy;k megakad&Atilde;&iexcl;lyozni, hogy Ir&Atilde;&iexcl;n atomfegyvert &Atilde;&iexcl;ll&Atilde;&shy;tson el&Atilde;&micro;. Tom&Atilde;&iexcl;st b&Atilde;&shy;zz&Atilde;&iexcl;k meg a feladattal, hogy az ir&Atilde;&iexcl;niakkal egy&Atilde;&frac14;ttm&Atilde;&raquo;k&Atilde;&para;dve kider&Atilde;&shy;tse a k&Atilde;&copy;zirat pontos tartalm&Atilde;&iexcl;t.</p>
+<p>Miut&Atilde;&iexcl;n Teher&Atilde;&iexcl;nba &Atilde;&copy;rkezik, Tom&Atilde;&iexcl;s felfedezi, hogy a n&Atilde;&copy;met&Atilde;&frac14;l &Atilde;&shy;rt k&Atilde;&copy;zirat tal&Atilde;&iexcl;nyok sokas&Atilde;&iexcl;g&Atilde;&iexcl;t rejti. Az els&Atilde;&micro; egy k&Atilde;&frac14;l&Atilde;&para;n&Atilde;&para;s, komor hangulat&Atilde;&ordm; n&Atilde;&copy;gysoros vers:</p>
+<p><tt>Terra if fin<br />
+De terrors tight<br />
+Sabbath fore<br />
+Christ nite</tt></p>
+<p>Tov&Atilde;&iexcl;bb elemezve a k&Atilde;&copy;ziratot Tom&Atilde;&iexcl;s r&Atilde;&iexcl;d&Atilde;&para;bben, hogy Einstein m&Atilde;&raquo;ve sokkal m&Atilde;&copy;lyebb tartalmakat rejthet, mint amir&Atilde;&micro;l a megb&Atilde;&shy;z&Atilde;&iexcl;sa sz&Atilde;&sup3;l. A lassan k&Atilde;&para;rvonalaz&Atilde;&sup3;d&Atilde;&sup3; megold&Atilde;&iexcl;s minden k&Atilde;&copy;pzelet&Atilde;&copy;t fel&Atilde;&frac14;lm&Atilde;&ordm;lja. Einstein utols&Atilde;&sup3; &Atilde;&frac14;zenet&Atilde;&copy;nek rejt&Atilde;&copy;lye nemcsak &Atilde;&micro;t sodorja vesz&Atilde;&copy;lybe, de az eg&Atilde;&copy;sz emberis&Atilde;&copy;get is nukle&Atilde;&iexcl;ris v&Atilde;&iexcl;ls&Atilde;&iexcl;ggal fenyegetheti.<br />
+A f&Atilde;&para;ldkereks&Atilde;&copy;g legnagyobb rejt&Atilde;&copy;ly&Atilde;&copy;nek megfejt&Atilde;&copy;s&Atilde;&copy;re bukkant.<br />
+Isten l&Atilde;&copy;tez&Atilde;&copy;s&Atilde;&copy;nek tudom&Atilde;&iexcl;nyos bizony&Atilde;&shy;t&Atilde;&copy;k&Atilde;&iexcl;ra. </p>
+<p>Az isteni formula a v&Atilde;&copy;gs&Atilde;&micro; igazs&Atilde;&iexcl;g keres&Atilde;&copy;s&Atilde;&copy;r&Atilde;&micro;l sz&Atilde;&sup3;l&Atilde;&sup3; lebilincsel&Atilde;&micro; t&Atilde;&para;rt&Atilde;&copy;net, melynek sor&Atilde;&iexcl;n Tom&Atilde;&iexcl;s &Atilde;&copy;s Ariana kalandos utaz&Atilde;&iexcl;sra h&Atilde;&shy;vja az olvas&Atilde;&sup3;t Kair&Atilde;&sup3;t&Atilde;&sup3;l Lh&Atilde;&iexcl;sz&Atilde;&iexcl;ig, Princetont&Atilde;&sup3;l Teher&Atilde;&iexcl;nig, Coimbr&Atilde;&iexcl;t&Atilde;&sup3;l Sigac&Atilde;&copy;ig.</p>
+<p>A reg&Atilde;&copy;nyben az izgalmas szellemi &Atilde;&ordm;tkeres&Atilde;&copy;s sor&Atilde;&iexcl;n tudom&Atilde;&iexcl;ny &Atilde;&copy;s vall&Atilde;&iexcl;s, Einstein &Atilde;&copy;s Isten misztikus tal&Atilde;&iexcl;lkoz&Atilde;&iexcl;s&Atilde;&iexcl;nak lehet&Atilde;&frac14;nk tan&Atilde;&ordm;i. A cselekm&Atilde;&copy;ny cs&Atilde;&ordm;cspontja az univerzum legrejt&Atilde;&copy;lyesebb &Atilde;&copy;s legnehezebben felfoghat&Atilde;&sup3; titk&Atilde;&iexcl;nak megfejt&Atilde;&copy;se.<br />
+Jos&Atilde;&copy; Rodrigues dos Santos a fizika, kozmol&Atilde;&sup3;gia &Atilde;&copy;s matematika leg&Atilde;&ordm;jabb tudom&Atilde;&iexcl;nyos eredm&Atilde;&copy;nyeit, felfedez&Atilde;&copy;seit el&Atilde;&copy;nk t&Atilde;&iexcl;rva meglepet&Atilde;&copy;sekkel teli, leny&Atilde;&raquo;g&Atilde;&para;z&Atilde;&micro; utaz&Atilde;&iexcl;sra h&Atilde;&shy;v. Vissza az id&Atilde;&micro;k kezdet&Atilde;&copy;hez, az univerzum keletkez&Atilde;&copy;s&Atilde;&copy;hez, az &Atilde;&copy;let l&Atilde;&copy;nyeg&Atilde;&copy;hez.<br />
+A szerz&Atilde;&micro; k&Atilde;&para;nnyed st&Atilde;&shy;lusban, k&Atilde;&para;z&Atilde;&copy;rthet&Atilde;&micro;en t&Atilde;&iexcl;rja fel el&Atilde;&micro;tt&Atilde;&frac14;nk az &Atilde;&micro;si kereszt&Atilde;&copy;ny, zsid&Atilde;&sup3;, hindu, buddhista &Atilde;&copy;s taoista sz&Atilde;&para;vegekbe k&Atilde;&sup3;dolt tudom&Atilde;&iexcl;nyos alapt&Atilde;&copy;teleket.<br />
+&Atilde;&permil;s v&Atilde;&copy;g&Atilde;&frac14;l, de nem utols&Atilde;&sup3;sorban olyan tudom&Atilde;&iexcl;nyos elm&Atilde;&copy;letek l&Atilde;&copy;nyeg&Atilde;&copy;t ismerhetj&Atilde;&frac14;k meg k&Atilde;&para;nnyed&Atilde;&copy;n &Atilde;&copy;s sz&Atilde;&sup3;rakoztat&Atilde;&sup3;an, mint a relativit&Atilde;&iexcl;selm&Atilde;&copy;let, a kvantummechanika, a k&Atilde;&iexcl;oszelm&Atilde;&copy;let, a nemteljess&Atilde;&copy;gi t&Atilde;&copy;tel, a termodinamika m&Atilde;&iexcl;sodik alapt&Atilde;&copy;tele vagy az antropikus elv.</p>
+<p><em>Az isteni formula.</em></p>
+<p>A nagy kaland csak most kezd&Atilde;&micro;dik.</p>
+<p><a href="http://www.kossuth.hu/index.php?o=konyvek&k=1621">Kossuth Kiad&Atilde;&sup3; zRt.</a></p>
+<p><a href="http://www.kossuth.hu/download/santos_minta.pdf">Minta [.PDF]</a><br />
+<a href="http://www.kossuth.hu/download/santos_interju.pdf">Interj&Atilde;&ordm; [.PDF]</a></p>
