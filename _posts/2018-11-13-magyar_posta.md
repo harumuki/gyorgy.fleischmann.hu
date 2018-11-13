@@ -34,6 +34,8 @@ Nézzük meg a <a href="http://getbootstrap.com/" class="btn btn-default downloa
 	<img alt="Magyar Posta" src="photos/posta/IMG_2726.JPG" data-image="photos/posta/IMG_2726_ORIGINAL.JPG" data-description="Magyar Posta 2018">
 	<img alt="Magyar Posta" src="photos/posta/IMG_2727.JPG" data-image="photos/posta/IMG_2727_ORIGINAL.JPG" data-description="Magyar Posta 2018">
 	<img alt="Magyar Posta" src="photos/posta/IMG_2728.JPG" data-image="photos/posta/IMG_2728_ORIGINAL.JPG" data-description="Magyar Posta 2018">
+	<img alt="Magyar Posta" src="photos/posta/IMG_2778.JPG" data-image="photos/posta/IMG_2778_ORIGINAL.JPG" data-description="Magyar Posta 2018">
+	<img alt="Magyar Posta" src="photos/posta/IMG_2779.JPG" data-image="photos/posta/IMG_2779_ORIGINAL.JPG" data-description="Magyar Posta 2018">
 </div>
 
 <script type="text/javascript"> 
