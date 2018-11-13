@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Heart Rate"
+title:    "Heart Rate 1."
 author:   flex
 category: Health
 comments: true
