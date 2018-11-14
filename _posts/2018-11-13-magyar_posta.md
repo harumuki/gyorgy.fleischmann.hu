@@ -46,9 +46,20 @@ Nézzük meg a <a href="http://getbootstrap.com/" class="btn btn-default downloa
 		tiles_justified_space_between: 25,
 		tiles_col_width:               300,
 		tile_enable_shadow:            true,
+			tile_shadow_h: 			   3,			//position of horizontal shadow
+			tile_shadow_v: 			   3,			//position of vertical shadow
+			tile_shadow_blur: 		   5,			//shadow blur
+			tile_shadow_spread: 	   2,			//shadow spread
+			tile_shadow_color: 		   "#8B8B8B",	//shadow color
+
 		theme_gallery_padding:         0,
-		tiles_type: 				   "justified"
+		tiles_type: 				   "justified",
+
+		gallery_width: 				   "100%",
+		tiles_exact_width: false,
 
 	} ) } );
 										   
 </script>
+
+Egy kicsit összetörte a dolgokat a bootstrap, de ez a galéria megoldás nem rossz.
