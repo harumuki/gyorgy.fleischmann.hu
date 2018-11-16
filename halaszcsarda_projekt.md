@@ -50,6 +50,7 @@ header_spacer: 93
 
 - Tassi Halászcsárda
 - Paksi Halászcsárda
+- Horgásztanya Vendéglő, 2300 Ráckeve, Keszeg sor 6.
 
 - Szegedi Halászcsárda, Budapest
 - Bajai Halászcsárda, Budapest
