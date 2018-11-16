@@ -40,6 +40,7 @@ header_spacer: 93
 - Kigyósi Halászcsárda, 1x
 - Római Platán Étterem
 - Százhalombattai Halászcsárda
+- Dunaföldvári Halászcsárda
 
 <!-- PhotoSwipeGenerator.pl --directory photos/halaszcsarda_projekt/ --filetag _halaszcsarda_projekt --outdir _includes --imgproperty 'class="shadow zoomeffect"' --title 'Halászcsárda Projekt' -->
 
@@ -47,8 +48,8 @@ header_spacer: 93
 
 ## Tervben lévő halászcsárdák:
 
-- Dunaföldvári Halászcsárda
-- Tassi halászcsárda
+- Tassi Halászcsárda
+- Paksi Halászcsárda
 
 - Szegedi Halászcsárda, Budapest
 - Bajai Halászcsárda, Budapest
@@ -88,6 +89,7 @@ header_spacer: 93
 		[ 'Kigyósi Halászcsárda',      		46.8065956, 19.1578603, restaurant_icon ],
 		[ 'Római Platán Étterem',      		47.5694432, 19.0647115, restaurant_icon ],
 		[ 'Százhalombattai Halászcsárda',	47.3105679, 18.9268598, restaurant_icon ],
+		[ 'Dunaföldvári Halászcsárda',		46.8097242, 18.9295942, restaurant_icon ],
 
 		[ 'Révkapu vendéglő',          		45.9929783, 18.6942238 ],
 		[ 'Peppinó pizzéria',		   		45.9903284, 18.6862382 ],
