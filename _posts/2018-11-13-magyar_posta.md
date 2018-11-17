@@ -19,7 +19,8 @@ Nézzük meg a <a href="http://getbootstrap.com/" class="btn btn-default downloa
 <script type='text/javascript' src='unitegallery/themes/tiles/ug-theme-tiles.js'></script> 
 <link rel='stylesheet' href='unitegallery/themes/default/ug-theme-default.css' type='text/css' /> 
 
-<div id="gallery" style="display:none; margin-bottom: .7em;">
+<div class="overridemaxwidthboth">
+<div id="gallery" style="display:none; margin-bottom: .7em; margin-left: 1.5%; margin-right: 1.5%;">
 	<img alt="Magyar Posta" src="photos/posta/IMG_2715.JPG" data-image="photos/posta/IMG_2715_ORIGINAL.JPG" data-description="Magyar Posta 2018">
 	<img alt="Magyar Posta" src="photos/posta/IMG_2716.JPG" data-image="photos/posta/IMG_2716_ORIGINAL.JPG" data-description="Magyar Posta 2018">
 	<img alt="Magyar Posta" src="photos/posta/IMG_2717.JPG" data-image="photos/posta/IMG_2717_ORIGINAL.JPG" data-description="Magyar Posta 2018">
@@ -36,6 +37,7 @@ Nézzük meg a <a href="http://getbootstrap.com/" class="btn btn-default downloa
 	<img alt="Magyar Posta" src="photos/posta/IMG_2728.JPG" data-image="photos/posta/IMG_2728_ORIGINAL.JPG" data-description="Magyar Posta 2018">
 	<img alt="Magyar Posta" src="photos/posta/IMG_2778.JPG" data-image="photos/posta/IMG_2778_ORIGINAL.JPG" data-description="Magyar Posta 2018">
 	<img alt="Magyar Posta" src="photos/posta/IMG_2779.JPG" data-image="photos/posta/IMG_2779_ORIGINAL.JPG" data-description="Magyar Posta 2018">
+</div>
 </div>
 
 <script type="text/javascript"> 
