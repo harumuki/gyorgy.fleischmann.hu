@@ -21,6 +21,7 @@ tags:     [fotó, én, mi, élet]
 
 	.post .post-title { color: white; }
 
+	.masthead-title a 		{ color: white; }
 	.masthead-title a:hover { color: red; }
 
 </style>
