@@ -8,9 +8,24 @@ tags:     [fotó, én, mi, élet]
 
 ---
 
-<link href="css/bootstrap.min.css" rel="stylesheet">
+<style type="text/css">
+	
+	body, p, h1, h2, h3, h4, h5, img, ul, li, div, videocontainer {
+	  background-color: black;
+	  color: white;
+	}
 
-Nézzük meg a <a href="http://getbootstrap.com/" class="btn btn-default download-link">bootstrap.min.css</a>-t és a <a href="http://unitegallery.net" class="btn btn-default download-link">UNITE Gallery</a> fotógaléria megoldást gyorsan ezeken a fotókon:
+	a, a:visited { color: white; }
+
+	a:hover      { color: red; }
+
+	.post .post-title { color: white; }
+
+	.masthead-title a:hover { color: red; }
+
+</style>
+
+Nézzük meg a <a href="http://getbootstrap.com/" class="btn btn-default download-link">bootstrap.min.css</a>-t és a <a href="http://unitegallery.net" class="btn btn-default download-link">UNITE Gallery</a> fotógaléria megoldást gyorsan feketében(!) ezeken a fotókon egy budai postahivatalból:
 
 <script type='text/javascript' src='unitegallery/js/jquery-11.0.min.js'></script>
 <script type='text/javascript' src='unitegallery/js/unitegallery.min.js'></script> 
@@ -20,7 +35,7 @@ Nézzük meg a <a href="http://getbootstrap.com/" class="btn btn-default downloa
 <link rel='stylesheet' href='unitegallery/themes/default/ug-theme-default.css' type='text/css' /> 
 
 <div class="overridemaxwidthboth">
-<div id="gallery" style="display:none; margin-bottom: .7em; margin-left: 1.5%; margin-right: 1.5%;">
+<div id="gallery" style="display:none; margin-bottom: .7em; margin-left: 1.5%; margin-right: 1.5%; margin-top: .5em;">
 	<img alt="Magyar Posta" src="photos/posta/IMG_2715.JPG" data-image="photos/posta/IMG_2715_ORIGINAL.JPG" data-description="Magyar Posta 2018">
 	<img alt="Magyar Posta" src="photos/posta/IMG_2716.JPG" data-image="photos/posta/IMG_2716_ORIGINAL.JPG" data-description="Magyar Posta 2018">
 	<img alt="Magyar Posta" src="photos/posta/IMG_2717.JPG" data-image="photos/posta/IMG_2717_ORIGINAL.JPG" data-description="Magyar Posta 2018">
@@ -64,4 +79,4 @@ Nézzük meg a <a href="http://getbootstrap.com/" class="btn btn-default downloa
 										   
 </script>
 
-Egy kicsit összetörte a dolgokat a bootstrap, de ez a galéria megoldás nem rossz.
+Egy kicsit összekuszálta a dolgokat a bootstrap, ezért ki is kapcsoltam, de ez a galéria megoldás nem rossz.
