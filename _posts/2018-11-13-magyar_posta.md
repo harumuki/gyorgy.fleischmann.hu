@@ -68,7 +68,7 @@ Nézzük meg a <a href="http://getbootstrap.com/" class="btn btn-default downloa
 			tile_shadow_v: 			   3,			//position of vertical shadow
 			tile_shadow_blur: 		   5,			//shadow blur
 			tile_shadow_spread: 	   2,			//shadow spread
-			tile_shadow_color: 		   "#8B8B8B",	//shadow color
+			tile_shadow_color: 		   "#2B2B2B",	//shadow color
 
 		theme_gallery_padding:         0,
 		tiles_type: 				   "justified",
