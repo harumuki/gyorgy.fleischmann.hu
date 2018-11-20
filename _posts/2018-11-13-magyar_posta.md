@@ -12,7 +12,7 @@ tags:     [fotó, én, mi, élet]
 	
 	body, p, h1, h2, h3, h4, h5, img, ul, li, div, videocontainer {
 	  background-color: black;
-	  color: white;
+	  color: white;  
 	}
 
 	a, a:visited { color: white; }
@@ -28,14 +28,15 @@ tags:     [fotó, én, mi, élet]
 
 Nézzük meg a <a href="http://getbootstrap.com/" class="btn btn-default download-link">bootstrap.min.css</a>-t és a <a href="http://unitegallery.net" class="btn btn-default download-link">UNITE Gallery</a> fotógaléria megoldást gyorsan feketében(!) ezeken a fotókon egy budai postahivatalból:
 
-<script type='text/javascript' src='unitegallery/js/jquery-11.0.min.js'></script>
-<script type='text/javascript' src='unitegallery/js/unitegallery.min.js'></script> 
-
 <link rel='stylesheet' href='unitegallery/css/unite-gallery.css' type='text/css' /> 
-<script type='text/javascript' src='unitegallery/themes/tiles/ug-theme-tiles.js'></script> 
 <link rel='stylesheet' href='unitegallery/themes/default/ug-theme-default.css' type='text/css' /> 
 
+<script type='text/javascript' src='unitegallery/js/jquery-11.0.min.js'></script>
+<script type='text/javascript' src='unitegallery/js/unitegallery.min.js'></script> 
+<script type='text/javascript' src='unitegallery/themes/tiles/ug-theme-tiles.js'></script>
+
 <div class="overridemaxwidthboth">
+
 <div id="gallery" style="display:none; margin-bottom: .7em; margin-left: 1.5%; margin-right: 1.5%; margin-top: .5em;">
 	<img alt="Magyar Posta" src="photos/posta/IMG_2715.JPG" data-image="photos/posta/IMG_2715_ORIGINAL.JPG" data-description="Magyar Posta 2018">
 	<img alt="Magyar Posta" src="photos/posta/IMG_2716.JPG" data-image="photos/posta/IMG_2716_ORIGINAL.JPG" data-description="Magyar Posta 2018">
@@ -54,6 +55,7 @@ Nézzük meg a <a href="http://getbootstrap.com/" class="btn btn-default downloa
 	<img alt="Magyar Posta" src="photos/posta/IMG_2778.JPG" data-image="photos/posta/IMG_2778_ORIGINAL.JPG" data-description="Magyar Posta 2018">
 	<img alt="Magyar Posta" src="photos/posta/IMG_2779.JPG" data-image="photos/posta/IMG_2779_ORIGINAL.JPG" data-description="Magyar Posta 2018">
 </div>
+
 </div>
 
 <script type="text/javascript"> 
@@ -74,7 +76,7 @@ Nézzük meg a <a href="http://getbootstrap.com/" class="btn btn-default downloa
 		tiles_type: 				   "justified",
 
 		gallery_width: 				   "100%",
-		tiles_exact_width: false,
+		tiles_exact_width: 			   false,
 
 	} ) } );
 										   

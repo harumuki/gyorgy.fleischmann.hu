@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Nu Shooz: Point Of No Return "
+title:    "Nu Shooz: Point Of No Return"
 author:   flex
 category: Muzax
 comments: false
