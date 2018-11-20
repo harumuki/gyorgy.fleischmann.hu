@@ -14,7 +14,7 @@ A mai napra ez jutott:
 
 {% include jump2lyrics.html HREF="#top" %}
 
-{% include youtube.html ID="YBEPL33bekw" %}
+{% include youtubeTWIN.html ID1="YBEPL33bekw" ID2="Ww9JS8dJ9fY" %}
 
 <!-- break -->
 
