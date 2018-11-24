@@ -8,14 +8,16 @@ tags:     [family]
 
 Boldog szülinapot!
 
+<br style="clear: all;">
+
+{% include jump2lyrics.html HREF="#top" %}
+
 {% include youtube.html ID="yOGD1WkJJok" %}
 
 <!-- break -->
 
-{% include sticky_floating_video.html %}
-
+<a id="top"></a>
 <div id="lyrics"><div class="lyricsheader"><p><center><b>Eurythmics</b>: Miracle of Love (Official Video) (1986)</center></p></div>
-
 <center>
 <pre>
 How many sorrows
@@ -47,4 +49,8 @@ Oh I'll show you something good.
 If you open your heart
 You can make a new start
 When your crumbling world falls apart.
-</pre></center></div>
+</pre>
+<a href="#top">⬆</a></center></div>
+
+<div class="sticky_floating_video"></div>
+{% include sticky_floating_video.html %}

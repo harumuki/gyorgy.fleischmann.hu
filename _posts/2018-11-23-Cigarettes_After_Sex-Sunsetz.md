@@ -22,7 +22,8 @@ We wander through a foreign town
 Strangely there’s nobody else around
 So you open your dress and show me your tits
 On the swing set at the old playground
-and when you go away I still see you
+
+And when you go away I still see you
 With sunlight on your face in my rear-view
  
 Sunsets
