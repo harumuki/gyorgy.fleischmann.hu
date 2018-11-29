@@ -41,6 +41,7 @@ header_spacer: 93
 - Római Platán Étterem
 - Százhalombattai Halászcsárda
 - Dunaföldvári Halászcsárda
+- Horgásztanya Vendéglő, 2300 Ráckeve, Keszeg sor 6.
 
 <!-- PhotoSwipeGenerator.pl --directory photos/halaszcsarda_projekt/ --filetag _halaszcsarda_projekt --outdir _includes --imgproperty 'class="shadow zoomeffect"' --title 'Halászcsárda Projekt' -->
 
@@ -50,7 +51,6 @@ header_spacer: 93
 
 - Tassi Halászcsárda
 - Paksi Halászcsárda
-- Horgásztanya Vendéglő, 2300 Ráckeve, Keszeg sor 6.
 
 - Szegedi Halászcsárda, Budapest
 - Bajai Halászcsárda, Budapest
