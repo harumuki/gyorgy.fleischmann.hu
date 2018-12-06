@@ -1,0 +1,3159 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" creator="MotionXGPSFull 24.2 Build 5063R64">
+<trk>
+<name>Track 007</name>
+<desc>2018. Nov 28.  4:49 pm</desc>
+<trkseg>
+<trkpt lat="47.4737497" lon="19.0485166">
+<ele>114.255</ele>
+<time>2018-11-28T15:49:09.968Z</time>
+</trkpt>
+<trkpt lat="47.4737497" lon="19.0485166">
+<ele>114.218</ele>
+<time>2018-11-28T15:49:41.314Z</time>
+</trkpt>
+<trkpt lat="47.4737302" lon="19.0487207">
+<ele>114.118</ele>
+<time>2018-11-28T15:49:48.549Z</time>
+</trkpt>
+<trkpt lat="47.4737164" lon="19.0487992">
+<ele>113.608</ele>
+<time>2018-11-28T15:49:49.709Z</time>
+</trkpt>
+<trkpt lat="47.4737031" lon="19.0489396">
+<ele>112.576</ele>
+<time>2018-11-28T15:49:51.785Z</time>
+</trkpt>
+<trkpt lat="47.4736901" lon="19.0490897">
+<ele>111.688</ele>
+<time>2018-11-28T15:49:53.997Z</time>
+</trkpt>
+<trkpt lat="47.4736809" lon="19.0492322">
+<ele>111.731</ele>
+<time>2018-11-28T15:49:56.085Z</time>
+</trkpt>
+<trkpt lat="47.4736645" lon="19.0494021">
+<ele>112.824</ele>
+<time>2018-11-28T15:49:58.941Z</time>
+</trkpt>
+<trkpt lat="47.4736552" lon="19.0495595">
+<ele>114.335</ele>
+<time>2018-11-28T15:50:02.576Z</time>
+</trkpt>
+<trkpt lat="47.4736501" lon="19.0497315">
+<ele>116.091</ele>
+<time>2018-11-28T15:50:06.999Z</time>
+</trkpt>
+<trkpt lat="47.4736501" lon="19.0497315">
+<ele>118.267</ele>
+<time>2018-11-28T15:50:11.999Z</time>
+</trkpt>
+<trkpt lat="47.4736501" lon="19.0497315">
+<ele>119.762</ele>
+<time>2018-11-28T15:50:29.787Z</time>
+</trkpt>
+<trkpt lat="47.4736126" lon="19.0500065">
+<ele>119.651</ele>
+<time>2018-11-28T15:50:36.773Z</time>
+</trkpt>
+<trkpt lat="47.4735939" lon="19.0501620">
+<ele>118.938</ele>
+<time>2018-11-28T15:50:39.080Z</time>
+</trkpt>
+<trkpt lat="47.4735710" lon="19.0503270">
+<ele>118.753</ele>
+<time>2018-11-28T15:50:42.301Z</time>
+</trkpt>
+<trkpt lat="47.4735480" lon="19.0504700">
+<ele>119.058</ele>
+<time>2018-11-28T15:50:46.705Z</time>
+</trkpt>
+<trkpt lat="47.4735241" lon="19.0506272">
+<ele>119.427</ele>
+<time>2018-11-28T15:50:52.999Z</time>
+</trkpt>
+<trkpt lat="47.4735241" lon="19.0506272">
+<ele>119.646</ele>
+<time>2018-11-28T15:50:58.999Z</time>
+</trkpt>
+<trkpt lat="47.4735241" lon="19.0506272">
+<ele>119.659</ele>
+<time>2018-11-28T15:51:12.631Z</time>
+</trkpt>
+<trkpt lat="47.4735152" lon="19.0508909">
+<ele>119.535</ele>
+<time>2018-11-28T15:51:20.900Z</time>
+</trkpt>
+<trkpt lat="47.4734959" lon="19.0510488">
+<ele>119.429</ele>
+<time>2018-11-28T15:51:24.765Z</time>
+</trkpt>
+<trkpt lat="47.4734759" lon="19.0511987">
+<ele>119.388</ele>
+<time>2018-11-28T15:51:29.510Z</time>
+</trkpt>
+<trkpt lat="47.4734633" lon="19.0513688">
+<ele>119.375</ele>
+<time>2018-11-28T15:51:34.935Z</time>
+</trkpt>
+<trkpt lat="47.4734397" lon="19.0515146">
+<ele>118.796</ele>
+<time>2018-11-28T15:51:41.860Z</time>
+</trkpt>
+<trkpt lat="47.4733527" lon="19.0515991">
+<ele>117.288</ele>
+<time>2018-11-28T15:51:48.999Z</time>
+</trkpt>
+<trkpt lat="47.4733527" lon="19.0515991">
+<ele>115.675</ele>
+<time>2018-11-28T15:51:52.999Z</time>
+</trkpt>
+<trkpt lat="47.4733527" lon="19.0515991">
+<ele>114.923</ele>
+<time>2018-11-28T15:51:56.341Z</time>
+</trkpt>
+<trkpt lat="47.4733611" lon="19.0518075">
+<ele>114.961</ele>
+<time>2018-11-28T15:52:05.826Z</time>
+</trkpt>
+<trkpt lat="47.4733630" lon="19.0519614">
+<ele>114.734</ele>
+<time>2018-11-28T15:52:12.396Z</time>
+</trkpt>
+<trkpt lat="47.4733900" lon="19.0521066">
+<ele>113.538</ele>
+<time>2018-11-28T15:52:20.518Z</time>
+</trkpt>
+<trkpt lat="47.4733842" lon="19.0522466">
+<ele>112.518</ele>
+<time>2018-11-28T15:52:29.999Z</time>
+</trkpt>
+<trkpt lat="47.4733842" lon="19.0522466">
+<ele>112.765</ele>
+<time>2018-11-28T15:52:39.999Z</time>
+</trkpt>
+<trkpt lat="47.4733842" lon="19.0522466">
+<ele>113.386</ele>
+<time>2018-11-28T15:55:08.499Z</time>
+</trkpt>
+<trkpt lat="47.4731699" lon="19.0523653">
+<ele>113.346</ele>
+<time>2018-11-28T15:55:23.999Z</time>
+</trkpt>
+<trkpt lat="47.4731699" lon="19.0523653">
+<ele>112.893</ele>
+<time>2018-11-28T15:55:37.999Z</time>
+</trkpt>
+<trkpt lat="47.4731699" lon="19.0523653">
+<ele>112.610</ele>
+<time>2018-11-28T15:55:50.841Z</time>
+</trkpt>
+<trkpt lat="47.4730633" lon="19.0522226">
+<ele>112.593</ele>
+<time>2018-11-28T15:56:01.258Z</time>
+</trkpt>
+<trkpt lat="47.4730344" lon="19.0520435">
+<ele>110.927</ele>
+<time>2018-11-28T15:56:11.085Z</time>
+</trkpt>
+<trkpt lat="47.4730344" lon="19.0520435">
+<ele>110.927</ele>
+<time>2018-11-28T15:56:11.085Z</time>
+</trkpt>
+<trkpt lat="47.4731286" lon="19.0521929">
+<ele>88.797</ele>
+<time>2018-11-28T15:56:21.999Z</time>
+</trkpt>
+<trkpt lat="47.4731286" lon="19.0521929">
+<ele>88.756</ele>
+<time>2018-11-28T15:56:24.999Z</time>
+</trkpt>
+<trkpt lat="47.4731286" lon="19.0521929">
+<ele>88.734</ele>
+<time>2018-11-28T15:56:30.923Z</time>
+</trkpt>
+<trkpt lat="47.4729886" lon="19.0522744">
+<ele>88.714</ele>
+<time>2018-11-28T15:56:37.041Z</time>
+</trkpt>
+<trkpt lat="47.4728886" lon="19.0523029">
+<ele>89.679</ele>
+<time>2018-11-28T15:56:39.524Z</time>
+</trkpt>
+<trkpt lat="47.4728257" lon="19.0525397">
+<ele>93.407</ele>
+<time>2018-11-28T15:56:45.368Z</time>
+</trkpt>
+<trkpt lat="47.4727903" lon="19.0523693">
+<ele>99.214</ele>
+<time>2018-11-28T15:56:51.376Z</time>
+</trkpt>
+<trkpt lat="47.4726813" lon="19.0523462">
+<ele>105.214</ele>
+<time>2018-11-28T15:56:56.828Z</time>
+</trkpt>
+<trkpt lat="47.4725773" lon="19.0523150">
+<ele>111.935</ele>
+<time>2018-11-28T15:57:01.999Z</time>
+</trkpt>
+<trkpt lat="47.4725773" lon="19.0523150">
+<ele>119.046</ele>
+<time>2018-11-28T15:57:12.999Z</time>
+</trkpt>
+<trkpt lat="47.4725773" lon="19.0523150">
+<ele>123.076</ele>
+<time>2018-11-28T15:57:53.852Z</time>
+</trkpt>
+<trkpt lat="47.4723409" lon="19.0524114">
+<ele>122.732</ele>
+<time>2018-11-28T15:58:06.176Z</time>
+</trkpt>
+<trkpt lat="47.4722315" lon="19.0524137">
+<ele>120.596</ele>
+<time>2018-11-28T15:58:08.635Z</time>
+</trkpt>
+<trkpt lat="47.4721245" lon="19.0524003">
+<ele>118.655</ele>
+<time>2018-11-28T15:58:10.957Z</time>
+</trkpt>
+<trkpt lat="47.4720494" lon="19.0524972">
+<ele>116.331</ele>
+<time>2018-11-28T15:58:13.185Z</time>
+</trkpt>
+<trkpt lat="47.4719329" lon="19.0525447">
+<ele>113.184</ele>
+<time>2018-11-28T15:58:15.999Z</time>
+</trkpt>
+<trkpt lat="47.4719329" lon="19.0525447">
+<ele>110.298</ele>
+<time>2018-11-28T15:58:21.999Z</time>
+</trkpt>
+<trkpt lat="47.4719329" lon="19.0525447">
+<ele>108.919</ele>
+<time>2018-11-28T15:59:18.303Z</time>
+</trkpt>
+<trkpt lat="47.4716665" lon="19.0526068">
+<ele>109.421</ele>
+<time>2018-11-28T15:59:38.491Z</time>
+</trkpt>
+<trkpt lat="47.4715682" lon="19.0526181">
+<ele>110.775</ele>
+<time>2018-11-28T15:59:40.557Z</time>
+</trkpt>
+<trkpt lat="47.4713876" lon="19.0526795">
+<ele>111.443</ele>
+<time>2018-11-28T15:59:43.686Z</time>
+</trkpt>
+<trkpt lat="47.4712560" lon="19.0526979">
+<ele>111.233</ele>
+<time>2018-11-28T15:59:46.161Z</time>
+</trkpt>
+<trkpt lat="47.4711472" lon="19.0527483">
+<ele>111.172</ele>
+<time>2018-11-28T15:59:49.324Z</time>
+</trkpt>
+<trkpt lat="47.4710382" lon="19.0527951">
+<ele>112.002</ele>
+<time>2018-11-28T15:59:52.474Z</time>
+</trkpt>
+<trkpt lat="47.4709327" lon="19.0528155">
+<ele>113.788</ele>
+<time>2018-11-28T15:59:55.999Z</time>
+</trkpt>
+<trkpt lat="47.4709327" lon="19.0528155">
+<ele>115.458</ele>
+<time>2018-11-28T16:00:00.999Z</time>
+</trkpt>
+<trkpt lat="47.4709327" lon="19.0528155">
+<ele>115.995</ele>
+<time>2018-11-28T16:00:19.180Z</time>
+</trkpt>
+<trkpt lat="47.4707699" lon="19.0528470">
+<ele>115.722</ele>
+<time>2018-11-28T16:00:24.999Z</time>
+</trkpt>
+<trkpt lat="47.4707699" lon="19.0528470">
+<ele>115.470</ele>
+<time>2018-11-28T16:00:35.999Z</time>
+</trkpt>
+<trkpt lat="47.4707699" lon="19.0528470">
+<ele>115.425</ele>
+<time>2018-11-28T16:01:00.331Z</time>
+</trkpt>
+<trkpt lat="47.4706343" lon="19.0529079">
+<ele>115.465</ele>
+<time>2018-11-28T16:01:08.260Z</time>
+</trkpt>
+<trkpt lat="47.4704994" lon="19.0529624">
+<ele>114.943</ele>
+<time>2018-11-28T16:01:11.263Z</time>
+</trkpt>
+<trkpt lat="47.4703679" lon="19.0530058">
+<ele>113.499</ele>
+<time>2018-11-28T16:01:13.861Z</time>
+</trkpt>
+<trkpt lat="47.4702688" lon="19.0530180">
+<ele>111.774</ele>
+<time>2018-11-28T16:01:15.999Z</time>
+</trkpt>
+<trkpt lat="47.4702688" lon="19.0530180">
+<ele>110.549</ele>
+<time>2018-11-28T16:01:18.999Z</time>
+</trkpt>
+<trkpt lat="47.4702688" lon="19.0530180">
+<ele>110.019</ele>
+<time>2018-11-28T16:01:19.099Z</time>
+</trkpt>
+<trkpt lat="47.4698984" lon="19.0529965">
+<ele>110.212</ele>
+<time>2018-11-28T16:01:52.999Z</time>
+</trkpt>
+<trkpt lat="47.4698984" lon="19.0529965">
+<ele>110.692</ele>
+<time>2018-11-28T16:02:04.999Z</time>
+</trkpt>
+<trkpt lat="47.4698984" lon="19.0529965">
+<ele>110.874</ele>
+<time>2018-11-28T16:02:09.890Z</time>
+</trkpt>
+<trkpt lat="47.4694854" lon="19.0527319">
+<ele>110.635</ele>
+<time>2018-11-28T16:03:46.274Z</time>
+</trkpt>
+<trkpt lat="47.4695133" lon="19.0526037">
+<ele>110.661</ele>
+<time>2018-11-28T16:03:50.037Z</time>
+</trkpt>
+<trkpt lat="47.4695125" lon="19.0524607">
+<ele>110.795</ele>
+<time>2018-11-28T16:03:53.212Z</time>
+</trkpt>
+<trkpt lat="47.4695271" lon="19.0523055">
+<ele>111.358</ele>
+<time>2018-11-28T16:03:55.765Z</time>
+</trkpt>
+<trkpt lat="47.4695615" lon="19.0521409">
+<ele>112.758</ele>
+<time>2018-11-28T16:03:57.594Z</time>
+</trkpt>
+<trkpt lat="47.4695931" lon="19.0520049">
+<ele>114.498</ele>
+<time>2018-11-28T16:03:58.999Z</time>
+</trkpt>
+<trkpt lat="47.4695931" lon="19.0520049">
+<ele>115.656</ele>
+<time>2018-11-28T16:04:02.999Z</time>
+</trkpt>
+<trkpt lat="47.4695931" lon="19.0520049">
+<ele>116.009</ele>
+<time>2018-11-28T16:04:27.955Z</time>
+</trkpt>
+<trkpt lat="47.4696577" lon="19.0516448">
+<ele>115.883</ele>
+<time>2018-11-28T16:04:51.489Z</time>
+</trkpt>
+<trkpt lat="47.4696925" lon="19.0515102">
+<ele>116.510</ele>
+<time>2018-11-28T16:04:58.102Z</time>
+</trkpt>
+<trkpt lat="47.4697157" lon="19.0513800">
+<ele>118.601</ele>
+<time>2018-11-28T16:05:04.999Z</time>
+</trkpt>
+<trkpt lat="47.4697157" lon="19.0513800">
+<ele>120.480</ele>
+<time>2018-11-28T16:05:19.999Z</time>
+</trkpt>
+<trkpt lat="47.4697157" lon="19.0513800">
+<ele>120.612</ele>
+<time>2018-11-28T16:05:27.569Z</time>
+</trkpt>
+<trkpt lat="47.4697930" lon="19.0510097">
+<ele>119.729</ele>
+<time>2018-11-28T16:05:51.353Z</time>
+</trkpt>
+<trkpt lat="47.4698585" lon="19.0508875">
+<ele>118.618</ele>
+<time>2018-11-28T16:05:58.024Z</time>
+</trkpt>
+<trkpt lat="47.4699587" lon="19.0508483">
+<ele>117.469</ele>
+<time>2018-11-28T16:06:04.622Z</time>
+</trkpt>
+<trkpt lat="47.4700594" lon="19.0509448">
+<ele>116.582</ele>
+<time>2018-11-28T16:06:11.294Z</time>
+</trkpt>
+<trkpt lat="47.4701482" lon="19.0510970">
+<ele>115.974</ele>
+<time>2018-11-28T16:06:16.379Z</time>
+</trkpt>
+<trkpt lat="47.4701672" lon="19.0512407">
+<ele>115.424</ele>
+<time>2018-11-28T16:06:19.134Z</time>
+</trkpt>
+<trkpt lat="47.4701629" lon="19.0514565">
+<ele>114.971</ele>
+<time>2018-11-28T16:06:22.286Z</time>
+</trkpt>
+<trkpt lat="47.4701208" lon="19.0517248">
+<ele>114.702</ele>
+<time>2018-11-28T16:06:25.785Z</time>
+</trkpt>
+<trkpt lat="47.4700850" lon="19.0518605">
+<ele>114.734</ele>
+<time>2018-11-28T16:06:27.979Z</time>
+</trkpt>
+<trkpt lat="47.4700474" lon="19.0519967">
+<ele>115.087</ele>
+<time>2018-11-28T16:06:30.835Z</time>
+</trkpt>
+<trkpt lat="47.4700167" lon="19.0521273">
+<ele>115.502</ele>
+<time>2018-11-28T16:06:34.999Z</time>
+</trkpt>
+<trkpt lat="47.4700167" lon="19.0521273">
+<ele>115.695</ele>
+<time>2018-11-28T16:06:37.999Z</time>
+</trkpt>
+<trkpt lat="47.4700167" lon="19.0521273">
+<ele>115.662</ele>
+<time>2018-11-28T16:06:46.192Z</time>
+</trkpt>
+<trkpt lat="47.4699667" lon="19.0523366">
+<ele>115.573</ele>
+<time>2018-11-28T16:06:51.592Z</time>
+</trkpt>
+<trkpt lat="47.4699286" lon="19.0524849">
+<ele>115.556</ele>
+<time>2018-11-28T16:06:53.592Z</time>
+</trkpt>
+<trkpt lat="47.4698884" lon="19.0526455">
+<ele>115.597</ele>
+<time>2018-11-28T16:06:55.651Z</time>
+</trkpt>
+<trkpt lat="47.4698589" lon="19.0527955">
+<ele>115.674</ele>
+<time>2018-11-28T16:06:58.008Z</time>
+</trkpt>
+<trkpt lat="47.4698233" lon="19.0529417">
+<ele>115.792</ele>
+<time>2018-11-28T16:07:01.209Z</time>
+</trkpt>
+<trkpt lat="47.4697965" lon="19.0530999">
+<ele>115.955</ele>
+<time>2018-11-28T16:07:05.083Z</time>
+</trkpt>
+<trkpt lat="47.4697529" lon="19.0532799">
+<ele>116.091</ele>
+<time>2018-11-28T16:07:09.224Z</time>
+</trkpt>
+<trkpt lat="47.4697283" lon="19.0534097">
+<ele>115.917</ele>
+<time>2018-11-28T16:07:12.629Z</time>
+</trkpt>
+<trkpt lat="47.4697012" lon="19.0535601">
+<ele>115.220</ele>
+<time>2018-11-28T16:07:17.999Z</time>
+</trkpt>
+<trkpt lat="47.4697012" lon="19.0535601">
+<ele>114.323</ele>
+<time>2018-11-28T16:07:21.999Z</time>
+</trkpt>
+<trkpt lat="47.4697012" lon="19.0535601">
+<ele>113.800</ele>
+<time>2018-11-28T16:07:22.099Z</time>
+</trkpt>
+<trkpt lat="47.4696562" lon="19.0538191">
+<ele>113.790</ele>
+<time>2018-11-28T16:07:31.663Z</time>
+</trkpt>
+<trkpt lat="47.4696269" lon="19.0539688">
+<ele>113.825</ele>
+<time>2018-11-28T16:07:35.282Z</time>
+</trkpt>
+<trkpt lat="47.4695953" lon="19.0541433">
+<ele>113.395</ele>
+<time>2018-11-28T16:07:38.527Z</time>
+</trkpt>
+<trkpt lat="47.4695780" lon="19.0542751">
+<ele>112.641</ele>
+<time>2018-11-28T16:07:41.003Z</time>
+</trkpt>
+<trkpt lat="47.4695582" lon="19.0544107">
+<ele>112.100</ele>
+<time>2018-11-28T16:07:44.391Z</time>
+</trkpt>
+<trkpt lat="47.4695360" lon="19.0545430">
+<ele>111.973</ele>
+<time>2018-11-28T16:07:48.045Z</time>
+</trkpt>
+<trkpt lat="47.4695150" lon="19.0546824">
+<ele>112.098</ele>
+<time>2018-11-28T16:07:51.318Z</time>
+</trkpt>
+<trkpt lat="47.4694948" lon="19.0548310">
+<ele>112.325</ele>
+<time>2018-11-28T16:07:54.212Z</time>
+</trkpt>
+<trkpt lat="47.4694741" lon="19.0550073">
+<ele>112.662</ele>
+<time>2018-11-28T16:07:57.255Z</time>
+</trkpt>
+<trkpt lat="47.4694515" lon="19.0551881">
+<ele>113.105</ele>
+<time>2018-11-28T16:08:00.340Z</time>
+</trkpt>
+<trkpt lat="47.4694303" lon="19.0553525">
+<ele>113.467</ele>
+<time>2018-11-28T16:08:03.267Z</time>
+</trkpt>
+<trkpt lat="47.4694131" lon="19.0555127">
+<ele>113.573</ele>
+<time>2018-11-28T16:08:05.941Z</time>
+</trkpt>
+<trkpt lat="47.4693891" lon="19.0557379">
+<ele>113.492</ele>
+<time>2018-11-28T16:08:09.219Z</time>
+</trkpt>
+<trkpt lat="47.4693752" lon="19.0558751">
+<ele>113.364</ele>
+<time>2018-11-28T16:08:11.390Z</time>
+</trkpt>
+<trkpt lat="47.4693579" lon="19.0560362">
+<ele>113.250</ele>
+<time>2018-11-28T16:08:14.560Z</time>
+</trkpt>
+<trkpt lat="47.4693414" lon="19.0561860">
+<ele>113.084</ele>
+<time>2018-11-28T16:08:18.355Z</time>
+</trkpt>
+<trkpt lat="47.4693356" lon="19.0563243">
+<ele>112.748</ele>
+<time>2018-11-28T16:08:22.306Z</time>
+</trkpt>
+<trkpt lat="47.4693151" lon="19.0565019">
+<ele>112.322</ele>
+<time>2018-11-28T16:08:27.060Z</time>
+</trkpt>
+<trkpt lat="47.4693061" lon="19.0566579">
+<ele>112.024</ele>
+<time>2018-11-28T16:08:29.447Z</time>
+</trkpt>
+<trkpt lat="47.4692960" lon="19.0568582">
+<ele>111.983</ele>
+<time>2018-11-28T16:08:31.593Z</time>
+</trkpt>
+<trkpt lat="47.4692718" lon="19.0572011">
+<ele>112.243</ele>
+<time>2018-11-28T16:08:34.802Z</time>
+</trkpt>
+<trkpt lat="47.4692484" lon="19.0575141">
+<ele>112.677</ele>
+<time>2018-11-28T16:08:37.843Z</time>
+</trkpt>
+<trkpt lat="47.4692361" lon="19.0576861">
+<ele>113.137</ele>
+<time>2018-11-28T16:08:40.118Z</time>
+</trkpt>
+<trkpt lat="47.4692235" lon="19.0578518">
+<ele>113.563</ele>
+<time>2018-11-28T16:08:42.911Z</time>
+</trkpt>
+<trkpt lat="47.4692066" lon="19.0580231">
+<ele>113.894</ele>
+<time>2018-11-28T16:08:46.821Z</time>
+</trkpt>
+<trkpt lat="47.4691891" lon="19.0581561">
+<ele>114.010</ele>
+<time>2018-11-28T16:08:49.214Z</time>
+</trkpt>
+<trkpt lat="47.4691772" lon="19.0582881">
+<ele>113.848</ele>
+<time>2018-11-28T16:08:51.289Z</time>
+</trkpt>
+<trkpt lat="47.4691576" lon="19.0584665">
+<ele>113.485</ele>
+<time>2018-11-28T16:08:54.216Z</time>
+</trkpt>
+<trkpt lat="47.4691442" lon="19.0586154">
+<ele>113.124</ele>
+<time>2018-11-28T16:08:56.999Z</time>
+</trkpt>
+<trkpt lat="47.4691442" lon="19.0586154">
+<ele>112.893</ele>
+<time>2018-11-28T16:09:01.999Z</time>
+</trkpt>
+<trkpt lat="47.4691442" lon="19.0586154">
+<ele>112.812</ele>
+<time>2018-11-28T16:09:08.921Z</time>
+</trkpt>
+<trkpt lat="47.4691076" lon="19.0589446">
+<ele>112.803</ele>
+<time>2018-11-28T16:09:23.149Z</time>
+</trkpt>
+<trkpt lat="47.4690916" lon="19.0590909">
+<ele>112.706</ele>
+<time>2018-11-28T16:09:27.948Z</time>
+</trkpt>
+<trkpt lat="47.4690699" lon="19.0592344">
+<ele>112.458</ele>
+<time>2018-11-28T16:09:32.841Z</time>
+</trkpt>
+<trkpt lat="47.4690534" lon="19.0593982">
+<ele>112.212</ele>
+<time>2018-11-28T16:09:37.054Z</time>
+</trkpt>
+<trkpt lat="47.4690629" lon="19.0595843">
+<ele>112.083</ele>
+<time>2018-11-28T16:09:40.308Z</time>
+</trkpt>
+<trkpt lat="47.4690668" lon="19.0597374">
+<ele>112.008</ele>
+<time>2018-11-28T16:09:42.092Z</time>
+</trkpt>
+<trkpt lat="47.4690599" lon="19.0599452">
+<ele>111.937</ele>
+<time>2018-11-28T16:09:44.047Z</time>
+</trkpt>
+<trkpt lat="47.4690514" lon="19.0601760">
+<ele>111.994</ele>
+<time>2018-11-28T16:09:46.094Z</time>
+</trkpt>
+<trkpt lat="47.4690241" lon="19.0604830">
+<ele>112.260</ele>
+<time>2018-11-28T16:09:49.036Z</time>
+</trkpt>
+<trkpt lat="47.4690095" lon="19.0607288">
+<ele>112.473</ele>
+<time>2018-11-28T16:09:51.661Z</time>
+</trkpt>
+<trkpt lat="47.4690012" lon="19.0609094">
+<ele>112.407</ele>
+<time>2018-11-28T16:09:53.565Z</time>
+</trkpt>
+<trkpt lat="47.4689858" lon="19.0611199">
+<ele>112.373</ele>
+<time>2018-11-28T16:09:55.540Z</time>
+</trkpt>
+<trkpt lat="47.4689740" lon="19.0613493">
+<ele>112.656</ele>
+<time>2018-11-28T16:09:57.724Z</time>
+</trkpt>
+<trkpt lat="47.4689539" lon="19.0615380">
+<ele>113.027</ele>
+<time>2018-11-28T16:09:59.999Z</time>
+</trkpt>
+<trkpt lat="47.4689539" lon="19.0615380">
+<ele>113.176</ele>
+<time>2018-11-28T16:10:02.999Z</time>
+</trkpt>
+<trkpt lat="47.4689539" lon="19.0615380">
+<ele>113.107</ele>
+<time>2018-11-28T16:10:13.878Z</time>
+</trkpt>
+<trkpt lat="47.4689430" lon="19.0617977">
+<ele>112.975</ele>
+<time>2018-11-28T16:10:19.686Z</time>
+</trkpt>
+<trkpt lat="47.4689133" lon="19.0620629">
+<ele>112.740</ele>
+<time>2018-11-28T16:10:22.798Z</time>
+</trkpt>
+<trkpt lat="47.4688997" lon="19.0622498">
+<ele>112.170</ele>
+<time>2018-11-28T16:10:24.552Z</time>
+</trkpt>
+<trkpt lat="47.4688778" lon="19.0626014">
+<ele>111.393</ele>
+<time>2018-11-28T16:10:27.444Z</time>
+</trkpt>
+<trkpt lat="47.4688529" lon="19.0630236">
+<ele>111.016</ele>
+<time>2018-11-28T16:10:30.359Z</time>
+</trkpt>
+<trkpt lat="47.4688283" lon="19.0635137">
+<ele>111.412</ele>
+<time>2018-11-28T16:10:33.420Z</time>
+</trkpt>
+<trkpt lat="47.4688185" lon="19.0638397">
+<ele>112.295</ele>
+<time>2018-11-28T16:10:35.388Z</time>
+</trkpt>
+<trkpt lat="47.4688077" lon="19.0643415">
+<ele>113.205</ele>
+<time>2018-11-28T16:10:38.408Z</time>
+</trkpt>
+<trkpt lat="47.4688012" lon="19.0646716">
+<ele>113.999</ele>
+<time>2018-11-28T16:10:40.362Z</time>
+</trkpt>
+<trkpt lat="47.4687820" lon="19.0651881">
+<ele>114.758</ele>
+<time>2018-11-28T16:10:43.394Z</time>
+</trkpt>
+<trkpt lat="47.4687722" lon="19.0656941">
+<ele>115.529</ele>
+<time>2018-11-28T16:10:46.422Z</time>
+</trkpt>
+<trkpt lat="47.4687602" lon="19.0661601">
+<ele>116.268</ele>
+<time>2018-11-28T16:10:49.362Z</time>
+</trkpt>
+<trkpt lat="47.4687512" lon="19.0666136">
+<ele>116.950</ele>
+<time>2018-11-28T16:10:52.250Z</time>
+</trkpt>
+<trkpt lat="47.4687412" lon="19.0671102">
+<ele>117.543</ele>
+<time>2018-11-28T16:10:55.184Z</time>
+</trkpt>
+<trkpt lat="47.4687295" lon="19.0676826">
+<ele>117.973</ele>
+<time>2018-11-28T16:10:58.282Z</time>
+</trkpt>
+<trkpt lat="47.4687232" lon="19.0680418">
+<ele>118.432</ele>
+<time>2018-11-28T16:11:00.365Z</time>
+</trkpt>
+<trkpt lat="47.4687165" lon="19.0685034">
+<ele>119.096</ele>
+<time>2018-11-28T16:11:03.538Z</time>
+</trkpt>
+<trkpt lat="47.4687084" lon="19.0687216">
+<ele>119.978</ele>
+<time>2018-11-28T16:11:05.462Z</time>
+</trkpt>
+<trkpt lat="47.4687003" lon="19.0689319">
+<ele>120.961</ele>
+<time>2018-11-28T16:11:07.331Z</time>
+</trkpt>
+<trkpt lat="47.4686866" lon="19.0692779">
+<ele>121.695</ele>
+<time>2018-11-28T16:11:10.124Z</time>
+</trkpt>
+<trkpt lat="47.4686677" lon="19.0697218">
+<ele>121.874</ele>
+<time>2018-11-28T16:11:13.091Z</time>
+</trkpt>
+<trkpt lat="47.4686664" lon="19.0702570">
+<ele>121.541</ele>
+<time>2018-11-28T16:11:16.141Z</time>
+</trkpt>
+<trkpt lat="47.4686553" lon="19.0706493">
+<ele>120.896</ele>
+<time>2018-11-28T16:11:18.199Z</time>
+</trkpt>
+<trkpt lat="47.4686464" lon="19.0712296">
+<ele>120.237</ele>
+<time>2018-11-28T16:11:21.187Z</time>
+</trkpt>
+<trkpt lat="47.4686549" lon="19.0716148">
+<ele>119.535</ele>
+<time>2018-11-28T16:11:23.060Z</time>
+</trkpt>
+<trkpt lat="47.4686811" lon="19.0722726">
+<ele>118.662</ele>
+<time>2018-11-28T16:11:26.011Z</time>
+</trkpt>
+<trkpt lat="47.4687064" lon="19.0730258">
+<ele>117.762</ele>
+<time>2018-11-28T16:11:29.039Z</time>
+</trkpt>
+<trkpt lat="47.4687195" lon="19.0738176">
+<ele>117.018</ele>
+<time>2018-11-28T16:11:32.050Z</time>
+</trkpt>
+<trkpt lat="47.4686924" lon="19.0746219">
+<ele>116.557</ele>
+<time>2018-11-28T16:11:35.076Z</time>
+</trkpt>
+<trkpt lat="47.4686672" lon="19.0751308">
+<ele>116.692</ele>
+<time>2018-11-28T16:11:36.981Z</time>
+</trkpt>
+<trkpt lat="47.4686105" lon="19.0759375">
+<ele>117.500</ele>
+<time>2018-11-28T16:11:39.929Z</time>
+</trkpt>
+<trkpt lat="47.4685714" lon="19.0768064">
+<ele>118.486</ele>
+<time>2018-11-28T16:11:42.930Z</time>
+</trkpt>
+<trkpt lat="47.4685601" lon="19.0774014">
+<ele>119.132</ele>
+<time>2018-11-28T16:11:44.910Z</time>
+</trkpt>
+<trkpt lat="47.4685750" lon="19.0783085">
+<ele>119.410</ele>
+<time>2018-11-28T16:11:47.928Z</time>
+</trkpt>
+<trkpt lat="47.4686152" lon="19.0791767">
+<ele>119.452</ele>
+<time>2018-11-28T16:11:50.908Z</time>
+</trkpt>
+<trkpt lat="47.4686408" lon="19.0797212">
+<ele>119.208</ele>
+<time>2018-11-28T16:11:52.900Z</time>
+</trkpt>
+<trkpt lat="47.4687062" lon="19.0804699">
+<ele>118.614</ele>
+<time>2018-11-28T16:11:55.838Z</time>
+</trkpt>
+<trkpt lat="47.4688115" lon="19.0811351">
+<ele>117.933</ele>
+<time>2018-11-28T16:11:58.846Z</time>
+</trkpt>
+<trkpt lat="47.4689145" lon="19.0816453">
+<ele>117.329</ele>
+<time>2018-11-28T16:12:01.748Z</time>
+</trkpt>
+<trkpt lat="47.4689752" lon="19.0818756">
+<ele>116.410</ele>
+<time>2018-11-28T16:12:03.559Z</time>
+</trkpt>
+<trkpt lat="47.4690254" lon="19.0820535">
+<ele>114.919</ele>
+<time>2018-11-28T16:12:05.428Z</time>
+</trkpt>
+<trkpt lat="47.4690695" lon="19.0822004">
+<ele>113.305</ele>
+<time>2018-11-28T16:12:07.705Z</time>
+</trkpt>
+<trkpt lat="47.4691095" lon="19.0823439">
+<ele>112.207</ele>
+<time>2018-11-28T16:12:10.714Z</time>
+</trkpt>
+<trkpt lat="47.4691821" lon="19.0825858">
+<ele>111.840</ele>
+<time>2018-11-28T16:12:15.091Z</time>
+</trkpt>
+<trkpt lat="47.4692389" lon="19.0827733">
+<ele>112.077</ele>
+<time>2018-11-28T16:12:17.450Z</time>
+</trkpt>
+<trkpt lat="47.4693235" lon="19.0830580">
+<ele>112.713</ele>
+<time>2018-11-28T16:12:20.547Z</time>
+</trkpt>
+<trkpt lat="47.4693767" lon="19.0832401">
+<ele>113.596</ele>
+<time>2018-11-28T16:12:22.502Z</time>
+</trkpt>
+<trkpt lat="47.4694856" lon="19.0835725">
+<ele>114.508</ele>
+<time>2018-11-28T16:12:25.776Z</time>
+</trkpt>
+<trkpt lat="47.4696069" lon="19.0839767">
+<ele>115.196</ele>
+<time>2018-11-28T16:12:29.007Z</time>
+</trkpt>
+<trkpt lat="47.4697229" lon="19.0844183">
+<ele>115.617</ele>
+<time>2018-11-28T16:12:32.051Z</time>
+</trkpt>
+<trkpt lat="47.4698249" lon="19.0848785">
+<ele>115.890</ele>
+<time>2018-11-28T16:12:35.049Z</time>
+</trkpt>
+<trkpt lat="47.4699139" lon="19.0853780">
+<ele>116.377</ele>
+<time>2018-11-28T16:12:38.102Z</time>
+</trkpt>
+<trkpt lat="47.4699645" lon="19.0857239">
+<ele>117.263</ele>
+<time>2018-11-28T16:12:40.128Z</time>
+</trkpt>
+<trkpt lat="47.4700202" lon="19.0862385">
+<ele>117.893</ele>
+<time>2018-11-28T16:12:43.119Z</time>
+</trkpt>
+<trkpt lat="47.4700600" lon="19.0867667">
+<ele>117.740</ele>
+<time>2018-11-28T16:12:46.121Z</time>
+</trkpt>
+<trkpt lat="47.4700763" lon="19.0871359">
+<ele>117.251</ele>
+<time>2018-11-28T16:12:48.139Z</time>
+</trkpt>
+<trkpt lat="47.4700939" lon="19.0875128">
+<ele>116.986</ele>
+<time>2018-11-28T16:12:50.193Z</time>
+</trkpt>
+<trkpt lat="47.4701237" lon="19.0879461">
+<ele>117.055</ele>
+<time>2018-11-28T16:12:52.999Z</time>
+</trkpt>
+<trkpt lat="47.4701237" lon="19.0879461">
+<ele>117.293</ele>
+<time>2018-11-28T16:12:57.999Z</time>
+</trkpt>
+<trkpt lat="47.4701237" lon="19.0879461">
+<ele>117.434</ele>
+<time>2018-11-28T16:13:35.612Z</time>
+</trkpt>
+<trkpt lat="47.4701560" lon="19.0883175">
+<ele>117.378</ele>
+<time>2018-11-28T16:13:40.162Z</time>
+</trkpt>
+<trkpt lat="47.4702146" lon="19.0888909">
+<ele>117.413</ele>
+<time>2018-11-28T16:13:43.335Z</time>
+</trkpt>
+<trkpt lat="47.4703438" lon="19.0895401">
+<ele>117.822</ele>
+<time>2018-11-28T16:13:46.317Z</time>
+</trkpt>
+<trkpt lat="47.4704779" lon="19.0899679">
+<ele>118.390</ele>
+<time>2018-11-28T16:13:48.220Z</time>
+</trkpt>
+<trkpt lat="47.4707049" lon="19.0906471">
+<ele>118.719</ele>
+<time>2018-11-28T16:13:51.172Z</time>
+</trkpt>
+<trkpt lat="47.4708622" lon="19.0911110">
+<ele>118.667</ele>
+<time>2018-11-28T16:13:53.129Z</time>
+</trkpt>
+<trkpt lat="47.4710203" lon="19.0915860">
+<ele>118.224</ele>
+<time>2018-11-28T16:13:55.134Z</time>
+</trkpt>
+<trkpt lat="47.4712367" lon="19.0922715">
+<ele>117.443</ele>
+<time>2018-11-28T16:13:58.084Z</time>
+</trkpt>
+<trkpt lat="47.4714493" lon="19.0929032">
+<ele>116.418</ele>
+<time>2018-11-28T16:14:01.013Z</time>
+</trkpt>
+<trkpt lat="47.4716467" lon="19.0934858">
+<ele>115.254</ele>
+<time>2018-11-28T16:14:03.947Z</time>
+</trkpt>
+<trkpt lat="47.4718126" lon="19.0940092">
+<ele>114.065</ele>
+<time>2018-11-28T16:14:06.802Z</time>
+</trkpt>
+<trkpt lat="47.4719175" lon="19.0943400">
+<ele>112.907</ele>
+<time>2018-11-28T16:14:08.751Z</time>
+</trkpt>
+<trkpt lat="47.4720014" lon="19.0946651">
+<ele>111.773</ele>
+<time>2018-11-28T16:14:10.791Z</time>
+</trkpt>
+<trkpt lat="47.4721030" lon="19.0950463">
+<ele>110.740</ele>
+<time>2018-11-28T16:14:13.643Z</time>
+</trkpt>
+<trkpt lat="47.4721857" lon="19.0953059">
+<ele>109.827</ele>
+<time>2018-11-28T16:14:16.287Z</time>
+</trkpt>
+<trkpt lat="47.4722283" lon="19.0954288">
+<ele>108.780</ele>
+<time>2018-11-28T16:14:17.999Z</time>
+</trkpt>
+<trkpt lat="47.4722283" lon="19.0954288">
+<ele>107.588</ele>
+<time>2018-11-28T16:14:23.999Z</time>
+</trkpt>
+<trkpt lat="47.4722283" lon="19.0954288">
+<ele>106.836</ele>
+<time>2018-11-28T16:14:46.605Z</time>
+</trkpt>
+<trkpt lat="47.4723512" lon="19.0957734">
+<ele>106.999</ele>
+<time>2018-11-28T16:15:00.780Z</time>
+</trkpt>
+<trkpt lat="47.4724094" lon="19.0959187">
+<ele>109.055</ele>
+<time>2018-11-28T16:15:05.168Z</time>
+</trkpt>
+<trkpt lat="47.4724786" lon="19.0960359">
+<ele>113.111</ele>
+<time>2018-11-28T16:15:09.346Z</time>
+</trkpt>
+<trkpt lat="47.4725450" lon="19.0961471">
+<ele>116.804</ele>
+<time>2018-11-28T16:15:13.204Z</time>
+</trkpt>
+<trkpt lat="47.4726237" lon="19.0962659">
+<ele>118.308</ele>
+<time>2018-11-28T16:15:17.241Z</time>
+</trkpt>
+<trkpt lat="47.4726744" lon="19.0964917">
+<ele>118.337</ele>
+<time>2018-11-28T16:15:21.540Z</time>
+</trkpt>
+<trkpt lat="47.4726638" lon="19.0966461">
+<ele>117.980</ele>
+<time>2018-11-28T16:15:23.857Z</time>
+</trkpt>
+<trkpt lat="47.4726204" lon="19.0968051">
+<ele>117.768</ele>
+<time>2018-11-28T16:15:26.527Z</time>
+</trkpt>
+<trkpt lat="47.4725597" lon="19.0969564">
+<ele>117.886</ele>
+<time>2018-11-28T16:15:28.872Z</time>
+</trkpt>
+<trkpt lat="47.4724867" lon="19.0971072">
+<ele>118.324</ele>
+<time>2018-11-28T16:15:31.236Z</time>
+</trkpt>
+<trkpt lat="47.4724064" lon="19.0972784">
+<ele>118.809</ele>
+<time>2018-11-28T16:15:34.211Z</time>
+</trkpt>
+<trkpt lat="47.4723363" lon="19.0974320">
+<ele>119.166</ele>
+<time>2018-11-28T16:15:37.054Z</time>
+</trkpt>
+<trkpt lat="47.4722559" lon="19.0976096">
+<ele>119.533</ele>
+<time>2018-11-28T16:15:39.950Z</time>
+</trkpt>
+<trkpt lat="47.4721229" lon="19.0978201">
+<ele>120.318</ele>
+<time>2018-11-28T16:15:43.403Z</time>
+</trkpt>
+<trkpt lat="47.4720175" lon="19.0980161">
+<ele>121.698</ele>
+<time>2018-11-28T16:15:46.948Z</time>
+</trkpt>
+<trkpt lat="47.4719548" lon="19.0981530">
+<ele>123.141</ele>
+<time>2018-11-28T16:15:51.324Z</time>
+</trkpt>
+<trkpt lat="47.4719035" lon="19.0982730">
+<ele>124.214</ele>
+<time>2018-11-28T16:15:55.999Z</time>
+</trkpt>
+<trkpt lat="47.4719035" lon="19.0982730">
+<ele>124.984</ele>
+<time>2018-11-28T16:15:57.999Z</time>
+</trkpt>
+<trkpt lat="47.4719035" lon="19.0982730">
+<ele>125.348</ele>
+<time>2018-11-28T16:16:10.559Z</time>
+</trkpt>
+<trkpt lat="47.4718115" lon="19.0984689">
+<ele>125.258</ele>
+<time>2018-11-28T16:16:19.287Z</time>
+</trkpt>
+<trkpt lat="47.4717467" lon="19.0985957">
+<ele>126.120</ele>
+<time>2018-11-28T16:16:21.897Z</time>
+</trkpt>
+<trkpt lat="47.4716653" lon="19.0987607">
+<ele>129.142</ele>
+<time>2018-11-28T16:16:24.791Z</time>
+</trkpt>
+<trkpt lat="47.4715837" lon="19.0989332">
+<ele>133.147</ele>
+<time>2018-11-28T16:16:27.424Z</time>
+</trkpt>
+<trkpt lat="47.4715132" lon="19.0990774">
+<ele>136.224</ele>
+<time>2018-11-28T16:16:29.192Z</time>
+</trkpt>
+<trkpt lat="47.4713752" lon="19.0993583">
+<ele>137.781</ele>
+<time>2018-11-28T16:16:32.144Z</time>
+</trkpt>
+<trkpt lat="47.4712656" lon="19.0995832">
+<ele>138.177</ele>
+<time>2018-11-28T16:16:34.158Z</time>
+</trkpt>
+<trkpt lat="47.4711560" lon="19.0997953">
+<ele>138.159</ele>
+<time>2018-11-28T16:16:36.105Z</time>
+</trkpt>
+<trkpt lat="47.4709841" lon="19.1000805">
+<ele>138.102</ele>
+<time>2018-11-28T16:16:39.067Z</time>
+</trkpt>
+<trkpt lat="47.4708956" lon="19.1002378">
+<ele>138.084</ele>
+<time>2018-11-28T16:16:40.935Z</time>
+</trkpt>
+<trkpt lat="47.4707789" lon="19.1004292">
+<ele>138.122</ele>
+<time>2018-11-28T16:16:43.766Z</time>
+</trkpt>
+<trkpt lat="47.4707133" lon="19.1005502">
+<ele>138.175</ele>
+<time>2018-11-28T16:16:46.000Z</time>
+</trkpt>
+<trkpt lat="47.4707133" lon="19.1005502">
+<ele>138.179</ele>
+<time>2018-11-28T16:16:50.000Z</time>
+</trkpt>
+<trkpt lat="47.4707133" lon="19.1005502">
+<ele>138.119</ele>
+<time>2018-11-28T16:16:53.035Z</time>
+</trkpt>
+<trkpt lat="47.4706013" lon="19.1007538">
+<ele>138.047</ele>
+<time>2018-11-28T16:17:01.401Z</time>
+</trkpt>
+<trkpt lat="47.4705344" lon="19.1008614">
+<ele>136.443</ele>
+<time>2018-11-28T16:17:04.097Z</time>
+</trkpt>
+<trkpt lat="47.4704555" lon="19.1009871">
+<ele>132.311</ele>
+<time>2018-11-28T16:17:06.855Z</time>
+</trkpt>
+<trkpt lat="47.4703740" lon="19.1011272">
+<ele>128.014</ele>
+<time>2018-11-28T16:17:09.483Z</time>
+</trkpt>
+<trkpt lat="47.4702793" lon="19.1012768">
+<ele>125.911</ele>
+<time>2018-11-28T16:17:12.051Z</time>
+</trkpt>
+<trkpt lat="47.4701571" lon="19.1014693">
+<ele>125.551</ele>
+<time>2018-11-28T16:17:14.911Z</time>
+</trkpt>
+<trkpt lat="47.4700264" lon="19.1016921">
+<ele>125.791</ele>
+<time>2018-11-28T16:17:17.804Z</time>
+</trkpt>
+<trkpt lat="47.4699074" lon="19.1018858">
+<ele>125.763</ele>
+<time>2018-11-28T16:17:20.294Z</time>
+</trkpt>
+<trkpt lat="47.4697463" lon="19.1021489">
+<ele>125.146</ele>
+<time>2018-11-28T16:17:23.393Z</time>
+</trkpt>
+<trkpt lat="47.4696677" lon="19.1022835">
+<ele>124.183</ele>
+<time>2018-11-28T16:17:25.000Z</time>
+</trkpt>
+<trkpt lat="47.4696677" lon="19.1022835">
+<ele>123.374</ele>
+<time>2018-11-28T16:17:29.000Z</time>
+</trkpt>
+<trkpt lat="47.4696677" lon="19.1022835">
+<ele>123.010</ele>
+<time>2018-11-28T16:17:48.054Z</time>
+</trkpt>
+<trkpt lat="47.4695072" lon="19.1025298">
+<ele>123.004</ele>
+<time>2018-11-28T16:18:01.071Z</time>
+</trkpt>
+<trkpt lat="47.4694159" lon="19.1026668">
+<ele>122.776</ele>
+<time>2018-11-28T16:18:03.696Z</time>
+</trkpt>
+<trkpt lat="47.4693508" lon="19.1027626">
+<ele>121.954</ele>
+<time>2018-11-28T16:18:05.298Z</time>
+</trkpt>
+<trkpt lat="47.4692691" lon="19.1028687">
+<ele>120.941</ele>
+<time>2018-11-28T16:18:06.821Z</time>
+</trkpt>
+<trkpt lat="47.4690836" lon="19.1030622">
+<ele>120.225</ele>
+<time>2018-11-28T16:18:09.486Z</time>
+</trkpt>
+<trkpt lat="47.4688382" lon="19.1033010">
+<ele>119.920</ele>
+<time>2018-11-28T16:18:12.386Z</time>
+</trkpt>
+<trkpt lat="47.4685561" lon="19.1034952">
+<ele>119.995</ele>
+<time>2018-11-28T16:18:15.382Z</time>
+</trkpt>
+<trkpt lat="47.4682813" lon="19.1035065">
+<ele>120.227</ele>
+<time>2018-11-28T16:18:18.262Z</time>
+</trkpt>
+<trkpt lat="47.4681163" lon="19.1035047">
+<ele>120.272</ele>
+<time>2018-11-28T16:18:20.303Z</time>
+</trkpt>
+<trkpt lat="47.4679157" lon="19.1035388">
+<ele>119.949</ele>
+<time>2018-11-28T16:18:23.318Z</time>
+</trkpt>
+<trkpt lat="47.4677867" lon="19.1035512">
+<ele>119.392</ele>
+<time>2018-11-28T16:18:25.758Z</time>
+</trkpt>
+<trkpt lat="47.4676590" lon="19.1035630">
+<ele>118.852</ele>
+<time>2018-11-28T16:18:28.348Z</time>
+</trkpt>
+<trkpt lat="47.4675217" lon="19.1035809">
+<ele>118.512</ele>
+<time>2018-11-28T16:18:30.375Z</time>
+</trkpt>
+<trkpt lat="47.4673240" lon="19.1036177">
+<ele>118.642</ele>
+<time>2018-11-28T16:18:32.530Z</time>
+</trkpt>
+<trkpt lat="47.4670682" lon="19.1038188">
+<ele>119.455</ele>
+<time>2018-11-28T16:18:35.465Z</time>
+</trkpt>
+<trkpt lat="47.4668428" lon="19.1039829">
+<ele>120.606</ele>
+<time>2018-11-28T16:18:38.098Z</time>
+</trkpt>
+<trkpt lat="47.4665840" lon="19.1040405">
+<ele>121.426</ele>
+<time>2018-11-28T16:18:40.301Z</time>
+</trkpt>
+<trkpt lat="47.4661511" lon="19.1041706">
+<ele>121.850</ele>
+<time>2018-11-28T16:18:43.465Z</time>
+</trkpt>
+<trkpt lat="47.4658436" lon="19.1043228">
+<ele>122.184</ele>
+<time>2018-11-28T16:18:45.997Z</time>
+</trkpt>
+<trkpt lat="47.4658436" lon="19.1043228">
+<ele>122.386</ele>
+<time>2018-11-28T16:18:51.997Z</time>
+</trkpt>
+<trkpt lat="47.4658436" lon="19.1043228">
+<ele>122.324</ele>
+<time>2018-11-28T16:19:26.609Z</time>
+</trkpt>
+<trkpt lat="47.4656117" lon="19.1044925">
+<ele>122.157</ele>
+<time>2018-11-28T16:19:36.438Z</time>
+</trkpt>
+<trkpt lat="47.4654443" lon="19.1046501">
+<ele>121.480</ele>
+<time>2018-11-28T16:19:39.237Z</time>
+</trkpt>
+<trkpt lat="47.4653051" lon="19.1047674">
+<ele>119.946</ele>
+<time>2018-11-28T16:19:41.157Z</time>
+</trkpt>
+<trkpt lat="47.4651626" lon="19.1048905">
+<ele>118.400</ele>
+<time>2018-11-28T16:19:42.769Z</time>
+</trkpt>
+<trkpt lat="47.4648925" lon="19.1051868">
+<ele>117.708</ele>
+<time>2018-11-28T16:19:45.618Z</time>
+</trkpt>
+<trkpt lat="47.4646558" lon="19.1054176">
+<ele>117.982</ele>
+<time>2018-11-28T16:19:47.618Z</time>
+</trkpt>
+<trkpt lat="47.4643997" lon="19.1056680">
+<ele>119.101</ele>
+<time>2018-11-28T16:19:49.639Z</time>
+</trkpt>
+<trkpt lat="47.4641349" lon="19.1059082">
+<ele>120.469</ele>
+<time>2018-11-28T16:19:51.517Z</time>
+</trkpt>
+<trkpt lat="47.4636840" lon="19.1063094">
+<ele>121.438</ele>
+<time>2018-11-28T16:19:54.530Z</time>
+</trkpt>
+<trkpt lat="47.4633766" lon="19.1066080">
+<ele>122.237</ele>
+<time>2018-11-28T16:19:56.559Z</time>
+</trkpt>
+<trkpt lat="47.4629264" lon="19.1070587">
+<ele>123.250</ele>
+<time>2018-11-28T16:19:59.614Z</time>
+</trkpt>
+<trkpt lat="47.4624985" lon="19.1074763">
+<ele>123.967</ele>
+<time>2018-11-28T16:20:02.637Z</time>
+</trkpt>
+<trkpt lat="47.4620964" lon="19.1078758">
+<ele>123.180</ele>
+<time>2018-11-28T16:20:05.664Z</time>
+</trkpt>
+<trkpt lat="47.4618472" lon="19.1081201">
+<ele>120.345</ele>
+<time>2018-11-28T16:20:07.654Z</time>
+</trkpt>
+<trkpt lat="47.4614840" lon="19.1084837">
+<ele>116.708</ele>
+<time>2018-11-28T16:20:10.638Z</time>
+</trkpt>
+<trkpt lat="47.4612495" lon="19.1087349">
+<ele>114.205</ele>
+<time>2018-11-28T16:20:12.632Z</time>
+</trkpt>
+<trkpt lat="47.4608977" lon="19.1091090">
+<ele>113.321</ele>
+<time>2018-11-28T16:20:15.604Z</time>
+</trkpt>
+<trkpt lat="47.4605288" lon="19.1094684">
+<ele>113.355</ele>
+<time>2018-11-28T16:20:18.631Z</time>
+</trkpt>
+<trkpt lat="47.4602914" lon="19.1096992">
+<ele>113.644</ele>
+<time>2018-11-28T16:20:20.617Z</time>
+</trkpt>
+<trkpt lat="47.4599389" lon="19.1100442">
+<ele>113.859</ele>
+<time>2018-11-28T16:20:23.611Z</time>
+</trkpt>
+<trkpt lat="47.4597050" lon="19.1102718">
+<ele>113.898</ele>
+<time>2018-11-28T16:20:25.561Z</time>
+</trkpt>
+<trkpt lat="47.4593374" lon="19.1106265">
+<ele>113.804</ele>
+<time>2018-11-28T16:20:28.505Z</time>
+</trkpt>
+<trkpt lat="47.4590707" lon="19.1108567">
+<ele>113.698</ele>
+<time>2018-11-28T16:20:30.431Z</time>
+</trkpt>
+<trkpt lat="47.4587754" lon="19.1110926">
+<ele>113.759</ele>
+<time>2018-11-28T16:20:32.402Z</time>
+</trkpt>
+<trkpt lat="47.4582929" lon="19.1114349">
+<ele>114.042</ele>
+<time>2018-11-28T16:20:35.439Z</time>
+</trkpt>
+<trkpt lat="47.4579564" lon="19.1116543">
+<ele>114.403</ele>
+<time>2018-11-28T16:20:37.518Z</time>
+</trkpt>
+<trkpt lat="47.4574870" lon="19.1119639">
+<ele>114.696</ele>
+<time>2018-11-28T16:20:40.517Z</time>
+</trkpt>
+<trkpt lat="47.4571931" lon="19.1121601">
+<ele>114.927</ele>
+<time>2018-11-28T16:20:42.502Z</time>
+</trkpt>
+<trkpt lat="47.4569069" lon="19.1123549">
+<ele>115.297</ele>
+<time>2018-11-28T16:20:44.415Z</time>
+</trkpt>
+<trkpt lat="47.4564438" lon="19.1126672">
+<ele>116.165</ele>
+<time>2018-11-28T16:20:47.405Z</time>
+</trkpt>
+<trkpt lat="47.4559562" lon="19.1129894">
+<ele>117.726</ele>
+<time>2018-11-28T16:20:50.459Z</time>
+</trkpt>
+<trkpt lat="47.4554881" lon="19.1133370">
+<ele>119.702</ele>
+<time>2018-11-28T16:20:53.570Z</time>
+</trkpt>
+<trkpt lat="47.4552402" lon="19.1135775">
+<ele>121.379</ele>
+<time>2018-11-28T16:20:55.596Z</time>
+</trkpt>
+<trkpt lat="47.4549257" lon="19.1139484">
+<ele>122.146</ele>
+<time>2018-11-28T16:20:58.694Z</time>
+</trkpt>
+<trkpt lat="47.4547646" lon="19.1141586">
+<ele>121.923</ele>
+<time>2018-11-28T16:21:00.793Z</time>
+</trkpt>
+<trkpt lat="47.4546330" lon="19.1143377">
+<ele>120.965</ele>
+<time>2018-11-28T16:21:02.709Z</time>
+</trkpt>
+<trkpt lat="47.4544357" lon="19.1146198">
+<ele>119.714</ele>
+<time>2018-11-28T16:21:05.635Z</time>
+</trkpt>
+<trkpt lat="47.4542933" lon="19.1148231">
+<ele>118.620</ele>
+<time>2018-11-28T16:21:07.627Z</time>
+</trkpt>
+<trkpt lat="47.4540776" lon="19.1151403">
+<ele>117.775</ele>
+<time>2018-11-28T16:21:10.551Z</time>
+</trkpt>
+<trkpt lat="47.4539226" lon="19.1153727">
+<ele>116.883</ele>
+<time>2018-11-28T16:21:12.525Z</time>
+</trkpt>
+<trkpt lat="47.4536942" lon="19.1157554">
+<ele>115.782</ele>
+<time>2018-11-28T16:21:15.515Z</time>
+</trkpt>
+<trkpt lat="47.4535476" lon="19.1160293">
+<ele>114.705</ele>
+<time>2018-11-28T16:21:17.458Z</time>
+</trkpt>
+<trkpt lat="47.4533935" lon="19.1163153">
+<ele>113.984</ele>
+<time>2018-11-28T16:21:19.370Z</time>
+</trkpt>
+<trkpt lat="47.4532143" lon="19.1166151">
+<ele>113.718</ele>
+<time>2018-11-28T16:21:21.331Z</time>
+</trkpt>
+<trkpt lat="47.4530105" lon="19.1169228">
+<ele>113.800</ele>
+<time>2018-11-28T16:21:23.381Z</time>
+</trkpt>
+<trkpt lat="47.4527051" lon="19.1173602">
+<ele>114.012</ele>
+<time>2018-11-28T16:21:26.399Z</time>
+</trkpt>
+<trkpt lat="47.4524127" lon="19.1177757">
+<ele>114.174</ele>
+<time>2018-11-28T16:21:29.421Z</time>
+</trkpt>
+<trkpt lat="47.4522362" lon="19.1180303">
+<ele>114.237</ele>
+<time>2018-11-28T16:21:31.464Z</time>
+</trkpt>
+<trkpt lat="47.4520770" lon="19.1182598">
+<ele>114.233</ele>
+<time>2018-11-28T16:21:33.517Z</time>
+</trkpt>
+<trkpt lat="47.4518626" lon="19.1185678">
+<ele>114.199</ele>
+<time>2018-11-28T16:21:36.516Z</time>
+</trkpt>
+<trkpt lat="47.4517351" lon="19.1187564">
+<ele>114.155</ele>
+<time>2018-11-28T16:21:38.506Z</time>
+</trkpt>
+<trkpt lat="47.4516135" lon="19.1189365">
+<ele>114.108</ele>
+<time>2018-11-28T16:21:40.355Z</time>
+</trkpt>
+<trkpt lat="47.4514062" lon="19.1192385">
+<ele>114.061</ele>
+<time>2018-11-28T16:21:43.233Z</time>
+</trkpt>
+<trkpt lat="47.4511539" lon="19.1196033">
+<ele>114.085</ele>
+<time>2018-11-28T16:21:46.255Z</time>
+</trkpt>
+<trkpt lat="47.4509655" lon="19.1198773">
+<ele>114.309</ele>
+<time>2018-11-28T16:21:48.209Z</time>
+</trkpt>
+<trkpt lat="47.4506509" lon="19.1203337">
+<ele>114.715</ele>
+<time>2018-11-28T16:21:51.264Z</time>
+</trkpt>
+<trkpt lat="47.4504361" lon="19.1206417">
+<ele>115.167</ele>
+<time>2018-11-28T16:21:53.277Z</time>
+</trkpt>
+<trkpt lat="47.4502246" lon="19.1209463">
+<ele>115.554</ele>
+<time>2018-11-28T16:21:55.299Z</time>
+</trkpt>
+<trkpt lat="47.4500208" lon="19.1212371">
+<ele>115.789</ele>
+<time>2018-11-28T16:21:57.319Z</time>
+</trkpt>
+<trkpt lat="47.4498307" lon="19.1215110">
+<ele>115.850</ele>
+<time>2018-11-28T16:21:59.327Z</time>
+</trkpt>
+<trkpt lat="47.4495724" lon="19.1219003">
+<ele>115.768</ele>
+<time>2018-11-28T16:22:02.208Z</time>
+</trkpt>
+<trkpt lat="47.4493909" lon="19.1221607">
+<ele>115.557</ele>
+<time>2018-11-28T16:22:04.195Z</time>
+</trkpt>
+<trkpt lat="47.4492070" lon="19.1224341">
+<ele>115.304</ele>
+<time>2018-11-28T16:22:06.212Z</time>
+</trkpt>
+<trkpt lat="47.4489275" lon="19.1228295">
+<ele>115.174</ele>
+<time>2018-11-28T16:22:09.148Z</time>
+</trkpt>
+<trkpt lat="47.4487239" lon="19.1231047">
+<ele>115.254</ele>
+<time>2018-11-28T16:22:11.174Z</time>
+</trkpt>
+<trkpt lat="47.4484250" lon="19.1235324">
+<ele>115.447</ele>
+<time>2018-11-28T16:22:14.153Z</time>
+</trkpt>
+<trkpt lat="47.4481168" lon="19.1239819">
+<ele>115.908</ele>
+<time>2018-11-28T16:22:17.174Z</time>
+</trkpt>
+<trkpt lat="47.4478106" lon="19.1244203">
+<ele>116.769</ele>
+<time>2018-11-28T16:22:20.143Z</time>
+</trkpt>
+<trkpt lat="47.4475053" lon="19.1248635">
+<ele>117.459</ele>
+<time>2018-11-28T16:22:23.176Z</time>
+</trkpt>
+<trkpt lat="47.4473097" lon="19.1251465">
+<ele>117.470</ele>
+<time>2018-11-28T16:22:25.162Z</time>
+</trkpt>
+<trkpt lat="47.4470261" lon="19.1255686">
+<ele>117.096</ele>
+<time>2018-11-28T16:22:28.096Z</time>
+</trkpt>
+<trkpt lat="47.4468276" lon="19.1258601">
+<ele>116.720</ele>
+<time>2018-11-28T16:22:30.080Z</time>
+</trkpt>
+<trkpt lat="47.4465143" lon="19.1263160">
+<ele>116.463</ele>
+<time>2018-11-28T16:22:33.132Z</time>
+</trkpt>
+<trkpt lat="47.4462125" lon="19.1267658">
+<ele>116.347</ele>
+<time>2018-11-28T16:22:36.088Z</time>
+</trkpt>
+<trkpt lat="47.4459035" lon="19.1272130">
+<ele>116.022</ele>
+<time>2018-11-28T16:22:39.104Z</time>
+</trkpt>
+<trkpt lat="47.4456078" lon="19.1276567">
+<ele>115.235</ele>
+<time>2018-11-28T16:22:42.130Z</time>
+</trkpt>
+<trkpt lat="47.4454229" lon="19.1279373">
+<ele>114.481</ele>
+<time>2018-11-28T16:22:44.101Z</time>
+</trkpt>
+<trkpt lat="47.4452435" lon="19.1282245">
+<ele>114.266</ele>
+<time>2018-11-28T16:22:46.084Z</time>
+</trkpt>
+<trkpt lat="47.4450647" lon="19.1285045">
+<ele>114.480</ele>
+<time>2018-11-28T16:22:48.049Z</time>
+</trkpt>
+<trkpt lat="47.4447849" lon="19.1289234">
+<ele>114.878</ele>
+<time>2018-11-28T16:22:51.065Z</time>
+</trkpt>
+<trkpt lat="47.4445943" lon="19.1292057">
+<ele>115.301</ele>
+<time>2018-11-28T16:22:53.107Z</time>
+</trkpt>
+<trkpt lat="47.4444148" lon="19.1294812">
+<ele>115.657</ele>
+<time>2018-11-28T16:22:55.034Z</time>
+</trkpt>
+<trkpt lat="47.4441315" lon="19.1299331">
+<ele>115.892</ele>
+<time>2018-11-28T16:22:58.036Z</time>
+</trkpt>
+<trkpt lat="47.4439328" lon="19.1302469">
+<ele>116.104</ele>
+<time>2018-11-28T16:23:00.034Z</time>
+</trkpt>
+<trkpt lat="47.4436374" lon="19.1307219">
+<ele>116.395</ele>
+<time>2018-11-28T16:23:03.029Z</time>
+</trkpt>
+<trkpt lat="47.4433434" lon="19.1311864">
+<ele>116.642</ele>
+<time>2018-11-28T16:23:06.067Z</time>
+</trkpt>
+<trkpt lat="47.4430733" lon="19.1316323">
+<ele>116.661</ele>
+<time>2018-11-28T16:23:09.021Z</time>
+</trkpt>
+<trkpt lat="47.4428885" lon="19.1319176">
+<ele>116.482</ele>
+<time>2018-11-28T16:23:11.026Z</time>
+</trkpt>
+<trkpt lat="47.4426193" lon="19.1323281">
+<ele>116.283</ele>
+<time>2018-11-28T16:23:13.969Z</time>
+</trkpt>
+<trkpt lat="47.4424393" lon="19.1326073">
+<ele>116.208</ele>
+<time>2018-11-28T16:23:15.930Z</time>
+</trkpt>
+<trkpt lat="47.4422501" lon="19.1329036">
+<ele>116.252</ele>
+<time>2018-11-28T16:23:17.905Z</time>
+</trkpt>
+<trkpt lat="47.4420490" lon="19.1332249">
+<ele>116.373</ele>
+<time>2018-11-28T16:23:19.926Z</time>
+</trkpt>
+<trkpt lat="47.4417417" lon="19.1337149">
+<ele>116.542</ele>
+<time>2018-11-28T16:23:22.943Z</time>
+</trkpt>
+<trkpt lat="47.4415353" lon="19.1340377">
+<ele>116.741</ele>
+<time>2018-11-28T16:23:24.953Z</time>
+</trkpt>
+<trkpt lat="47.4412295" lon="19.1345084">
+<ele>116.939</ele>
+<time>2018-11-28T16:23:27.945Z</time>
+</trkpt>
+<trkpt lat="47.4410343" lon="19.1348183">
+<ele>117.109</ele>
+<time>2018-11-28T16:23:29.946Z</time>
+</trkpt>
+<trkpt lat="47.4408425" lon="19.1351145">
+<ele>117.226</ele>
+<time>2018-11-28T16:23:31.921Z</time>
+</trkpt>
+<trkpt lat="47.4406577" lon="19.1354207">
+<ele>117.263</ele>
+<time>2018-11-28T16:23:33.879Z</time>
+</trkpt>
+<trkpt lat="47.4403596" lon="19.1358931">
+<ele>117.213</ele>
+<time>2018-11-28T16:23:36.878Z</time>
+</trkpt>
+<trkpt lat="47.4401467" lon="19.1362263">
+<ele>117.253</ele>
+<time>2018-11-28T16:23:38.933Z</time>
+</trkpt>
+<trkpt lat="47.4399432" lon="19.1365666">
+<ele>117.547</ele>
+<time>2018-11-28T16:23:40.931Z</time>
+</trkpt>
+<trkpt lat="47.4396459" lon="19.1370865">
+<ele>117.973</ele>
+<time>2018-11-28T16:23:43.830Z</time>
+</trkpt>
+<trkpt lat="47.4393214" lon="19.1377088">
+<ele>118.336</ele>
+<time>2018-11-28T16:23:46.955Z</time>
+</trkpt>
+<trkpt lat="47.4391095" lon="19.1381275">
+<ele>118.674</ele>
+<time>2018-11-28T16:23:48.962Z</time>
+</trkpt>
+<trkpt lat="47.4388992" lon="19.1385388">
+<ele>119.039</ele>
+<time>2018-11-28T16:23:50.938Z</time>
+</trkpt>
+<trkpt lat="47.4385765" lon="19.1391634">
+<ele>119.315</ele>
+<time>2018-11-28T16:23:53.939Z</time>
+</trkpt>
+<trkpt lat="47.4383624" lon="19.1395729">
+<ele>119.357</ele>
+<time>2018-11-28T16:23:55.859Z</time>
+</trkpt>
+<trkpt lat="47.4380213" lon="19.1402786">
+<ele>119.201</ele>
+<time>2018-11-28T16:23:58.902Z</time>
+</trkpt>
+<trkpt lat="47.4377835" lon="19.1407886">
+<ele>119.118</ele>
+<time>2018-11-28T16:24:00.884Z</time>
+</trkpt>
+<trkpt lat="47.4375195" lon="19.1413406">
+<ele>119.539</ele>
+<time>2018-11-28T16:24:02.936Z</time>
+</trkpt>
+<trkpt lat="47.4372452" lon="19.1418845">
+<ele>120.445</ele>
+<time>2018-11-28T16:24:04.979Z</time>
+</trkpt>
+<trkpt lat="47.4369799" lon="19.1423814">
+<ele>121.239</ele>
+<time>2018-11-28T16:24:06.941Z</time>
+</trkpt>
+<trkpt lat="47.4365768" lon="19.1430922">
+<ele>121.493</ele>
+<time>2018-11-28T16:24:09.912Z</time>
+</trkpt>
+<trkpt lat="47.4363032" lon="19.1435338">
+<ele>121.306</ele>
+<time>2018-11-28T16:24:11.914Z</time>
+</trkpt>
+<trkpt lat="47.4360372" lon="19.1439544">
+<ele>120.895</ele>
+<time>2018-11-28T16:24:13.900Z</time>
+</trkpt>
+<trkpt lat="47.4357731" lon="19.1443495">
+<ele>120.430</ele>
+<time>2018-11-28T16:24:15.859Z</time>
+</trkpt>
+<trkpt lat="47.4355051" lon="19.1447484">
+<ele>120.029</ele>
+<time>2018-11-28T16:24:17.844Z</time>
+</trkpt>
+<trkpt lat="47.4350716" lon="19.1453380">
+<ele>119.754</ele>
+<time>2018-11-28T16:24:20.899Z</time>
+</trkpt>
+<trkpt lat="47.4347886" lon="19.1457117">
+<ele>119.727</ele>
+<time>2018-11-28T16:24:22.876Z</time>
+</trkpt>
+<trkpt lat="47.4344894" lon="19.1460701">
+<ele>120.099</ele>
+<time>2018-11-28T16:24:24.923Z</time>
+</trkpt>
+<trkpt lat="47.4340585" lon="19.1465629">
+<ele>120.896</ele>
+<time>2018-11-28T16:24:27.877Z</time>
+</trkpt>
+<trkpt lat="47.4336147" lon="19.1470394">
+<ele>122.088</ele>
+<time>2018-11-28T16:24:30.875Z</time>
+</trkpt>
+<trkpt lat="47.4333162" lon="19.1473453">
+<ele>123.529</ele>
+<time>2018-11-28T16:24:32.844Z</time>
+</trkpt>
+<trkpt lat="47.4328368" lon="19.1477746">
+<ele>124.789</ele>
+<time>2018-11-28T16:24:35.821Z</time>
+</trkpt>
+<trkpt lat="47.4323076" lon="19.1481971">
+<ele>125.453</ele>
+<time>2018-11-28T16:24:38.810Z</time>
+</trkpt>
+<trkpt lat="47.4317112" lon="19.1486528">
+<ele>125.336</ele>
+<time>2018-11-28T16:24:41.825Z</time>
+</trkpt>
+<trkpt lat="47.4312640" lon="19.1489555">
+<ele>124.596</ele>
+<time>2018-11-28T16:24:43.865Z</time>
+</trkpt>
+<trkpt lat="47.4305693" lon="19.1493571">
+<ele>123.568</ele>
+<time>2018-11-28T16:24:46.919Z</time>
+</trkpt>
+<trkpt lat="47.4298886" lon="19.1496781">
+<ele>122.169</ele>
+<time>2018-11-28T16:24:49.899Z</time>
+</trkpt>
+<trkpt lat="47.4294392" lon="19.1498720">
+<ele>120.156</ele>
+<time>2018-11-28T16:24:51.905Z</time>
+</trkpt>
+<trkpt lat="47.4290068" lon="19.1500022">
+<ele>117.977</ele>
+<time>2018-11-28T16:24:53.860Z</time>
+</trkpt>
+<trkpt lat="47.4283752" lon="19.1501977">
+<ele>116.313</ele>
+<time>2018-11-28T16:24:56.821Z</time>
+</trkpt>
+<trkpt lat="47.4279662" lon="19.1503270">
+<ele>115.273</ele>
+<time>2018-11-28T16:24:58.819Z</time>
+</trkpt>
+<trkpt lat="47.4273754" lon="19.1505215">
+<ele>114.660</ele>
+<time>2018-11-28T16:25:01.786Z</time>
+</trkpt>
+<trkpt lat="47.4267938" lon="19.1507207">
+<ele>114.324</ele>
+<time>2018-11-28T16:25:04.777Z</time>
+</trkpt>
+<trkpt lat="47.4264129" lon="19.1508581">
+<ele>114.146</ele>
+<time>2018-11-28T16:25:06.742Z</time>
+</trkpt>
+<trkpt lat="47.4258177" lon="19.1510621">
+<ele>114.077</ele>
+<time>2018-11-28T16:25:09.764Z</time>
+</trkpt>
+<trkpt lat="47.4254165" lon="19.1512019">
+<ele>114.152</ele>
+<time>2018-11-28T16:25:11.763Z</time>
+</trkpt>
+<trkpt lat="47.4250132" lon="19.1513475">
+<ele>114.316</ele>
+<time>2018-11-28T16:25:13.750Z</time>
+</trkpt>
+<trkpt lat="47.4243832" lon="19.1515599">
+<ele>114.449</ele>
+<time>2018-11-28T16:25:16.818Z</time>
+</trkpt>
+<trkpt lat="47.4239729" lon="19.1516982">
+<ele>114.481</ele>
+<time>2018-11-28T16:25:18.819Z</time>
+</trkpt>
+<trkpt lat="47.4235703" lon="19.1518388">
+<ele>114.380</ele>
+<time>2018-11-28T16:25:20.800Z</time>
+</trkpt>
+<trkpt lat="47.4231756" lon="19.1519707">
+<ele>114.170</ele>
+<time>2018-11-28T16:25:22.743Z</time>
+</trkpt>
+<trkpt lat="47.4227737" lon="19.1521196">
+<ele>113.963</ele>
+<time>2018-11-28T16:25:24.727Z</time>
+</trkpt>
+<trkpt lat="47.4221708" lon="19.1523302">
+<ele>113.836</ele>
+<time>2018-11-28T16:25:27.699Z</time>
+</trkpt>
+<trkpt lat="47.4215837" lon="19.1525305">
+<ele>113.778</ele>
+<time>2018-11-28T16:25:30.624Z</time>
+</trkpt>
+<trkpt lat="47.4209735" lon="19.1527477">
+<ele>113.704</ele>
+<time>2018-11-28T16:25:33.674Z</time>
+</trkpt>
+<trkpt lat="47.4203595" lon="19.1529364">
+<ele>113.556</ele>
+<time>2018-11-28T16:25:36.700Z</time>
+</trkpt>
+<trkpt lat="47.4199610" lon="19.1530668">
+<ele>113.410</ele>
+<time>2018-11-28T16:25:38.688Z</time>
+</trkpt>
+<trkpt lat="47.4195752" lon="19.1531998">
+<ele>113.285</ele>
+<time>2018-11-28T16:25:40.664Z</time>
+</trkpt>
+<trkpt lat="47.4191988" lon="19.1533247">
+<ele>113.079</ele>
+<time>2018-11-28T16:25:42.647Z</time>
+</trkpt>
+<trkpt lat="47.4188347" lon="19.1534488">
+<ele>112.718</ele>
+<time>2018-11-28T16:25:44.645Z</time>
+</trkpt>
+<trkpt lat="47.4183156" lon="19.1536360">
+<ele>112.201</ele>
+<time>2018-11-28T16:25:47.616Z</time>
+</trkpt>
+<trkpt lat="47.4179691" lon="19.1537590">
+<ele>111.610</ele>
+<time>2018-11-28T16:25:49.633Z</time>
+</trkpt>
+<trkpt lat="47.4174454" lon="19.1539541">
+<ele>111.117</ele>
+<time>2018-11-28T16:25:52.670Z</time>
+</trkpt>
+<trkpt lat="47.4171115" lon="19.1540618">
+<ele>110.846</ele>
+<time>2018-11-28T16:25:54.595Z</time>
+</trkpt>
+<trkpt lat="47.4167725" lon="19.1541168">
+<ele>110.768</ele>
+<time>2018-11-28T16:25:56.543Z</time>
+</trkpt>
+<trkpt lat="47.4162685" lon="19.1540543">
+<ele>110.770</ele>
+<time>2018-11-28T16:25:59.489Z</time>
+</trkpt>
+<trkpt lat="47.4159455" lon="19.1539006">
+<ele>110.794</ele>
+<time>2018-11-28T16:26:01.523Z</time>
+</trkpt>
+<trkpt lat="47.4156613" lon="19.1537011">
+<ele>110.868</ele>
+<time>2018-11-28T16:26:03.462Z</time>
+</trkpt>
+<trkpt lat="47.4153840" lon="19.1534990">
+<ele>111.088</ele>
+<time>2018-11-28T16:26:05.434Z</time>
+</trkpt>
+<trkpt lat="47.4151029" lon="19.1533470">
+<ele>111.568</ele>
+<time>2018-11-28T16:26:07.425Z</time>
+</trkpt>
+<trkpt lat="47.4146802" lon="19.1533076">
+<ele>112.328</ele>
+<time>2018-11-28T16:26:10.392Z</time>
+</trkpt>
+<trkpt lat="47.4144148" lon="19.1534371">
+<ele>113.345</ele>
+<time>2018-11-28T16:26:12.480Z</time>
+</trkpt>
+<trkpt lat="47.4142309" lon="19.1536904">
+<ele>114.539</ele>
+<time>2018-11-28T16:26:14.425Z</time>
+</trkpt>
+<trkpt lat="47.4141401" lon="19.1542559">
+<ele>115.719</ele>
+<time>2018-11-28T16:26:17.461Z</time>
+</trkpt>
+<trkpt lat="47.4142507" lon="19.1548264">
+<ele>116.845</ele>
+<time>2018-11-28T16:26:20.451Z</time>
+</trkpt>
+<trkpt lat="47.4143414" lon="19.1552241">
+<ele>118.031</ele>
+<time>2018-11-28T16:26:22.478Z</time>
+</trkpt>
+<trkpt lat="47.4144223" lon="19.1556330">
+<ele>119.081</ele>
+<time>2018-11-28T16:26:24.461Z</time>
+</trkpt>
+<trkpt lat="47.4145446" lon="19.1562707">
+<ele>119.606</ele>
+<time>2018-11-28T16:26:27.506Z</time>
+</trkpt>
+<trkpt lat="47.4149646" lon="19.1578242">
+<ele>119.309</ele>
+<time>2018-11-28T16:26:35.873Z</time>
+</trkpt>
+<trkpt lat="47.4151128" lon="19.1580583">
+<ele>117.466</ele>
+<time>2018-11-28T16:26:37.776Z</time>
+</trkpt>
+<trkpt lat="47.4153175" lon="19.1584093">
+<ele>114.200</ele>
+<time>2018-11-28T16:26:40.804Z</time>
+</trkpt>
+<trkpt lat="47.4154370" lon="19.1586110">
+<ele>111.316</ele>
+<time>2018-11-28T16:26:42.736Z</time>
+</trkpt>
+<trkpt lat="47.4155417" lon="19.1588529">
+<ele>110.034</ele>
+<time>2018-11-28T16:26:45.316Z</time>
+</trkpt>
+<trkpt lat="47.4155117" lon="19.1590451">
+<ele>109.910</ele>
+<time>2018-11-28T16:26:47.379Z</time>
+</trkpt>
+<trkpt lat="47.4159756" lon="19.1594841">
+<ele>110.319</ele>
+<time>2018-11-28T16:26:57.178Z</time>
+</trkpt>
+<trkpt lat="47.4160580" lon="19.1593010">
+<ele>110.920</ele>
+<time>2018-11-28T16:26:59.611Z</time>
+</trkpt>
+<trkpt lat="47.4160941" lon="19.1589475">
+<ele>111.509</ele>
+<time>2018-11-28T16:27:03.019Z</time>
+</trkpt>
+<trkpt lat="47.4161421" lon="19.1587701">
+<ele>111.909</ele>
+<time>2018-11-28T16:27:04.952Z</time>
+</trkpt>
+<trkpt lat="47.4162203" lon="19.1586478">
+<ele>112.081</ele>
+<time>2018-11-28T16:27:06.752Z</time>
+</trkpt>
+<trkpt lat="47.4165731" lon="19.1581884">
+<ele>112.114</ele>
+<time>2018-11-28T16:27:13.723Z</time>
+</trkpt>
+<trkpt lat="47.4167961" lon="19.1579184">
+<ele>112.225</ele>
+<time>2018-11-28T16:27:17.049Z</time>
+</trkpt>
+<trkpt lat="47.4169950" lon="19.1576559">
+<ele>112.543</ele>
+<time>2018-11-28T16:27:20.077Z</time>
+</trkpt>
+<trkpt lat="47.4171846" lon="19.1574241">
+<ele>112.851</ele>
+<time>2018-11-28T16:27:23.118Z</time>
+</trkpt>
+<trkpt lat="47.4173464" lon="19.1571980">
+<ele>112.928</ele>
+<time>2018-11-28T16:27:26.027Z</time>
+</trkpt>
+<trkpt lat="47.4174723" lon="19.1570439">
+<ele>112.848</ele>
+<time>2018-11-28T16:27:28.305Z</time>
+</trkpt>
+<trkpt lat="47.4176218" lon="19.1568585">
+<ele>112.737</ele>
+<time>2018-11-28T16:27:31.386Z</time>
+</trkpt>
+<trkpt lat="47.4177371" lon="19.1567224">
+<ele>112.632</ele>
+<time>2018-11-28T16:27:34.079Z</time>
+</trkpt>
+<trkpt lat="47.4178552" lon="19.1565683">
+<ele>112.542</ele>
+<time>2018-11-28T16:27:37.054Z</time>
+</trkpt>
+<trkpt lat="47.4179370" lon="19.1564577">
+<ele>112.470</ele>
+<time>2018-11-28T16:27:39.091Z</time>
+</trkpt>
+<trkpt lat="47.4180552" lon="19.1563118">
+<ele>112.409</ele>
+<time>2018-11-28T16:27:41.893Z</time>
+</trkpt>
+<trkpt lat="47.4182044" lon="19.1561795">
+<ele>112.379</ele>
+<time>2018-11-28T16:27:45.131Z</time>
+</trkpt>
+<trkpt lat="47.4183354" lon="19.1562206">
+<ele>112.395</ele>
+<time>2018-11-28T16:27:48.067Z</time>
+</trkpt>
+<trkpt lat="47.4183884" lon="19.1563420">
+<ele>112.388</ele>
+<time>2018-11-28T16:27:50.979Z</time>
+</trkpt>
+<trkpt lat="47.4184903" lon="19.1563460">
+<ele>112.271</ele>
+<time>2018-11-28T16:27:54.997Z</time>
+</trkpt>
+<trkpt lat="47.4184903" lon="19.1563460">
+<ele>112.079</ele>
+<time>2018-11-28T16:27:57.997Z</time>
+</trkpt>
+<trkpt lat="47.4184903" lon="19.1563460">
+<ele>111.939</ele>
+<time>2018-11-28T16:29:00.784Z</time>
+</trkpt>
+<trkpt lat="47.4185487" lon="19.1564779">
+<ele>111.915</ele>
+<time>2018-11-28T16:29:28.003Z</time>
+</trkpt>
+<trkpt lat="47.4186244" lon="19.1565786">
+<ele>111.991</ele>
+<time>2018-11-28T16:29:42.513Z</time>
+</trkpt>
+<trkpt lat="47.4186830" lon="19.1566879">
+<ele>112.164</ele>
+<time>2018-11-28T16:29:53.799Z</time>
+</trkpt>
+<trkpt lat="47.4186367" lon="19.1568138">
+<ele>112.422</ele>
+<time>2018-11-28T16:30:07.165Z</time>
+</trkpt>
+<trkpt lat="47.4185873" lon="19.1569293">
+<ele>112.694</ele>
+<time>2018-11-28T16:30:23.322Z</time>
+</trkpt>
+<trkpt lat="47.4185179" lon="19.1570316">
+<ele>112.896</ele>
+<time>2018-11-28T16:30:40.436Z</time>
+</trkpt>
+<trkpt lat="47.4184450" lon="19.1571190">
+<ele>112.996</ele>
+<time>2018-11-28T16:30:56.844Z</time>
+</trkpt>
+<trkpt lat="47.4183804" lon="19.1572335">
+<ele>113.027</ele>
+<time>2018-11-28T16:31:14.476Z</time>
+</trkpt>
+<trkpt lat="47.4183804" lon="19.1572335">
+<ele>113.027</ele>
+<time>2018-11-28T16:31:14.476Z</time>
+</trkpt>
+<trkpt lat="47.4188489" lon="19.1589803">
+<ele>112.998</ele>
+<time>2018-11-28T16:33:18.998Z</time>
+</trkpt>
+<trkpt lat="47.4186861" lon="19.1587566">
+<ele>112.946</ele>
+<time>2018-11-28T16:33:36.879Z</time>
+</trkpt>
+<trkpt lat="47.4188084" lon="19.1580806">
+<ele>112.857</ele>
+<time>2018-11-28T16:34:14.975Z</time>
+</trkpt>
+<trkpt lat="47.4188084" lon="19.1580806">
+<ele>112.857</ele>
+<time>2018-11-28T16:34:14.975Z</time>
+</trkpt>
+<trkpt lat="47.4190024" lon="19.1563188">
+<ele>111.822</ele>
+<time>2018-11-28T16:35:52.142Z</time>
+</trkpt>
+<trkpt lat="47.4189242" lon="19.1564150">
+<ele>111.770</ele>
+<time>2018-11-28T16:36:00.324Z</time>
+</trkpt>
+<trkpt lat="47.4188516" lon="19.1565105">
+<ele>111.727</ele>
+<time>2018-11-28T16:36:08.137Z</time>
+</trkpt>
+<trkpt lat="47.4187813" lon="19.1566112">
+<ele>111.646</ele>
+<time>2018-11-28T16:36:16.007Z</time>
+</trkpt>
+<trkpt lat="47.4187159" lon="19.1567073">
+<ele>111.537</ele>
+<time>2018-11-28T16:36:23.423Z</time>
+</trkpt>
+<trkpt lat="47.4186122" lon="19.1567092">
+<ele>111.476</ele>
+<time>2018-11-28T16:36:31.763Z</time>
+</trkpt>
+<trkpt lat="47.4185787" lon="19.1568354">
+<ele>111.496</ele>
+<time>2018-11-28T16:36:39.143Z</time>
+</trkpt>
+<trkpt lat="47.4184779" lon="19.1568420">
+<ele>111.544</ele>
+<time>2018-11-28T16:36:51.270Z</time>
+</trkpt>
+<trkpt lat="47.4183858" lon="19.1568750">
+<ele>111.568</ele>
+<time>2018-11-28T16:37:06.129Z</time>
+</trkpt>
+<trkpt lat="47.4182993" lon="19.1568226">
+<ele>111.584</ele>
+<time>2018-11-28T16:37:19.011Z</time>
+</trkpt>
+<trkpt lat="47.4182372" lon="19.1567113">
+<ele>111.617</ele>
+<time>2018-11-28T16:37:34.731Z</time>
+</trkpt>
+<trkpt lat="47.4182979" lon="19.1566094">
+<ele>111.625</ele>
+<time>2018-11-28T16:37:51.255Z</time>
+</trkpt>
+<trkpt lat="47.4183692" lon="19.1565247">
+<ele>111.557</ele>
+<time>2018-11-28T16:38:05.536Z</time>
+</trkpt>
+<trkpt lat="47.4184365" lon="19.1564122">
+<ele>111.419</ele>
+<time>2018-11-28T16:38:19.000Z</time>
+</trkpt>
+<trkpt lat="47.4184365" lon="19.1564122">
+<ele>111.265</ele>
+<time>2018-11-28T16:38:24.000Z</time>
+</trkpt>
+<trkpt lat="47.4184365" lon="19.1564122">
+<ele>111.157</ele>
+<time>2018-11-28T16:39:38.804Z</time>
+</trkpt>
+<trkpt lat="47.4183371" lon="19.1562857">
+<ele>111.141</ele>
+<time>2018-11-28T16:39:45.202Z</time>
+</trkpt>
+<trkpt lat="47.4183065" lon="19.1561407">
+<ele>111.317</ele>
+<time>2018-11-28T16:39:48.676Z</time>
+</trkpt>
+<trkpt lat="47.4184022" lon="19.1560329">
+<ele>111.791</ele>
+<time>2018-11-28T16:39:51.546Z</time>
+</trkpt>
+<trkpt lat="47.4185492" lon="19.1559509">
+<ele>112.485</ele>
+<time>2018-11-28T16:39:53.659Z</time>
+</trkpt>
+<trkpt lat="47.4189494" lon="19.1558335">
+<ele>113.140</ele>
+<time>2018-11-28T16:39:57.868Z</time>
+</trkpt>
+<trkpt lat="47.4191578" lon="19.1557530">
+<ele>113.525</ele>
+<time>2018-11-28T16:39:59.859Z</time>
+</trkpt>
+<trkpt lat="47.4193542" lon="19.1556935">
+<ele>113.617</ele>
+<time>2018-11-28T16:40:01.777Z</time>
+</trkpt>
+<trkpt lat="47.4195418" lon="19.1556187">
+<ele>113.593</ele>
+<time>2018-11-28T16:40:03.727Z</time>
+</trkpt>
+<trkpt lat="47.4197657" lon="19.1555211">
+<ele>113.588</ele>
+<time>2018-11-28T16:40:06.727Z</time>
+</trkpt>
+<trkpt lat="47.4199463" lon="19.1554386">
+<ele>113.528</ele>
+<time>2018-11-28T16:40:09.769Z</time>
+</trkpt>
+<trkpt lat="47.4200429" lon="19.1553811">
+<ele>113.329</ele>
+<time>2018-11-28T16:40:11.233Z</time>
+</trkpt>
+<trkpt lat="47.4201895" lon="19.1552824">
+<ele>113.152</ele>
+<time>2018-11-28T16:40:13.042Z</time>
+</trkpt>
+<trkpt lat="47.4203977" lon="19.1549789">
+<ele>113.159</ele>
+<time>2018-11-28T16:40:16.063Z</time>
+</trkpt>
+<trkpt lat="47.4205585" lon="19.1548062">
+<ele>113.312</ele>
+<time>2018-11-28T16:40:18.035Z</time>
+</trkpt>
+<trkpt lat="47.4207070" lon="19.1546705">
+<ele>113.506</ele>
+<time>2018-11-28T16:40:19.796Z</time>
+</trkpt>
+<trkpt lat="47.4208360" lon="19.1545995">
+<ele>113.628</ele>
+<time>2018-11-28T16:40:21.277Z</time>
+</trkpt>
+<trkpt lat="47.4210893" lon="19.1546679">
+<ele>113.603</ele>
+<time>2018-11-28T16:40:24.152Z</time>
+</trkpt>
+<trkpt lat="47.4212110" lon="19.1548189">
+<ele>113.477</ele>
+<time>2018-11-28T16:40:25.999Z</time>
+</trkpt>
+<trkpt lat="47.4213783" lon="19.1548972">
+<ele>113.360</ele>
+<time>2018-11-28T16:40:28.003Z</time>
+</trkpt>
+<trkpt lat="47.4215658" lon="19.1548577">
+<ele>113.301</ele>
+<time>2018-11-28T16:40:30.066Z</time>
+</trkpt>
+<trkpt lat="47.4218411" lon="19.1547536">
+<ele>113.268</ele>
+<time>2018-11-28T16:40:33.139Z</time>
+</trkpt>
+<trkpt lat="47.4220112" lon="19.1547657">
+<ele>113.146</ele>
+<time>2018-11-28T16:40:35.188Z</time>
+</trkpt>
+<trkpt lat="47.4222326" lon="19.1549190">
+<ele>112.824</ele>
+<time>2018-11-28T16:40:38.620Z</time>
+</trkpt>
+<trkpt lat="47.4223898" lon="19.1549978">
+<ele>112.398</ele>
+<time>2018-11-28T16:40:41.965Z</time>
+</trkpt>
+<trkpt lat="47.4224908" lon="19.1550544">
+<ele>112.083</ele>
+<time>2018-11-28T16:40:44.667Z</time>
+</trkpt>
+<trkpt lat="47.4225805" lon="19.1551918">
+<ele>111.946</ele>
+<time>2018-11-28T16:40:47.669Z</time>
+</trkpt>
+<trkpt lat="47.4226902" lon="19.1553087">
+<ele>111.979</ele>
+<time>2018-11-28T16:40:49.931Z</time>
+</trkpt>
+<trkpt lat="47.4228431" lon="19.1553142">
+<ele>112.157</ele>
+<time>2018-11-28T16:40:52.105Z</time>
+</trkpt>
+<trkpt lat="47.4229889" lon="19.1552688">
+<ele>112.455</ele>
+<time>2018-11-28T16:40:53.952Z</time>
+</trkpt>
+<trkpt lat="47.4232202" lon="19.1554817">
+<ele>112.822</ele>
+<time>2018-11-28T16:40:56.978Z</time>
+</trkpt>
+<trkpt lat="47.4233962" lon="19.1556531">
+<ele>113.239</ele>
+<time>2018-11-28T16:40:59.121Z</time>
+</trkpt>
+<trkpt lat="47.4234975" lon="19.1558513">
+<ele>113.721</ele>
+<time>2018-11-28T16:41:00.925Z</time>
+</trkpt>
+<trkpt lat="47.4236418" lon="19.1561212">
+<ele>114.185</ele>
+<time>2018-11-28T16:41:03.645Z</time>
+</trkpt>
+<trkpt lat="47.4237986" lon="19.1563686">
+<ele>114.482</ele>
+<time>2018-11-28T16:41:06.638Z</time>
+</trkpt>
+<trkpt lat="47.4238759" lon="19.1565161">
+<ele>114.607</ele>
+<time>2018-11-28T16:41:08.494Z</time>
+</trkpt>
+<trkpt lat="47.4239662" lon="19.1566878">
+<ele>114.630</ele>
+<time>2018-11-28T16:41:11.000Z</time>
+</trkpt>
+<trkpt lat="47.4239662" lon="19.1566878">
+<ele>114.605</ele>
+<time>2018-11-28T16:41:17.000Z</time>
+</trkpt>
+<trkpt lat="47.4239662" lon="19.1566878">
+<ele>114.551</ele>
+<time>2018-11-28T16:41:17.100Z</time>
+</trkpt>
+<trkpt lat="47.4241147" lon="19.1569099">
+<ele>114.501</ele>
+<time>2018-11-28T16:41:24.463Z</time>
+</trkpt>
+<trkpt lat="47.4242212" lon="19.1568840">
+<ele>114.563</ele>
+<time>2018-11-28T16:41:26.301Z</time>
+</trkpt>
+<trkpt lat="47.4243766" lon="19.1566644">
+<ele>114.783</ele>
+<time>2018-11-28T16:41:29.383Z</time>
+</trkpt>
+<trkpt lat="47.4245102" lon="19.1564072">
+<ele>115.047</ele>
+<time>2018-11-28T16:41:32.464Z</time>
+</trkpt>
+<trkpt lat="47.4246481" lon="19.1562774">
+<ele>115.240</ele>
+<time>2018-11-28T16:41:34.897Z</time>
+</trkpt>
+<trkpt lat="47.4247839" lon="19.1561090">
+<ele>115.337</ele>
+<time>2018-11-28T16:41:37.646Z</time>
+</trkpt>
+<trkpt lat="47.4248821" lon="19.1560589">
+<ele>115.420</ele>
+<time>2018-11-28T16:41:39.332Z</time>
+</trkpt>
+<trkpt lat="47.4250394" lon="19.1562066">
+<ele>115.626</ele>
+<time>2018-11-28T16:41:42.258Z</time>
+</trkpt>
+<trkpt lat="47.4250810" lon="19.1564130">
+<ele>116.104</ele>
+<time>2018-11-28T16:41:44.229Z</time>
+</trkpt>
+<trkpt lat="47.4251289" lon="19.1566215">
+<ele>116.955</ele>
+<time>2018-11-28T16:41:46.055Z</time>
+</trkpt>
+<trkpt lat="47.4251727" lon="19.1568676">
+<ele>118.066</ele>
+<time>2018-11-28T16:41:48.027Z</time>
+</trkpt>
+<trkpt lat="47.4252156" lon="19.1571156">
+<ele>119.216</ele>
+<time>2018-11-28T16:41:49.921Z</time>
+</trkpt>
+<trkpt lat="47.4252790" lon="19.1575099">
+<ele>120.286</ele>
+<time>2018-11-28T16:41:52.929Z</time>
+</trkpt>
+<trkpt lat="47.4253182" lon="19.1577550">
+<ele>121.393</ele>
+<time>2018-11-28T16:41:54.799Z</time>
+</trkpt>
+<trkpt lat="47.4254007" lon="19.1581417">
+<ele>122.649</ele>
+<time>2018-11-28T16:41:57.699Z</time>
+</trkpt>
+<trkpt lat="47.4254932" lon="19.1585592">
+<ele>123.890</ele>
+<time>2018-11-28T16:42:00.651Z</time>
+</trkpt>
+<trkpt lat="47.4255562" lon="19.1588412">
+<ele>124.842</ele>
+<time>2018-11-28T16:42:02.498Z</time>
+</trkpt>
+<trkpt lat="47.4256424" lon="19.1591465">
+<ele>125.286</ele>
+<time>2018-11-28T16:42:04.438Z</time>
+</trkpt>
+<trkpt lat="47.4257922" lon="19.1596229">
+<ele>125.105</ele>
+<time>2018-11-28T16:42:07.395Z</time>
+</trkpt>
+<trkpt lat="47.4259488" lon="19.1601086">
+<ele>124.288</ele>
+<time>2018-11-28T16:42:10.304Z</time>
+</trkpt>
+<trkpt lat="47.4261219" lon="19.1606066">
+<ele>122.826</ele>
+<time>2018-11-28T16:42:13.276Z</time>
+</trkpt>
+<trkpt lat="47.4262943" lon="19.1610968">
+<ele>120.906</ele>
+<time>2018-11-28T16:42:16.242Z</time>
+</trkpt>
+<trkpt lat="47.4264781" lon="19.1615276">
+<ele>118.976</ele>
+<time>2018-11-28T16:42:19.114Z</time>
+</trkpt>
+<trkpt lat="47.4266445" lon="19.1619216">
+<ele>117.523</ele>
+<time>2018-11-28T16:42:21.911Z</time>
+</trkpt>
+<trkpt lat="47.4267604" lon="19.1621805">
+<ele>116.784</ele>
+<time>2018-11-28T16:42:23.877Z</time>
+</trkpt>
+<trkpt lat="47.4269697" lon="19.1625612">
+<ele>116.646</ele>
+<time>2018-11-28T16:42:27.054Z</time>
+</trkpt>
+<trkpt lat="47.4270735" lon="19.1627852">
+<ele>116.842</ele>
+<time>2018-11-28T16:42:28.843Z</time>
+</trkpt>
+<trkpt lat="47.4272752" lon="19.1631642">
+<ele>117.140</ele>
+<time>2018-11-28T16:42:31.983Z</time>
+</trkpt>
+<trkpt lat="47.4274649" lon="19.1635374">
+<ele>117.477</ele>
+<time>2018-11-28T16:42:34.994Z</time>
+</trkpt>
+<trkpt lat="47.4275155" lon="19.1637567">
+<ele>117.882</ele>
+<time>2018-11-28T16:42:36.564Z</time>
+</trkpt>
+<trkpt lat="47.4276870" lon="19.1640709">
+<ele>118.268</ele>
+<time>2018-11-28T16:42:39.508Z</time>
+</trkpt>
+<trkpt lat="47.4277923" lon="19.1642848">
+<ele>118.528</ele>
+<time>2018-11-28T16:42:41.723Z</time>
+</trkpt>
+<trkpt lat="47.4277719" lon="19.1645729">
+<ele>118.648</ele>
+<time>2018-11-28T16:42:44.597Z</time>
+</trkpt>
+<trkpt lat="47.4276926" lon="19.1646868">
+<ele>118.675</ele>
+<time>2018-11-28T16:42:46.613Z</time>
+</trkpt>
+<trkpt lat="47.4275787" lon="19.1647189">
+<ele>118.665</ele>
+<time>2018-11-28T16:42:49.000Z</time>
+</trkpt>
+<trkpt lat="47.4275787" lon="19.1647189">
+<ele>118.625</ele>
+<time>2018-11-28T16:42:55.000Z</time>
+</trkpt>
+<trkpt lat="47.4275787" lon="19.1647189">
+<ele>118.561</ele>
+<time>2018-11-28T16:45:08.360Z</time>
+</trkpt>
+<trkpt lat="47.4273914" lon="19.1648691">
+<ele>118.509</ele>
+<time>2018-11-28T16:45:16.092Z</time>
+</trkpt>
+<trkpt lat="47.4272934" lon="19.1649951">
+<ele>118.466</ele>
+<time>2018-11-28T16:45:18.002Z</time>
+</trkpt>
+<trkpt lat="47.4271744" lon="19.1652728">
+<ele>118.411</ele>
+<time>2018-11-28T16:45:20.949Z</time>
+</trkpt>
+<trkpt lat="47.4270668" lon="19.1654659">
+<ele>118.359</ele>
+<time>2018-11-28T16:45:22.770Z</time>
+</trkpt>
+<trkpt lat="47.4269175" lon="19.1656906">
+<ele>118.403</ele>
+<time>2018-11-28T16:45:24.700Z</time>
+</trkpt>
+<trkpt lat="47.4266321" lon="19.1660502">
+<ele>118.650</ele>
+<time>2018-11-28T16:45:27.586Z</time>
+</trkpt>
+<trkpt lat="47.4261733" lon="19.1666204">
+<ele>119.231</ele>
+<time>2018-11-28T16:45:31.285Z</time>
+</trkpt>
+<trkpt lat="47.4259084" lon="19.1669575">
+<ele>120.123</ele>
+<time>2018-11-28T16:45:33.218Z</time>
+</trkpt>
+<trkpt lat="47.4255082" lon="19.1674738">
+<ele>121.014</ele>
+<time>2018-11-28T16:45:36.168Z</time>
+</trkpt>
+<trkpt lat="47.4251213" lon="19.1679912">
+<ele>121.578</ele>
+<time>2018-11-28T16:45:39.161Z</time>
+</trkpt>
+<trkpt lat="47.4248694" lon="19.1683135">
+<ele>121.741</ele>
+<time>2018-11-28T16:45:41.174Z</time>
+</trkpt>
+<trkpt lat="47.4246222" lon="19.1686216">
+<ele>121.622</ele>
+<time>2018-11-28T16:45:43.197Z</time>
+</trkpt>
+<trkpt lat="47.4242794" lon="19.1690733">
+<ele>121.444</ele>
+<time>2018-11-28T16:45:46.150Z</time>
+</trkpt>
+<trkpt lat="47.4240519" lon="19.1693561">
+<ele>121.338</ele>
+<time>2018-11-28T16:45:48.199Z</time>
+</trkpt>
+<trkpt lat="47.4238343" lon="19.1696525">
+<ele>121.284</ele>
+<time>2018-11-28T16:45:50.595Z</time>
+</trkpt>
+<trkpt lat="47.4235738" lon="19.1699657">
+<ele>121.192</ele>
+<time>2018-11-28T16:45:54.591Z</time>
+</trkpt>
+<trkpt lat="47.4235134" lon="19.1702213">
+<ele>120.880</ele>
+<time>2018-11-28T16:45:57.025Z</time>
+</trkpt>
+<trkpt lat="47.4237327" lon="19.1705663">
+<ele>120.339</ele>
+<time>2018-11-28T16:45:59.908Z</time>
+</trkpt>
+<trkpt lat="47.4239044" lon="19.1708098">
+<ele>119.969</ele>
+<time>2018-11-28T16:46:01.702Z</time>
+</trkpt>
+<trkpt lat="47.4241081" lon="19.1711021">
+<ele>120.067</ele>
+<time>2018-11-28T16:46:03.683Z</time>
+</trkpt>
+<trkpt lat="47.4244153" lon="19.1715766">
+<ele>120.498</ele>
+<time>2018-11-28T16:46:06.585Z</time>
+</trkpt>
+<trkpt lat="47.4246348" lon="19.1719056">
+<ele>121.035</ele>
+<time>2018-11-28T16:46:08.587Z</time>
+</trkpt>
+<trkpt lat="47.4249700" lon="19.1723968">
+<ele>121.535</ele>
+<time>2018-11-28T16:46:11.566Z</time>
+</trkpt>
+<trkpt lat="47.4251969" lon="19.1727258">
+<ele>121.892</ele>
+<time>2018-11-28T16:46:13.535Z</time>
+</trkpt>
+<trkpt lat="47.4255563" lon="19.1732132">
+<ele>122.078</ele>
+<time>2018-11-28T16:46:16.806Z</time>
+</trkpt>
+<trkpt lat="47.4257595" lon="19.1734971">
+<ele>122.112</ele>
+<time>2018-11-28T16:46:18.903Z</time>
+</trkpt>
+<trkpt lat="47.4260188" lon="19.1738679">
+<ele>121.956</ele>
+<time>2018-11-28T16:46:21.689Z</time>
+</trkpt>
+<trkpt lat="47.4263046" lon="19.1742879">
+<ele>121.611</ele>
+<time>2018-11-28T16:46:24.559Z</time>
+</trkpt>
+<trkpt lat="47.4266164" lon="19.1747341">
+<ele>121.225</ele>
+<time>2018-11-28T16:46:27.493Z</time>
+</trkpt>
+<trkpt lat="47.4268312" lon="19.1750362">
+<ele>120.950</ele>
+<time>2018-11-28T16:46:29.456Z</time>
+</trkpt>
+<trkpt lat="47.4270449" lon="19.1753509">
+<ele>120.841</ele>
+<time>2018-11-28T16:46:31.454Z</time>
+</trkpt>
+<trkpt lat="47.4272319" lon="19.1756756">
+<ele>120.893</ele>
+<time>2018-11-28T16:46:33.431Z</time>
+</trkpt>
+<trkpt lat="47.4274520" lon="19.1759835">
+<ele>121.010</ele>
+<time>2018-11-28T16:46:35.674Z</time>
+</trkpt>
+<trkpt lat="47.4277160" lon="19.1763693">
+<ele>121.062</ele>
+<time>2018-11-28T16:46:39.176Z</time>
+</trkpt>
+<trkpt lat="47.4278676" lon="19.1765617">
+<ele>120.842</ele>
+<time>2018-11-28T16:46:41.541Z</time>
+</trkpt>
+<trkpt lat="47.4279435" lon="19.1766751">
+<ele>120.327</ele>
+<time>2018-11-28T16:46:42.655Z</time>
+</trkpt>
+<trkpt lat="47.4281066" lon="19.1768948">
+<ele>119.927</ele>
+<time>2018-11-28T16:46:44.726Z</time>
+</trkpt>
+<trkpt lat="47.4283863" lon="19.1773024">
+<ele>120.026</ele>
+<time>2018-11-28T16:46:48.907Z</time>
+</trkpt>
+<trkpt lat="47.4285277" lon="19.1775164">
+<ele>120.469</ele>
+<time>2018-11-28T16:46:51.659Z</time>
+</trkpt>
+<trkpt lat="47.4286294" lon="19.1776847">
+<ele>120.924</ele>
+<time>2018-11-28T16:46:53.498Z</time>
+</trkpt>
+<trkpt lat="47.4287398" lon="19.1778494">
+<ele>121.250</ele>
+<time>2018-11-28T16:46:55.271Z</time>
+</trkpt>
+<trkpt lat="47.4289361" lon="19.1781394">
+<ele>121.526</ele>
+<time>2018-11-28T16:46:57.900Z</time>
+</trkpt>
+<trkpt lat="47.4290776" lon="19.1783534">
+<ele>122.016</ele>
+<time>2018-11-28T16:46:59.678Z</time>
+</trkpt>
+<trkpt lat="47.4292502" lon="19.1785910">
+<ele>122.911</ele>
+<time>2018-11-28T16:47:01.701Z</time>
+</trkpt>
+<trkpt lat="47.4294969" lon="19.1789451">
+<ele>124.069</ele>
+<time>2018-11-28T16:47:04.567Z</time>
+</trkpt>
+<trkpt lat="47.4296600" lon="19.1792007">
+<ele>125.321</ele>
+<time>2018-11-28T16:47:06.440Z</time>
+</trkpt>
+<trkpt lat="47.4298315" lon="19.1794671">
+<ele>126.666</ele>
+<time>2018-11-28T16:47:08.304Z</time>
+</trkpt>
+<trkpt lat="47.4301217" lon="19.1798983">
+<ele>128.231</ele>
+<time>2018-11-28T16:47:11.319Z</time>
+</trkpt>
+<trkpt lat="47.4304087" lon="19.1803426">
+<ele>130.201</ele>
+<time>2018-11-28T16:47:14.568Z</time>
+</trkpt>
+<trkpt lat="47.4305661" lon="19.1806114">
+<ele>132.539</ele>
+<time>2018-11-28T16:47:16.800Z</time>
+</trkpt>
+<trkpt lat="47.4307602" lon="19.1809174">
+<ele>134.775</ele>
+<time>2018-11-28T16:47:20.837Z</time>
+</trkpt>
+<trkpt lat="47.4308434" lon="19.1810635">
+<ele>136.372</ele>
+<time>2018-11-28T16:47:23.796Z</time>
+</trkpt>
+<trkpt lat="47.4308934" lon="19.1811904">
+<ele>137.200</ele>
+<time>2018-11-28T16:47:26.207Z</time>
+</trkpt>
+<trkpt lat="47.4308163" lon="19.1813138">
+<ele>137.581</ele>
+<time>2018-11-28T16:47:28.270Z</time>
+</trkpt>
+<trkpt lat="47.4307396" lon="19.1814553">
+<ele>137.850</ele>
+<time>2018-11-28T16:47:30.131Z</time>
+</trkpt>
+<trkpt lat="47.4306411" lon="19.1817651">
+<ele>138.095</ele>
+<time>2018-11-28T16:47:32.570Z</time>
+</trkpt>
+<trkpt lat="47.4305886" lon="19.1820520">
+<ele>138.339</ele>
+<time>2018-11-28T16:47:34.465Z</time>
+</trkpt>
+<trkpt lat="47.4305884" lon="19.1825345">
+<ele>138.625</ele>
+<time>2018-11-28T16:47:37.353Z</time>
+</trkpt>
+<trkpt lat="47.4307117" lon="19.1830166">
+<ele>138.942</ele>
+<time>2018-11-28T16:47:40.344Z</time>
+</trkpt>
+<trkpt lat="47.4309481" lon="19.1834096">
+<ele>139.228</ele>
+<time>2018-11-28T16:47:43.368Z</time>
+</trkpt>
+<trkpt lat="47.4311504" lon="19.1836260">
+<ele>139.351</ele>
+<time>2018-11-28T16:47:45.529Z</time>
+</trkpt>
+<trkpt lat="47.4314686" lon="19.1837580">
+<ele>139.223</ele>
+<time>2018-11-28T16:47:48.796Z</time>
+</trkpt>
+<trkpt lat="47.4316616" lon="19.1837217">
+<ele>138.903</ele>
+<time>2018-11-28T16:47:51.306Z</time>
+</trkpt>
+<trkpt lat="47.4318049" lon="19.1837118">
+<ele>138.512</ele>
+<time>2018-11-28T16:47:53.332Z</time>
+</trkpt>
+<trkpt lat="47.4319168" lon="19.1839505">
+<ele>138.146</ele>
+<time>2018-11-28T16:47:55.930Z</time>
+</trkpt>
+<trkpt lat="47.4319712" lon="19.1843127">
+<ele>137.835</ele>
+<time>2018-11-28T16:47:58.552Z</time>
+</trkpt>
+<trkpt lat="47.4320126" lon="19.1846084">
+<ele>137.586</ele>
+<time>2018-11-28T16:48:00.493Z</time>
+</trkpt>
+<trkpt lat="47.4320832" lon="19.1850746">
+<ele>137.404</ele>
+<time>2018-11-28T16:48:03.353Z</time>
+</trkpt>
+<trkpt lat="47.4321552" lon="19.1855878">
+<ele>137.203</ele>
+<time>2018-11-28T16:48:06.256Z</time>
+</trkpt>
+<trkpt lat="47.4322314" lon="19.1861275">
+<ele>136.921</ele>
+<time>2018-11-28T16:48:09.147Z</time>
+</trkpt>
+<trkpt lat="47.4322889" lon="19.1865029">
+<ele>136.669</ele>
+<time>2018-11-28T16:48:11.119Z</time>
+</trkpt>
+<trkpt lat="47.4323662" lon="19.1870769">
+<ele>136.510</ele>
+<time>2018-11-28T16:48:14.126Z</time>
+</trkpt>
+<trkpt lat="47.4324272" lon="19.1876381">
+<ele>136.388</ele>
+<time>2018-11-28T16:48:17.101Z</time>
+</trkpt>
+<trkpt lat="47.4324812" lon="19.1879993">
+<ele>136.262</ele>
+<time>2018-11-28T16:48:19.129Z</time>
+</trkpt>
+<trkpt lat="47.4325534" lon="19.1885359">
+<ele>136.150</ele>
+<time>2018-11-28T16:48:22.265Z</time>
+</trkpt>
+<trkpt lat="47.4326010" lon="19.1888513">
+<ele>136.083</ele>
+<time>2018-11-28T16:48:24.474Z</time>
+</trkpt>
+<trkpt lat="47.4326295" lon="19.1891124">
+<ele>136.075</ele>
+<time>2018-11-28T16:48:26.600Z</time>
+</trkpt>
+<trkpt lat="47.4326858" lon="19.1894264">
+<ele>135.972</ele>
+<time>2018-11-28T16:48:29.260Z</time>
+</trkpt>
+<trkpt lat="47.4327712" lon="19.1897862">
+<ele>135.672</ele>
+<time>2018-11-28T16:48:32.056Z</time>
+</trkpt>
+<trkpt lat="47.4328095" lon="19.1900832">
+<ele>135.381</ele>
+<time>2018-11-28T16:48:33.927Z</time>
+</trkpt>
+<trkpt lat="47.4328487" lon="19.1904199">
+<ele>135.337</ele>
+<time>2018-11-28T16:48:35.900Z</time>
+</trkpt>
+<trkpt lat="47.4329523" lon="19.1909283">
+<ele>135.492</ele>
+<time>2018-11-28T16:48:38.923Z</time>
+</trkpt>
+<trkpt lat="47.4329946" lon="19.1912749">
+<ele>135.599</ele>
+<time>2018-11-28T16:48:40.890Z</time>
+</trkpt>
+<trkpt lat="47.4330345" lon="19.1916397">
+<ele>135.514</ele>
+<time>2018-11-28T16:48:42.877Z</time>
+</trkpt>
+<trkpt lat="47.4331114" lon="19.1921838">
+<ele>135.355</ele>
+<time>2018-11-28T16:48:45.788Z</time>
+</trkpt>
+<trkpt lat="47.4331714" lon="19.1925598">
+<ele>135.248</ele>
+<time>2018-11-28T16:48:47.753Z</time>
+</trkpt>
+<trkpt lat="47.4332769" lon="19.1931120">
+<ele>135.179</ele>
+<time>2018-11-28T16:48:50.691Z</time>
+</trkpt>
+<trkpt lat="47.4333493" lon="19.1934724">
+<ele>135.035</ele>
+<time>2018-11-28T16:48:52.714Z</time>
+</trkpt>
+<trkpt lat="47.4334232" lon="19.1939856">
+<ele>134.671</ele>
+<time>2018-11-28T16:48:55.665Z</time>
+</trkpt>
+<trkpt lat="47.4334700" lon="19.1942867">
+<ele>134.037</ele>
+<time>2018-11-28T16:48:57.525Z</time>
+</trkpt>
+<trkpt lat="47.4335209" lon="19.1946044">
+<ele>133.247</ele>
+<time>2018-11-28T16:48:59.570Z</time>
+</trkpt>
+<trkpt lat="47.4335823" lon="19.1950626">
+<ele>132.545</ele>
+<time>2018-11-28T16:49:02.544Z</time>
+</trkpt>
+<trkpt lat="47.4336612" lon="19.1955384">
+<ele>132.077</ele>
+<time>2018-11-28T16:49:05.692Z</time>
+</trkpt>
+<trkpt lat="47.4336845" lon="19.1958545">
+<ele>131.790</ele>
+<time>2018-11-28T16:49:07.764Z</time>
+</trkpt>
+<trkpt lat="47.4337475" lon="19.1962963">
+<ele>131.602</ele>
+<time>2018-11-28T16:49:10.715Z</time>
+</trkpt>
+<trkpt lat="47.4337907" lon="19.1965879">
+<ele>131.471</ele>
+<time>2018-11-28T16:49:12.628Z</time>
+</trkpt>
+<trkpt lat="47.4338764" lon="19.1970370">
+<ele>131.368</ele>
+<time>2018-11-28T16:49:15.543Z</time>
+</trkpt>
+<trkpt lat="47.4339438" lon="19.1975257">
+<ele>131.326</ele>
+<time>2018-11-28T16:49:18.546Z</time>
+</trkpt>
+<trkpt lat="47.4339933" lon="19.1978549">
+<ele>131.361</ele>
+<time>2018-11-28T16:49:20.515Z</time>
+</trkpt>
+<trkpt lat="47.4340667" lon="19.1983559">
+<ele>131.420</ele>
+<time>2018-11-28T16:49:23.652Z</time>
+</trkpt>
+<trkpt lat="47.4341346" lon="19.1987870">
+<ele>131.428</ele>
+<time>2018-11-28T16:49:26.766Z</time>
+</trkpt>
+<trkpt lat="47.4341675" lon="19.1990083">
+<ele>131.262</ele>
+<time>2018-11-28T16:49:28.513Z</time>
+</trkpt>
+<trkpt lat="47.4342298" lon="19.1994016">
+<ele>130.898</ele>
+<time>2018-11-28T16:49:31.525Z</time>
+</trkpt>
+<trkpt lat="47.4342780" lon="19.1996752">
+<ele>130.446</ele>
+<time>2018-11-28T16:49:33.501Z</time>
+</trkpt>
+<trkpt lat="47.4343438" lon="19.2000979">
+<ele>130.002</ele>
+<time>2018-11-28T16:49:36.491Z</time>
+</trkpt>
+<trkpt lat="47.4343918" lon="19.2003986">
+<ele>129.650</ele>
+<time>2018-11-28T16:49:38.652Z</time>
+</trkpt>
+<trkpt lat="47.4344370" lon="19.2006486">
+<ele>129.472</ele>
+<time>2018-11-28T16:49:40.640Z</time>
+</trkpt>
+<trkpt lat="47.4344825" lon="19.2009843">
+<ele>129.429</ele>
+<time>2018-11-28T16:49:43.508Z</time>
+</trkpt>
+<trkpt lat="47.4345069" lon="19.2011849">
+<ele>129.402</ele>
+<time>2018-11-28T16:49:45.555Z</time>
+</trkpt>
+<trkpt lat="47.4345647" lon="19.2014441">
+<ele>129.305</ele>
+<time>2018-11-28T16:49:48.693Z</time>
+</trkpt>
+<trkpt lat="47.4346055" lon="19.2015700">
+<ele>129.119</ele>
+<time>2018-11-28T16:49:50.667Z</time>
+</trkpt>
+<trkpt lat="47.4346803" lon="19.2017190">
+<ele>128.878</ele>
+<time>2018-11-28T16:49:53.289Z</time>
+</trkpt>
+<trkpt lat="47.4346502" lon="19.2019478">
+<ele>128.699</ele>
+<time>2018-11-28T16:49:56.087Z</time>
+</trkpt>
+<trkpt lat="47.4345677" lon="19.2021699">
+<ele>128.736</ele>
+<time>2018-11-28T16:49:58.273Z</time>
+</trkpt>
+<trkpt lat="47.4344699" lon="19.2024010">
+<ele>128.979</ele>
+<time>2018-11-28T16:50:00.230Z</time>
+</trkpt>
+<trkpt lat="47.4343219" lon="19.2028102">
+<ele>129.250</ele>
+<time>2018-11-28T16:50:03.289Z</time>
+</trkpt>
+<trkpt lat="47.4342255" lon="19.2030907">
+<ele>129.399</ele>
+<time>2018-11-28T16:50:05.244Z</time>
+</trkpt>
+<trkpt lat="47.4341294" lon="19.2033842">
+<ele>129.432</ele>
+<time>2018-11-28T16:50:07.252Z</time>
+</trkpt>
+<trkpt lat="47.4339899" lon="19.2038302">
+<ele>129.410</ele>
+<time>2018-11-28T16:50:10.292Z</time>
+</trkpt>
+<trkpt lat="47.4338925" lon="19.2041112">
+<ele>129.372</ele>
+<time>2018-11-28T16:50:12.311Z</time>
+</trkpt>
+<trkpt lat="47.4338001" lon="19.2043627">
+<ele>129.333</ele>
+<time>2018-11-28T16:50:14.399Z</time>
+</trkpt>
+<trkpt lat="47.4336817" lon="19.2046859">
+<ele>129.301</ele>
+<time>2018-11-28T16:50:17.615Z</time>
+</trkpt>
+<trkpt lat="47.4336213" lon="19.2048380">
+<ele>129.312</ele>
+<time>2018-11-28T16:50:19.312Z</time>
+</trkpt>
+<trkpt lat="47.4335491" lon="19.2050444">
+<ele>129.394</ele>
+<time>2018-11-28T16:50:21.137Z</time>
+</trkpt>
+<trkpt lat="47.4334024" lon="19.2054601">
+<ele>129.621</ele>
+<time>2018-11-28T16:50:24.194Z</time>
+</trkpt>
+<trkpt lat="47.4332402" lon="19.2059440">
+<ele>130.102</ele>
+<time>2018-11-28T16:50:27.300Z</time>
+</trkpt>
+<trkpt lat="47.4331333" lon="19.2062436">
+<ele>130.717</ele>
+<time>2018-11-28T16:50:29.368Z</time>
+</trkpt>
+<trkpt lat="47.4330346" lon="19.2065064">
+<ele>131.137</ele>
+<time>2018-11-28T16:50:31.424Z</time>
+</trkpt>
+<trkpt lat="47.4329646" lon="19.2067355">
+<ele>131.244</ele>
+<time>2018-11-28T16:50:33.317Z</time>
+</trkpt>
+<trkpt lat="47.4328963" lon="19.2069393">
+<ele>131.181</ele>
+<time>2018-11-28T16:50:35.061Z</time>
+</trkpt>
+<trkpt lat="47.4327713" lon="19.2073081">
+<ele>131.100</ele>
+<time>2018-11-28T16:50:38.095Z</time>
+</trkpt>
+<trkpt lat="47.4326331" lon="19.2077052">
+<ele>131.140</ele>
+<time>2018-11-28T16:50:41.142Z</time>
+</trkpt>
+<trkpt lat="47.4325467" lon="19.2079727">
+<ele>131.415</ele>
+<time>2018-11-28T16:50:43.156Z</time>
+</trkpt>
+<trkpt lat="47.4324717" lon="19.2082259">
+<ele>131.850</ele>
+<time>2018-11-28T16:50:45.067Z</time>
+</trkpt>
+<trkpt lat="47.4323423" lon="19.2086083">
+<ele>132.281</ele>
+<time>2018-11-28T16:50:48.001Z</time>
+</trkpt>
+<trkpt lat="47.4322555" lon="19.2088699">
+<ele>132.742</ele>
+<time>2018-11-28T16:50:49.924Z</time>
+</trkpt>
+<trkpt lat="47.4321107" lon="19.2092959">
+<ele>133.363</ele>
+<time>2018-11-28T16:50:52.959Z</time>
+</trkpt>
+<trkpt lat="47.4320092" lon="19.2095985">
+<ele>134.157</ele>
+<time>2018-11-28T16:50:55.010Z</time>
+</trkpt>
+<trkpt lat="47.4319097" lon="19.2099031">
+<ele>134.986</ele>
+<time>2018-11-28T16:50:57.024Z</time>
+</trkpt>
+<trkpt lat="47.4318015" lon="19.2102021">
+<ele>135.655</ele>
+<time>2018-11-28T16:50:59.057Z</time>
+</trkpt>
+<trkpt lat="47.4316541" lon="19.2106275">
+<ele>136.083</ele>
+<time>2018-11-28T16:51:02.194Z</time>
+</trkpt>
+<trkpt lat="47.4315539" lon="19.2109325">
+<ele>136.336</ele>
+<time>2018-11-28T16:51:05.610Z</time>
+</trkpt>
+<trkpt lat="47.4315113" lon="19.2110684">
+<ele>136.488</ele>
+<time>2018-11-28T16:51:08.000Z</time>
+</trkpt>
+<trkpt lat="47.4315113" lon="19.2110684">
+<ele>136.558</ele>
+<time>2018-11-28T16:51:11.000Z</time>
+</trkpt>
+<trkpt lat="47.4315113" lon="19.2110684">
+<ele>136.537</ele>
+<time>2018-11-28T16:51:14.279Z</time>
+</trkpt>
+<trkpt lat="47.4315888" lon="19.2112755">
+<ele>136.464</ele>
+<time>2018-11-28T16:51:20.431Z</time>
+</trkpt>
+<trkpt lat="47.4317698" lon="19.2113790">
+<ele>136.544</ele>
+<time>2018-11-28T16:51:22.825Z</time>
+</trkpt>
+<trkpt lat="47.4320507" lon="19.2116011">
+<ele>136.874</ele>
+<time>2018-11-28T16:51:25.956Z</time>
+</trkpt>
+<trkpt lat="47.4322485" lon="19.2117279">
+<ele>137.195</ele>
+<time>2018-11-28T16:51:27.901Z</time>
+</trkpt>
+<trkpt lat="47.4324540" lon="19.2118501">
+<ele>137.266</ele>
+<time>2018-11-28T16:51:29.852Z</time>
+</trkpt>
+<trkpt lat="47.4326545" lon="19.2120163">
+<ele>137.223</ele>
+<time>2018-11-28T16:51:32.021Z</time>
+</trkpt>
+<trkpt lat="47.4329201" lon="19.2121941">
+<ele>137.233</ele>
+<time>2018-11-28T16:51:34.969Z</time>
+</trkpt>
+<trkpt lat="47.4330948" lon="19.2123036">
+<ele>137.307</ele>
+<time>2018-11-28T16:51:36.996Z</time>
+</trkpt>
+<trkpt lat="47.4332458" lon="19.2124298">
+<ele>137.395</ele>
+<time>2018-11-28T16:51:39.312Z</time>
+</trkpt>
+<trkpt lat="47.4334012" lon="19.2125576">
+<ele>137.456</ele>
+<time>2018-11-28T16:51:41.900Z</time>
+</trkpt>
+<trkpt lat="47.4335368" lon="19.2126684">
+<ele>137.476</ele>
+<time>2018-11-28T16:51:43.898Z</time>
+</trkpt>
+<trkpt lat="47.4337833" lon="19.2129161">
+<ele>137.573</ele>
+<time>2018-11-28T16:51:47.023Z</time>
+</trkpt>
+<trkpt lat="47.4340115" lon="19.2131785">
+<ele>137.826</ele>
+<time>2018-11-28T16:51:49.834Z</time>
+</trkpt>
+<trkpt lat="47.4341680" lon="19.2133481">
+<ele>138.091</ele>
+<time>2018-11-28T16:51:51.724Z</time>
+</trkpt>
+<trkpt lat="47.4344194" lon="19.2136048">
+<ele>138.224</ele>
+<time>2018-11-28T16:51:54.666Z</time>
+</trkpt>
+<trkpt lat="47.4346238" lon="19.2138264">
+<ele>138.251</ele>
+<time>2018-11-28T16:51:57.487Z</time>
+</trkpt>
+<trkpt lat="47.4346678" lon="19.2140108">
+<ele>138.162</ele>
+<time>2018-11-28T16:51:59.660Z</time>
+</trkpt>
+<trkpt lat="47.4345325" lon="19.2142894">
+<ele>137.955</ele>
+<time>2018-11-28T16:52:03.229Z</time>
+</trkpt>
+<trkpt lat="47.4344073" lon="19.2145460">
+<ele>137.813</ele>
+<time>2018-11-28T16:52:05.451Z</time>
+</trkpt>
+<trkpt lat="47.4342975" lon="19.2147612">
+<ele>137.877</ele>
+<time>2018-11-28T16:52:07.393Z</time>
+</trkpt>
+<trkpt lat="47.4341689" lon="19.2147343">
+<ele>137.804</ele>
+<time>2018-11-28T16:52:09.258Z</time>
+</trkpt>
+<trkpt lat="47.4340714" lon="19.2146337">
+<ele>137.319</ele>
+<time>2018-11-28T16:52:11.282Z</time>
+</trkpt>
+<trkpt lat="47.4338810" lon="19.2144146">
+<ele>136.840</ele>
+<time>2018-11-28T16:52:14.710Z</time>
+</trkpt>
+<trkpt lat="47.4338124" lon="19.2143157">
+<ele>136.779</ele>
+<time>2018-11-28T16:52:16.000Z</time>
+</trkpt>
+<trkpt lat="47.4338124" lon="19.2143157">
+<ele>136.884</ele>
+<time>2018-11-28T16:52:21.000Z</time>
+</trkpt>
+<trkpt lat="47.4338124" lon="19.2143157">
+<ele>136.847</ele>
+<time>2018-11-28T16:53:57.283Z</time>
+</trkpt>
+<trkpt lat="47.4338124" lon="19.2143157">
+<ele>136.662</ele>
+<time>2018-11-28T16:54:16.000Z</time>
+</trkpt>
+<trkpt lat="47.4336021" lon="19.2145577">
+<ele>139.856</ele>
+<time>2018-11-28T16:54:35.000Z</time>
+</trkpt>
+</trkseg>
+</trk>
+<extensions>
+<fpdata xmlns="http://www.motionx.com/GPX-Extensions/1/1" sfv="10" origin="MotionXGPSFull 24.2 Build 5063R64">
+<bin enc="base64">
+RgIAAAACAAAAh25WPa7/1kEBAAAAQKKXJ97/1kEAAJv01fTnQCQDAAAZpB8AFDaj3EyQ
+XEDFq/S6EiJgQAAAAAAKAAAAVHJhY2sgMDA3ABcAAAAyMDE4LiBOb3YgMjguICA0OjQ5
+IHBtAAAAAACgo5cn3v/WQbJKmCfe/9ZBmRGfAKbEEznlIUVALAAAAAIAAACBE1iVawwz
+QE4Y4NSjvEdAFDaj3EyQXEAAAAAAAAAkQAAAAAAAACBAAAAAAABMpUAAAAAAAAAAAAAA
+AACF61G4HtlwQAMt89UwRWFAAQAAALF6bpOCK3E/AQAAAAEAAAAEwK732dylPxMwb+Sa
+Nqq/AQAAAAEAAAABAAAAFDaj3EyQXEAAAAAAAAAAAAEAAAAOAAAAVHJhY2tfMDA3Lmdw
+eAABAAAAAd2wJ97/1kEKAAAAAQAAAAoAAABUcmFjayAwMDcAAAAAAAAAAAAAAAAAAAAA
+AP8CAABPAcBruP/WQQAAAAAAAAAAAAAAAAAAAAD/JUS8AgAAAAAAAAAAAAAAAQAAACcA
+AAAyNC4yIEJ1aWxkIDUwNjNSNjQsIE1YQUUgOC4xIGIuIDYyNlI2NAAAAAAA52oAAAEA
+AAABFAAAAPW4/luceP9bBPhvVj2u/9ZB+G9WPa7/1kEAAAAAAFAXPwAAAAADN27+pK7/
+1kE3bv6krv/WQQAAIP0E6nlAAAAAAAQSpIiprv/WQRKkiKmu/9ZBAACgYI0Me0AAAAAA
+A76eAKaw/9ZBvp4AprD/1kEAAACCUUWjQAAAAAAEXyhJubD/1kFfKEm5sP/WQQAA4M6V
+36NAAAAAAAPJAb7AsP/WQckBvsCw/9ZBAAA0mjwbpEAAAAAABJM3SQax/9ZBkzdJBrH/
+1kEAAAhJlkemQAAAAAADldM+DrL/1kGV0z4Osv/WQQAAlChDh65AAAAAAAQUIcgSsv/W
+QRQhyBKy/9ZBAADwlI2rrkAAAAAAA9v7MXe3/9ZB2/sxd7f/1kEAAFAbt3PCQAAAAAAE
+EHLJhbf/1kEQcsmFt//WQQAALQfmkMJAAAAAAAPUSfG0t//WQdRJ8bS3/9ZBAACztjXv
+wkAAAAAABJTaCLe3/9ZBlNoIt7f/1kEAACPYZPPCQAAAAAADlUhv27f/1kGVSG/bt//W
+QQAALbQxPMNAAAAAAARS1Ijet//WQVLUiN63/9ZBAACWy2RCw0AAAAAAAxlWcFy4/9ZB
+GVZwXLj/1kEAADXPMz7EQAAAAAAEXvQIYbj/1kFe9AhhuP/WQQAArgtlR8RAAAAAAANh
+jDBouP/WQWGMMGi4/9ZBAAC8O7RVxEAAAAAABJZYyGu4/9ZBlljIa7j/1kEAACDU41zE
+QAAAAAABoG5WPa7/1kHWVwIn3v/WQQAAm/TV9OdAAAAAAAAAAAA=
+</bin>
+</fpdata>
+</extensions>
+</gpx>

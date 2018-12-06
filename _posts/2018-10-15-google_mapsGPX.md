@@ -96,6 +96,20 @@ Ide fogom összeszedni, hogy a [waze](https://www.waze.com/) merre vezet nap, mi
    	    loadGPXFileIntoGoogleMap( map, "gpx/HOME2MOM20181126.gpx", "#ff0000", .4 ); // red 18
    	    loadGPXFileIntoGoogleMap( map, "gpx/MOM2HOME20181126.gpx", "#0000ff", .4 );
 
+   	    loadGPXFileIntoGoogleMap( map, "gpx/HOME2MOM20181128.gpx", "#ff0000", .4 ); // red 19
+   	    loadGPXFileIntoGoogleMap( map, "gpx/MOM2HOME20181128.gpx", "#0000ff", .4 );
+
+   	    loadGPXFileIntoGoogleMap( map, "gpx/HOME2MOM20181130.gpx", "#ff0000", .4 ); // red 20
+   	    loadGPXFileIntoGoogleMap( map, "gpx/MOM2HOME20181130.gpx", "#0000ff", .4 );
+
+   	    loadGPXFileIntoGoogleMap( map, "gpx/HOME2MOM20181203.gpx", "#ff0000", .4 ); // red 21
+   	    loadGPXFileIntoGoogleMap( map, "gpx/MOM2HOME20181203.gpx", "#0000ff", .4 );
+
+   	    loadGPXFileIntoGoogleMap( map, "gpx/MOM2HOME20181204.gpx", "#0000ff", .4 );
+
+   	    loadGPXFileIntoGoogleMap( map, "gpx/HOME2MOM20181205.gpx", "#ff0000", .4 ); // red 23
+   	    loadGPXFileIntoGoogleMap( map, "gpx/MOM2HOME20181205.gpx", "#0000ff", .4 );
+
 	    //loadGPXFileIntoGoogleMap( map, "gpx/kornati.gpx" );
 	} );
 
