@@ -70,7 +70,7 @@ header_spacer: 93
 - Kovács Csárda (KOVAČ Čarda), Csúza (Suza)
 - Öreg Körössy Halászcsárda, Szeged 
 
-# TOP 3 2018
+# TOP 3 (2018)
 
 1. Baracsi Halászcsárda
 2. Százhalombattai Halászcsárda
