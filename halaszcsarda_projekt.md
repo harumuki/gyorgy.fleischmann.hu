@@ -36,7 +36,7 @@ header_spacer: 93
 ## Eddig meglátogatott halászcsárdák:
 
 - Dunakömlődi Halászcsárda, 3x
-- Baracsi Halászcsárda, 3x
+- Baracsi Halászcsárda, 4x
 - Dunaújvárosi Halászcsárda, 1x
 - Kigyósi Halászcsárda, 1x
 - Római Platán Étterem
@@ -70,11 +70,11 @@ header_spacer: 93
 - Kovács Csárda (KOVAČ Čarda), Csúza (Suza)
 - Öreg Körössy Halászcsárda, Szeged 
 
-# TOP 3
+# TOP 3 2018
 
 1. Baracsi Halászcsárda
 2. Százhalombattai Halászcsárda
-3. ?
+3. Kigyósi Halászcsárda
 
 <script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?key=AIzaSyAubcKvynd2lNrvNQHlTt6b7Q8OBxDzNOg'></script>
 
