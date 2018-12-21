@@ -8,7 +8,7 @@ tags:     [lifestyle]
 
 photoswipe: 'yes'
 
-beforeheaderHTML: '<div class="overridemaxwidthboth" style="margin-top: -14px;"><img class="shadow fade" id="fadeimg1" onload="document.getElementById(''fadeimg1'').style.opacity=''1''" style="" src="http://gaultmillau.hu/system/attachments/16570/medium/bajai-teszta-%C3%B6ntve-IMG_2369.jpg?1511647196"></div>'
+beforeheaderHTML: '<div class="overridemaxwidthboth" style="margin-top: -14px;"><img class="shadow fade" id="fadeimg1" onload="document.getElementById(''fadeimg1'').style.opacity=''1''" style="" src="https://www.buvosszakacs.com/wp-content/uploads/2018/08/16570.jpg"></div>'
 ---
 <!--
 header_spacer: 93
@@ -16,6 +16,7 @@ header_spacer: 93
 <div class="shadow" style="position: absolute; left: 0px; top: 0px; width: 100%; z-index: -1; background-image: url(http://gaultmillau.hu/system/attachments/16570/medium/bajai-teszta-%C3%B6ntve-IMG_2369.jpg?1511647196); height: 100%; background-position: center; background-repeat: no-repeat; background-size: cover;"></div>
 -->
 <!-- http://gaultmillau.hu/buvos-szakacs/halaszle-hagyomanyosan-es-maskepp -->
+<!-- https://www.buvosszakacs.com/2017/11/26/halaszle-hagyomanyosan-es-maskepp/ -->
 
 **2018**(~2017) legérdekesebb projektje, hogy megtaláljuk magyarország legjobb halászcsárdáját a 6-os út környékén. Az első látogatásunk Dunakömlődön volt 2017. november 29-én.
 

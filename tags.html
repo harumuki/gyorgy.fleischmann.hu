@@ -34,7 +34,12 @@ title:  '#címkék'
 
 {% assign tmptags = site.tags | sort %}
 {% for tag in tmptags %}
-  <a href="#{{ tag | first | slugify }}" style="font-size: {{ tag | last | size | times: 10 | plus: 80 }}%">{{ tag[0] }}{% if tag.last.size > 1 %}({{ tag | last | size }})
+{% assign fontsize = tag | last | size | times: 3 | plus: 80 %}
+{% if fontsize > 225 %}
+    {% assign fontsize = 225 %}
+    {% assign boldfont = "font-weight: bold;" %}
+{% endif %}
+  <a href="#{{ tag | first | slugify }}" style="font-size: {{ fontsize }}%; {{ boldfont }}">{{ tag[0] }}{% if tag.last.size > 1 %}({{ tag | last | size }})
 {% endif %}
   </a>
 {% endfor %}

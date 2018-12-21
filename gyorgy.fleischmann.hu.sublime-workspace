@@ -4,6 +4,286 @@
 		"selected_items":
 		[
 			[
+				"le",
+				"length"
+			],
+			[
+				"bu",
+				"buffer"
+			],
+			[
+				"co",
+				"completions"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"com",
+				"completions"
+			],
+			[
+				"Re",
+				"RegExp"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"upda",
+				"updateScreenXY"
+			],
+			[
+				"up",
+				"updateScreenXY"
+			],
+			[
+				"sc",
+				"screenColumns"
+			],
+			[
+				"pro",
+				"process"
+			],
+			[
+				"buffer",
+				"bufferReady"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"pr",
+				"prompt"
+			],
+			[
+				"fi",
+				"function"
+			],
+			[
+				"line",
+				"lineBuffer"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"gre",
+				"grey"
+			],
+			[
+				"gr",
+				"green"
+			],
+			[
+				"p",
+				"push"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"ser",
+				"serverlistSave"
+			],
+			[
+				"comma",
+				"commandsFisrtLevel"
+			],
+			[
+				"sel",
+				"serverlistSave"
+			],
+			[
+				"se",
+				"serverListMatch"
+			],
+			[
+				"see",
+				"serverlist"
+			],
+			[
+				"h",
+				"hits"
+			],
+			[
+				"c",
+				"completions"
+			],
+			[
+				"w",
+				"write"
+			],
+			[
+				"std",
+				"stdout"
+			],
+			[
+				"ma",
+				"margin-bottom\tproperty"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"col",
+				"columns"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"tra",
+				"trackopacity"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"sh",
+				"shadow"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"mi",
+				"min-width\tproperty"
+			],
+			[
+				"in",
+				"inline\tdisplay"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"fl",
+				"inline-flex\tdisplay"
+			],
+			[
+				"wh",
+				"width\tproperty"
+			],
+			[
+				"ba",
+				"background-image\tproperty"
+			],
+			[
+				"margi",
+				"margin\tproperty"
+			],
+			[
+				"ch",
+				"church_icon"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"start",
+				"startnumber"
+			],
+			[
+				"a",
+				"author"
+			],
+			[
+				"re",
+				"reverse"
+			],
+			[
+				"file",
+				"filelist"
+			],
+			[
+				"pic",
+				"picslist"
+			],
+			[
+				"row",
+				"rows"
+			],
+			[
+				"fore",
+				"foreach"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"glo",
+				"globaltitle"
+			],
+			[
+				"gl",
+				"globaltitle"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"read",
+				"readFile2Variable"
+			],
+			[
+				"cl",
+				"clear\tproperty"
+			],
+			[
+				"fle",
+				"inline-flex\tdisplay"
+			],
+			[
+				"i",
+				"inline-table\tdisplay"
+			],
+			[
+				"f",
+				"inline-flex\tdisplay"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
 				"_",
 				"_ORIGINAL"
 			],
@@ -20,24 +300,8 @@
 				"style\tTag"
 			],
 			[
-				"ma",
-				"margin-bottom"
-			],
-			[
-				"mar",
-				"margin-bottom"
-			],
-			[
 				"o",
 				"overflow"
-			],
-			[
-				"marg",
-				"margin-left"
-			],
-			[
-				"a",
-				"auto"
 			],
 			[
 				"al",
@@ -56,40 +320,12 @@
 				"title\tAttr"
 			],
 			[
-				"margin",
-				"margin"
-			],
-			[
-				"pa",
-				"padding"
-			],
-			[
 				"return",
 				"returnString"
 			],
 			[
-				"wi",
-				"width"
-			],
-			[
-				"di",
-				"div\tTag"
-			],
-			[
 				"text-col",
 				"text-decoration-color"
-			],
-			[
-				"col",
-				"color"
-			],
-			[
-				"cl",
-				"clear"
-			],
-			[
-				"fi",
-				"font-size"
 			],
 			[
 				"he",
@@ -120,28 +356,8 @@
 				"min-width"
 			],
 			[
-				"c",
-				"center"
-			],
-			[
 				"m",
 				"margin"
-			],
-			[
-				"p",
-				"p\tTag"
-			],
-			[
-				"ba",
-				"background-color"
-			],
-			[
-				"text",
-				"text-align"
-			],
-			[
-				"font",
-				"font-size"
 			],
 			[
 				"ge",
@@ -184,20 +400,135 @@
 	"buffers":
 	[
 		{
-			"file": "css/style.scss",
+			"contents": "WEB:\n\nhttps://web.archive.org/web/20030511022601/http://neurologia.tk:80/\n\nSony MDR-E525 Twin Turbo Fontopia (SONY TWIN TURBO FONTOPIA MDR-E557B)\n\nAdidas Web Tech\n http://ortodoxos.org/adidas-webtech/\n https://www.pinterest.com/pin/181762534941426769/\n\ntumblr theme\n http://themes.pouretrebelle.com/theme/craticula/\n\n<link href=\"css/bootstrap.min.css\" rel=\"stylesheet\">\n\n<a href=\"https://github.com/pixelcog/parallax.js/archive/v1.5.0.zip\" class=\"btn btn-default download-link\">Download Parallax.js v1.5.0</a>\n<a href=\"https://github.com/pixelcog/parallax.js/\" class=\"btn btn-default\">View on GitHub</a>\n<a href=\"https://github.com/pixelcog/parallax.js/tree/v2.0.0-alpha\" class=\"btn btn-primary\">Check out v2.0.0-alpha!</a>\n\n<iframe src=\"http://ghbtns.com/github-btn.html?user=pixelcog&repo=parallax.js&type=watch&count=true\" allowtransparency=\"true\" frameborder=\"0\" scrolling=\"0\" width=\"85\" height=\"20\"></iframe>\n<iframe src=\"http://ghbtns.com/github-btn.html?user=pixelcog&repo=parallax.js&type=fork&count=true\" allowtransparency=\"true\" frameborder=\"0\" scrolling=\"0\" width=\"95\" height=\"20\"></iframe>\n\nfacebook https://developers.facebook.com/docs/plugins/page-plugin/\n<iframe src=\"https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Ffleischmann.gy&tabs=timeline&width=0&height=0&small_header=true&adapt_container_width=true&hide_cover=true&show_facepile=false&appId\" width=\"0\" height=\"0\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowTransparency=\"true\" allow=\"encrypted-media\"></iframe>\n\nAkkor én is írok egy listát neked.\n\n Dugd vissza a konnektort, amikor kihúzod! Legyen ez a notebook töltő vagy lámpa.\n Vidd el Andrist a gyerekorvoshoz, mert már:\n  hónapok óta köhög és még a végén valami szővődménye lesz a rüdején\n  állandóan piszkálja a fülét\n  állandóan valami fertőzés van a fütyikéjén\n  szemén árpa\n beszélgess normálisan a gyerekekkel és velem is\n\nWeb page:\n\tHow to capture Mac desktop audio with OBS\n\thttps://lofi-gaming.org.uk/blog/2016/09/17/capture-mac-desktop-audio-obs/\n\n\"Még nekem állt feljebb, pedig folyamatosan örülnöm kéne, hogy ilyen csodálatos emberek vesznek körül. Mit perlekedek, amikor mindig ez volt a célom, a család…\"\n\nÉn Igor:\n<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/504870645&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe>\n",
 			"settings":
 			{
-				"buffer_size": 21025,
+				"buffer_size": 2519,
+				"line_ending": "Unix",
+				"name": "WEB:"
+			}
+		},
+		{
+			"contents": "ToDo:\n\tSublime text 3\n\t Sublime\n\t SM doksi, tartalom\n\n# Wordpress2Jekyll\n\nLinux servera 3.10.0-862.11.6.el7.x86_64 #1 SMP Tue Aug 14 21:49:04 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux\n\nyum -y install gcc ruby ruby-devel rubygems mariadb-server mariadb-devel\n\nhttps://tecadmin.net/install-ruby-previous-stable-centos/\n\n[root@servera ~]# curl -sSL https://rvm.io/mpapis.asc | gpg --import -\ngpg: key D39DC0E3: \"Michal Papis (RVM signing) <mpapis@gmail.com>\" not changed\ngpg: Total number processed: 1\ngpg:              unchanged: 1\n[root@servera ~]# curl -L get.rvm.io | bash -s stable\n  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n                                 Dload  Upload   Total   Spent    Left  Speed\n100   194  100   194    0     0    604      0 --:--:-- --:--:-- --:--:--   606\n100 24361  100 24361    0     0  32981      0 --:--:-- --:--:-- --:--:--  183k\nDownloading https://github.com/rvm/rvm/archive/1.29.4.tar.gz\nDownloading https://github.com/rvm/rvm/releases/download/1.29.4/1.29.4.tar.gz.asc\ngpg: Signature made Sun 01 Jul 2018 09:41:26 PM CEST using RSA key ID BF04FF17\ngpg: Good signature from \"Michal Papis (RVM signing) <mpapis@gmail.com>\"\ngpg:                 aka \"Michal Papis <michal.papis@toptal.com>\"\ngpg:                 aka \"[jpeg image of size 5015]\"\ngpg: WARNING: This key is not certified with a trusted signature!\ngpg:          There is no indication that the signature belongs to the owner.\nPrimary key fingerprint: 409B 6B17 96C2 7546 2A17  0311 3804 BB82 D39D C0E3\n     Subkey fingerprint: 62C9 E5F4 DA30 0D94 AC36  166B E206 C29F BF04 FF17\nGPG verified '/usr/local/rvm/archives/rvm-1.29.4.tgz'\nCreating group 'rvm'\nInstalling RVM to /usr/local/rvm/\nInstallation of RVM in /usr/local/rvm/ is almost complete:\n\n  * First you need to add all users that will be using rvm to 'rvm' group,\n    and logout - login again, anyone using rvm will be operating with `umask u=rwx,g=rwx,o=rx`.\n\n  * To start using RVM you need to run `source /etc/profile.d/rvm.sh`\n    in all your open shell windows, in rare cases you need to reopen all shell windows.\n  * Please do NOT forget to add your users to the rvm group.\n     The installer no longer auto-adds root or users to the rvm group. Admins must do this.\n     Also, please note that group memberships are ONLY evaluated at login time.\n     This means that users must log out then back in before group membership takes effect!\n[root@servera ~]# source /etc/profile.d/rvm.sh\n\n[root@servera ~]# rvm reload\n\nrvm requirements run\n\nrvm install 2.3\n\n[root@servera f]# rvm list\n * ruby-2.2.10 [ x86_64 ]\n=> ruby-2.3.7 [ x86_64 ]\n\n# => - current\n# =* - current && default\n#  * - default\n\n[root@servera f]# rvm use 2.3.7 --default\nUsing /usr/local/rvm/gems/ruby-2.3.7\n[root@servera f]# rvm list\n   ruby-2.2.10 [ x86_64 ]\n=* ruby-2.3.7 [ x86_64 ]\n\n# => - current\n# =* - current && default\n#  * - default\n\nservice mariadb start\n\nmysql < alldb_backup.sql\n\nmysql\n\tshow databases;\n\tuse wp_flex;\n\tshow tables;\n\ngem install jekyll-import\ngem install mysql2\ngem install sequel\ngem install unidecode\n\ngem install jekyll-import mysql2 sequel unidecode\n\n\nruby -e 'require \"jekyll-import\";\n    JekyllImport::Importers::WordPress.run({\n      \"dbname\"   => \"wp_flex\",\n      \"user\"     => \"root\",\n      \"password\" => \"\",\n      \"host\"     => \"localhost\",\n      \"socket\"   => \"/var/lib/mysql/mysql.sock\",\n      \"table_prefix\"   => \"wp_\",\n      \"site_prefix\"    => \"\",\n      \"clean_entities\" => true,\n      \"comments\"       => true,\n      \"categories\"     => true,\n      \"tags\"           => true,\n      \"more_excerpt\"   => true,\n      \"more_anchor\"    => true,\n      \"extension\"      => \"html\",\n      \"status\"         => [\"publish\"]\n    })'\n\nruby -r rubygems -e 'require \"jekyll-import\";\n    JekyllImport::Importers::WordPress.run({\n      \"dbname\"         => \"wp_flex\",\n      \"user\"           => \"root\",\n      \"password\"       => \"\",\n      \"host\"           => \"localhost\",\n      \"port\"           => \"3306\",\n      \"socket\"         => \"/var/lib/mysql/mysql.sock\",\n      \"table_prefix\"   => \"wp_\",\n      \"site_prefix\"    => \"\",\n      \"clean_entities\" => true,\n      \"comments\"       => true,\n      \"categories\"     => true,\n      \"tags\"           => true,\n      \"more_excerpt\"   => true,\n      \"more_anchor\"    => true,\n      \"extension\"      => \"html\",\n      \"status\"         => [\"publish\"]\n    })'\n\n/usr/local/rvm/gems/ruby-2.4.4/gems/jekyll-import-0.15.0/lib/jekyll-import/importers/wordpress.rb:167:in `process': can't modify frozen String (RuntimeError)\n\tfrom /usr/local/rvm/gems/ruby-2.4.4/gems/jekyll-import-0.15.0/lib/jekyll-import/importer.rb:25:in `run'\n\tfrom -e:2:in `<main>'\n\nvi /usr/local/rvm/gems/ruby-2.4.4/gems/jekyll-import-0.15.0/lib/jekyll-import/importers/wordpress.rb\n\n# frozen_string_literal: false\n\n\n\nhttps://gist.github.com/thbar/85615c0eb367ee07e96b9f1352b809f1\n\nhttps://danaleegibson.com/migrate-from-wordpress-to-jekyll/\n\n\n\n\n\n\n\n\n\nexport DB=wp_flex\nexport USER=root\nexport PASS=Fl3ischm@nn \nruby -r '~/Sites/gems/jekyll/lib/jekyll/migrators/wordpress' -e 'Jekyll::WordPress.process( \"#{ENV[\"DB\"]}\", \"#{ENV[\"USER\"]}\", \"#{ENV[\"PASS\"]}\")'\n",
+			"settings":
+			{
+				"buffer_size": 5136,
+				"line_ending": "Unix",
+				"name": "ToDo:"
+			}
+		},
+		{
+			"contents": "https://flexbox.help/\n\n{ \n\tdisplay: flex;\n\tflex-direction: row;\n\tflex-wrap: wrap;\n\tjustify-content: center;\n\talign-items: baseline;\n\talign-content: space-around;\n}",
+			"settings":
+			{
+				"buffer_size": 163,
+				"line_ending": "Unix",
+				"name": "https://flexbox.help/"
+			}
+		},
+		{
+			"contents": "NYUGDIJ\n\nNyugdíjbiztosítási adategyeztetés\n\nhttps://ugyintezes.magyarorszag.hu/szolgaltatasok/nyugdijbiztadategyeztetes.html\n\nhttps://gate.gov.hu/sso/ap/ApServlet?partnerid=onyfkiert&target=kiertesites\n\nhttps://kiertesites.onyf.hu//reg.html",
+			"settings":
+			{
+				"buffer_size": 240,
+				"line_ending": "Unix",
+				"name": "NYUGDIJ"
+			}
+		},
+		{
+			"contents": "SM\n\nhttps://ernestodisanto.wordpress.com/2017/01/10/hpsm-javascript-snippets/\n\nfile=cm3r\nform=chm.cm3r.release\nfield=risk.assessment\nRisk Assessment\n\nfile=cm3r\t\nform=chm.cm3r.release\nfield=assigned.to \nAssignee\n\nfile=cm3r\nform=chm.cm3r.release\nfield=reason\nReason for Change\n\"Unplanned Change Detection\"\n\n\tfile=cm3r\n\tform=chm.cm3r.release\n\tfield=release.type\n\tRelease Type\n\nfile=cm3r\nform=chm.cm3r.release\nfield=coordinator\nChange Coordinator\n\nfile=typecheck\nform=chm.cm3r.release\nfield=requested.by\nChange Requester\n\"FLEISCHMANN, GYÖRGY\"\n\nScheduled Implementation Start\nScheduled Implementation End\n",
+			"settings":
+			{
+				"buffer_size": 600,
+				"line_ending": "Unix",
+				"name": "SM"
+			}
+		},
+		{
+			"contents": "CV\n\n<div style=\"display: flex;\"\n<div style=\"display: inline-block; font-size: 0.4em; margin-top: 2px; margin-left: 3px; margin-right: 3px; text-align: right;\">\n<b>Level of my satisfaction:</b><br>\n<b><nobr>Overal quality of the company:</nobr></b></div>\n<div style=\"display:inline-block; font-size: 0.4em; width: 100%;\"><div id=\"animatedLine1\" style=\"width: 100%; height: 3px; display: inline-block; margin-top: 8px;\"></div><br><div id=\"animatedLine2\" style=\"width: 100%; height: 3px; display: inline-block; margin-top: 10px;\"></div></div>\n</div>\n\nOpinion & Satisfaction:\n\tOverall level of my satisfaction at this company: \n\tHow satisfied was I with my position at this company:\n\tHow would I rate that company as a place to work: \n\tThe professionalism of your immediate supervisor: \n\tThe amount of recognition you receive for your work:\n\tThe team spirit and level of cooperation among workers: \n\nMOFA:\n70\n100\n60\n30\n70\n50\nCL:\n80\n100\n80\n90\n80\n90\nSG:\n70\n100\n70\n80\n80\n90\nSch:\n70\n90\n70\n70\n80\n80\nUser:\n80\n90\n70\n80\n75\n75\nScss:",
+			"settings":
+			{
+				"buffer_size": 1019,
+				"line_ending": "Unix",
+				"name": "CV"
+			}
+		},
+		{
+			"contents": "// Returns the number of the related open workorders of the given incident\n// Used in: \"Migrated Incident\" workflow transitions\nfunction countRelatedOpenWOs( number ) {\n   var fWO = new SCFile( \"workorder\", SCFILE_READONLY );\n   var query = \"related.id=\\\"\" + number + \"\\\" and status~=\\\"Closed\\\"\";\n   //var rc = fWO.doSelect( query );\n\n   //if ( rc == RC_SUCCESS ) {\n   //   do {\n   //     print(fWO.workorder_id+ \"__\"+fWO.status);\n   //   } while ( fWO.getNext() == RC_SUCCESS )\n   //}\n  \n   var rc = fWO.doCount( query );\n   return rc;\n}\n\n// Returns if the WO is the last opened related to the parent incident\n// Used in RuleSet: nisz.wo.closeParentIncident\nfunction allOtherChildWOsClosed( record ) {\n   var fWO = new SCFile( \"workorder\", SCFILE_READONLY );\n   var query = \"related.id=\\\"\" + record.related_id + \"\\\" and status~=\\\"Closed\\\" and workorder.id~=\\\"\" + record.workorder_id + \"\\\"\";\n\n   //var rc = fWO.doSelect( query );\n   //if ( rc == RC_SUCCESS ) {\n   //   do {\n   //     print(fWO.workorder_id+ \"__\"+fWO.status);\n   //   } while ( fWO.getNext() == RC_SUCCESS )\n   //}\n  \n   var rc = fWO.doCount( query );\n   if ( rc == 0 ) {\n      return true;\n   } else return false;\n}\n\n\n// Returns if the incident is currently in Resolved status\n// Used in RuleSet: nisz.wo.closeParentIncident\nfunction isIncidentResolved( number ) {\n   var fIM = new SCFile( \"probsummary\", SCFILE_READONLY );\n   var query = \"number=\\\"\" + number + \"\\\"\";\n   var rc = fIM.doSelect( query );\n\n   if ( rc == RC_SUCCESS ) {\n      if ( fIM.problem_status == \"Resolved\" ) {       \n         return true;\n      } \n   }\n\n   return false;\n}\n\nfunction getIMstatus( number ) {\n   var fIM = new SCFile( \"probsummary\", SCFILE_READONLY );\n   var query = \"number=\\\"\" + number + \"\\\"\";\n   var rc = fIM.doSelect( query );\n\n   if ( rc == RC_SUCCESS ) {\n        print(fIM.problem_status);\n    }\n}\n\nfunction searchCaption () {\n   //vars.$L_filed\n   \n   //print ( \"Search...\"+vars[\"$L.file\"].fields );\n   //print ( \"alma\" );\n   //print ( vars.$flexdebug );\n   \n   //vars.$flexdebug=\"alma\";\n   //vars.$flexdebug2=\"alma\";\n   \n   for ( var i = 0; i < vars[\"$L.file\"].fields.length(); i++ ) {\n   \n      if ( vars[\"$L.file\"].fields[i] == vars.$flex_field ) {\n         vars.$flex_caption = vars[\"$L.file\"].captions[i];\n         // print ( i );\n         vars.$type = getTypeName( vars[\"$L.file\"].types[i] ); \n         break;\n      }\n      else {\n         vars.$flex_caption = \"NOT FOUND!!!\";\n      }\n   }\n}\n\nfunction getTypeName( typex ) {\n   var types = new SCFile( \"types\" );\n   \n   print ( \"Ok\" );\n   \n   var rc = types.doSelect( \"representation=\"+ typex );\n\n   if ( rc == RC_SUCCESS ) {\n     print( \"Success. found.\" );\n     return types.name;\n   }\n   else {\n      print( \"Could not find type!\" + RCtoString( rc ) );\n      return null;\n   }\n}\n\nfunction getLicenseInfo() {\n   var license = system.functions.get_module_license();\n\n   for ( var i in license ) {\n      var module = system.functions.strraw( license[i], \",\" );\n      var module1 = module.split( \",\" );\n\n       if ( module1[0] == \"Self Service Ticketing\" ) {\n         print( module1[0] + \" \" + module1[2] + \"(Unlimited)\" );\n       }\n       else {\n         print( module1[0] + \" Named License \" + module1[1] + \"(\" + module1[3] + \")\" + \" Float License \" + module1[2] + \"(\" + module1[4] + \")\" );\n         vars.$flexdebug += module1[0] + \" Named License \" + module1[1] + \"(\" + module1[3] + \")\" + \" Float License \" + module1[2] + \"(\" + module1[4] + \")\" + String.fromCharCode(13);\n       }\n   }\n}\n\nfunction countTABLE( table, query ) {\n   var fTABLE = new SCFile( table, SCFILE_READONLY );\n \n   var rc = fTABLE.doSelect( query );\n\n   if ( rc == RC_SUCCESS ) {\n      do {\n        print(fTABLE.id+ \"_\"+fTABLE.name);\n      } while ( fTABLE.getNext() == RC_SUCCESS )\n   }\n  \n   rc = fTABLE.doCount( query );\n   return rc;\n}\nprint ( \"COUNT: [\" + countTABLE( \"types\", true ) + \"]\");\n",
+			"settings":
+			{
+				"buffer_size": 3885,
+				"line_ending": "Unix",
+				"name": "// Returns the number of the related open workorde"
+			}
+		},
+		{
+			"contents": "TSM command\n\nq node \nnode1 node2 node3\n\n--- options:\ndoamin=\nformat=\nauthentication=\ntype=\n\nq node don\ndonode1 donod2\n\n--- opetion:\ndoamin=\n\nAUDit \n\n  CONTainer \n\n    container_name\n    STGpool=pool_name\n    STGpool=pool_name STGPOOLDIRectory=directory_name\n\n      Action=SCANAll\n             REMOVEDamaged\n             MARKDamaged\n             SCANDamaged\n\n      FORCEOrphandbdel=No\n                       Yes\n\n      MAXProcess=number \n\n      Wait=No\n          Yes\n\n      BEGINDate=begin_date\n\n      BEGINTime=begin_time\n\n      ENDDate=end_date\n\n      ENDTime=end_time\n\nUPDate \n  PATH \n    source_name \n      destination_name\n\n      SRCType=DATAMover\n              SERVer\n\n      AUTODetect=No\n                 Yes\n\n      DESTType=DRive \n\n      LIBRary=library_name\n\n      DEVIce=device_name\n\n      ONLine=Yes\n             No\n      \n      DIRectory=directory_name",
+			"settings":
+			{
+				"buffer_size": 863,
+				"line_ending": "Unix",
+				"name": "TSM command"
+			}
+		},
+		{
+			"contents": "21 lecke a 21. századra Yuval Noah Harari\n\nIntel Core i5 3470  NVIDIA GTX 660 2GB\n\n\"Nem minden ember kap ugyanolyan esélyt képességei gyakorlására és finomítására.\" Sapiens\n\nfalcon\t=SH5CA6872540F68E2ECD648958211CAD1C20F87494796C98E39DD0E71E921E0E78CEF46E1D0E0C6419C5AD668A6EDF0EC768217C82BAD56C517AA593AE5E3F96EBD512=\tNULL\tmenu.manager\tname\nprompt\nstring1\tMAIN MENU\n\nHOME\tJennifer Falcon\tNULL\tNULL\t2016-09-09 09:13:15.000\tt\tBasic\nIntermediate\nAdvanced\t4000-01-01 00:00:10.000\t4000-01-01 00:00:10.000\tNULL\tNULL\tNULL\tNULL\t4000-01-01 00:00:10.000\tscherz.gyula@mail.giro.hu\tNULL\t2016-12-20 12:59:39.000\tNULL\tNULL\t2018-11-12 18:24:01.000\tNULL\t3\tf\tNULL\tNULL\tNULL\tNULL\tNULL\tNULL\tNULL\tUSD\t10547\tNULL\t2018-11-27 12:14:05.000\tNULL\tNULL\tNULL\tNULL\tNULL\tNULL\tNULL\tsysadmin\tsysadmin\tsysadmin\tsysadmin\tGIRO system administrator\tIT-HVFO / Hálózat és végpont felügyeleti osztály\nIT-IFO-GHF / Infrastruktúra felügyeleti osztály-GHF\tNULL\tNULL\t9745\tfalcon\tNULL\t0\tNULL\tf\tf\tt\tsysadmin\tNULL\tNULL\tf\tf\tNULL\tNULL\tNULL\tNULL\tNULL\tsysadmin\tf\tfalcon\tNULL\tNULL\thu\tNULL\tNULL\tNULL\tsysadmin\nsystem administrator\tNULL\tNULL\tNULL\tNULL\tNULL\t113\tTodo\tNULL\t20\t3\tf\tNULL\tNULL\tNULL\tNULL\n\nPablo Larrain: El club\nBURNING.2018.1080p.FHDRip.H264.AAC-NonDRM.srt\nStyx\nLány Girl\nDonyeci történetek  /Donbass/\nHatáreset, Gräns / Border\nKona fer í stríð, Izlandi amazon\nHappy as Lazzaro, Lazzaro felice",
+			"settings":
+			{
+				"buffer_size": 1350,
+				"line_ending": "Unix",
+				"name": "21 lecke a 21. századra Yuval Noah Harari"
+			}
+		},
+		{
+			"contents": "GIRO SM\n\nFORM giro.chm.subform.rec.am\nchange.view\nButton ID 3000\n\nAction: (GIRO) Get Asset List From Attachment\n\n( Subcategory in CurrentRecord = \"Eszköz bevételezés\")\nlib.GIRO_utils.processAttachments(vars.$L_file);\n\n( Subcategory in CurrentRecord = \"Eszközmozgatás\" AND Phase in CurrentRecord != \"Rögzítés\")\n\n// Check mandatory columns of CI table\n// Called by RuleSet: GIRO.chm.am.mandatory.table\nfunction mandatoryCIs( change ) {\n\tvar rowNum;\n\tvar i;\n\tvar j;\n\tvar k;\n\tvar emptyRow;\n\tvar fields                 = [ \"asset.name\", \"asset.category\", \"asset.subcategory\", \"asset.asset.tag\", \"asset.serial.no\", \"asset.part.no\", \"asset.contact.name\", \"asset.location\" ];\n\tvar fieldNames             = [ \"Név\"       , \"Kategória\"     , \"Alkategória\"      , \"Leltári szám\"   , \"Sorozatszám\"    , \"Gyári szám\"   , \"Felelős\"           , \"Tárolási hely\"  ];\n\tvar mandatory              = [ \"yes\"       , \"yes\"           , \"yes\"              , \"yes\"            , \"no\"             , \"no\"           , \"yes\"               , \"yes\"            ];\n\tvar nonMandatoryPhase      = [ \"none\"      , \"none\"          , \"none\"             , \"Engedélyezés\"   , \"none\"           , \"none\"         , \"none\"              , \"none\"          ];\n\t\n\t// Loop through the rows\n\tfor( i = 0; i < change.asset_name.length(); i++ ) {\n\t\tvar rowNum = i + 1;\n\t\t\n\t\t// Loop through columns\n\t\tfor( j = 0; j < fields.length; j++ ) {\n\t\t\t\n\t\t\t// Check mandatory columns\n\t\t\tif( mandatory[ j ] == \"yes\" && change.current_phase != nonMandatoryPhase[ j ] && ( change[ fields[ j ] ][ i ] == null || change[ fields[ j ] ][ i ] == \"\" ) ) {\n\t\t\t\n\t\t\t\t// Check if it is any emtpy row\n\t\t\t\temptyRow = true;\n\t\t\t\tfor( k = 0; k < fields.length; k++ ) {\n\t\t\t\t\tif( change[ fields[ k ] ][ i ] != null && change[ fields[ k ] ][ i ] != \"\" ) {\n\t\t\t\t\t\temptyRow = false;\n\t\t\t\t\t\tbreak;\n\t\t\t\t\t}\n\t\t\t\t}\n\t\t\t\t\n\t\t\t\tif( emptyRow == false ) {\n\t\t\t\t\tdoMsgBox( \"Az eszköz táblázat \" + rowNum + \". sorának \" + fieldNames[ j ] + \" oszlopában kötelező értéket megadni!\", 3 );\n\t\t\t\t\treturn -1;\n\t\t\t\t}\n\t\t\t}\n\t\t}\n\t}\n\t\n\treturn 0;\n}\n\nIT-IFO-WIN\nSztanyek.Zsolt@mail.giro.hu\n\nfunction giroPendingApprovalsNotification ( ) {\n\n\tvar fApproval = new SCFile( \"Approval\", SCFILE_READONLY );\n\n\tvar query = 'file.name=\"cm3r\" and name=\"Eszközkezelési jóváhagyás\" and approval.status=\"pending\" and $approvals.rec = \"Active\"';\n\n\tvar rc = fApproval.doSelect( query );\n\n   if ( rc == RC_SUCCESS ) {\n     do {\n        print( fApproval.sysmodtime + \" x \" + fApproval.unique.key + \" x \" + fApproval.current.pending.groups );\n      } while ( fApproval.getNext() == RC_SUCCESS )\n   }\n}\n\n",
+			"settings":
+			{
+				"buffer_size": 2566,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "index.html",
+			"file": "/Users/flex/development/node.js/flex/spadmin.js",
 			"settings":
 			{
-				"buffer_size": 9677,
+				"buffer_size": 10030,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Egy nap: https://www.youtube.com/watch?v=hYLdGMXFXpI\nJupiter holdjai: https://www.youtube.com/watch?v=-Bbh4nEOPxw\n\nOlvasatok sokat:\nhttps://bookline.hu/product/home.action?_v=_&id=281940&type=22&gclid=EAIaIQobChMIgaOz45WV3wIVz5PtCh12Rwd-EAAYASAAEgIeFfD_BwE\nhttps://bookline.hu/product/home.action?_v=_&id=292593&type=22&gclid=EAIaIQobChMIg76W_5WV3wIVCZztCh05sgXtEAAYASAAEgKn3PD_BwE\nhttps://bookline.hu/product/home.action?_v=Berta_Zsolt_Recept_zonaregenyek&id=287044&type=22\n\nTámogassátok a JÖN alapítávnyt: https://jonalapitvany.hu/\nlink https://jonalapitvany.hu/tamogatas/\n",
+			"settings":
+			{
+				"buffer_size": 575,
+				"line_ending": "Unix",
+				"name": "Egy nap: https://www.youtube.com/watch?v=hYLdGMXFX"
+			}
+		},
+		{
+			"contents": "sub showRuler () {\n#print &colorString( &textLine( \"DEBUG: OUR TERMINAL PARAMETER IS: [Settings{TERMINALCOLS} x Settings{TERMINALROWS}] \", \"-\" ), \"bold red\" );\n    &msg( \"0010D\", $Settings{TERMINALCOLS}, $Settings{TERMINALROWS} );\n    \n    # prepare options for Getopt\n    my $mirrorFlag;\n    #\n    my %commandlineParameters = ( \"mirror\"              => \\$mirrorFlag,\n                                );\n    my @myopts = ( $3,$4,$5,$6,$7,$8 );\n\n    if ( !GetOptionsFromArray( \\@myopts, %commandlineParameters ) ) {\n      print \"GetOptionsFromArray Error!\\n\";\n    }\n      \n    GetOptionsFromArray( \\@myopts, %commandlineParameters );    \n       \n    my $x;\n    my $c;\n\n    if ( !$mirrorFlag ) {\n      &ruler100();\n      &ruler10();\n    }\n\n    # 1\n    #&ruler1();\n    for ( $x = 1; $Settings{TERMINALCOLS} - 1  >= $x; $x++ ) {\n\n\t$c = $x % 10;\n\t( $c == 0 ) ? print &colorString( \"$c\", \"BOLD GREEN\" ) : print \"$c\" ;\n    }\n    print \"\\n\";\n\n    if ( $mirrorFlag ) {\n      &ruler10();\n      &ruler100();\n    }\n    \n}\n\n    \n",
+			"settings":
+			{
+				"buffer_size": 1015,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/flex/development/node.js/t.js",
+			"settings":
+			{
+				"buffer_size": 2941,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "(valami, TAB -> szerver tábla\n\nasasasTAB -> szerver tábla, command level 0\n\n\n\n\\((\\s*(\\w*),*)* -t le kell vágni a fel, ha van ilyen \n\n\nszerver tábla  \n\t\n\n0 szinten vagyunk és nem parancs akkor szerver tábla\n\t(\\(.*\\)\\s*|\\w*:\\s*)\n\nParancs\nHa 1-es szinten vagyunk, akkor \n\t(\\(.*\\)\\s*|\\w*:\\s*)(query|quer|que|qu|q)\n\n\nservers=\n\n\n",
+			"settings":
+			{
+				"buffer_size": 323,
+				"line_ending": "Unix",
+				"name": "(valami, TAB -> szerver tábla"
 			}
 		}
 	],
@@ -209,7 +540,7 @@
 	"command_palette":
 	{
 		"height": 89.0,
-		"last_filter": "Install Package",
+		"last_filter": "",
 		"selected_items":
 		[
 			[
@@ -270,143 +601,142 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/flex/GitHub/gyorgy.fleischmann.hu",
-		"/Users/flex/GitHub/gyorgy.fleischmann.hu/css"
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu"
 	],
 	"file_history":
 	[
-		"/Users/flex/GitHub/gyorgy.fleischmann.hu/index.html",
-		"/Users/flex/bin/iCaptureDuo.sh",
-		"/Users/flex/Downloads/screenShots2018/iCaptureDuo.sh",
-		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2019-05-05-en.md",
-		"/Users/flex/bin/ds.sh",
-		"/Users/flex/Downloads/Call.Me.by.Your.Name.2017.BDRip.x264-SPARKS (1).srt",
+		"/Users/flex/development/node.js/flex/spadmin.js",
+		"/Users/flex/development/node.js/flex/spawn.js",
+		"/Users/flex/GitHub/tsmadm.pl/tsmadm.pl/subs/tsmadm_subroutines.pl",
+		"/Users/flex/development/node.js/flex/cmd_completion.js",
+		"/Users/flex/development/node.js/completer2.js",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-10-15-google_mapsGPX.md",
+		"/Users/flex/development/node.js/electron/bt/bt.js",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/halaszcsarda_projekt.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-11-24-Aurora.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_site/automatic-startup-of-dsmcad-daemon-on-system-reboot-on-red-hat-linux.html",
+		"/Users/flex/development/node.js/term.js",
+		"/Users/flex/development/node.js/omelette",
+		"/Users/flex/development/node.js/omelette.js",
+		"/Users/flex/development/node.js/omlette.js",
+		"/Users/flex/development/node.js/completer1.js",
+		"/Users/flex/development/node.js/cmd_completion.js",
+		"/Users/flex/development/node.js/cmd_dir.js",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-11-23-html2017_v4.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-11-24-Hajnalka_HBD44.md",
 		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-02-06-cv.md",
-		"/Users/flex/GitHub/gyorgy.fleischmann.hu/opensearch.xml",
-		"/Users/flex/Downloads/o.html",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_site/cv.html",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-11-23-Cigarettes_After_Sex-Sunsetz.md",
 		"/Users/flex/GitHub/gyorgy.fleischmann.hu/css/style.scss",
-		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-11-24-Hajnalka_HBD.md",
-		"/Users/flex/GitHub/gyorgy.fleischmann.hu/css/_settings.scss",
-		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-11-24-Hajnalka.md",
-		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_drafts/movies.md",
-		"/Users/flex/Documents/vicc.txt",
-		"/Users/flex/Downloads/vicc.txt",
-		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-01-29-cv.md",
-		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_layouts/default.html",
-		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_drafts/1970-05-05-timeline.md",
-		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_drafts/muzaxLP.md",
-		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_drafts/books.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-11-23-Dengue_Fever-Tiger_Phone_Card.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-09-04-html2017_v3.md",
+		"/Users/flex/GitHub/simple-samples/activity-monitor/app.js",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-11-20-Peter_Gabriel-Here_Comes_The_Flood.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_includes/youtubeTWIN.html",
+		"/Users/flex/development/node.js/array.js",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-11-16-Nu_Shooz-Point_Of_No_Return.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-11-13-magyar_posta.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_site/magyar_posta.html",
 		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_drafts/places.md",
-		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_drafts/blogsvlog.md",
-		"/Users/flex/Downloads/Book1.csv",
-		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/0000-01-01-jekyll_test_page.md",
-		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_drafts/whats_in_my_bag.md",
-		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_drafts/2017-09-11-books.md",
-		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_includes/book_cover.html",
-		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_drafts/iOSApps.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_site/css/style.css",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_site/manual-complete-cleanup-scripts-for-websphere-application-server.html",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-11-07-GPFS_HSM.md",
+		"/Users/flex/development/node.js/webserver.js",
+		"/Users/flex/Downloads/node.js/child.js",
+		"/Users/flex/Downloads/node.js/term.js",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-10-31-heart_rate3.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-10-19-heart_rate2.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-10-02-heart_rate.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-08-11-jatszoter.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_site/jatszoter.html",
+		"/Users/flex/Downloads/p/parallax.html",
+		"/Users/flex/Downloads/p/bootstrap.min.js",
+		"/Users/flex/Downloads/p/bootstrap.min.css",
+		"/Users/flex/Downloads/a/unite.html",
+		"/Users/flex/Downloads/a/flex.html",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2019-09-30-Andras.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2010-08-04-onedin-csalad.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-11-12-Suzanne_Vega-Blood_Makes_Noise.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-11-12-SublimeText3.md",
+		"/Users/flex/Downloads/flex.html",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-11-11-SublimeText3.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_site/google_mapsGPX.html",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-11-09-SublimeText3.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-12-31-ToDo.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2019-08-20-Perec.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-10-31-Service_Manager.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-09-25-Install_TSM_client_on_Synology_NAS.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-10-31-GPFS.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-11-31-GPFS.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-11-01-Sean.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_drafts/muzax.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/index.html",
+		"/Users/flex/Downloads/a/sketch_oct24a/Adafruit_NeoPixel.h",
+		"/Users/flex/Downloads/a/sketch_oct24a/indicator.hpp",
+		"/Users/flex/Downloads/x/o.html",
+		"/Users/flex/Downloads/x/2010-01-01-elbucsuzik-a-zoldkartya-en-a-negyediket-valasztottam.html",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-05-28-Amazon_Kindle_Voyage_FW.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-10-19-heart_rate.md",
+		"/Users/flex/Downloads/_posts/2010-01-01-elbucsuzik-a-zoldkartya-en-a-negyediket-valasztottam.html",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/js/gpxviewer.js",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-10-15-Dido-Take_My_Hand.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2019-11-24-Hajnalka.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_site/Gergo.html",
 		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_drafts/videoGames.md",
-		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_drafts/friends.md",
-		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_drafts/macOSApps.md",
-		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_drafts/2017-01-01-muzax.md",
-		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_drafts/gadgets.md",
-		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-01-01-cv.md",
-		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_drafts/documentSeries.md",
-		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_includes/movie_cover.html",
-		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-01-23-TVSeries.md",
-		"/Users/flex/GitHub/anna.fleischmann.hu/index.html",
-		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_layouts/post.html",
-		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-01-01-html2017.md",
-		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_drafts/TVSeries.md",
-		"/Users/flex/Downloads/EG2.htm",
-		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2017-09-11-books.md",
-		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/1970-05-05-timeline.md",
-		"/Users/flex/Downloads/x/2017-01-01-muzax.md",
-		"/Users/flex/bin/mtva_net.sh",
-		"/Users/flex/GitHub/www.fleischmann.hu/index.html",
-		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2017-01-01-cv.md",
-		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2017-03-03-html2017.md",
-		"/Users/flex/GitHub/gyorgy.fleischmann.hu/tableofcontents.html",
-		"/Users/flex/GitHub/gyorgy.fleischmann.hu/categories.html",
-		"/Users/flex/GitHub/gyorgy.fleischmann.hu/tags.html",
-		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_layouts/blog_index.html",
-		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2017-11-04-ulloi.md",
-		"/Users/flex/GitHub/anyuka.fleischmann.hu/index.html",
-		"/Users/flex/GitHub/anyuka.fleischmann.hu/anyuka.jpg",
-		"/Users/flex/GitHub/andras.fleischmann.hu/index.html",
-		"/Users/flex/GitHub/gergo.fleischmann.hu/index.html",
-		"/Users/flex/GitHub/anyuka.fleischmann.hu/index.hu",
-		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2017-11-01-whats_in_my_bag.md",
-		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2017-01-01-muzax.md",
-		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/0000-01-01-jekyll-big-test_page.md",
-		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/0000-01-01-foto_teszt.md",
-		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_config.yml",
-		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_data/authors.yml",
-		"/Users/flex/GitHub/testjekyll/_posts/2017-03-03-html2017.md",
-		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2017-04-04-jekyll-big-test.md",
-		"/Users/flex/GitHub/jekyll-minimal-theme/_posts/1970-05-05-timeline.md",
-		"/Users/flex/GitHub/jekyll-minimal-theme/_posts/2017-03-03-html2017.md",
-		"/Users/flex/GitHub/jekyll-minimal-theme/tableofcontents.html",
-		"/Users/flex/GitHub/jekyll-minimal-theme/categories.html",
-		"/Users/flex/Downloads/CreativeLinkEffects/css/component.css",
-		"/Users/flex/Downloads/fontello/demo.html",
-		"/Users/flex/GitHub/jekyll-minimal-theme/_posts/2017-04-04-big-test.md",
-		"/Users/flex/GitHub/jekyll-minimal-theme/_posts/0000-01-01-jekyll_test_page.md",
-		"/Users/flex/GitHub/jekyll-minimal-theme/_posts/2017-11-04-ulloi.md",
-		"/Users/flex/GitHub/jekyll-minimal-theme/_posts/2017-09-11-books.md",
-		"/Users/flex/GitHub/jekyll-minimal-theme/tags.html",
-		"/Users/flex/GitHub/jekyll-minimal-theme/_layouts/post.html",
-		"/Users/flex/GitHub/jekyll-minimal-theme/_layouts/photopost.html",
-		"/Users/flex/GitHub/jekyll-minimal-theme/_layouts/photo.html",
-		"/Users/flex/GitHub/jekyll-minimal-theme/_layouts/default.html",
-		"/Users/flex/GitHub/jekyll-minimal-theme/index.html",
-		"/Users/flex/GitHub/jekyll-minimal-theme/css/style.scss",
-		"/Users/flex/GitHub/old.fleischmann.hu/geocities.com/html/news/news01.htm",
-		"/Users/flex/GitHub/old.fleischmann.hu/geocities.com/html/mybook/start.htm",
-		"/Users/flex/GitHub/old.fleischmann.hu/geocities.com/html/mybook/tartalom.htm",
-		"/Users/flex/GitHub/old.fleischmann.hu/geocities.com/html/mybook/macho_grande.htm",
-		"/Users/flex/GitHub/old.fleischmann.hu/geocities.com/html/mybook/idezet.htm",
-		"/Users/flex/GitHub/old.fleischmann.hu/geocities.com/html/mybook/bevezetes.htm",
-		"/Users/flex/GitHub/old.fleischmann.hu/geocities.com/html/mybook/az_uj_gazdasag_regi_szabalya.htm",
-		"/Users/flex/GitHub/old.fleischmann.hu/geocities.com/html/mybook/Panasonic.htm",
-		"/Users/flex/GitHub/old.fleischmann.hu/geocities.com/html/mybook/Anna.htm",
-		"/Users/flex/GitHub/fleischmann.hu [test]/index.html",
-		"/Users/flex/GitHub/jekyll-minimal-theme/_posts/2017-03-03-html.md",
-		"/Users/flex/GitHub/jekyll-minimal-theme/_posts/2017-03-03-more_text.md",
-		"/Users/flex/GitHub/jekyll-minimal-theme/404.html",
-		"/Users/flex/GitHub/jekyll-minimal-theme/_posts/2017-01-01-muzax.md",
-		"/Users/flex/GitHub/jekyll-minimal-theme/archive.html",
-		"/Users/flex/Downloads/CreativeLinkEffects/index.html",
-		"/Users/flex/Downloads/CreativeLinkEffects/css/demo.css",
-		"/Users/flex/GitHub/jekyll-minimal-theme/tag.html",
-		"/Users/flex/GitHub/jekyll-minimal-theme/category.html",
-		"/Users/flex/GitHub/tsmadm.pl/tsmadm.pl/plugins/pogyo_plugin.pl",
-		"/Users/flex/GitHub/tsmadm.pl/docs/index.html",
-		"/Users/flex/GitHub/old.fleischmann.hu/index.html",
-		"/Users/flex/GitHub/anna.fleischmann.hu/docs/index.html",
-		"/Users/flex/GitHub/old.fleischmann.hu/galery/contents/links.htm",
-		"/Users/flex/GitHub/old.fleischmann.hu/galery/contents/index.htm",
-		"/Users/flex/GitHub/www.fleischmann.hu/docs/index.html",
-		"/Users/flex/Downloads/x/index.htm",
-		"/Users/flex/Google Drive/Effective.Group/MVMI Zrt/Dokumentációk [EG]/EG MVMI - IBM Spectrum Protect Bevezetési projekt - Replication.txt",
-		"/Users/flex/Library/Application Support/Alfred 3/Alfred.alfredpreferences/workflows/user.workflow.516E104C-6817-4AA6-A9AE-D0192587E64A/battery.sh",
-		"/Users/flex/Downloads/keys.csv",
-		"/Users/flex/development/AVR/newAVR-GSM-SMS2/AVR-GSM.c",
-		"/Users/flex/development/AVR/newAVR-GSM-SMS2/AVR-GSM-SMS.c",
-		"/Users/flex/Downloads/dsmsched.log",
-		"/Users/flex/Downloads/o.o",
-		"/Users/flex/development/AVR/AVR-GSM-SMS-Reloaded/AVR-GSM.c",
-		"/Users/flex/development/AVR/AVR-GSM-SMS-Reloaded/AVR-GSM-SMS.c",
-		"/Users/flex/Downloads/mtsm.pl/bmailtsm.cmd",
-		"/Users/flex/Downloads/aaaaaaaaaaaaaaaaaaaaaaaaaa/IBM Spectrum Protect - Overview.html",
-		"/opt/local/var/macports/sources/rsync.macports.org/release/tarballs/ports/_resources/port1.0/group/xcode-1.0.tcl",
-		"/Users/flex/Downloads/o.u",
-		"/Users/flex/development/samsung/remote.pl",
-		"/Users/flex/Library/Application Support/Alfred 3/Alfred.alfredpreferences/workflows/user.workflow.325427C4-E7EC-49CF-9AB2-B9DECD7C42C7/keys.xml",
-		"/Users/flex/development/spadmin.pl/spadmin.pl"
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-10-01-google_maps.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-10-12-Nu_Shooz-Should_I_Say_Yes.md",
+		"/Users/flex/GitHub/geocode.pl/cities.txt",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_includes/soundcloud.html",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-03-03-Peter_Gabriel-In_Your_Eyes.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-03-12-Billie_Eilish-Ocean_Eyes.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-05-26-Dita_Von_Teese-Sparkling_Rain.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-05-28-Blahalouisiana-Tul.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-06-05-George_Michael-One_more_try.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-06-06-Call_Me_By_Your_Name.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-06-08-Danny_Wilson-Marys_Prayer.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-06-16-Yazoo-OnlyYou.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-07-06-ACDC-Hells_bells.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-07-08-Michael_Jackson-Dirty_Diana.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-07-08-Michael_Jackson-They_Dont_Care_Abou_Us.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-07-12-Air-Lucky_and_Unhappy.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-07-17-Chvrches-Tether.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-07-27-Johnny_Cash- I_Hung_My_Head\".md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-09-06-Ghost_In_The_Shell.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-08-12-Phil_Collins-One_More_Night.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-09-11-ZZ_Top_Gimme_All_Your_Lovin.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-09-19-Secret_Service_Flash_In_The_Night.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-10-05-Chromatics_Blue_Girl.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-10-06-Paul_Young-Love_of_the_Common People.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-10-10-Tears_For_Fears-Woman_In_Chains.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_includes/jump2lyrics.html",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_includes/vimeo.html",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_includes/insert_pxline.html",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_includes/sticky_floating_videoID.html",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_includes/sticky_floating_video.html",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2019-05-05-en.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_includes/youtube.html",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_includes/youtubeID.html",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-10-07-MAGNIFICAT.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2019-11-05-Anna.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2019-11-11-Gergo.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-06-16-html2017_v2.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-09-27-transversion.md",
+		"/Users/flex/GitHub/geocode.pl/geocode.pl",
+		"/Users/flex/Downloads/g/cities.txt",
+		"/Users/flex/Downloads/g/geocode.pl",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-10-01-GoogleMaps.md",
+		"/Users/flex/Downloads/g/g.pl",
+		"/Users/flex/Downloads/g/cities.txt.orig",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-09-29-Manually_Install_Synology_NAS_updates.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-09-29-BB_AnnaErik.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-09-15-iPhone_pricing.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2018-10-01-Service_Manager.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_drafts/1970-05-05-timeline.md",
+		"/Users/flex/GitHub/gyorgy.fleischmann.hu/_posts/2019-01-01-transversion.md"
 	],
 	"find":
 	{
-		"height": 26.0
+		"height": 37.0
 	},
 	"find_in_files":
 	{
@@ -421,134 +751,134 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"házasság",
-			"OVERHEAD",
-			"media",
-			"pre",
-			"AKG",
-			"Marcell SSL",
-			"\\d. oldal\\nVEGYES .*\\n",
-			"-------------------------------------------------------------------------------*",
-			"-------------------------------------------------------------------------------",
-			"disco",
-			"qout",
-			"õ",
-			" |",
-			" |",
-			"sin",
-			"/",
-			";",
-			"cont",
-			"overflow",
-			"over",
-			"x",
-			"disq",
-			"td",
-			"more /",
-			"sors",
-			"sords",
-			"more",
-			"html5",
-			"famil",
-			"table",
+			"buffer",
+			"buffer = []",
+			"buffer",
+			"c.stdi",
+			"c.st",
+			"c.stdin.write",
+			"c.stdin.write(",
+			"exit",
+			"foreac",
+			"foreacg",
+			"pop",
+			"DEBUG",
+			"exec",
+			"exec (",
+			"exec(",
+			"exec( command )",
+			"welc",
+			"process.stdout.columns",
+			"welc",
+			"split",
+			"each",
+			"foreach",
+			"welcome",
+			"os",
+			"welc",
+			"parse",
+			"command",
+			"util",
+			"transvers",
+			"transver",
+			"image-src",
+			"image/src",
 			"mofa",
-			"nbr",
-			"flick",
+			"media",
+			"float",
+			"flexbox",
+			"flex",
+			"`",
+			"`(\\w)",
+			"`\\w",
+			"/pre",
+			"export",
+			"gpfstest:~ # ",
+			"command",
+			"command(",
+			" id=\"seekTo",
+			" id=\"seekTo\"",
+			" ",
+			"\\.",
+			"## ",
+			"### ",
+			"#### ",
+			"trackcolour",
+			"addTrackToMap",
+			"addTrackSegmentToMap",
+			"colou",
+			"colour",
+			"loadGPXFileIntoGoogleMap",
+			"col",
+			"addTrackSegmentToMap",
+			"\\(",
+			"(*)",
+			"(",
+			"Microsoft",
+			"rule",
+			"didUpdateValueForCharacteristic",
+			"batt",
+			"trenc",
+			"Eszék",
+			"eszék",
+			"Balaton",
+			"Balat",
+			"Balatonboglár",
+			"Baja",
+			"baja",
+			"dávod",
+			"stck",
+			"lyrics",
+			"stuck",
+			"Social",
+			"more",
+			"font",
+			"halál",
+			"left",
+			"over",
+			"overri",
 			"video",
-			"videocon",
-			"quote",
-			"newlett",
-			"zyxel",
-			"domin",
-			"notes",
-			"dateDiff",
-			"rightbox",
-			"align",
-			"allign",
-			"left",
-			"leftbox",
-			"tsmadm.pl",
-			"Nép",
-			"népsz",
-			"nép",
-			"thumb",
-			"famil",
-			"hr",
-			"user",
-			"link",
-			"date",
-			"hr",
-			"ger",
-			"lang",
-			"post",
-			"post-date",
-			"clear",
-			"ini",
-			"body, html {\n    height: 100%;\n}\n",
-			"sor",
-			"text",
-			"sors",
-			"phototext",
-			"text",
-			"content",
-			"img",
-			"modell",
-			"peresz",
-			"reszlé",
-			"reszl ;",
-			"left",
-			"Nép",
-			"quot",
-			"qout",
-			"footnote",
-			"table",
-			"fle",
-			"hover",
-			"inline",
-			"Ulloi",
-			"images/",
-			"saved from",
-			"clear",
-			"fix",
-			"h1",
-			"clearfix",
-			"clear",
-			"\n         ",
-			"bold",
-			"strong",
-			"text",
+			"hobb",
+			"home",
+			"vim",
+			"vimeo",
+			"londo",
 			"shadow",
-			"code",
-			"foot",
-			"qout",
-			"foot",
-			"decoration",
-			"footnote",
-			"footnote ",
-			"stron",
-			"the-icons",
-			"<img",
-			"block",
-			"cont",
-			"block",
-			"last",
-			"line-height",
-			"height",
-			"CODE",
-			"high",
-			"highlight",
-			"sup",
-			"ini",
-			"init",
-			"h1",
-			"content",
-			"code",
-			"highlight",
-			"content",
-			"pmr",
-			"tsmadm.pl",
-			"alter",
-			"erőd"
+			"Bp",
+			"office aut",
+			"office ao",
+			"er",
+			"}",
+			"img",
+			"Socia",
+			"Soci",
+			"socia",
+			"soc",
+			"soci",
+			"sincla",
+			"spent",
+			"Microfocus",
+			"mofa",
+			"socia",
+			"helyes",
+			"max",
+			"conten",
+			"fc",
+			"pre",
+			"shad",
+			"override",
+			"\\t",
+			"SIM300",
+			"overrid",
+			"initia",
+			"rightbox",
+			"right",
+			"rightbox",
+			"box",
+			"rigth",
+			"rigthbox",
+			"ritghbox",
+			"foot"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -556,6 +886,19 @@
 		"regex": true,
 		"replace_history":
 		[
+			"]",
+			"[$1",
+			"[{$1}",
+			"[",
+			" class=\"hvr-buzz-out\" id=\"seekTo",
+			" class=\"hvr-buzz-out\" id=\"seekTo\"",
+			"-",
+			"",
+			"<h2>",
+			"<h3>",
+			"<h4>",
+			" | ",
+			"|",
 			"",
 			"%",
 			"ő",
@@ -614,30 +957,227 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 10,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "css/style.scss",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 21025,
+						"buffer_size": 2519,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
+								265,
+								265
+							]
+						],
+						"settings":
+						{
+							"auto_name": "WEB:",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5136,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								73,
+								73
+							]
+						],
+						"settings":
+						{
+							"auto_name": "ToDo:",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 163,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21,
 								0
 							]
 						],
 						"settings":
 						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/cobalt2.tmTheme",
-							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"auto_name": "https://flexbox.help/",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 240,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								126,
+								201
+							]
+						],
+						"settings":
+						{
+							"auto_name": "NYUGDIJ",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 600,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								372,
+								372
+							]
+						],
+						"settings":
+						{
+							"auto_name": "SM",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1019,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								917,
+								917
+							]
+						],
+						"settings":
+						{
+							"auto_name": "CV",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3885,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								489,
+								522
+							]
+						],
+						"settings":
+						{
+							"auto_name": "// Returns the number of the related open workorde",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 863,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11,
+								11
+							]
+						],
+						"settings":
+						{
+							"auto_name": "TSM command",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
@@ -645,16 +1185,43 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "index.html",
+					"buffer": 8,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 9677,
+						"buffer_size": 1350,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1317,
+								1317
+							]
+						],
+						"settings":
+						{
+							"auto_name": "21 lecke a 21. századra Yuval Noah Harari",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2566,
 						"regions":
 						{
 						},
@@ -667,9 +1234,8 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -677,17 +1243,162 @@
 					},
 					"stack_index": 1,
 					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/Users/flex/development/node.js/flex/spadmin.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10030,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6674,
+								6719
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1242.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 575,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								575,
+								575
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Egy nap: https://www.youtube.com/watch?v=hYLdGMXFX",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1015,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								236,
+								1008
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Perl/Perl.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/Users/flex/development/node.js/t.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2941,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								964,
+								964
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 323,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								323,
+								323
+							]
+						],
+						"settings":
+						{
+							"auto_name": "(valami, TAB -> szerver tábla",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
 				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 26.0
+		"height": 25.0
 	},
 	"input":
 	{
-		"height": 31.0
+		"height": 36.0
 	},
 	"layout":
 	{
@@ -720,7 +1431,7 @@
 	"project": "gyorgy.fleischmann.hu.sublime-project",
 	"replace":
 	{
-		"height": 48.0
+		"height": 46.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -729,6 +1440,54 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"post gpx",
+				"_posts/2018-10-15-google_mapsGPX.md"
+			],
+			[
+				"gpx",
+				"_posts/2018-10-15-google_mapsGPX.md"
+			],
+			[
+				"auror",
+				"_posts/2018-11-24-Aurora.md"
+			],
+			[
+				"auro",
+				"_site/automatic-startup-of-dsmcad-daemon-on-system-reboot-on-red-hat-linux.html"
+			],
+			[
+				"cv.md",
+				"_posts/2018-02-06-cv.md"
+			],
+			[
+				"cv",
+				"_site/cv.html"
+			],
+			[
+				"scss",
+				"css/style.scss"
+			],
+			[
+				"html",
+				"_posts/2018-09-04-html2017_v3.md"
+			],
+			[
+				"magyar",
+				"_posts/2018-11-13-magyar_posta.md"
+			],
+			[
+				"cv.",
+				"_site/cv.html"
+			],
+			[
+				"jatsz",
+				"_posts/2018-08-11-jatszoter.md"
+			],
+			[
+				"Gerg",
+				"_site/Gergo.html"
+			],
 			[
 				"export",
 				"define scri export_ceva"
@@ -747,12 +1506,12 @@
 	},
 	"select_symbol":
 	{
-		"height": 51.0,
+		"height": 375.0,
 		"last_filter": "",
 		"selected_items":
 		[
 		],
-		"width": 378.0
+		"width": 578.0
 	},
 	"selected_group": 0,
 	"settings":
@@ -762,7 +1521,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 156.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
