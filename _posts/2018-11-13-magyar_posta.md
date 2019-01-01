@@ -60,7 +60,7 @@ Nézzük meg a <a href="http://getbootstrap.com/" class="btn btn-default downloa
 
 <script type="text/javascript"> 
 	
-	jQuery( document ).ready( function(){ jQuery( "#gallery" ).unitegallery( {
+	jQuery( document ).ready( function() { jQuery( "#gallery" ).unitegallery( {
 
 		tiles_space_between_cols:      25,
 		tiles_justified_space_between: 25,

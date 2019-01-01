@@ -15,7 +15,7 @@ Klátyik Zoltán
 
 Soós Zoltán
 
-Szende Béla
+~~Szende Béla~~
 Pápa Sándorné Zsuzsi
 Zalka Ernő
 

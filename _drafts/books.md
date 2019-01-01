@@ -9,6 +9,8 @@ tags:     [listák, awesome]
 
 Ezen az oldalon tervezem összeszedni az általam kedvelt (e vagy papír alapú) könyveket. Jelenleg ezeket olvasom/~~tam~~ mostanában.
 
+David Autere: Máglyatűz
+
 <!-- break -->
 
 ## De előtte jöjjön a lényeg az én aktuális könyv TOPlistám:
@@ -177,7 +179,7 @@ Pierce Brown a Vörös lázadás-trilógiával robbant be 2014-ben a sci-fibe, �
  
 - Harris, Thomas: A Vörös Sárkány (Rakéta regényújság 129., 1986, 24-33. szám) 
 - Merle, Robert: Mesterségem a halál
-Levin, Ira: A brazíliai fiúk (Rakéta regényújság 137., 1987, 20-26. szám)
+- Levin, Ira: A brazíliai fiúk (Rakéta regényújság 137., 1987, 20-26. szám)
 - Shafak(Şafak), Elif: Szerelem
 - Szabó Magda: Für Elise, Ajtó, Az őz, Abigél
 - Simmel, Johannes Mario: Nem kell mindig kaviár
