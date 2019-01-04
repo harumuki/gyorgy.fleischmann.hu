@@ -7,6 +7,8 @@ category: Economics / közgazdaságtan
 tags:     [economics, mp3, radio]
 ---
 
+Hogy lehet, hogy a legerősebb gazdaságok veszik fel a legtöbb hitelt? Boros Imre
+
 <audio controls style="width: 100%;">
   <source src="mp3s/boros_imre_mr1.mp3" type="audio/mpeg">
 Your browser does not support the audio element.

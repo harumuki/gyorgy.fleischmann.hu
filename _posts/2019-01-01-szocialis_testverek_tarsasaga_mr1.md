@@ -7,7 +7,7 @@ category: Religion / vallás
 tags:     [religion, mp3, radio]
 ---
 
-Ejnye bejnye... 2019! Szociális Testvérek Társasága. 
+Ejnye bejnye... 2019! Szociális Testvérek Társasága. Berkes Franciska - Apostoli élet társasága
 
 <audio controls style="width: 100%;">
   <source src="mp3s/szocialis_testverek_tarsasaga_mr1.mp3" type="audio/mpeg">
