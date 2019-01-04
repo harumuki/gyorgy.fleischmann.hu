@@ -13,6 +13,12 @@ tags:     [microFocus, hpe, hp, service manager, sm, how to]
 
 Fussunk neki az alapoknak 2!
 
+## Nyelv detektálása
+
+```
+sysinfo.get("languagecode")
+```
+
 ## Porecess Designer 2
 
 ### Jóváhagyások
@@ -272,11 +278,26 @@ function GIROassetAssetTagValidation( change ) {
 }
 ```
 
-## Özenet küldése a szerver logjába
+## Üzenet küldése a szerver logjába
 
 ```javascript
 system.functions.rtecall("log", vars.$L_rc, sMessage); 
 ````
+
+## Kliens IP címe
+
+RAD: d sysinfo.get( "ClientNetAddress" )
+JavaScript: print( system.functions.sysinfo_get( "ClientNetAddress" ) );
+
+## Kliens aktuális nyelve
+
+RAD: d sysinfo.get( "LanguageCode" )
+JavaScript: print( system.functions.sysinfo_get( "LanguageCode" ) );
+
+##
+
+RAD: d version( )
+JavaScript: print( system.functions.version( ) );
 
 ## Értesítések
 
