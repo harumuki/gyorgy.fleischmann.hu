@@ -11,7 +11,7 @@ tags:     [microFocus, hpe, hp, service manager, sm, how to]
 
 
 
-Fussunk neki az alapoknak 2!
+Fussunk neki 2!
 
 ## Nyelv detektálása
 
@@ -21,7 +21,7 @@ sysinfo.get("languagecode")
 
 ## Porecess Designer 2
 
-### Jóváhagyások
+### Jóváhagyások (JavaScript)
 
 jscall("GIRO_utils.getManager", deliverer in $L.file)
 jscall("GIRO_utils.getManagers", asset.contact.name in $L.file)
@@ -93,6 +93,108 @@ print("FLEXDEBUG: giroPendingApprovalsNotification Found: [" + rc + "]" );
    	}
 }
 giroPendingApprovalsNotification ( );
+```
+
+```javascript
+// Daily notification on pending approvals
+function giroPendingApprovalsNotification( ) {
+
+	var rc; 
+	var fApproval = new SCFile( "Approval", SCFILE_READONLY );
+	var operators = new Array();
+	var tickets = new Array();
+	//var tod = system.functions.tod();
+	//var midnight = system.functions.date(system.functions.tod());
+
+	//var query = 'file.name="cm3r" and approval.status="pending" and sysmodtime<date(tod()) and name="Eszközkezelési jóváhagyás"';
+	var query = 'file.name="cm3r" and approval.status="pending" and sysmodtime<tod() and name="Eszközkezelési jóváhagyás"';
+	
+
+	rc = fApproval.doSelect( query );
+	if ( rc == RC_SUCCESS ) {
+    	do {
+    	//print(fApproval);
+    		var lng = fApproval.current_pending_groups.length();
+    		for (var i=0; i<lng; i++) {
+    			//print(fApproval.current_pending_groups[ i ]);
+    			var idx = lib.ArrayUtil.indexOf( operators, fApproval.current_pending_groups[ i ] );
+    			if ( idx < 0 ) {
+    				operators.push( fApproval.current_pending_groups[ i ] );
+    				tickets.push( fApproval.unique_key );
+    			} else {
+    				tickets[ idx ] += ", " + fApproval.unique_key;
+    			}
+    		}
+		} while ( fApproval.getNext() == RC_SUCCESS )
+
+		for ( i=0; i<operators.length; i++ ) {
+			vars.$G_giro_approval_operator = operators[ i ];
+			vars.$G_giro_approval_tickets = tickets[ i ];
+			//sendEmailFromHtmlTemplate( fApproval, "GIRO.daily.approval.notification", getOperatorEmail( operators[ i ] ) );
+			sendNotification( "GIRO Pending Approval", fApproval, vars.$G_giro_approval_operator );
+		}
+		
+		vars.$G_giro_approval_operator = null;
+		vars.$G_giro_approval_tickets = null;
+   	}
+}
+
+// Returns the email address of the given operator
+function getOperatorEmail( name ) {
+ 
+       var fOperator = new SCFile( "operator", SCFILE_READONLY );
+       var query = 'name="' + name + '"';
+ 
+       if ( fOperator.doSelect( query ) == RC_SUCCESS ) {
+              return fOperator.email;
+       }
+}
+
+/*function getApprovalURL(file)
+{
+	var file_name = "Approval";
+	var record_name = system.functions.scmsg(file_name,"tablename");
+	var record_title = record_name+" "+file.number;
+	var record_query = "unique.key=\""+file.number+"\" and approval.status=\"pending\"";
+
+	var web_url = lib.urlCreator.getESSURLFromQuery(file_name,record_query,record_title);
+	
+	return web_url;
+}*/
+
+function sendNotification( strNotificationName, Record, Cimzett ) {
+
+	var rteReturnValue = new SCDatum();
+	var rteNames = new SCDatum();
+	var rteValues = new SCDatum();
+	var argNames = new SCDatum();
+	var argVals = new SCDatum();
+				  	
+	rteNames.push("name"); 
+	rteNames.push("record");
+	rteNames.push("names");
+	rteNames.push("second.file");
+	rteNames.push("types");
+	
+	var argVal;
+	argNames.setType(8);	//type array
+	argVals.setType(8); 	//type array
+	
+	argNames.push("$L.Cimzett"); 		 
+	argVals.push(Cimzett);
+	
+	rteValues.setType(8);
+	rteValues=system.functions.insert(rteValues, 0, 1, strNotificationName);
+	rteValues=system.functions.insert(rteValues, 0, 1, Record);
+	rteValues=system.functions.insert(rteValues, 0, 1, argVals);
+	rteValues=system.functions.insert(rteValues, 0, 1, Record);
+	rteValues=system.functions.insert(rteValues, 0, 1, argNames);
+	
+	system.functions.rtecall("callrad", rteReturnValue, "us.notify", rteNames, rteValues, false); 
+}
+
+
+
 ```
 
 ## Email cím
