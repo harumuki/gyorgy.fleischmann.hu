@@ -16,6 +16,8 @@ tags:     [listák, awesome, movies, filmek]
 
 # TOP
 
+[ [2018](2018_movies.html) [2017](2017_movies.html) ]
+
 <div class="overridemaxwidthboth"><div id="galleryTOP" style="display:none; margin-bottom: .7em; margin-left: 1.5%; margin-right: 1.5%; margin-top: .5em;">
 
 <img alt="" src="images/movies/1984.jpg" data-image="images/movies/1984_ORIGINAL.jpg" data-description="">
