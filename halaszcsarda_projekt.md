@@ -18,7 +18,7 @@ header_spacer: 93
 <!-- http://gaultmillau.hu/buvos-szakacs/halaszle-hagyomanyosan-es-maskepp -->
 <!-- https://www.buvosszakacs.com/2017/11/26/halaszle-hagyomanyosan-es-maskepp/ -->
 
-**2018**(~2017) legérdekesebb projektje, hogy megtaláljuk magyarország legjobb halászcsárdáját a 6-os út környékén. Az első látogatásunk Dunakömlődön volt 2017. november 29-én.
+**2018**(~2017) legérdekesebb projektje, hogy megtaláljuk magyarország legjobb halászcsárdáját a 6-os út környékén. Az első látogatásunk Dunakömlődön volt 2017. november 29-én és 2019-ben is folytatódik!
 
 <div id="map-wrap" class="" style="margin-bottom: .75em; -webkit-box-shadow: 0px 4px 18px rgba(0,0,0,0.84); -moz-box-shadow: 0px 4px 18px rgba(0,0,0,0.84); box-shadow: 0px 4px 18px rgba(0,0,0,0.84);">
 	<div id="map" style="width:auto; height:100vh;"></div>
@@ -35,10 +35,11 @@ header_spacer: 93
 
 ## Eddig meglátogatott halászcsárdák:
 
+- Paksi Halászcsárda
 - Dunakömlődi Halászcsárda, 3x
-- Baracsi Halászcsárda, 4x
-- Dunaújvárosi Halászcsárda, 1x
-- Kigyósi Halászcsárda, 1x
+- Baracsi Halászcsárda, >3x
+- Dunaújvárosi Halászcsárda
+- Kigyósi Halászcsárda
 - Római Platán Étterem
 - Százhalombattai Halászcsárda
 - Dunaföldvári Halászcsárda
@@ -51,11 +52,11 @@ header_spacer: 93
 ## Tervben lévő halászcsárdák:
 
 - Tassi Halászcsárda
-- Paksi Halászcsárda
 
-- Szegedi Halászcsárda, Budapest
-- Bajai Halászcsárda, Budapest
 - Öreghalász Vendéglátó és Kereskedelmi Kft., Budapest
+- Bajai Halászcsárda, Budapest
+- Szegedi Halászcsárda, Budapest
+
 - Új Sipos Halászkert
 
 - Szentendrei határcsárda
@@ -70,11 +71,13 @@ header_spacer: 93
 - Kovács Csárda (KOVAČ Čarda), Csúza (Suza)
 - Öreg Körössy Halászcsárda, Szeged 
 
-# TOP 3 (2018)
+# TOP 3 (2018, 2019)
 
 1. Baracsi Halászcsárda
 2. Százhalombattai Halászcsárda
 3. Kigyósi Halászcsárda
+
+4. Paksi Halászcsárda
 
 <script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?key=AIzaSyAubcKvynd2lNrvNQHlTt6b7Q8OBxDzNOg'></script>
 
@@ -92,6 +95,9 @@ header_spacer: 93
 		[ 'Római Platán Étterem',      		47.5694432, 19.0647115, restaurant_icon ],
 		[ 'Százhalombattai Halászcsárda',	47.3105679, 18.9268598, restaurant_icon ],
 		[ 'Dunaföldvári Halászcsárda',		46.8097242, 18.9295942, restaurant_icon ],
+		[ 'Horgásztanya Vendéglő',			47.1504159, 18.9468278, restaurant_icon ],
+		
+		[ 'Paksi Halászcsárda',				46.6349051, 18.8759916, restaurant_icon ],
 
 		[ 'Révkapu vendéglő',          		45.9929783, 18.6942238 ],
 		[ 'Peppinó pizzéria',		   		45.9903284, 18.6862382 ],
