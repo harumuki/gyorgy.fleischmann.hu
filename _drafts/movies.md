@@ -18,7 +18,6 @@ No Country for Old Men
 Once
 Amelie
 Gattaca
-American Beauty
 Fight club
 Million Dollar baby
 3szín
@@ -68,13 +67,7 @@ Oly sokáig szerettelek  /Il y a longtemps que je t'aime/ I've loved you so long
 Bikanyak  /Rundskop / Bullhead/ https://port.hu/adatlap/film/tv/bikanyak-rundskop-bullhead/movie-120148#video-908062
 Jesus Christ Superstar
 Kill Bill
-Pupl Fiction
-Kolya 
-Fishtank
-Sicario
-Starship troopers
-The fault in our stars
-Under Fire
+
 Volt egyszer egy vadnnyugat
 A hét mesterlövész
 Before Sunrise
