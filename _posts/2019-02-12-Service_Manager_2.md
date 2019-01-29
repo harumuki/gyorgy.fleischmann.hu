@@ -19,6 +19,12 @@ Fussunk neki 2!
 sysinfo.get("languagecode")
 ```
 
+## Nyelv lekérdezés
+
+```
+d syslanguage in $L.file
+```
+
 ## Porecess Designer 2
 
 ### Jóváhagyások (JavaScript)
