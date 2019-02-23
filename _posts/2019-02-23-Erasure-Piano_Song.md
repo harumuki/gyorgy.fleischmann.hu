@@ -23,7 +23,7 @@ Sit and stare into a dusty window
 An empty face stares back at me and cries
 
 My vulnerability rushes up to me
-Till I'm left here
+Now I'm left here
 The rebel without a cause
 The deeper I delve into
 The consciousness of me with you
