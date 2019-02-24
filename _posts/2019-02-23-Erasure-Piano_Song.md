@@ -26,7 +26,7 @@ My vulnerability rushes up to me
 Now I'm left here
 The rebel without a cause
 The deeper I delve into
-The consciousness of me with you
+The consciousness of me and you
 The harder it gets
 I need to close my eyes
 What hurts me most
@@ -51,13 +51,6 @@ I'll never see your eyes again
 
 The harder it gets
 I need to close my eyes
-I can't recollect
-I'll never see your eyes again
-
-I try to forget
-I'll never see your eyes again
-I can't recollect
-I'll never see your eyes again
 What hurts me most
 I'll never see your eyes again
 

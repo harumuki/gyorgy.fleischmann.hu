@@ -10,6 +10,7 @@ Amazon Kindle Voyage 7th Generation Firmware történet:
 
 | Firmware verzió | dátum |
 |:-------------:|:---------------:|
+| [5.10.3](https://s3.amazonaws.com/firmwaredownloads/update_kindle_voyage_5.10.3.bin) | 2019-02-15 |
 | [5.10.2](https://s3.amazonaws.com/firmwaredownloads/update_kindle_voyage_5.10.2.bin) | 2018-12-12 |
 | [5.10.1.1](https://s3.amazonaws.com/firmwaredownloads/update_kindle_voyage_5.10.1.1.bin) | 2018-10-18 |
 | [5.9.7](https://s3.amazonaws.com/firmwaredownloads/update_kindle_voyage_5.9.7.bin) | 2018-07-30 |
