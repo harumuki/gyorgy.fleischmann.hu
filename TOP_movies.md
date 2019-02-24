@@ -16,7 +16,7 @@ tags:     [listák, awesome, movies, filmek]
 
 # TOP
 
-[ [2018](2018_movies.html) [2017](2017_movies.html) ]
+[ [2018](2018_movies.html) \| [2017](2017_movies.html) ]
 
 <div class="overridemaxwidthboth"><div id="galleryTOP" style="display:none; margin-bottom: .7em; margin-left: 1.5%; margin-right: 1.5%; margin-top: .5em;">
 
