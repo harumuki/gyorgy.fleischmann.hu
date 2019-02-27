@@ -6,7 +6,7 @@ category: Muzax
 comments: false
 tags:     [muzax, video]
 
-beforeheaderHTML: '<div class="overridemaxwidthboth"><img class="fade" id="fadeimg1" onload="document.getElementById(''fadeimg1'').style.opacity=''1''" style="" src="images/TalkTalk/MarkHollis.jpg"></div>'
+beforeheaderHTML: '<div class="overridemaxwidthboth"><img class="fade shadow" id="fadeimg1" onload="document.getElementById(''fadeimg1'').style.opacity=''1''" style="" src="images/TalkTalk/MarkHollis.jpg"></div>'
 ---
 
 {% include jump2lyrics.html HREF="#top" %}
