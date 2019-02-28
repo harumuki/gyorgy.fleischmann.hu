@@ -9,6 +9,8 @@ tags:     [muzax, video]
 beforeheaderHTML: '<div class="overridemaxwidthboth"><img class="fade shadow" id="fadeimg1" onload="document.getElementById(''fadeimg1'').style.opacity=''1''" style="" src="images/TalkTalk/MarkHollis.jpg"></div>'
 ---
 
+<img class="shadow" src="images/TalkTalk/TalkTalkCDsLPs.jpg" style="width: 100%">
+
 {% include jump2lyrics.html HREF="#top" %}
 
 {% include youtube.html ID="upyrWwstEMY" %}
@@ -54,6 +56,7 @@ Life's what you make it
 Make it, make it
 (Everything's all right)
 Life's what you make it
+
 </pre>
 <a href="#top">⬆</a></center></div>
 
