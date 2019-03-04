@@ -56,7 +56,6 @@ Life's what you make it
 Make it, make it
 (Everything's all right)
 Life's what you make it
-
 </pre>
 <a href="#top">⬆</a></center></div>
 
