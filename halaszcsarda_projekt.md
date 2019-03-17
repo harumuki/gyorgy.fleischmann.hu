@@ -18,7 +18,7 @@ header_spacer: 93
 <!-- http://gaultmillau.hu/buvos-szakacs/halaszle-hagyomanyosan-es-maskepp -->
 <!-- https://www.buvosszakacs.com/2017/11/26/halaszle-hagyomanyosan-es-maskepp/ -->
 
-**2018**(~2017) legérdekesebb projektje, hogy megtaláljuk magyarország legjobb halászcsárdáját a 6-os út környékén. Az első látogatásunk Dunakömlődön volt 2017. november 29-én és 2019-ben is folytatódik!
+**2018**(~2017) legérdekesebb projektje, hogy megtaláljuk magyarország legjobb halászcsárdáját a 6-os út környékén. Az első látogatásunk Dunakömlődön volt 2017. november 29-én és 2019-ben is tovább folytatódik!
 
 <div id="map-wrap" class="" style="margin-bottom: .75em; -webkit-box-shadow: 0px 4px 18px rgba(0,0,0,0.84); -moz-box-shadow: 0px 4px 18px rgba(0,0,0,0.84); box-shadow: 0px 4px 18px rgba(0,0,0,0.84);">
 	<div id="map" style="width:auto; height:100vh;"></div>
@@ -45,7 +45,9 @@ header_spacer: 93
 - Dunaföldvári Halászcsárda
 - Horgásztanya Vendéglő, 2300 Ráckeve, Keszeg sor 6.
 
-<!-- PhotoSwipeGenerator.pl --directory photos/halaszcsarda_projekt/ --filetag _halaszcsarda_projekt --outdir _includes --imgproperty 'class="shadow zoomeffect"' --title 'Halászcsárda Projekt' -->
+- Szentendrei határcsárda
+
+<!-- PhotoSwipeGenerator.pl --directory photos/halaszcsarda_projekt/ --filetag _halaszcsarda_projekt --outdir _includes --imgproperty 'class="shadow zoomeffect"' --title 'Halászcsárda Projekt' -verbose -->
 
 {% include photorows.html TAG="halaszcsarda_projekt" %}
 
@@ -56,10 +58,7 @@ header_spacer: 93
 - Öreghalász Vendéglátó és Kereskedelmi Kft., Budapest
 - Bajai Halászcsárda, Budapest
 - Szegedi Halászcsárda, Budapest
-
 - Új Sipos Halászkert
-
-- Szentendrei határcsárda
 
 - Szúnyog-szigeti Halászcsárda
 

@@ -9,11 +9,21 @@ tags:     [microFocus, hpe, hp, service manager, sm, how to]
 
 # Table of contents
 
+## Trace lehetőségek
+
+```javascript
+$L.void=rtecall( "log", $L.rc, "DEBUG:" + $query )
+```
+
+```javascript
+print( "DEBUG: " + vars.$query );
+```
+
 ## HTML levélküldés 0
 
 ```javascript
 lib._flex.sendEmailFromHtmlTemplate( vars.$L_file, "_flex SM HTML Notification", "flex" );
-````
+```
 
 ## HTML levélküldés 1
 
