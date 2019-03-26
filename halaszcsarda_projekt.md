@@ -46,6 +46,7 @@ header_spacer: 93
 - Horgásztanya Vendéglő, 2300 Ráckeve, Keszeg sor 6.
 
 - Szentendrei határcsárda
+- Kerék csárda, Dunaföldvár
 
 <!-- PhotoSwipeGenerator.pl --directory photos/halaszcsarda_projekt/ --filetag _halaszcsarda_projekt --outdir _includes --imgproperty 'class="shadow zoomeffect"' --title 'Halászcsárda Projekt' -verbose -->
 
@@ -55,12 +56,12 @@ header_spacer: 93
 
 - Tassi Halászcsárda
 
+- Szúnyog-szigeti Halászcsárda
+
+- Új Sipos Halászkert
 - Öreghalász Vendéglátó és Kereskedelmi Kft., Budapest
 - Bajai Halászcsárda, Budapest
 - Szegedi Halászcsárda, Budapest
-- Új Sipos Halászkert
-
-- Szúnyog-szigeti Halászcsárda
 
 ## Fakultatív csárdalátogatások:
 
@@ -97,6 +98,9 @@ header_spacer: 93
 		[ 'Horgásztanya Vendéglő',			47.1504159, 18.9468278, restaurant_icon ],
 		
 		[ 'Paksi Halászcsárda',				46.6349051, 18.8759916, restaurant_icon ],
+
+		[ 'Szentendrei határcsárda',		47.6943691, 19.0885103, restaurant_icon ],
+		[ 'Kerék csárda, Dunaföldvár',		46.8430645, 18.9106497, restaurant_icon ],
 
 		[ 'Révkapu vendéglő',          		45.9929783, 18.6942238 ],
 		[ 'Peppinó pizzéria',		   		45.9903284, 18.6862382 ],
