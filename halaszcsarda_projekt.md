@@ -35,7 +35,7 @@ header_spacer: 93
 
 ## Eddig meglátogatott halászcsárdák:
 
-- Paksi Halászcsárda
+- Paksi Halászcsárda, 2x
 - Dunakömlődi Halászcsárda, 3x
 - Baracsi Halászcsárda, >3x
 - Dunaújvárosi Halászcsárda
@@ -47,6 +47,7 @@ header_spacer: 93
 
 - Szentendrei határcsárda
 - Kerék csárda, Dunaföldvár
+- Tassi Halászcsárda
 
 <!-- PhotoSwipeGenerator.pl --directory photos/halaszcsarda_projekt/ --filetag _halaszcsarda_projekt --outdir _includes --imgproperty 'class="shadow zoomeffect"' --title 'Halászcsárda Projekt' -verbose -->
 
@@ -54,22 +55,23 @@ header_spacer: 93
 
 ## Tervben lévő halászcsárdák:
 
-- Tassi Halászcsárda
-
 - Szúnyog-szigeti Halászcsárda
 
-- Új Sipos Halászkert
 - Öreghalász Vendéglátó és Kereskedelmi Kft., Budapest
+- Új Sipos Halászkert
+
 - Bajai Halászcsárda, Budapest
 - Szegedi Halászcsárda, Budapest
 
 ## Fakultatív csárdalátogatások:
 
 - Révkapu vendéglő, Mohács, >5x
-- Peppinó pizzéria, Mohács, >3x
-- Alibi bistro, Mohács, 1x
-- Kovács Csárda (KOVAČ Čarda), Csúza (Suza)
+- Peppinó pizzéria, Mohács, >4x
+- Alibi bistro, Mohács
+- Kovács Csárda (KOVAČ Čarda), Csúza (Suza), >5x
+
 - Öreg Körössy Halászcsárda, Szeged 
+- Fehértói Halászcsárda
 
 # TOP 3 (2018, 2019)
 
@@ -77,7 +79,7 @@ header_spacer: 93
 2. Százhalombattai Halászcsárda
 3. Kigyósi Halászcsárda
 
-4. Paksi Halászcsárda
+(4. Paksi Halászcsárda)
 
 <script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?key=AIzaSyAubcKvynd2lNrvNQHlTt6b7Q8OBxDzNOg'></script>
 
@@ -101,13 +103,15 @@ header_spacer: 93
 
 		[ 'Szentendrei határcsárda',		47.6943691, 19.0885103, restaurant_icon ],
 		[ 'Kerék csárda, Dunaföldvár',		46.8430645, 18.9106497, restaurant_icon ],
+		[ 'Tassi Halászcsárda',				47.033414,  18.9798622, restaurant_icon ],
 
 		[ 'Révkapu vendéglő',          		45.9929783, 18.6942238 ],
 		[ 'Peppinó pizzéria',		   		45.9903284, 18.6862382 ],
 		[ 'Alibi bistro',              		45.991193,  18.69233 ],
 		[ 'Kovács Csárda',             		45.789507,  18.7883592 ],
 		[ 'Öreg Körössy Halászcsárda', 		46.2558134, 20.1823772 ],
-
+		[ 'Fehértói Halászcsárda', 			46.3034963, 20.0720859 ],
+		
 		[ 'Öreghalász', 					47.5610915, 19.0813481, green_pin ],
 	];
 
