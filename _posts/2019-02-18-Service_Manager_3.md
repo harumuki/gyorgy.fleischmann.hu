@@ -13,10 +13,37 @@ tags:     [microFocus, hpe, hp, service manager, sm, how to]
 
 ```javascript
 $L.void=rtecall( "log", $L.rc, "DEBUG:" + $query )
+
+# javascript
+ var rc;
+system.functions.rtecall( "log", rc, "DEBUG:" + vars.$query );
 ```
 
 ```javascript
 print( "DEBUG: " + vars.$query );
+```
+
+## Változók
+
+```javascript
+Format Control (FC)
+	Validation: null( company in $file ) and not  ( null ( mol.tmp.company in $file ) ) or same( $G.bg, true )
+		Calculation: company in $file = nullsub( company in $file, mol.tmp.company in $file ) 
+```
+
+```javascript
+Triggers (triggers)
+if (record.type == "storage" || record.type == "sim" || record.type == "cluster" || record.type == "networkcomponents" || record.type == "officeelectronics" || record.type == "printer" || record.type == "accessory" || record.type == "mobiledevice" || record.type == "computer" || record.type == "displaydevice" || (record.type == "application" && record.subtype == "DSL") ) {
+
+	record.sm_device_display_name = lib.MOL_utils.createDisplayLabel( record );
+
+}
+
+if ((record.company == "" || record.company == null) && record.mol_tmp_company != null) {
+
+	record.company = record.mol_tmp_company;
+
+}
 ```
 
 ## HTML levélküldés 0
