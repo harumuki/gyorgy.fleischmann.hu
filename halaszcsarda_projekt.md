@@ -40,7 +40,7 @@ header_spacer: 93
 - Baracsi Halászcsárda, >3x
 - Dunaújvárosi Halászcsárda
 - Kigyósi Halászcsárda
-- Római Platán Étterem
+- Római Platán Étterem, 2x
 - Százhalombattai Halászcsárda
 - Dunaföldvári Halászcsárda
 - Horgásztanya Vendéglő, 2300 Ráckeve, Keszeg sor 6.
