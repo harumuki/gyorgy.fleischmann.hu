@@ -46,6 +46,10 @@ if ((record.company == "" || record.company == null) && record.mol_tmp_company !
 }
 ```
 
+## Kereső form kiíratása
+
+d $L.search.format
+
 ## HTML levélküldés 0
 
 ```javascript
