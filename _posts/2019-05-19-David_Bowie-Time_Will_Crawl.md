@@ -34,14 +34,11 @@ And he never came down
 He just flew till he burst
 
 Time will crawl 
-Till our mouths 
-run dry
+Till our mouths run dry
 Time will crawl 
-Till our feet
-grow small
+Till our feet grow small
 Time will crawl 
-Till our tails
-fall off
+Till our tails fall off
 Time will crawl
 till the 21st century lose
 
