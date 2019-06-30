@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Google Maps API"
+title:    "Google Maps API (update)"
 author:   flex
 category: HTML
 comments: true
@@ -9,7 +9,7 @@ tags:     [web, development, fejlesztés, html, css, jekyll, google, google map,
 photoswipe: 'yes'
 ---
 
-Gyorsan felteszem 1 térképre, hogy én merre jártam eddig a világban:
+Gyorsan felteszem 1 térképre, hogy én merre jártam eddig a világban (update 20190630):
 
 <script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?key=AIzaSyAubcKvynd2lNrvNQHlTt6b7Q8OBxDzNOg'></script>
 
@@ -218,6 +218,13 @@ Ha már megvagyunk a városok koordinátáinak összegyűjtésével, akkor már 
 [ "Montreal", 45.5016889, -73.567256 ],
 [ "Ottawa", 45.4215296, -75.6971931 ],
 [ "Drezda", 51.0504088, 13.7372621 ],
+
+[ "Dublin", 53.3498053, -6.2603097 ],
+[ "Belfast", 54.597285, -5.93012 ],
+[ "Giant's Causeway", 55.2408073, -6.5115554 ],
+[ "Letterkenny", 54.9558392, -7.7342787 ],
+[ "Slieve League", 54.6400952, -8.6821988 ],
+[ "Achill Island", 53.9619505, -10.015335 ],
 
 						];
 
