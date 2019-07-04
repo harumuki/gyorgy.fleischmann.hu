@@ -45,7 +45,7 @@ sudo cpan i Mozilla::CA
 sudo cpan i Geo::Coder::Google
 </pre>
 
-ezzel a rövid kis szkripttel akár egy fájlból olvasva a vársok nevét, le leht gyártani egy tömböt a koordinátákkal. Én ezt használtam:
+ezzel a rövid kis szkripttel akár egy fájlból olvasva a vársok nevét, le lehet gyártani egy tömböt a koordinátákkal. Én ezt használtam:
 
 ```perl
 #!/usr/bin/perl
