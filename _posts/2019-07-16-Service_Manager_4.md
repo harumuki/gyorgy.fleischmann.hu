@@ -1,10 +1,10 @@
 ---
 layout:   post
-title:    MicroFocus / HPE / HP Service Manager 4 
+title:    Micro Focus / HPE / HP Service Manager 4 
 author:   flex
 comments: true
 category: How to guides, tips and tricks / útmutatók, tippek és trükkök
-tags:     [microFocus, hpe, hp, service manager, sm, how to]
+tags:     [micro focus, hpe, hp, service manager, sm, how to]
 ---
 
 # Table of contents
