@@ -49,6 +49,8 @@ header_spacer: 93
 - Kerék csárda, Dunaföldvár
 - Tassi Halászcsárda
 
+- Öreghalász Vendéglátó és Kereskedelmi Kft., Budapest
+
 <!-- PhotoSwipeGenerator.pl --directory photos/halaszcsarda_projekt/ --filetag _halaszcsarda_projekt --outdir _includes --imgproperty 'class="shadow zoomeffect"' --title 'Halászcsárda Projekt' -verbose -->
 
 {% include photorows.html TAG="halaszcsarda_projekt" %}
@@ -57,8 +59,6 @@ header_spacer: 93
 
 - Szúnyog-szigeti Halászcsárda
 
-- Öreghalász Vendéglátó és Kereskedelmi Kft., Budapest
-- Új Sipos Halászkert
 
 - Bajai Halászcsárda, Budapest
 - Szegedi Halászcsárda, Budapest
@@ -72,6 +72,8 @@ header_spacer: 93
 
 - Öreg Körössy Halászcsárda, Szeged 
 - Fehértói Halászcsárda
+
+- Új Sipos Halászkert
 
 # TOP 3 (2018, 2019)
 
@@ -112,7 +114,7 @@ header_spacer: 93
 		[ 'Öreg Körössy Halászcsárda', 		46.2558134, 20.1823772 ],
 		[ 'Fehértói Halászcsárda', 			46.3034963, 20.0720859 ],
 		
-		[ 'Öreghalász', 					47.5610915, 19.0813481, green_pin ],
+		[ 'Öreghalász', 					47.5610915, 19.0813481, restaurant_icon ],
 	];
 
 	if ( typeof google === 'object' && typeof google.maps === 'object' ) {
