@@ -11,8 +11,8 @@ tags:     [micro focus, hpe, hp, service manager, sm, how to]
 
 ## Tricky Comfill buttons
 
-<center><img class="shadow" src="images/sm/mak.im.assignment_button_01.png" style="width: 30%;">
-        <img class="shadow" src="images/sm/mak.im.assignment_button_02.png" style="width: 30%;">
+<center><img class="shadow" src="images/sm/mak.im.assignment_button_01.png" style="width: 30%;"> 
+        <img class="shadow" src="images/sm/mak.im.assignment_button_02.png" style="width: 30%;"> 
         <img class="shadow" src="images/sm/mak.im.assignment_button_03.png" style="width: 30%;"></center>
 <center><img class="shadow" src="images/sm/mak.im.assignment_button_04.png" style="width: 60%;"></center>
 <center><img class="shadow" src="images/sm/mak.im.assignment_button_05.png" style="width: 60%;"></center>

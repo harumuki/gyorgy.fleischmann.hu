@@ -6,7 +6,9 @@ category: Gadget / eszközök
 tags:     [amazon, kindle, voyage, firmware, ebook]
 ---
 
-Amazon Kindle Voyage 7th Generation Firmware történet:
+<img class="shadow" src="images/Amazon/Amazon_Kindle_Voyage.png" style="width: 100%;" alt="Amazon Kindle Voyage" title="Amazon Kindle Voyage">
+
+Amazon Kindle Voyage 7th Generation Firmware történet / history:
 
 | Firmware verzió | dátum |
 |:-------------:|:---------------:|
