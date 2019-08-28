@@ -33,6 +33,10 @@ header_spacer: 93
 - Polik György, pogyö
 - Batári Gábor
 
+- Szabó Marcell, szmarcell
+- Fügedi Zsolt, füge
+- Soós Zoltán, zsoos
+
 ## Eddig meglátogatott halászcsárdák:
 
 - Paksi Halászcsárda, 2x
@@ -50,6 +54,7 @@ header_spacer: 93
 - Tassi Halászcsárda
 
 - Öreghalász Vendéglátó és Kereskedelmi Kft., Budapest
+- Bajai Halászcsárda, Budapest
 
 <!-- PhotoSwipeGenerator.pl --directory photos/halaszcsarda_projekt/ --filetag _halaszcsarda_projekt --outdir _includes --imgproperty 'class="shadow zoomeffect"' --title 'Halászcsárda Projekt' -verbose -->
 
@@ -59,8 +64,6 @@ header_spacer: 93
 
 - Szúnyog-szigeti Halászcsárda
 
-
-- Bajai Halászcsárda, Budapest
 - Szegedi Halászcsárda, Budapest
 
 ## Fakultatív csárdalátogatások:
@@ -115,6 +118,8 @@ header_spacer: 93
 		[ 'Fehértói Halászcsárda', 			46.3034963, 20.0720859 ],
 		
 		[ 'Öreghalász', 					47.5610915, 19.0813481, restaurant_icon ],
+		[ 'Bajai Halászcsárda, Budapest', 	47.497836, 18.989267, restaurant_icon ],
+
 	];
 
 	if ( typeof google === 'object' && typeof google.maps === 'object' ) {
