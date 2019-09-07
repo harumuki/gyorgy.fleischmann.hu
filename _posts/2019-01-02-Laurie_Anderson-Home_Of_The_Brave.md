@@ -3,7 +3,7 @@ layout:   post
 title:    "Laurie Anderson: Home Of The Brave (1986)"
 author:   flex
 category: muzax
-tags:     [muzax, video]
+tags:     [muzax, video, full concert]
 ---
 
 <div class="leftbox"  style="margin-top: -2em;"><a href="#top">⬇</a></div>
