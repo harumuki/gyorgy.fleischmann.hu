@@ -55,6 +55,7 @@ header_spacer: 93
 
 - Öreghalász Vendéglátó és Kereskedelmi Kft., Budapest
 - Bajai Halászcsárda, Budapest
+- Szegedi Halászcsárda, Budapest
 
 <!-- PhotoSwipeGenerator.pl --directory photos/halaszcsarda_projekt/ --filetag _halaszcsarda_projekt --outdir _includes --imgproperty 'class="shadow zoomeffect"' --title 'Halászcsárda Projekt' -verbose -->
 
@@ -64,7 +65,7 @@ header_spacer: 93
 
 - Szúnyog-szigeti Halászcsárda
 
-- Szegedi Halászcsárda, Budapest
+- Új Sipos Halászkert
 
 ## Fakultatív csárdalátogatások:
 
@@ -84,7 +85,7 @@ header_spacer: 93
 2. Százhalombattai Halászcsárda
 3. Kigyósi Halászcsárda
 
-(4. Paksi Halászcsárda)
+4. (Paksi Halászcsárda)
 
 <script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?key=AIzaSyAubcKvynd2lNrvNQHlTt6b7Q8OBxDzNOg'></script>
 
@@ -119,6 +120,7 @@ header_spacer: 93
 		
 		[ 'Öreghalász', 					47.5610915, 19.0813481, restaurant_icon ],
 		[ 'Bajai Halászcsárda, Budapest', 	47.497836, 18.989267, restaurant_icon ],
+		[ 'Szegedi Halászcsárda, Budapest',	47.4884257, 19.0541768, restaurant_icon ],
 
 	];
 
