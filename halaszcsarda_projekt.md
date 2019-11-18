@@ -36,6 +36,8 @@ header_spacer: 93
 - Szabó Marcell, szmarcell
 - Fügedi Zsolt, füge
 - Soós Zoltán, zsoos
+- Molnár Sándor Miklós
+- Piros Géza
 
 ## Eddig meglátogatott halászcsárdák:
 
