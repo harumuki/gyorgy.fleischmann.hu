@@ -23,6 +23,74 @@ system.functions.rtecall( "log", rc, "DEBUG:" + vars.$query );
 print( "DEBUG: " + vars.$query );
 ```
 
+SM alkalmazás szintű logolás szeparálása
+
+```javascript
+#LB
+sm -loadBalancer -httpPort:13080 -log:../logs/lb.log
+ 
+# web
+sm -httpPort:13081 -ssl:0 -sslConnector:0 -log:../logs/webclient.log
+ 
+#smclient(GUI)
+sm -httpPort:13090 -ssl:0 -sslConnector:0 -log:../logs/windowsclient.log
+ 
+# CIT
+sm -httpPort:13089 -debugnode -ssl:0 -sslConnector:0 -log:../logs/CIT.log
+```
+
+Egyedi fájlba (Köszi Mozi!)
+
+```javascript
+function writeToFile( path, binary, object ) {
+ 
+	print( "Writing to file...> " + path );
+ 
+	var output = writeFile( path, binary, object );
+ 
+	//print( "The number of bytes written to file was: " + output );
+ 
+	return output;
+}
+ 
+function writeLocations() {
+ 
+	filePath = "C:\\_unloads/locations.txt"; //Path on Server
+	isBinary = null;
+ 
+	var temp_arr = "";
+ 
+	var loc = new SCFile( "location" );
+ 
+	//*******if you want to using a query with date
+	//var theXMLDate = new XMLDate(new Date());
+	//var todaysDate = theXMLDate.getSCDateTimeString();
+	 
+	//var query = "sysmodtime>'"+todaysDate+ "' - '2 00:00:00'";
+	 
+	var query = 'location<>""'
+	loc.doSelect( query )
+ 
+	var i=1;
+	 
+	print( "***START***" );
+
+	do { 
+		temp_arr += i + ";" + loc.location + ";" + loc.location_name + ";" + loc.city;
+		temp_arr += "\n";
+		i++;
+	} while ( loc.getNext() == RC_SUCCESS );
+  
+	fileObject = temp_arr;
+	 
+	writeToFile( filePath, isBinary, fileObject );
+
+	print( "***END***" );
+}
+ 
+writeLocations();
+```
+
 ## Változók
 
 ```javascript
