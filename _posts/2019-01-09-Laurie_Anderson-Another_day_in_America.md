@@ -2,7 +2,7 @@
 layout:   post
 title:    "Laurie Anderson: Another Day in America"
 author:   flex
-category: muzax
+category: Muzax
 tags:     [muzax, video]
 ---
 
