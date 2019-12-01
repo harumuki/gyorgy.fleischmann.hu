@@ -2,7 +2,7 @@
 layout:   post
 title:    "Laurie Anderson: Home Of The Brave (1986)"
 author:   flex
-category: muzax
+category: Muzax
 tags:     [muzax, video, full concert]
 ---
 

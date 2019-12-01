@@ -2,7 +2,7 @@
 layout:   post
 title:    "Portishead: Roseland New York City (1997)"
 author:   flex
-category: muzax
+category: Muzax
 tags:     [muzax, video, full concert]
 ---
 

@@ -2,7 +2,7 @@
 layout:   post
 title:    "Talking Heads: Stop Making Sense (1984)"
 author:   flex
-category: muzax
+category: Muzax
 tags:     [muzax, video, full concert]
 ---
 

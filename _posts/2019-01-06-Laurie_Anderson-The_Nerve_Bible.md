@@ -2,7 +2,7 @@
 layout:   post
 title:    "Laurie Anderson: The Nerve Bible (1995)"
 author:   flex
-category: muzax
+category: Muzax
 tags:     [muzax, video]
 ---
 
