@@ -59,6 +59,8 @@ header_spacer: 93
 - Bajai Halászcsárda, Budapest
 - Szegedi Halászcsárda, Budapest
 
+- Új Sipos Halászkert
+
 <!-- PhotoSwipeGenerator.pl --directory photos/halaszcsarda_projekt/ --filetag _halaszcsarda_projekt --outdir _includes --imgproperty 'class="shadow zoomeffect"' --title 'Halászcsárda Projekt' -verbose -->
 
 {% include photorows.html TAG="halaszcsarda_projekt" %}
@@ -66,8 +68,6 @@ header_spacer: 93
 ## Tervben lévő halászcsárdák:
 
 - Szúnyog-szigeti Halászcsárda
-
-- Új Sipos Halászkert
 
 ## Fakultatív csárdalátogatások:
 
@@ -123,6 +123,7 @@ header_spacer: 93
 		[ 'Öreghalász', 					47.5610915, 19.0813481, restaurant_icon ],
 		[ 'Bajai Halászcsárda, Budapest', 	47.497836, 18.989267, restaurant_icon ],
 		[ 'Szegedi Halászcsárda, Budapest',	47.4884257, 19.0541768, restaurant_icon ],
+		[ 'Új Sipos Halászkert',			47.5411667, 19.0451, restaurant_icon ],
 
 	];
 
