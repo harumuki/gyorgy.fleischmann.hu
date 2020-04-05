@@ -4,6 +4,8 @@
 
 <script>
 
+window.onload = function() {
+
   var $window =      $( window );
   var $videoWrap =   $( '.video-wrap' );
   var $video =       $( '.video' );
@@ -42,7 +44,9 @@
     }
   } );
 
-  // update
-  window.onload = function() { videoHeight = $video.outerHeight(); };
+}
+
+// update
+// window.onload = function() { videoHeight = $video.outerHeight(); };
 
 </script>
