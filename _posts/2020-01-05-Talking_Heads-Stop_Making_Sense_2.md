@@ -8,8 +8,8 @@ tags:     [muzax, video, full concert]
 
 Vagy ez a [link](https://gyorgy.fleischmann.hu/Talking_Heads-Stop_Making_Sense.html), mert valaki mindig leszedi a videókat...
 
-<div class="leftbox"  style="margin-top: -2em;"><a href="#top">⬇</a></div>
-<div class="rightbox" style="margin-top: -2em;"><a href="#top">⬇</a></div>
+<div class="leftbox"  style=""><a href="#top">⬇</a></div>
+<div class="rightbox" style=""><a href="#top">⬇</a></div>
 
 {% include youtube.html ID="6bjnRrvx88Y" %}
 

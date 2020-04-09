@@ -13,7 +13,7 @@ Keressük meg és válasszuk ki a műsort, majd a felugró lejátszós ablakban 
 
 <center><img class="shadow" src="images/kossuth/screenshot_1.png" style="width: 60%;"></center>
 
-Majd a consol-ba írjuk be a varázspanacsot, ami megadja a műsor tényleges .mp3 fájljának az elérési útját. 
+Majd a console-ba írjuk be a varázspanacsot, ami megadja a műsor tényleges .mp3 fájljának az elérési útját. 
 
 <pre>console.log(urlFinal);</pre>
 
