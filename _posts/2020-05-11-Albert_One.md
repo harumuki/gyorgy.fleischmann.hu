@@ -16,8 +16,7 @@ tags:     [muzax, video]
 <a id="top"></a>
 <div id="lyrics"><div class="lyricsheader" style=""><p><center><b>Albert One</b>: For your love</center></p></div>
 <center><pre>
-For your love
-Sweet love
+(For your love)
 
 It's so long I've been waiting for you
 Wanna know where my love has gone
@@ -50,8 +49,14 @@ Our love is so strong when you're near
 We are one of a kind
 And I'll find a way
 
-You know how I'm changing my mind
-For your love
+(You know how I'm changing my mind
+For your love)
+
+I see your face amongst the shadows
+Won't you consider my love (for your love)
+Don't fight, I'm just around the corner
+You know it's all for you love (for your love)
+(Sweet love)
 </pre>
 <a href="#top">⬆</a></center></div>
 
