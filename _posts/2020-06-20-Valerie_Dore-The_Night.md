@@ -31,7 +31,8 @@ What's this love I see
 I know you can make it right
 I'm still waiting now
 Waiting for the love I need
-If you want me too there's something don't understand
+If you want me too 
+There's something don't understand
 I don't know
 
 So many things we have
@@ -49,7 +50,8 @@ What's this love I see
 I know you can make it right
 I'm still waiting now
 Waiting for the love I need
-If you want me too there's something don't understand
+If you want me too 
+There's something don't understand
 I don't know
 </pre>
 <a href="#top">⬆</a></center></div>
