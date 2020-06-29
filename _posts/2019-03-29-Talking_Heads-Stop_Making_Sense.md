@@ -6,8 +6,8 @@ category: Muzax
 tags:     [muzax, video, full concert]
 ---
 
-<div class="leftbox"  style="margin-top: -2em;"><a href="#top">⬇</a></div>
-<div class="rightbox" style="margin-top: -2em;"><a href="#top">⬇</a></div>
+<div class="leftbox"  style="margin-top: -2em;"><a href="#top" onclick="javascript: player.playVideo();">⬇</a></div>
+<div class="rightbox" style="margin-top: -2em;"><a href="#top" onclick="javascript: player.playVideo();">⬇</a></div>
 
 {% include youtube.html ID="4xL7Ilh1DFI" %}
 
