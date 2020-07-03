@@ -39,6 +39,8 @@ header_spacer: 93
 - Molnár Sándor Miklós
 - Piros Géza
 
+- Szalma Laura
+
 ## Eddig meglátogatott halászcsárdák:
 
 - Paksi Halászcsárda, 2x
@@ -60,6 +62,8 @@ header_spacer: 93
 - Szegedi Halászcsárda, Budapest
 
 - Új Sipos Halászkert
+
+- Náncsi Néni Vendéglője
 
 <!-- PhotoSwipeGenerator.pl --directory photos/halaszcsarda_projekt/ --filetag _halaszcsarda_projekt --outdir _includes --imgproperty 'class="shadow zoomeffect"' --title 'Halászcsárda Projekt' -verbose -->
 
@@ -123,8 +127,10 @@ header_spacer: 93
 		[ 'Öreghalász', 					47.5610915, 19.0813481, restaurant_icon ],
 		[ 'Bajai Halászcsárda, Budapest', 	47.497836, 18.989267, restaurant_icon ],
 		[ 'Szegedi Halászcsárda, Budapest',	47.4884257, 19.0541768, restaurant_icon ],
+
 		[ 'Új Sipos Halászkert',			47.5411667, 19.0451, restaurant_icon ],
 
+		[ 'Náncsi Néni Vendéglője',			47.546686, 18.952748, restaurant_icon ],
 	];
 
 	if ( typeof google === 'object' && typeof google.maps === 'object' ) {
