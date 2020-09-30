@@ -11,13 +11,15 @@ tags:     [muzax, video]
 
 {% include youtube.html ID="e96lbFiG_k8" %}
 
-<blockquote class="twitter-tweet tw-align-center"><p lang="hu" dir="ltr">Munkazene rovatunkban: Gus Gus <a href="https://t.co/WFxdUUiyUE">https://t.co/WFxdUUiyUE</a> <a href="https://twitter.com/hashtag/musicforkids?src=hash&amp;ref_src=twsrc%5Etfw">#musicforkids</a></p>&mdash; ern0 (@ern0plus4) <a href="https://twitter.com/ern0plus4/status/1310971475000729600?ref_src=twsrc%5Etfw">September 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <!-- break -->
 
 <a id="top"></a>
 <div id="lyrics"><div class="lyricsheader" style=""><p><center><b>Gus Gus</b>: Full Performance (Live on KEXP)</center></p></div>
-<center><pre>
+<center>
+
+<blockquote class="twitter-tweet tw-align-center"><p lang="hu" dir="ltr">Munkazene rovatunkban: Gus Gus <a href="https://t.co/WFxdUUiyUE">https://t.co/WFxdUUiyUE</a> <a href="https://twitter.com/hashtag/musicforkids?src=hash&amp;ref_src=twsrc%5Etfw">#musicforkids</a></p>&mdash; ern0 (@ern0plus4) <a href="https://twitter.com/ern0plus4/status/1310971475000729600?ref_src=twsrc%5Etfw">September 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<pre>
 <b>Selfoss</b> (00:05)
 
 (Instrumental)
