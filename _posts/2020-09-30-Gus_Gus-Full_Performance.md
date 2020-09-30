@@ -52,7 +52,7 @@ tags:     [muzax, video]
 
 (Instrumental)
 
-<b>Arabian Horse</b> (<a class="hvr-buzz-out" id="seekTo_3">05:33</a>)
+<b>Arabian Horse</b> (<a class="hvr-buzz-out" id="seekTo_2">05:33</a>)
 
 Disappear, in to the dust
 Lost on your horse
