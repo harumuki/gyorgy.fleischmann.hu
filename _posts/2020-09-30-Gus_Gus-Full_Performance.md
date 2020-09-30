@@ -11,7 +11,35 @@ tags:     [muzax, video]
 
 {% include youtube.html ID="e96lbFiG_k8" %}
 
-<!-- break -->
+<script type="text/javascript">
+
+	var tag = document.createElement( 'script' );
+
+	tag.src = "https://www.youtube.com/iframe_api";
+	var firstScriptTag = document.getElementsByTagName( 'script' )[0];
+	firstScriptTag.parentNode.insertBefore( tag, firstScriptTag );
+
+	var player;
+
+	function onYouTubeIframeAPIReady () {
+		player = new YT.Player( 'youtubeplayer', {			
+			events: { 'onReady': onPlayerReady }
+		} );
+	};
+
+	function onPlayerReady( event ) {
+		var seekTo2 = document.getElementById( "seekTo_1" );
+		seekTo2.addEventListener( "click", function() { player.seekTo( 005, true ); });
+
+		var seekTo2 = document.getElementById( "seekTo_2" );
+		seekTo2.addEventListener( "click", function() { player.seekTo( 333, true ); });
+
+		var seekTo3 = document.getElementById( "seekTo_3" );
+		seekTo3.addEventListener( "click", function() { player.seekTo( 882, true ); });
+
+	}
+                                    
+</script>
 
 <a id="top"></a>
 <div id="lyrics"><div class="lyricsheader" style=""><p><center><b>Gus Gus</b>: Full Performance (Live on KEXP)</center></p></div>
@@ -20,11 +48,11 @@ tags:     [muzax, video]
 <blockquote class="twitter-tweet tw-align-center"><p lang="hu" dir="ltr">Munkazene rovatunkban: Gus Gus <a href="https://t.co/WFxdUUiyUE">https://t.co/WFxdUUiyUE</a> <a href="https://twitter.com/hashtag/musicforkids?src=hash&amp;ref_src=twsrc%5Etfw">#musicforkids</a></p>&mdash; ern0 (@ern0plus4) <a href="https://twitter.com/ern0plus4/status/1310971475000729600?ref_src=twsrc%5Etfw">September 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <pre>
-<b>Selfoss</b> (00:05)
+<b>Selfoss</b> (<a class="hvr-buzz-out" id="seekTo_1">00:05</a>)
 
 (Instrumental)
 
-<b>Arabian Horse</b> (05:33)
+<b>Arabian Horse</b> (<a class="hvr-buzz-out" id="seekTo_3">05:33</a>)
 
 Disappear, in to the dust
 Lost on your horse
@@ -79,7 +107,7 @@ More and more sand in my eyes
 Too bright too even see the sun
 More and more sand in my eyes
 
-<b>Over</b> (14:42)
+<b>Over</b> (<a class="hvr-buzz-out" id="seekTo_3">14:42</a>)
 
 We have made our mistakes over
 We have gone up and down over and over
