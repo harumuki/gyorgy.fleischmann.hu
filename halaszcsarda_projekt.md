@@ -65,6 +65,8 @@ header_spacer: 93
 
 - Náncsi Néni Vendéglője
 
+- Halkakas halbisztró
+
 <!-- PhotoSwipeGenerator.pl --directory photos/halaszcsarda_projekt/ --filetag _halaszcsarda_projekt --outdir _includes --imgproperty 'class="shadow zoomeffect"' --title 'Halászcsárda Projekt' -verbose -->
 
 {% include photorows.html TAG="halaszcsarda_projekt" %}
@@ -84,6 +86,8 @@ header_spacer: 93
 - Fehértói Halászcsárda
 
 - Új Sipos Halászkert
+
+- Sobri Halászcsárda, Baja
 
 # TOP 3 (2018, 2019)
 
@@ -131,6 +135,11 @@ header_spacer: 93
 		[ 'Új Sipos Halászkert',			47.5411667, 19.0451, restaurant_icon ],
 
 		[ 'Náncsi Néni Vendéglője',			47.546686, 18.952748, restaurant_icon ],
+
+		[ 'Sobri Halászcsárda',				46.1779012, 18.9429255 ],
+
+		[ 'Halkakas halbisztró',			47.496568, 19.0657438, restaurant_icon ],
+
 	];
 
 	if ( typeof google === 'object' && typeof google.maps === 'object' ) {
